@@ -1,0 +1,17 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+jupyter = "*"
+jinja2 = "*"
+
+[packages]
+lxml = "*"
+requests = "*"
+cssselect = "*"
+babel = "*"
+
+[requires]
+python_version = "3.7"

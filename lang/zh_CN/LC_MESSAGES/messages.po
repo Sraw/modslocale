@@ -1,0 +1,6036 @@
+# Chinese (Simplified, China) translations for PROJECT.
+# Copyright (C) 2019 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2019-07-18 17:33+0800\n"
+"PO-Revision-Date: 2019-07-18 14:19+0800\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: zh_Hans_CN\n"
+"Language-Team: zh_Hans_CN <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.7.0\n"
+
+#: templates/bobassembly.jinja2:2
+msgid "Assembling machine 4"
+msgstr "组装机4型"
+
+#: templates/bobassembly.jinja2:4
+msgid "Assembling machine 5"
+msgstr "组装机5型"
+
+#: templates/bobassembly.jinja2:6
+msgid "Assembling machine 6"
+msgstr "组装机6型"
+
+#: templates/bobassembly.jinja2:9
+msgid "Electronics assembling machine 1"
+msgstr "电子组装机1型"
+
+#: templates/bobassembly.jinja2:11
+msgid "Electronics assembling machine 2"
+msgstr "电子组装机2型"
+
+#: templates/bobassembly.jinja2:13
+msgid "Electronics assembling machine 3"
+msgstr "电子组装机3型"
+
+#: templates/bobassembly.jinja2:16
+msgid "Burner assembling machine"
+msgstr "火力组装机"
+
+#: templates/bobassembly.jinja2:18
+msgid "Steam powered assembling machine"
+msgstr "蒸汽组装机"
+
+#: templates/bobassembly.jinja2:21
+msgid "Oil refinery 2"
+msgstr "石油精炼厂2型"
+
+#: templates/bobassembly.jinja2:23
+msgid "Oil refinery 3"
+msgstr "石油精炼厂3型"
+
+#: templates/bobassembly.jinja2:25
+msgid "Oil refinery 4"
+msgstr "石油精炼厂4型"
+
+#: templates/bobassembly.jinja2:28
+msgid "Chemical plant 2"
+msgstr "化工厂2型"
+
+#: templates/bobassembly.jinja2:30
+msgid "Chemical plant 3"
+msgstr "化工厂3型"
+
+#: templates/bobassembly.jinja2:32
+msgid "Chemical plant 4"
+msgstr "化工厂4型"
+
+#: templates/bobassembly.jinja2:35
+msgid "Electrolyser 2"
+msgstr "电解厂2型"
+
+#: templates/bobassembly.jinja2:37
+msgid "Electrolyser 3"
+msgstr "电解厂3型"
+
+#: templates/bobassembly.jinja2:39
+msgid "Electrolyser 4"
+msgstr "电解厂4型"
+
+#: templates/bobassembly.jinja2:42
+msgid "Electric furnace 2"
+msgstr "电炉2型"
+
+#: templates/bobassembly.jinja2:44
+msgid "Electric furnace 3"
+msgstr "电炉3型"
+
+#: templates/bobassembly.jinja2:47
+msgid "Electric multi-purpose furnace"
+msgstr "电力多功能熔炉"
+
+#: templates/bobassembly.jinja2:49
+msgid "Electric multi-purpose furnace 2"
+msgstr "电力多功能熔炉2型"
+
+#: templates/bobassembly.jinja2:52
+msgid "__ENTITY__bob-distillery__ 2"
+msgstr "__ENTITY__bob-distillery__2型"
+
+#: templates/bobassembly.jinja2:54
+msgid "__ENTITY__bob-distillery__ 3"
+msgstr "__ENTITY__bob-distillery__3型"
+
+#: templates/bobassembly.jinja2:56
+msgid "__ENTITY__bob-distillery__ 4"
+msgstr "__ENTITY__bob-distillery__4型"
+
+#: templates/bobassembly.jinja2:58
+msgid "__ENTITY__bob-distillery__ 5"
+msgstr "__ENTITY__bob-distillery__5型"
+
+#: templates/bobassembly.jinja2:61 templates/bobassembly.jinja2:142
+msgid "Oil powered steel furnace"
+msgstr "燃油钢炉"
+
+#: templates/bobassembly.jinja2:63 templates/bobassembly.jinja2:144
+msgid "Oil powered steel chemical furnace"
+msgstr "燃油化工炉"
+
+#: templates/bobassembly.jinja2:65 templates/bobassembly.jinja2:146
+msgid "Oil powered steel metal mixing furnace"
+msgstr "燃油金属混合炉"
+
+#: templates/bobassembly.jinja2:70
+#, python-format
+msgid ""
+"The steam powered assembling machine will scale it's speed and energy "
+"consumption to the temperature of the steam you pipe into it.\n"
+"Expect it to operate at 20% on steam from your first boiler.\n"
+"20% is 80kW for 0.4 crafting speed."
+msgstr ""
+"蒸汽组装机的组装速度和能耗会随输入蒸汽的温度而变化。\n"
+"它会消耗最初级锅炉20%的蒸汽。\n"
+"20%意味着80KW的能耗以及0.4的组装速度。"
+
+#: templates/bobassembly.jinja2:75
+msgid "__ENTITY__assembling-machine-4__"
+msgstr ""
+
+#: templates/bobassembly.jinja2:77
+msgid "__ENTITY__assembling-machine-5__"
+msgstr ""
+
+#: templates/bobassembly.jinja2:79
+msgid "__ENTITY__assembling-machine-6__"
+msgstr ""
+
+#: templates/bobassembly.jinja2:82
+msgid "__ENTITY__electronics-machine-1__"
+msgstr ""
+
+#: templates/bobassembly.jinja2:84
+msgid "__ENTITY__electronics-machine-2__"
+msgstr ""
+
+#: templates/bobassembly.jinja2:86
+msgid "__ENTITY__electronics-machine-3__"
+msgstr ""
+
+#: templates/bobassembly.jinja2:89
+msgid "__ENTITY__oil-refinery-2__"
+msgstr ""
+
+#: templates/bobassembly.jinja2:91
+msgid "__ENTITY__oil-refinery-3__"
+msgstr ""
+
+#: templates/bobassembly.jinja2:93
+msgid "__ENTITY__oil-refinery-4__"
+msgstr ""
+
+#: templates/bobassembly.jinja2:96
+msgid "__ENTITY__chemical-plant-2__"
+msgstr ""
+
+#: templates/bobassembly.jinja2:98
+msgid "__ENTITY__chemical-plant-3__"
+msgstr ""
+
+#: templates/bobassembly.jinja2:100
+msgid "__ENTITY__chemical-plant-4__"
+msgstr ""
+
+#: templates/bobassembly.jinja2:103
+msgid "__ENTITY__electrolyser-2__"
+msgstr ""
+
+#: templates/bobassembly.jinja2:105
+msgid "__ENTITY__electrolyser-3__"
+msgstr ""
+
+#: templates/bobassembly.jinja2:107
+msgid "__ENTITY__electrolyser-4__"
+msgstr ""
+
+#: templates/bobassembly.jinja2:110
+msgid "__ENTITY__electric-furnace-2__"
+msgstr ""
+
+#: templates/bobassembly.jinja2:112
+msgid "__ENTITY__electric-furnace-3__"
+msgstr ""
+
+#: templates/bobassembly.jinja2:115
+msgid "__ENTITY__electric-chemical-mixing-furnace__"
+msgstr ""
+
+#: templates/bobassembly.jinja2:117
+msgid "__ENTITY__electric-chemical-mixing-furnace-2__"
+msgstr ""
+
+#: templates/bobassembly.jinja2:120
+msgid "__ENTITY__bob-distillery-2__"
+msgstr ""
+
+#: templates/bobassembly.jinja2:122
+msgid "__ENTITY__bob-distillery-3__"
+msgstr ""
+
+#: templates/bobassembly.jinja2:124
+msgid "__ENTITY__bob-distillery-4__"
+msgstr ""
+
+#: templates/bobassembly.jinja2:126
+msgid "__ENTITY__bob-distillery-5__"
+msgstr ""
+
+#: templates/bobassembly.jinja2:131
+msgid "Electronics assembling machine"
+msgstr "电子组装机"
+
+#: templates/bobassembly.jinja2:133 templates/bobrevamp.jinja2:2
+msgid "Chemical plant"
+msgstr "化工厂"
+
+#: templates/bobassembly.jinja2:135 templates/bobplates.jinja2:171
+#: templates/bobplates.jinja2:412
+msgid "Electrolyser"
+msgstr "电解厂"
+
+#: templates/bobassembly.jinja2:137
+msgid "Multi-purpose furnace"
+msgstr "多功能熔炉"
+
+#: templates/bobassembly.jinja2:139
+msgid "__ENTITY__bob-distillery__"
+msgstr ""
+
+#: templates/bobassembly.jinja2:149
+msgid "Basic automation"
+msgstr "基础自动化"
+
+#: templates/bobassembly.jinja2:154
+msgid "Oil refineries"
+msgstr "石油精炼技术"
+
+#: templates/bobassembly.jinja2:156
+msgid "Chemical plants"
+msgstr "化工厂"
+
+#: templates/bobassembly.jinja2:158
+msgid "Electrolysers"
+msgstr "电解厂"
+
+#: templates/bobassembly.jinja2:160
+msgid "Furnaces"
+msgstr "熔炉"
+
+#: templates/bobassembly.jinja2:162
+msgid "Multi-purpose furnaces"
+msgstr "多功能熔炉"
+
+#: templates/bobassembly.jinja2:164
+msgid "Electronic assembling machines"
+msgstr "电子组装机"
+
+#: templates/bobassembly.jinja2:166
+msgid "Distilleries"
+msgstr "蒸馏室"
+
+#: templates/bobassembly.jinja2:168
+msgid "Factory ingredient limits"
+msgstr "组装机原料限制"
+
+#: templates/bobassembly.jinja2:170 templates/bobelectronics.jinja2:80
+#: templates/bobplates.jinja2:616 templates/bobwarfare.jinja2:613
+msgid "Color updates"
+msgstr "颜色更新"
+
+#: templates/bobassembly.jinja2:172
+msgid "Oil furnaces"
+msgstr "燃油熔炉"
+
+#: templates/bobassembly.jinja2:174
+msgid "Burner and steam assembling machines"
+msgstr "火力以及蒸汽组装机"
+
+#: templates/bobassembly.jinja2:179
+msgid ""
+"Enables the classic issue of needing better machines to craft items with "
+"more ingredients."
+msgstr "开启需要更好的组装机来组装需求更多原料的物品。"
+
+#: templates/bobclasses.jinja2:2
+msgid "Miner class __ENTITY__character__"
+msgstr "矿工 __ENTITY__character__"
+
+#: templates/bobclasses.jinja2:4
+msgid "Fighter class __ENTITY__character__"
+msgstr "战士 __ENTITY__character__"
+
+#: templates/bobclasses.jinja2:6
+msgid "Builder class __ENTITY__character__"
+msgstr "建造者 __ENTITY__character__"
+
+#: templates/bobclasses.jinja2:11
+msgid "__ENTITY__character__"
+msgstr ""
+
+#: templates/bobclasses.jinja2:13
+msgid "__ENTITY__bob-character-miner__"
+msgstr ""
+
+#: templates/bobclasses.jinja2:15
+msgid "__ENTITY__bob-character-fighter__"
+msgstr ""
+
+#: templates/bobclasses.jinja2:17
+msgid "__ENTITY__bob-character-builder__"
+msgstr ""
+
+#: templates/bobclasses.jinja2:20
+msgid "Brain"
+msgstr "大脑"
+
+#: templates/bobclasses.jinja2:22
+msgid "Head"
+msgstr "头部"
+
+#: templates/bobclasses.jinja2:24
+msgid "Boots"
+msgstr "鞋子"
+
+#: templates/bobclasses.jinja2:26
+msgid "Gloves"
+msgstr "手套"
+
+#: templates/bobclasses.jinja2:28
+msgid "Power core"
+msgstr "能量核心"
+
+#: templates/bobclasses.jinja2:30
+msgid "Character frame"
+msgstr "角色框架"
+
+#: templates/bobclasses.jinja2:35 templates/bobclasses.jinja2:37
+#: templates/bobclasses.jinja2:39 templates/bobclasses.jinja2:41
+#: templates/bobclasses.jinja2:43
+msgid "A part used to create a new character body"
+msgstr "用于创造新角色躯体的一部分"
+
+#: templates/bobclasses.jinja2:48
+msgid "Character bodies"
+msgstr "角色躯体"
+
+#: templates/bobclasses.jinja2:53
+msgid "Research into constructing new character bodies, and class variations"
+msgstr "解锁构建新角色躯体以及相应职业"
+
+#: templates/bobclasses.jinja2:58
+msgid "Select a character class"
+msgstr "选择一个新角色职业"
+
+#: templates/bobclasses.jinja2:60
+msgid "The Balanced class is well rounded and is the standard character class."
+msgstr "默认职业，各项属性平衡"
+
+#: templates/bobclasses.jinja2:62
+msgid ""
+"The Miner class has an increased mining speed and can smelt ores by hand,"
+" but moves slower and has less health."
+msgstr "矿工有额外的挖矿速度加成并且可以徒手熔炼矿石，但走地更慢且生命值更少。"
+
+#: templates/bobclasses.jinja2:64
+msgid ""
+"The Fighter class has an increased run speed and has more health, but has"
+" a smaller inventory size."
+msgstr "战士有额外的移动速度和生命值加成，但背包更小。"
+
+#: templates/bobclasses.jinja2:66
+msgid ""
+"The Builder class has an increased inventory size and crafting speed, but"
+" moves slower and has less health."
+msgstr "建造者有额外的背包大小以及组装速度加成，但走地更慢且生命值更少。"
+
+#: templates/bobclasses.jinja2:69
+msgid "Avatar switcher GUI"
+msgstr "头像选择界面"
+
+#: templates/bobclasses.jinja2:71
+msgid "Toggle character selection frame"
+msgstr "开关角色选择框架"
+
+#: templates/bobclasses.jinja2:73
+msgid "Change to this character"
+msgstr "选择这个角色"
+
+#: templates/bobclasses.jinja2:75
+msgid "Opens a minimap of this character's location."
+msgstr "在小地图上显示这个角色"
+
+#: templates/bobclasses.jinja2:78
+msgid "God mode"
+msgstr "上帝模式"
+
+#: templates/bobclasses.jinja2:80
+msgid ""
+"God mode is where you have free camera movement without controlling a "
+"character.\n"
+"Warning: God mode inventory is lost when switching to another mode.\n"
+"Warning: if your body is killed while you are in god mode, it won't "
+"respawn."
+msgstr ""
+"开启上帝模式后你将不再控制角色但可以自由移动视角。\n"
+"警告：上帝模式的背包会在切换为其他模式时丢失。\n"
+"警告：如果你的肉体在上帝模式中被杀死，它将不会重生。"
+
+#: templates/bobclasses.jinja2:82
+msgid "Editor mode"
+msgstr "编辑模式"
+
+#: templates/bobclasses.jinja2:84
+msgid ""
+"In editor mode, you are disconnected from a character and have full "
+"scenario editor controls.\n"
+"Warning: if your body is killed while you are in editor mode, it won't "
+"respawn."
+msgstr ""
+"在编辑模式中，你将不再控制角色但可以完全地编辑场景。\n"
+"警告：如果你的肉体在编辑模式中被杀死，它将不会重生。"
+
+#: templates/bobclasses.jinja2:86
+msgid "Select class"
+msgstr "选择职业"
+
+#: templates/bobclasses.jinja2:88
+msgid "Opens the class select window."
+msgstr "打开职业选择界面"
+
+#: templates/bobclasses.jinja2:93
+msgid "Admin button \"God mode\""
+msgstr "管理员选项 \"上帝模式\""
+
+#: templates/bobclasses.jinja2:95
+msgid "Admin button \"Editor mode\""
+msgstr "管理员选项 \"编辑模式\""
+
+#: templates/bobclasses.jinja2:97
+msgid "Admin button \"Class select\""
+msgstr "管理员选项 \"职业选择\""
+
+#: templates/bobclasses.jinja2:99
+msgid "User button \"Class select\""
+msgstr "玩家选项 \"职业选择\""
+
+#: templates/bobclasses.jinja2:104
+msgid ""
+"If enabled (requires being an admin if you're in multiplayer) then the "
+"button \"God mode\" will show on the Avatar switcher GUI"
+msgstr "如果开启(多人模式中需要为管理员)，那么\"上帝模式\"的选项会显示在头像选择界面中。"
+
+#: templates/bobclasses.jinja2:106
+msgid ""
+"If enabled (requires being an admin if you're in multiplayer) then the "
+"button \"Editor mode\" will show on the Avatar switcher GUI"
+msgstr "如果开启(多人模式中需要为管理员)，那么\"编辑模式\"的选项会显示在头像选择界面中。"
+
+#: templates/bobclasses.jinja2:108
+msgid ""
+"If enabled (requires being an admin if you're in multiplayer) then the "
+"button \"Class select\" will show on the Avatar switcher GUI"
+msgstr "如果开启(多人模式中需要为管理员)，那么\"职业选择\"的选项会显示在头像选择界面中。"
+
+#: templates/bobclasses.jinja2:110
+msgid ""
+"If enabled (all users) then the button \"Class select\" will show on the "
+"Avatar switcher GUI"
+msgstr "如果开启(所有玩家)，那么\"职业选择\"的选项会显示在头像选择界面中。"
+
+#: templates/bobelectronics.jinja2:2 templates/bobplates.jinja2:66
+msgid "Solder plate"
+msgstr "焊接板"
+
+#: templates/bobelectronics.jinja2:5 templates/bobplates.jinja2:90
+msgid "Carbon"
+msgstr "碳"
+
+#: templates/bobelectronics.jinja2:7 templates/bobplates.jinja2:92
+msgid "Resin"
+msgstr "树脂"
+
+#: templates/bobelectronics.jinja2:9 templates/bobplates.jinja2:94
+msgid "Rubber"
+msgstr "橡胶"
+
+#: templates/bobelectronics.jinja2:12
+msgid "Tinned copper wire"
+msgstr "镀锡铜线"
+
+#: templates/bobelectronics.jinja2:14
+msgid "Insulated wire"
+msgstr "绝缘电线"
+
+#: templates/bobelectronics.jinja2:16
+msgid "Gilded copper wire"
+msgstr "镀金铜线"
+
+#: templates/bobelectronics.jinja2:18
+msgid "Solder"
+msgstr "焊锡丝"
+
+#: templates/bobelectronics.jinja2:21
+msgid "Basic electronic components"
+msgstr "基本电子原件"
+
+#: templates/bobelectronics.jinja2:23
+msgid "Transistors"
+msgstr "晶体管"
+
+#: templates/bobelectronics.jinja2:25
+msgid "Integrated electronics"
+msgstr "集成电路"
+
+#: templates/bobelectronics.jinja2:27
+msgid "CPUs"
+msgstr ""
+
+#: templates/bobelectronics.jinja2:30
+msgid "Wooden board"
+msgstr "木板"
+
+#: templates/bobelectronics.jinja2:32
+msgid "Phenolic board"
+msgstr "酚醛板"
+
+#: templates/bobelectronics.jinja2:34
+msgid "Fibreglass board"
+msgstr "玻璃纤维板"
+
+#: templates/bobelectronics.jinja2:37
+msgid "Basic circuit board"
+msgstr "基础电路板"
+
+#: templates/bobelectronics.jinja2:39
+msgid "Circuit board"
+msgstr "电路板"
+
+#: templates/bobelectronics.jinja2:41
+msgid "Superior circuit board"
+msgstr "高级电路板"
+
+#: templates/bobelectronics.jinja2:43
+msgid "Multi-layer circuit board"
+msgstr "多层电路板"
+
+#: templates/bobelectronics.jinja2:46
+msgid "Basic electronic board"
+msgstr "基础电子线路板"
+
+#: templates/bobelectronics.jinja2:48
+msgid "Electronic circuit board"
+msgstr "电子线路板"
+
+#: templates/bobelectronics.jinja2:50
+msgid "Electronic logic board"
+msgstr "电子逻辑板"
+
+#: templates/bobelectronics.jinja2:52
+msgid "Electronic Processing board"
+msgstr "电力处理板"
+
+#: templates/bobelectronics.jinja2:57 templates/bobplates.jinja2:337
+msgid "Ferric chloride solution"
+msgstr "氯化铁溶液"
+
+#: templates/bobelectronics.jinja2:62 templates/bobplates.jinja2:374
+msgid "Coal cracking to Heavy oil"
+msgstr "煤裂解成重油"
+
+#: templates/bobelectronics.jinja2:64
+msgid "Crude oil processing"
+msgstr "原油处理"
+
+#: templates/bobelectronics.jinja2:66 templates/bobplates.jinja2:396
+msgid "Synthetic wood"
+msgstr "合成木材"
+
+#: templates/bobelectronics.jinja2:71 templates/bobplates.jinja2:459
+msgid "Bob's Intermediate products"
+msgstr "Bob's中间产品"
+
+#: templates/bobelectronics.jinja2:73 templates/bobplates.jinja2:461
+msgid "Bob's Materials"
+msgstr "Bob's原料"
+
+#: templates/bobelectronics.jinja2:75 templates/bobplates.jinja2:463
+msgid "Bob's Fluids"
+msgstr "Bob's流体"
+
+#: templates/bobenemies.jinja2:2
+msgid "Alien artifact"
+msgstr "异星造物"
+
+#: templates/bobenemies.jinja2:4
+msgid "Red alien artifact"
+msgstr "红色异星造物"
+
+#: templates/bobenemies.jinja2:6
+msgid "Orange alien artifact"
+msgstr "橙色异星造物"
+
+#: templates/bobenemies.jinja2:8
+msgid "Yellow alien artifact"
+msgstr "黄色异星造物"
+
+#: templates/bobenemies.jinja2:10
+msgid "Green alien artifact"
+msgstr "绿色异星造物"
+
+#: templates/bobenemies.jinja2:12
+msgid "Blue alien artifact"
+msgstr "蓝色异星造物"
+
+#: templates/bobenemies.jinja2:14
+msgid "Purple alien artifact"
+msgstr "紫色异星造物"
+
+#: templates/bobenemies.jinja2:17
+msgid "Small alien artifact"
+msgstr "小型异星造物"
+
+#: templates/bobenemies.jinja2:19
+msgid "Small red alien artifact"
+msgstr "小型红色异星造物"
+
+#: templates/bobenemies.jinja2:21
+msgid "Small orange alien artifact"
+msgstr "小型橙色异星造物"
+
+#: templates/bobenemies.jinja2:23
+msgid "Small yellow alien artifact"
+msgstr "小型黄色异星造物"
+
+#: templates/bobenemies.jinja2:25
+msgid "Small green alien artifact"
+msgstr "小型绿色异星造物"
+
+#: templates/bobenemies.jinja2:27
+msgid "Small blue alien artifact"
+msgstr "小型蓝色异星造物"
+
+#: templates/bobenemies.jinja2:29
+msgid "Small purple alien artifact"
+msgstr "小型紫色异星造物"
+
+#: templates/bobenemies.jinja2:34
+msgid "Elemental biter Spawner"
+msgstr "基本撕咬者虫巢"
+
+#: templates/bobenemies.jinja2:36
+msgid "Elemental biter spawner corpse"
+msgstr "基本撕咬者虫巢尸体"
+
+#: templates/bobenemies.jinja2:38
+msgid "Elemental spitter spawner"
+msgstr "基本喷吐者虫巢"
+
+#: templates/bobenemies.jinja2:40
+msgid "Elemental spitter spawner corpse"
+msgstr "基本喷吐者虫巢尸体"
+
+#: templates/bobenemies.jinja2:42
+msgid "Super spawner"
+msgstr "超级虫巢"
+
+#: templates/bobenemies.jinja2:44
+msgid "Super spawner corpse"
+msgstr "超级虫巢尸体"
+
+#: templates/bobenemies.jinja2:47
+msgid "Big piercing biter"
+msgstr "大型穿透撕咬者"
+
+#: templates/bobenemies.jinja2:49
+msgid "Big piercing biter corpse"
+msgstr "大型穿透撕咬者尸体"
+
+#: templates/bobenemies.jinja2:51
+msgid "Huge acidic biter"
+msgstr "超大型酸液喷吐者"
+
+#: templates/bobenemies.jinja2:53
+msgid "Huge acidic biter corpse"
+msgstr "超大型酸液喷吐者尸体"
+
+#: templates/bobenemies.jinja2:55
+msgid "Huge explosive biter"
+msgstr "超大型爆炸撕咬者"
+
+#: templates/bobenemies.jinja2:57
+msgid "Huge explosive biter corpse"
+msgstr "超大型爆炸撕咬者尸体"
+
+#: templates/bobenemies.jinja2:59
+msgid "Giant poisonous biter"
+msgstr "巨型毒液撕咬者"
+
+#: templates/bobenemies.jinja2:61
+msgid "Giant poisonous biter corpse"
+msgstr "巨型毒液撕咬者尸体"
+
+#: templates/bobenemies.jinja2:63
+msgid "Giant fiery biter"
+msgstr "巨型灼热撕咬者"
+
+#: templates/bobenemies.jinja2:65
+msgid "Giant fiery biter corpse"
+msgstr "巨型灼热撕咬者尸体"
+
+#: templates/bobenemies.jinja2:67
+msgid "Titan biter"
+msgstr "泰坦级撕咬者"
+
+#: templates/bobenemies.jinja2:69
+msgid "Titan biter corpse"
+msgstr "泰坦级撕咬者尸体"
+
+#: templates/bobenemies.jinja2:71
+msgid "Badass behemoth biter"
+msgstr "巨无霸级撕咬者"
+
+#: templates/bobenemies.jinja2:73
+msgid "Badass behemoth biter corpse"
+msgstr "巨无霸级撕咬者尸体"
+
+#: templates/bobenemies.jinja2:75
+msgid "Leviathan biter"
+msgstr "利维坦级撕咬者"
+
+#: templates/bobenemies.jinja2:77
+msgid "Leviathan biter corpse"
+msgstr "利维坦级撕咬者尸体"
+
+#: templates/bobenemies.jinja2:80
+msgid "Big electric spitter"
+msgstr "大型带电喷吐者"
+
+#: templates/bobenemies.jinja2:82
+msgid "Big electric spitter corpse"
+msgstr "大型带电喷吐者"
+
+#: templates/bobenemies.jinja2:84
+msgid "Huge explosive spitter"
+msgstr "超大型爆炸喷吐者"
+
+#: templates/bobenemies.jinja2:86
+msgid "Huge explosive spitter corpse"
+msgstr "超大型爆炸喷吐者尸体"
+
+#: templates/bobenemies.jinja2:88
+msgid "Huge acid spitter"
+msgstr "超大型酸液喷吐者"
+
+#: templates/bobenemies.jinja2:90
+msgid "Huge acid spitter corpse"
+msgstr "超大型酸液喷吐者尸体"
+
+#: templates/bobenemies.jinja2:92
+msgid "Giant fire spitter"
+msgstr "巨型火焰喷吐者"
+
+#: templates/bobenemies.jinja2:94
+msgid "Giant fire spitter corpse"
+msgstr "巨型火焰喷吐者尸体"
+
+#: templates/bobenemies.jinja2:96
+msgid "Giant poison spitter"
+msgstr "巨型毒液喷吐者"
+
+#: templates/bobenemies.jinja2:98
+msgid "Giant poison spitter corpse"
+msgstr "巨型毒液喷吐者尸体"
+
+#: templates/bobenemies.jinja2:100
+msgid "Titan spitter"
+msgstr "泰坦级喷吐者"
+
+#: templates/bobenemies.jinja2:102
+msgid "Titan spitter corpse"
+msgstr "泰坦级喷吐者尸体"
+
+#: templates/bobenemies.jinja2:104
+msgid "Badass behemoth spitter"
+msgstr "巨无霸级喷吐者"
+
+#: templates/bobenemies.jinja2:106
+msgid "Badass behemoth spitter corpse"
+msgstr "巨无霸级喷吐者尸体"
+
+#: templates/bobenemies.jinja2:108
+msgid "Leviathan spitter"
+msgstr "利维坦级喷吐者"
+
+#: templates/bobenemies.jinja2:110
+msgid "Leviathan spitter corpse"
+msgstr "利维坦级喷吐者尸体"
+
+#: templates/bobenemies.jinja2:113
+msgid "Big piercing worm"
+msgstr "大型穿透蠕虫"
+
+#: templates/bobenemies.jinja2:115
+msgid "Big piercing worm corpse"
+msgstr "大型穿透蠕虫尸体"
+
+#: templates/bobenemies.jinja2:117
+msgid "Big electric worm"
+msgstr "大型带电蠕虫"
+
+#: templates/bobenemies.jinja2:119
+msgid "Big electric worm corpse"
+msgstr "大型带电蠕虫尸体"
+
+#: templates/bobenemies.jinja2:121
+msgid "Big acid worm"
+msgstr "大型酸液蠕虫"
+
+#: templates/bobenemies.jinja2:123
+msgid "Big acid worm corpse"
+msgstr "大型酸液蠕虫尸体"
+
+#: templates/bobenemies.jinja2:125
+msgid "Big explosive worm"
+msgstr "大型爆炸蠕虫"
+
+#: templates/bobenemies.jinja2:127
+msgid "Big explosive worm corpse"
+msgstr "大型爆炸蠕虫尸体"
+
+#: templates/bobenemies.jinja2:129
+msgid "Big fire worm"
+msgstr "大型火焰蠕虫"
+
+#: templates/bobenemies.jinja2:131
+msgid "Big fire worm corpse"
+msgstr "大型火焰蠕虫尸体"
+
+#: templates/bobenemies.jinja2:133
+msgid "Big poison worm"
+msgstr "大型毒液蠕虫"
+
+#: templates/bobenemies.jinja2:135
+msgid "Big poison worm corpse"
+msgstr "大型毒液蠕虫尸体"
+
+#: templates/bobenemies.jinja2:138
+msgid "Giant worm"
+msgstr "巨型蠕虫"
+
+#: templates/bobenemies.jinja2:140
+msgid "Giant worm corpse"
+msgstr "巨型蠕虫尸体"
+
+#: templates/bobenemies.jinja2:142
+msgid "Behemoth worm"
+msgstr "巨无霸级蠕虫"
+
+#: templates/bobenemies.jinja2:144
+msgid "Behemoth worm corpse"
+msgstr "巨无霸级蠕虫尸体"
+
+#: templates/bobenemies.jinja2:149 templates/bobwarfare.jinja2:439
+msgid "Pierce"
+msgstr "穿透"
+
+#: templates/bobenemies.jinja2:151 templates/bobvehicleequipment.jinja2:242
+#: templates/bobwarfare.jinja2:441
+msgid "Plasma"
+msgstr "等离子"
+
+#: templates/bobenemies.jinja2:156
+msgid "Enable alien artifacts"
+msgstr "开启异星造物"
+
+#: templates/bobenemies.jinja2:158
+msgid "Enable small alien artifacts"
+msgstr "开启小型异星造物"
+
+#: templates/bobenemies.jinja2:160
+msgid "Enable coloured alien artifacts"
+msgstr "开启彩色异星造物"
+
+#: templates/bobenemies.jinja2:162
+msgid "Enable artifacts from aliens"
+msgstr "异星生物掉落异星造物"
+
+#: templates/bobenemies.jinja2:164
+msgid "Leviathan spawn frequency"
+msgstr "利维坦诞生频率"
+
+#: templates/bobenemies.jinja2:166
+msgid "Bigger enemies sooner"
+msgstr "更早地出现超大型敌人"
+
+#: templates/bobenemies.jinja2:168
+msgid "Enable Super spawner"
+msgstr "开启超级虫巢"
+
+#: templates/bobenemies.jinja2:170
+msgid "Health increase"
+msgstr "提升生命值"
+
+#: templates/bobenemies.jinja2:175
+msgid "If enabled, enemies can drop alien artifacts"
+msgstr "开启后，敌人将掉落异星造物"
+
+#: templates/bobenemies.jinja2:177
+msgid "If enabled, enemies can drop small alien artifacts"
+msgstr "开启后，敌人将掉落小型异星造物"
+
+#: templates/bobenemies.jinja2:179
+msgid "If enabled, enemies can drop coloured alien artifacts"
+msgstr "开启后，敌人将掉落彩色异星造物"
+
+#: templates/bobenemies.jinja2:181
+msgid "If enabled, biters and spitters will drop artifacts, not just bases."
+msgstr "开启后，撕咬者和喷吐者都会掉落异星造物，而不仅是虫巢。"
+
+#: templates/bobenemies.jinja2:183
+msgid "Specifies the change a Leviathan will spawn at max evolution factor"
+msgstr "指定利维坦诞生的最大进化因子"
+
+#: templates/bobenemies.jinja2:185
+msgid ""
+"If enabled, the revised spawn table will be used where bigger enemies "
+"spawn at lower Evolution factors."
+msgstr "开启后，异星生物诞生表会被修改，超大型敌人会在更低的进化因子时开始诞生。"
+
+#: templates/bobenemies.jinja2:187
+msgid ""
+"If enabled, The Super spawner can apear on the map, which is tougher and "
+"spawns the harder enemies more often."
+msgstr "开启后，超级虫巢会在地图上产生，它更厚实，且能更快地产生更强的敌人。"
+
+#: templates/bobenemies.jinja2:189
+msgid "Increases the health of some enemies"
+msgstr "提升部分敌人的生命值"
+
+#: templates/bobequipment.jinja2:2 templates/bobequipment.jinja2:57
+msgid "Energy shield MK3"
+msgstr "开启能量护盾MK3"
+
+#: templates/bobequipment.jinja2:4 templates/bobequipment.jinja2:59
+msgid "Energy shield MK4"
+msgstr "开启能量护盾MK4"
+
+#: templates/bobequipment.jinja2:6 templates/bobequipment.jinja2:61
+msgid "Energy shield MK5"
+msgstr "开启能量护盾MK5"
+
+#: templates/bobequipment.jinja2:8 templates/bobequipment.jinja2:63
+msgid "Energy shield MK6"
+msgstr "开启能量护盾MK6"
+
+#: templates/bobequipment.jinja2:11 templates/bobequipment.jinja2:66
+msgid "Battery MK3"
+msgstr "电池MK3"
+
+#: templates/bobequipment.jinja2:13 templates/bobequipment.jinja2:68
+msgid "Battery MK4"
+msgstr "电池MK4"
+
+#: templates/bobequipment.jinja2:15 templates/bobequipment.jinja2:70
+msgid "Battery MK5"
+msgstr "电池MK5"
+
+#: templates/bobequipment.jinja2:17 templates/bobequipment.jinja2:72
+msgid "Battery MK6"
+msgstr "电池MK6"
+
+#: templates/bobequipment.jinja2:20 templates/bobequipment.jinja2:75
+msgid "Portable fusion reactor MK2"
+msgstr "便携式核反应堆MK2"
+
+#: templates/bobequipment.jinja2:22 templates/bobequipment.jinja2:77
+msgid "Portable fusion reactor MK3"
+msgstr "便携式核反应堆MK3"
+
+#: templates/bobequipment.jinja2:24 templates/bobequipment.jinja2:79
+msgid "Portable fusion reactor MK4"
+msgstr "便携式核反应堆MK4"
+
+#: templates/bobequipment.jinja2:27 templates/bobequipment.jinja2:82
+msgid "Night vision MK2"
+msgstr "夜视仪MK2"
+
+#: templates/bobequipment.jinja2:29 templates/bobequipment.jinja2:84
+msgid "Night vision MK3"
+msgstr "夜视仪MK3"
+
+#: templates/bobequipment.jinja2:32 templates/bobequipment.jinja2:87
+msgid "Portable solar panel MK2"
+msgstr "便携式太阳能板MK2"
+
+#: templates/bobequipment.jinja2:34 templates/bobequipment.jinja2:89
+msgid "Portable solar panel MK3"
+msgstr "便携式太阳能板MK3"
+
+#: templates/bobequipment.jinja2:36 templates/bobequipment.jinja2:91
+msgid "Portable solar panel MK4"
+msgstr "便携式太阳能板MK4"
+
+#: templates/bobequipment.jinja2:39 templates/bobequipment.jinja2:94
+msgid "Personal laser defense MK2"
+msgstr "个人激光防御炮MK2"
+
+#: templates/bobequipment.jinja2:41 templates/bobequipment.jinja2:96
+msgid "Personal laser defense MK3"
+msgstr "个人激光防御炮MK3"
+
+#: templates/bobequipment.jinja2:43 templates/bobequipment.jinja2:98
+msgid "Personal laser defense MK4"
+msgstr "个人激光防御炮MK4"
+
+#: templates/bobequipment.jinja2:45 templates/bobequipment.jinja2:100
+msgid "Personal laser defense MK5"
+msgstr "个人激光防御炮MK5"
+
+#: templates/bobequipment.jinja2:47 templates/bobequipment.jinja2:102
+msgid "Personal laser defense MK6"
+msgstr "个人激光防御炮MK6"
+
+#: templates/bobequipment.jinja2:50
+msgid "Exoskeleton equipment MK2"
+msgstr "动力外骨骼MK2"
+
+#: templates/bobequipment.jinja2:52
+msgid "Exoskeleton equipment MK3"
+msgstr "动力外骨骼MK3"
+
+#: templates/bobequipment.jinja2:105
+msgid "exoskeleton equipment MK2"
+msgstr "动力外骨骼MK2"
+
+#: templates/bobequipment.jinja2:107
+msgid "exoskeleton equipment MK3"
+msgstr "动力外骨骼MK3"
+
+#: templates/bobequipment.jinja2:111 templates/bobequipment.jinja2:153
+msgid "Personal roboport MK3"
+msgstr "个人机器人指令平台MK3"
+
+#: templates/bobequipment.jinja2:113 templates/bobequipment.jinja2:155
+msgid "Personal roboport MK4"
+msgstr "个人机器人指令平台MK4"
+
+#: templates/bobequipment.jinja2:117
+msgid "Personal roboport area expander"
+msgstr "个人机器人区域扩展器"
+
+#: templates/bobequipment.jinja2:119
+msgid "Personal roboport area expander 2"
+msgstr "个人机器人区域扩展器MK2"
+
+#: templates/bobequipment.jinja2:121
+msgid "Personal roboport area expander 3"
+msgstr "个人机器人区域扩展器MK3"
+
+#: templates/bobequipment.jinja2:123
+msgid "Personal roboport area expander 4"
+msgstr "个人机器人区域扩展器MK4"
+
+#: templates/bobequipment.jinja2:126
+msgid "Personal roboport chargepad"
+msgstr "个人机器人充电板"
+
+#: templates/bobequipment.jinja2:128
+msgid "Personal roboport chargepad 2"
+msgstr "个人机器人充电板MK2"
+
+#: templates/bobequipment.jinja2:130
+msgid "Personal roboport chargepad 3"
+msgstr "个人机器人充电板MK3"
+
+#: templates/bobequipment.jinja2:132
+msgid "Personal roboport chargepad 4"
+msgstr "个人机器人充电板MK4"
+
+#: templates/bobequipment.jinja2:135
+msgid "Personal roboport robot control"
+msgstr "个人机器人控制器"
+
+#: templates/bobequipment.jinja2:137
+msgid "Personal roboport robot control 2"
+msgstr "个人机器人控制器MK2"
+
+#: templates/bobequipment.jinja2:139
+msgid "Personal roboport robot control 3"
+msgstr "个人机器人控制器MK3"
+
+#: templates/bobequipment.jinja2:141
+msgid "Personal roboport robot control 4"
+msgstr "个人机器人控制器MK4"
+
+#: templates/bobequipment.jinja2:146
+msgid "Personal battery"
+msgstr "个人电池"
+
+#: templates/bobequipment.jinja2:148
+msgid "Energy shield"
+msgstr "能量护盾"
+
+#: templates/bobequipment.jinja2:150
+msgid "Personal roboport modules"
+msgstr "个人机器人模组"
+
+#: templates/bobgreenhouse.jinja2:2 templates/bobgreenhouse.jinja2:18
+#: templates/bobgreenhouse.jinja2:23
+msgid "Greenhouse"
+msgstr "温室"
+
+#: templates/bobgreenhouse.jinja2:4 templates/bobgreenhouse.jinja2:25
+msgid "Fertiliser"
+msgstr "肥料"
+
+#: templates/bobgreenhouse.jinja2:6
+msgid "Seedling"
+msgstr "树苗"
+
+#: templates/bobgreenhouse.jinja2:11
+msgid "Grow trees"
+msgstr "种植树木"
+
+#: templates/bobgreenhouse.jinja2:13
+msgid "Grow trees with Fertiliser"
+msgstr "使用肥料种植树木"
+
+#: templates/bobinserters.jinja2:2
+msgid "Change inserter drop range"
+msgstr "调节机械臂放置位置"
+
+#: templates/bobinserters.jinja2:4
+msgid "Change inserter pickup range"
+msgstr "调节机械器抓取位置"
+
+#: templates/bobinserters.jinja2:6
+msgid "Change inserter drop offset"
+msgstr "调节机械臂放置偏移"
+
+#: templates/bobinserters.jinja2:8 templates/boblogistics.jinja2:675
+#: templates/boblogistics.jinja2:765
+msgid "Change inserter long range (pickup and drop)"
+msgstr "调节机械臂长距离位置(抓取以及放置)"
+
+#: templates/bobinserters.jinja2:10
+msgid "Rotate inserter pickup location"
+msgstr "旋转机械臂抓取位置"
+
+#: templates/bobinserters.jinja2:12
+msgid "Open inserter configuration GUI"
+msgstr "打开机械臂配置界面"
+
+#: templates/bobinserters.jinja2:16
+msgid "Pickup tile position"
+msgstr "抓取位置"
+
+#: templates/bobinserters.jinja2:18
+msgid "Drop tile position"
+msgstr "放置位置"
+
+#: templates/bobinserters.jinja2:20
+msgid "Offset"
+msgstr "偏移"
+
+#: templates/bobinserters.jinja2:22 templates/boblogistics.jinja2:669
+msgid "Enable reach overides"
+msgstr "开启范围复写"
+
+#: templates/bobinserters.jinja2:24 templates/boblogistics.jinja2:671
+msgid "Long handed inserter"
+msgstr "长距离机械臂"
+
+#: templates/bobinserters.jinja2:26
+msgid "Long handed pickup"
+msgstr "长距离抓取"
+
+#: templates/bobinserters.jinja2:28
+msgid "Long handed drop"
+msgstr "长距离放置"
+
+#: templates/bobinserters.jinja2:30
+msgid "Near side of belt"
+msgstr ""
+
+#: templates/bobinserters.jinja2:32
+msgid "Enable Inserters GUI mode"
+msgstr ""
+
+#: templates/bobinserters.jinja2:34 templates/boblogistics.jinja2:673
+msgid "Toggle inserter configuration frame"
+msgstr ""
+
+#: templates/bobinserters.jinja2:36
+msgid "Inserter configuration GUI"
+msgstr ""
+
+#: templates/bobinserters.jinja2:40 templates/boblogistics.jinja2:583
+msgid "Long inserters"
+msgstr ""
+
+#: templates/bobinserters.jinja2:42 templates/boblogistics.jinja2:585
+msgid "Near inserters"
+msgstr ""
+
+#: templates/bobinserters.jinja2:44 templates/boblogistics.jinja2:587
+msgid "More inserters"
+msgstr ""
+
+#: templates/bobinserters.jinja2:48
+msgid "Allows inserters range to be configured."
+msgstr ""
+
+#: templates/bobinserters.jinja2:50
+msgid "Allows inserters drop offset to be configured."
+msgstr ""
+
+#: templates/bobinserters.jinja2:52
+msgid "Allows more inserter rotation configuration options."
+msgstr ""
+
+#: templates/bobinserters.jinja2:57
+msgid "Long inserters 2 research"
+msgstr ""
+
+#: templates/bobinserters.jinja2:59
+msgid "More inserters 2 research"
+msgstr ""
+
+#: templates/bobinserters.jinja2:61
+msgid "Dual GUI mode"
+msgstr ""
+
+#: templates/bobinserters.jinja2:65
+msgid ""
+"If enabled, Long inserters 2 research will exist. This allows a very long"
+" inserter reach configuration."
+msgstr ""
+
+#: templates/bobinserters.jinja2:67
+msgid ""
+"If enabled, More inserters 2 research will exist. This allows all "
+"possible tile position configurations in the reach range."
+msgstr ""
+
+#: templates/bobinserters.jinja2:69
+msgid ""
+"If enabled, the configuration GUI will show when the standard GUI is "
+"opened vs opening with a shortcut key if it is disabled."
+msgstr ""
+
+#: templates/boblibrary.jinja2:2
+msgid "Enable Bob's resource generator"
+msgstr ""
+
+#: templates/boblibrary.jinja2:7
+msgid ""
+"This library contains a Resource generator for 0.17, based on the 0.17 "
+"resource generator system. However, the version as part of 0.17.51 of "
+"Factorio fixes a lot of issues that this resource generator attempted to "
+"fix in the older version, and is no longer needed.\n"
+"The library will check if the new generator is available and use it "
+"automatically, or use this generator if it is not, however, this option "
+"is available to force enable my custom generator even if you're using the"
+" newer version of Factorio."
+msgstr ""
+
+#: templates/boblogistics.jinja2:2 templates/boblogistics.jinja2:294
+msgid "Roboport MK1"
+msgstr ""
+
+#: templates/boblogistics.jinja2:4 templates/boblogistics.jinja2:296
+msgid "Roboport MK2"
+msgstr ""
+
+#: templates/boblogistics.jinja2:6 templates/boblogistics.jinja2:298
+msgid "Roboport MK3"
+msgstr ""
+
+#: templates/boblogistics.jinja2:8 templates/boblogistics.jinja2:300
+msgid "Roboport MK4"
+msgstr ""
+
+#: templates/boblogistics.jinja2:11 templates/boblogistics.jinja2:303
+msgid "Robochest MK1"
+msgstr ""
+
+#: templates/boblogistics.jinja2:13 templates/boblogistics.jinja2:305
+msgid "Robochest MK2"
+msgstr ""
+
+#: templates/boblogistics.jinja2:15 templates/boblogistics.jinja2:307
+msgid "Robochest MK3"
+msgstr ""
+
+#: templates/boblogistics.jinja2:17 templates/boblogistics.jinja2:309
+msgid "Robochest MK4"
+msgstr ""
+
+#: templates/boblogistics.jinja2:20 templates/boblogistics.jinja2:312
+msgid "Logistic zone expander MK1"
+msgstr ""
+
+#: templates/boblogistics.jinja2:22 templates/boblogistics.jinja2:314
+msgid "Logistic zone expander MK2"
+msgstr ""
+
+#: templates/boblogistics.jinja2:24 templates/boblogistics.jinja2:316
+msgid "Logistic zone expander MK3"
+msgstr ""
+
+#: templates/boblogistics.jinja2:26 templates/boblogistics.jinja2:318
+msgid "Logistic zone expander MK4"
+msgstr ""
+
+#: templates/boblogistics.jinja2:29 templates/boblogistics.jinja2:321
+msgid "Logistic zone interface"
+msgstr ""
+
+#: templates/boblogistics.jinja2:32 templates/boblogistics.jinja2:324
+msgid "Robot charging point MK1"
+msgstr ""
+
+#: templates/boblogistics.jinja2:34 templates/boblogistics.jinja2:326
+msgid "Robot charging point MK2"
+msgstr ""
+
+#: templates/boblogistics.jinja2:36 templates/boblogistics.jinja2:328
+msgid "Robot charging point MK3"
+msgstr ""
+
+#: templates/boblogistics.jinja2:38 templates/boblogistics.jinja2:330
+msgid "Robot charging point MK4"
+msgstr ""
+
+#: templates/boblogistics.jinja2:41 templates/boblogistics.jinja2:333
+msgid "Large robot charging point MK1"
+msgstr ""
+
+#: templates/boblogistics.jinja2:43 templates/boblogistics.jinja2:335
+msgid "Large robot charging point MK2"
+msgstr ""
+
+#: templates/boblogistics.jinja2:45 templates/boblogistics.jinja2:337
+msgid "Large robot charging point MK3"
+msgstr ""
+
+#: templates/boblogistics.jinja2:47 templates/boblogistics.jinja2:339
+msgid "Large robot charging point MK4"
+msgstr ""
+
+#: templates/boblogistics.jinja2:51
+msgid "Flying robot frame MK2"
+msgstr ""
+
+#: templates/boblogistics.jinja2:53
+msgid "Flying robot frame MK3"
+msgstr ""
+
+#: templates/boblogistics.jinja2:55
+msgid "Flying robot frame MK4"
+msgstr ""
+
+#: templates/boblogistics.jinja2:59
+msgid "Logistic robot brain MK1"
+msgstr ""
+
+#: templates/boblogistics.jinja2:61
+msgid "Logistic robot brain MK2"
+msgstr ""
+
+#: templates/boblogistics.jinja2:63
+msgid "Logistic robot brain MK3"
+msgstr ""
+
+#: templates/boblogistics.jinja2:65
+msgid "Logistic robot brain MK4"
+msgstr ""
+
+#: templates/boblogistics.jinja2:68
+msgid "Construction robot brain MK1"
+msgstr ""
+
+#: templates/boblogistics.jinja2:70
+msgid "Construction robot brain MK2"
+msgstr ""
+
+#: templates/boblogistics.jinja2:72
+msgid "Construction robot brain MK3"
+msgstr ""
+
+#: templates/boblogistics.jinja2:74
+msgid "Construction robot brain MK4"
+msgstr ""
+
+#: templates/boblogistics.jinja2:78
+msgid "Logistic robot tool MK1"
+msgstr ""
+
+#: templates/boblogistics.jinja2:80
+msgid "Logistic robot tool MK2"
+msgstr ""
+
+#: templates/boblogistics.jinja2:82
+msgid "Logistic robot tool MK3"
+msgstr ""
+
+#: templates/boblogistics.jinja2:84
+msgid "Logistic robot tool MK4"
+msgstr ""
+
+#: templates/boblogistics.jinja2:87
+msgid "Construction robot tool MK1"
+msgstr ""
+
+#: templates/boblogistics.jinja2:89
+msgid "Construction robot tool MK2"
+msgstr ""
+
+#: templates/boblogistics.jinja2:91
+msgid "Construction robot tool MK3"
+msgstr ""
+
+#: templates/boblogistics.jinja2:93
+msgid "Construction robot tool MK4"
+msgstr ""
+
+#: templates/boblogistics.jinja2:97 templates/boblogistics.jinja2:343
+msgid "Construction robot MK2"
+msgstr ""
+
+#: templates/boblogistics.jinja2:99 templates/boblogistics.jinja2:345
+msgid "Construction robot MK3"
+msgstr ""
+
+#: templates/boblogistics.jinja2:101 templates/boblogistics.jinja2:347
+msgid "Construction robot MK4"
+msgstr ""
+
+#: templates/boblogistics.jinja2:103 templates/boblogistics.jinja2:349
+msgid "Fusion powered Construction robot MK4"
+msgstr ""
+
+#: templates/boblogistics.jinja2:106 templates/boblogistics.jinja2:352
+msgid "Logistic robot MK2"
+msgstr ""
+
+#: templates/boblogistics.jinja2:108 templates/boblogistics.jinja2:354
+msgid "Logistic robot MK3"
+msgstr ""
+
+#: templates/boblogistics.jinja2:110 templates/boblogistics.jinja2:356
+msgid "Logistic robot MK4"
+msgstr ""
+
+#: templates/boblogistics.jinja2:112 templates/boblogistics.jinja2:358
+msgid "Fusion powered Logistic robot MK4"
+msgstr ""
+
+#: templates/boblogistics.jinja2:116
+msgid "Roboport hatch door MK1"
+msgstr ""
+
+#: templates/boblogistics.jinja2:118
+msgid "Roboport hatch door MK2"
+msgstr ""
+
+#: templates/boblogistics.jinja2:120
+msgid "Roboport hatch door MK3"
+msgstr ""
+
+#: templates/boblogistics.jinja2:122
+msgid "Roboport hatch door MK4"
+msgstr ""
+
+#: templates/boblogistics.jinja2:125
+msgid "Roboport antenna array MK1"
+msgstr ""
+
+#: templates/boblogistics.jinja2:127
+msgid "Roboport antenna array MK2"
+msgstr ""
+
+#: templates/boblogistics.jinja2:129
+msgid "Roboport antenna array MK3"
+msgstr ""
+
+#: templates/boblogistics.jinja2:131
+msgid "Roboport antenna array MK4"
+msgstr ""
+
+#: templates/boblogistics.jinja2:134
+msgid "Roboport charging pad MK1"
+msgstr ""
+
+#: templates/boblogistics.jinja2:136
+msgid "Roboport charging pad MK2"
+msgstr ""
+
+#: templates/boblogistics.jinja2:138
+msgid "Roboport charging pad MK3"
+msgstr ""
+
+#: templates/boblogistics.jinja2:140
+msgid "Roboport charging pad MK4"
+msgstr ""
+
+#: templates/boblogistics.jinja2:144 templates/boblogistics.jinja2:362
+msgid "Brass chest"
+msgstr ""
+
+#: templates/boblogistics.jinja2:146 templates/boblogistics.jinja2:364
+msgid "Titanium chest"
+msgstr ""
+
+#: templates/boblogistics.jinja2:149 templates/boblogistics.jinja2:367
+msgid "Active provider chest MK2"
+msgstr ""
+
+#: templates/boblogistics.jinja2:151 templates/boblogistics.jinja2:369
+msgid "Passive provider chest MK2"
+msgstr ""
+
+#: templates/boblogistics.jinja2:153 templates/boblogistics.jinja2:371
+msgid "Storage chest MK2"
+msgstr ""
+
+#: templates/boblogistics.jinja2:155 templates/boblogistics.jinja2:373
+msgid "Requester chest MK2"
+msgstr ""
+
+#: templates/boblogistics.jinja2:157 templates/boblogistics.jinja2:375
+msgid "Buffer chest MK2"
+msgstr ""
+
+#: templates/boblogistics.jinja2:160 templates/boblogistics.jinja2:378
+msgid "Active provider chest MK3"
+msgstr ""
+
+#: templates/boblogistics.jinja2:162 templates/boblogistics.jinja2:380
+msgid "Passive provider chest MK3"
+msgstr ""
+
+#: templates/boblogistics.jinja2:164 templates/boblogistics.jinja2:382
+msgid "Storage chest MK3"
+msgstr ""
+
+#: templates/boblogistics.jinja2:166 templates/boblogistics.jinja2:384
+msgid "Requester chest MK3"
+msgstr ""
+
+#: templates/boblogistics.jinja2:168 templates/boblogistics.jinja2:386
+msgid "Buffer chest MK3"
+msgstr ""
+
+#: templates/boblogistics.jinja2:172
+msgid "Basic"
+msgstr ""
+
+#: templates/boblogistics.jinja2:174
+msgid "Standard"
+msgstr ""
+
+#: templates/boblogistics.jinja2:176
+msgid "Fast"
+msgstr ""
+
+#: templates/boblogistics.jinja2:178
+msgid "Express"
+msgstr ""
+
+#: templates/boblogistics.jinja2:180
+msgid "Turbo"
+msgstr ""
+
+#: templates/boblogistics.jinja2:182
+msgid "Ultimate"
+msgstr ""
+
+#: templates/boblogistics.jinja2:186 templates/boblogistics.jinja2:453
+msgid "Storage Tank MK2"
+msgstr ""
+
+#: templates/boblogistics.jinja2:188 templates/boblogistics.jinja2:455
+msgid "Storage Tank MK3"
+msgstr ""
+
+#: templates/boblogistics.jinja2:190 templates/boblogistics.jinja2:457
+msgid "Storage Tank MK4"
+msgstr ""
+
+#: templates/boblogistics.jinja2:193 templates/boblogistics.jinja2:461
+msgid "Locomotive MK2"
+msgstr ""
+
+#: templates/boblogistics.jinja2:195 templates/boblogistics.jinja2:463
+msgid "Locomotive MK3"
+msgstr ""
+
+#: templates/boblogistics.jinja2:197 templates/boblogistics.jinja2:465
+msgid "Armoured Locomotive"
+msgstr ""
+
+#: templates/boblogistics.jinja2:199 templates/boblogistics.jinja2:467
+msgid "Armoured Locomotive MK2"
+msgstr ""
+
+#: templates/boblogistics.jinja2:202 templates/boblogistics.jinja2:470
+msgid "Cargo wagon MK2"
+msgstr ""
+
+#: templates/boblogistics.jinja2:204 templates/boblogistics.jinja2:472
+msgid "Cargo wagon MK3"
+msgstr ""
+
+#: templates/boblogistics.jinja2:206 templates/boblogistics.jinja2:474
+msgid "Armoured Cargo wagon"
+msgstr ""
+
+#: templates/boblogistics.jinja2:208 templates/boblogistics.jinja2:476
+msgid "Armoured Cargo wagon MK2"
+msgstr ""
+
+#: templates/boblogistics.jinja2:211 templates/boblogistics.jinja2:479
+msgid "Fluid wagon MK2"
+msgstr ""
+
+#: templates/boblogistics.jinja2:213 templates/boblogistics.jinja2:481
+msgid "Fluid wagon MK3"
+msgstr ""
+
+#: templates/boblogistics.jinja2:215 templates/boblogistics.jinja2:483
+#: templates/boblogistics.jinja2:606
+msgid "Armoured Fluid wagon"
+msgstr ""
+
+#: templates/boblogistics.jinja2:217 templates/boblogistics.jinja2:485
+msgid "Armoured Fluid wagon MK2"
+msgstr ""
+
+#: templates/boblogistics.jinja2:220
+msgid "Armoured rail"
+msgstr ""
+
+#: templates/boblogistics.jinja2:224 templates/boblogistics.jinja2:494
+msgid "Copper pipe"
+msgstr ""
+
+#: templates/boblogistics.jinja2:226 templates/boblogistics.jinja2:496
+msgid "Iron pipe"
+msgstr ""
+
+#: templates/boblogistics.jinja2:228 templates/boblogistics.jinja2:498
+msgid "Stone pipe"
+msgstr ""
+
+#: templates/boblogistics.jinja2:230 templates/boblogistics.jinja2:500
+msgid "Bronze pipe"
+msgstr ""
+
+#: templates/boblogistics.jinja2:232 templates/boblogistics.jinja2:502
+msgid "Steel pipe"
+msgstr ""
+
+#: templates/boblogistics.jinja2:234 templates/boblogistics.jinja2:504
+msgid "Plastic pipe"
+msgstr ""
+
+#: templates/boblogistics.jinja2:236 templates/boblogistics.jinja2:506
+msgid "Brass pipe"
+msgstr ""
+
+#: templates/boblogistics.jinja2:238 templates/boblogistics.jinja2:508
+msgid "Titanium pipe"
+msgstr ""
+
+#: templates/boblogistics.jinja2:240 templates/boblogistics.jinja2:510
+msgid "Ceramic pipe"
+msgstr ""
+
+#: templates/boblogistics.jinja2:242 templates/boblogistics.jinja2:512
+msgid "Tungsten pipe"
+msgstr ""
+
+#: templates/boblogistics.jinja2:246 templates/boblogistics.jinja2:520
+msgid "Copper pipe-to-ground"
+msgstr ""
+
+#: templates/boblogistics.jinja2:248 templates/boblogistics.jinja2:522
+msgid "Iron pipe-to-ground"
+msgstr ""
+
+#: templates/boblogistics.jinja2:250 templates/boblogistics.jinja2:524
+msgid "Stone pipe-to-ground"
+msgstr ""
+
+#: templates/boblogistics.jinja2:252 templates/boblogistics.jinja2:526
+msgid "Bronze pipe-to-ground"
+msgstr ""
+
+#: templates/boblogistics.jinja2:254 templates/boblogistics.jinja2:528
+msgid "Steel pipe-to-ground"
+msgstr ""
+
+#: templates/boblogistics.jinja2:256 templates/boblogistics.jinja2:530
+msgid "Plastic pipe-to-ground"
+msgstr ""
+
+#: templates/boblogistics.jinja2:258 templates/boblogistics.jinja2:532
+msgid "Brass pipe-to-ground"
+msgstr ""
+
+#: templates/boblogistics.jinja2:260 templates/boblogistics.jinja2:534
+msgid "Titanium pipe-to-ground"
+msgstr ""
+
+#: templates/boblogistics.jinja2:262 templates/boblogistics.jinja2:536
+msgid "Ceramic pipe-to-ground"
+msgstr ""
+
+#: templates/boblogistics.jinja2:264 templates/boblogistics.jinja2:538
+msgid "Tungsten pipe-to-ground"
+msgstr ""
+
+#: templates/boblogistics.jinja2:268 templates/boblogistics.jinja2:546
+#: templates/bobplates.jinja2:201 templates/bobplates.jinja2:442
+msgid "Pump MK2"
+msgstr ""
+
+#: templates/boblogistics.jinja2:270 templates/boblogistics.jinja2:548
+#: templates/bobplates.jinja2:203 templates/bobplates.jinja2:444
+msgid "Pump MK3"
+msgstr ""
+
+#: templates/boblogistics.jinja2:272 templates/boblogistics.jinja2:550
+#: templates/bobplates.jinja2:205 templates/bobplates.jinja2:446
+msgid "Pump MK4"
+msgstr ""
+
+#: templates/boblogistics.jinja2:275 templates/boblogistics.jinja2:553
+msgid "Valve"
+msgstr ""
+
+#: templates/boblogistics.jinja2:277 templates/boblogistics.jinja2:563
+msgid "__ITEM__valve__"
+msgstr ""
+
+#: templates/boblogistics.jinja2:280
+msgid "__ITEM__repair-pack__ 2"
+msgstr ""
+
+#: templates/boblogistics.jinja2:282
+msgid "__ITEM__repair-pack__ 3"
+msgstr ""
+
+#: templates/boblogistics.jinja2:284
+msgid "__ITEM__repair-pack__ 4"
+msgstr ""
+
+#: templates/boblogistics.jinja2:286
+msgid "__ITEM__repair-pack__ 5"
+msgstr ""
+
+#: templates/boblogistics.jinja2:390
+msgid "__ENTITY__filter-inserter__"
+msgstr ""
+
+#: templates/boblogistics.jinja2:393
+msgid "__ITEM__prefix-red__ __ENTITY__inserter__"
+msgstr ""
+
+#: templates/boblogistics.jinja2:395
+msgid "__ITEM__prefix-red__ __ENTITY__filter-inserter__"
+msgstr ""
+
+#: templates/boblogistics.jinja2:397
+msgid "__ITEM__prefix-red__ __ENTITY__stack-inserter__"
+msgstr ""
+
+#: templates/boblogistics.jinja2:399
+msgid "__ITEM__prefix-red__ __ENTITY__stack-filter-inserter__"
+msgstr ""
+
+#: templates/boblogistics.jinja2:402
+msgid "__ITEM__prefix-blue__ __ENTITY__inserter__"
+msgstr ""
+
+#: templates/boblogistics.jinja2:404
+msgid "__ITEM__prefix-blue__ __ENTITY__filter-inserter__"
+msgstr ""
+
+#: templates/boblogistics.jinja2:406
+msgid "__ITEM__prefix-blue__ __ENTITY__stack-inserter__"
+msgstr ""
+
+#: templates/boblogistics.jinja2:408
+msgid "__ITEM__prefix-blue__ __ENTITY__stack-filter-inserter__"
+msgstr ""
+
+#: templates/boblogistics.jinja2:411
+msgid "__ITEM__prefix-purple__ __ENTITY__inserter__"
+msgstr ""
+
+#: templates/boblogistics.jinja2:413
+msgid "__ITEM__prefix-purple__ __ENTITY__filter-inserter__"
+msgstr ""
+
+#: templates/boblogistics.jinja2:415
+msgid "__ITEM__prefix-purple__ __ENTITY__stack-inserter__"
+msgstr ""
+
+#: templates/boblogistics.jinja2:417
+msgid "__ITEM__prefix-purple__ __ENTITY__stack-filter-inserter__"
+msgstr ""
+
+#: templates/boblogistics.jinja2:420
+msgid "__ITEM__prefix-green__ __ENTITY__inserter__"
+msgstr ""
+
+#: templates/boblogistics.jinja2:422
+msgid "__ITEM__prefix-green__ __ENTITY__filter-inserter__"
+msgstr ""
+
+#: templates/boblogistics.jinja2:424
+msgid "__ITEM__prefix-green__ __ENTITY__stack-inserter__"
+msgstr ""
+
+#: templates/boblogistics.jinja2:426
+msgid "__ITEM__prefix-green__ __ENTITY__stack-filter-inserter__"
+msgstr ""
+
+#: templates/boblogistics.jinja2:430
+msgid "__ITEM__prefix-black__ __ENTITY__transport-belt__"
+msgstr ""
+
+#: templates/boblogistics.jinja2:432
+msgid "__ITEM__prefix-black__ __ENTITY__underground-belt__"
+msgstr ""
+
+#: templates/boblogistics.jinja2:434
+msgid "__ITEM__prefix-black__ __ENTITY__splitter__"
+msgstr ""
+
+#: templates/boblogistics.jinja2:437
+msgid "__ITEM__prefix-purple__ __ENTITY__transport-belt__"
+msgstr ""
+
+#: templates/boblogistics.jinja2:439
+msgid "__ITEM__prefix-purple__ __ENTITY__underground-belt__"
+msgstr ""
+
+#: templates/boblogistics.jinja2:441
+msgid "__ITEM__prefix-purple__ __ENTITY__splitter__"
+msgstr ""
+
+#: templates/boblogistics.jinja2:444
+msgid "__ITEM__prefix-green__ __ENTITY__transport-belt__"
+msgstr ""
+
+#: templates/boblogistics.jinja2:446
+msgid "__ITEM__prefix-green__ __ENTITY__underground-belt__"
+msgstr ""
+
+#: templates/boblogistics.jinja2:448
+msgid "__ITEM__prefix-green__ __ENTITY__splitter__"
+msgstr ""
+
+#: templates/boblogistics.jinja2:488
+msgid "Armoured straight rail"
+msgstr ""
+
+#: templates/boblogistics.jinja2:490
+msgid "Armoured curved rail"
+msgstr ""
+
+#: templates/boblogistics.jinja2:514
+msgid "Nitinol pipe"
+msgstr ""
+
+#: templates/boblogistics.jinja2:516
+msgid "Copper tungsten pipe"
+msgstr ""
+
+#: templates/boblogistics.jinja2:540
+msgid "Nitinol pipe-to-ground"
+msgstr ""
+
+#: templates/boblogistics.jinja2:542
+msgid "Copper tungsten pipe-to-ground"
+msgstr ""
+
+#: templates/boblogistics.jinja2:555
+msgid "__ENTITY__valve__"
+msgstr ""
+
+#: templates/boblogistics.jinja2:557
+msgid "Overflow valve"
+msgstr ""
+
+#: templates/boblogistics.jinja2:559
+msgid "Top up valve"
+msgstr ""
+
+#: templates/boblogistics.jinja2:568
+msgid "Robotics"
+msgstr ""
+
+#: templates/boblogistics.jinja2:570
+msgid "Advanced logistic and construction robotics"
+msgstr ""
+
+#: templates/boblogistics.jinja2:572
+msgid "Modular Roboports"
+msgstr ""
+
+#: templates/boblogistics.jinja2:574
+msgid "Express Inserters"
+msgstr ""
+
+#: templates/boblogistics.jinja2:576
+msgid "Turbo Inserters"
+msgstr ""
+
+#: templates/boblogistics.jinja2:578
+msgid "Ultimate Inserters"
+msgstr ""
+
+#: templates/boblogistics.jinja2:581
+msgid "Long handed burner inserter"
+msgstr ""
+
+#: templates/boblogistics.jinja2:591
+msgid "Logistics"
+msgstr ""
+
+#: templates/boblogistics.jinja2:593
+msgid "__ITEM__prefix-black__ logistics"
+msgstr ""
+
+#: templates/boblogistics.jinja2:596
+msgid "Fluid handling"
+msgstr ""
+
+#: templates/boblogistics.jinja2:599
+msgid "Railway"
+msgstr ""
+
+#: templates/boblogistics.jinja2:601
+msgid "Armoured Railway"
+msgstr ""
+
+#: templates/boblogistics.jinja2:604
+msgid "Fluid wagon"
+msgstr ""
+
+#: templates/boblogistics.jinja2:610
+msgid "Character inventory slots"
+msgstr ""
+
+#: templates/boblogistics.jinja2:612
+msgid "Stack inserter capacity bonus"
+msgstr ""
+
+#: templates/boblogistics.jinja2:614
+msgid "Inserter capacity bonus"
+msgstr ""
+
+#: templates/boblogistics.jinja2:617
+msgid "Infinite worker robot cargo size"
+msgstr ""
+
+#: templates/boblogistics.jinja2:619
+msgid "Infinite character logistic trash slots"
+msgstr ""
+
+#: templates/boblogistics.jinja2:622
+msgid "__ITEM__repair-pack__"
+msgstr ""
+
+#: templates/boblogistics.jinja2:627
+msgid "Logistic robots are a flexible alternative to conveyor belts."
+msgstr ""
+
+#: templates/boblogistics.jinja2:629
+msgid "Research into building Roboports in modules."
+msgstr ""
+
+#: templates/boblogistics.jinja2:631
+msgid "Inserters that are faster than fast inserters!"
+msgstr ""
+
+#: templates/boblogistics.jinja2:634
+msgid "Faster and more flexible ways of transportation."
+msgstr ""
+
+#: templates/boblogistics.jinja2:637
+msgid "Non-stack inserters can move more items at the same time."
+msgstr ""
+
+#: templates/boblogistics.jinja2:639
+msgid ""
+"Stack inserters can move more items at the same time depending on their "
+"upgrade."
+msgstr ""
+
+#: templates/boblogistics.jinja2:644 templates/boblogistics.jinja2:646
+msgid "A pipe that allows fluid to flow in only one direction"
+msgstr ""
+
+#: templates/boblogistics.jinja2:648
+#, python-format
+msgid ""
+"A pipe that allows a fluid to flow in only one direction when the input "
+"is more than 80% full"
+msgstr ""
+
+#: templates/boblogistics.jinja2:650
+#, python-format
+msgid ""
+"A pipe that allows a fluid to flow in only one direction when the output "
+"is less than 20% full"
+msgstr ""
+
+#: templates/boblogistics.jinja2:654
+msgid "Maximum length: __1__"
+msgstr ""
+
+#: templates/boblogistics.jinja2:659 templates/bobplates.jinja2:465
+msgid "Bob's Logistics"
+msgstr ""
+
+#: templates/boblogistics.jinja2:664
+msgid "Adds an extra __1__ slots to the character inventory"
+msgstr ""
+
+#: templates/boblogistics.jinja2:680
+msgid "Flying robot frames"
+msgstr ""
+
+#: templates/boblogistics.jinja2:682
+msgid "Robot parts"
+msgstr ""
+
+#: templates/boblogistics.jinja2:684
+msgid "Robot require previous tier"
+msgstr ""
+
+#: templates/boblogistics.jinja2:686
+msgid "Roboport recipe update"
+msgstr ""
+
+#: templates/boblogistics.jinja2:688
+msgid "Drainless inserters"
+msgstr ""
+
+#: templates/boblogistics.jinja2:690
+msgid "Disable Roboports"
+msgstr ""
+
+#: templates/boblogistics.jinja2:692
+msgid "Belt require previous tier"
+msgstr ""
+
+#: templates/boblogistics.jinja2:694
+msgid "Inserter require previous tier"
+msgstr ""
+
+#: templates/boblogistics.jinja2:696
+msgid "Inserter overhaul"
+msgstr ""
+
+#: templates/boblogistics.jinja2:698
+msgid "Transport belt overhaul"
+msgstr ""
+
+#: templates/boblogistics.jinja2:700
+msgid "Underground distance overhaul"
+msgstr ""
+
+#: templates/boblogistics.jinja2:702
+msgid "Belt first tier distance"
+msgstr ""
+
+#: templates/boblogistics.jinja2:704
+msgid "Belt distance per tier"
+msgstr ""
+
+#: templates/boblogistics.jinja2:706
+msgid "Pipe first tier distance"
+msgstr ""
+
+#: templates/boblogistics.jinja2:708
+msgid "Pipe distance per tier"
+msgstr ""
+
+#: templates/boblogistics.jinja2:710
+msgid "Transport belt speed overhaul"
+msgstr ""
+
+#: templates/boblogistics.jinja2:712
+msgid "Transport belt speed per tier"
+msgstr ""
+
+#: templates/boblogistics.jinja2:714
+msgid "Fluid wagon base size"
+msgstr ""
+
+#: templates/boblogistics.jinja2:716
+msgid "Storage tank base size"
+msgstr ""
+
+#: templates/boblogistics.jinja2:718
+msgid "Trains"
+msgstr ""
+
+#: templates/boblogistics.jinja2:722
+msgid ""
+"If set to true, the Flying robot frame intermediates will exist for use "
+"in recipes."
+msgstr ""
+
+#: templates/boblogistics.jinja2:724
+msgid ""
+"If set to true, the Logistic/Construction robot tool/brain intermediates "
+"will exist for use in recipes."
+msgstr ""
+
+#: templates/boblogistics.jinja2:726
+msgid ""
+"If set to true, Logistic/Construction robots require the previous tier to"
+" craft."
+msgstr ""
+
+#: templates/boblogistics.jinja2:728
+msgid ""
+"If set to true, the recipe for the base game Roboport MK1 is updated to "
+"the modular recipe."
+msgstr ""
+
+#: templates/boblogistics.jinja2:730
+msgid "If set to true, the idle power drain will be removed from all Inserters."
+msgstr ""
+
+#: templates/boblogistics.jinja2:732
+msgid ""
+"If set to true, standard roboports are disabled, causing you to be "
+"reliant on the modular roboports"
+msgstr ""
+
+#: templates/boblogistics.jinja2:734
+msgid ""
+"If set to true, Transport belts and related entities require the previous"
+" tier to craft."
+msgstr ""
+
+#: templates/boblogistics.jinja2:736
+msgid "If set to true, Inserters require the previous tier to craft."
+msgstr ""
+
+#: templates/boblogistics.jinja2:738
+msgid ""
+"Turning this on will overhaul inserters, adding new tiers, removing long "
+"handed, but you can use make any inserter long, and a complete recipe "
+"rewrite."
+msgstr ""
+
+#: templates/boblogistics.jinja2:740
+msgid ""
+"Turning this on will overhaul transport belts, adding a new tier, "
+"ballance the speeds and a complete recipe rewrite."
+msgstr ""
+
+#: templates/boblogistics.jinja2:742
+msgid "Turning this on will change the range of all underground belts and pipes."
+msgstr ""
+
+#: templates/boblogistics.jinja2:744
+msgid "Sets the range on the starting tier transport belt"
+msgstr ""
+
+#: templates/boblogistics.jinja2:746
+msgid "Sets by how much further each tier of underground belt will go"
+msgstr ""
+
+#: templates/boblogistics.jinja2:748
+msgid "Sets the range on all starting tier pipes"
+msgstr ""
+
+#: templates/boblogistics.jinja2:750
+msgid "Sets by how much further each tier of underground pipe will go"
+msgstr ""
+
+#: templates/boblogistics.jinja2:752
+msgid ""
+"If both this and Transport belt overhaul are set to true, the speeds of "
+"transport belts will be updated. Please use multiples of 1.875."
+msgstr ""
+
+#: templates/boblogistics.jinja2:754
+msgid ""
+"Sets how items per tier Transport belt move if Transport belt speed "
+"overhaul and Transport belt speed overhaul settings are both enabled."
+msgstr ""
+
+#: templates/boblogistics.jinja2:756
+msgid ""
+"Sets the amount of fluid that a Fluid wagon can store in thousands "
+"(Default 25, for 25k)"
+msgstr ""
+
+#: templates/boblogistics.jinja2:758
+msgid ""
+"Sets the amount of fluid that a Storage tank can store in thousands "
+"(Default 25, for 25k)"
+msgstr ""
+
+#: templates/boblogistics.jinja2:760
+msgid "If set to true, new trains (Locomotices and wagons) will be available"
+msgstr ""
+
+#: templates/bobmining.jinja2:2
+msgid "__ENTITY__electric-mining-drill__ 2"
+msgstr ""
+
+#: templates/bobmining.jinja2:4
+msgid "__ENTITY__electric-mining-drill__ 3"
+msgstr ""
+
+#: templates/bobmining.jinja2:6
+msgid "__ENTITY__electric-mining-drill__ 4"
+msgstr ""
+
+#: templates/bobmining.jinja2:8
+msgid "__ENTITY__electric-mining-drill__ 5"
+msgstr ""
+
+#: templates/bobmining.jinja2:11
+msgid "Electric large area mining drill 2"
+msgstr ""
+
+#: templates/bobmining.jinja2:13
+msgid "Electric large area mining drill 3"
+msgstr ""
+
+#: templates/bobmining.jinja2:15
+msgid "Electric large area mining drill 4"
+msgstr ""
+
+#: templates/bobmining.jinja2:17
+msgid "Electric large area mining drill 5"
+msgstr ""
+
+#: templates/bobmining.jinja2:20
+msgid "Pumpjack 2"
+msgstr ""
+
+#: templates/bobmining.jinja2:22
+msgid "Pumpjack 3"
+msgstr ""
+
+#: templates/bobmining.jinja2:24
+msgid "Pumpjack 4"
+msgstr ""
+
+#: templates/bobmining.jinja2:26
+msgid "Pumpjack 5"
+msgstr ""
+
+#: templates/bobmining.jinja2:29
+msgid "Water Pumpjack 1"
+msgstr ""
+
+#: templates/bobmining.jinja2:31
+msgid "Water Pumpjack 2"
+msgstr ""
+
+#: templates/bobmining.jinja2:33
+msgid "Water Pumpjack 3"
+msgstr ""
+
+#: templates/bobmining.jinja2:35
+msgid "Water Pumpjack 4"
+msgstr ""
+
+#: templates/bobmining.jinja2:37
+msgid "Water Pumpjack 5"
+msgstr ""
+
+#: templates/bobmining.jinja2:40
+msgid "Steam powered mining drill"
+msgstr ""
+
+#: templates/bobmining.jinja2:45
+#, python-format
+msgid ""
+"The steam powered mining drill will scale it's speed and energy "
+"consumption to the temperature of the steam you pipe into it.\n"
+"Expect it to operate at 20% on steam from your first boiler.\n"
+"20% is 120kW for 0.4/s base mining speed."
+msgstr ""
+
+#: templates/bobmining.jinja2:50
+msgid "__ENTITY__bob-mining-drill-1__"
+msgstr ""
+
+#: templates/bobmining.jinja2:52
+msgid "__ENTITY__bob-mining-drill-2__"
+msgstr ""
+
+#: templates/bobmining.jinja2:54
+msgid "__ENTITY__bob-mining-drill-3__"
+msgstr ""
+
+#: templates/bobmining.jinja2:56
+msgid "__ENTITY__bob-mining-drill-4__"
+msgstr ""
+
+#: templates/bobmining.jinja2:59
+msgid "__ENTITY__bob-area-mining-drill-1__"
+msgstr ""
+
+#: templates/bobmining.jinja2:61
+msgid "__ENTITY__bob-area-mining-drill-2__"
+msgstr ""
+
+#: templates/bobmining.jinja2:63
+msgid "__ENTITY__bob-area-mining-drill-3__"
+msgstr ""
+
+#: templates/bobmining.jinja2:65
+msgid "__ENTITY__bob-area-mining-drill-4__"
+msgstr ""
+
+#: templates/bobmining.jinja2:68
+msgid "__ENTITY__bob-pumpjack-1__"
+msgstr ""
+
+#: templates/bobmining.jinja2:70
+msgid "__ENTITY__bob-pumpjack-2__"
+msgstr ""
+
+#: templates/bobmining.jinja2:72
+msgid "__ENTITY__bob-pumpjack-3__"
+msgstr ""
+
+#: templates/bobmining.jinja2:74
+msgid "__ENTITY__bob-pumpjack-4__"
+msgstr ""
+
+#: templates/bobmining.jinja2:77
+msgid "__ENTITY__water-miner-1__"
+msgstr ""
+
+#: templates/bobmining.jinja2:79
+msgid "__ENTITY__water-miner-2__"
+msgstr ""
+
+#: templates/bobmining.jinja2:81
+msgid "__ENTITY__water-miner-3__"
+msgstr ""
+
+#: templates/bobmining.jinja2:83
+msgid "__ENTITY__water-miner-4__"
+msgstr ""
+
+#: templates/bobmining.jinja2:85
+msgid "__ENTITY__water-miner-5__"
+msgstr ""
+
+#: templates/bobmining.jinja2:90
+msgid "Mining Drills Research"
+msgstr ""
+
+#: templates/bobmining.jinja2:92
+msgid "Large Area Mining Drills Research"
+msgstr ""
+
+#: templates/bobmining.jinja2:94
+msgid "Pumpjacks Research"
+msgstr ""
+
+#: templates/bobmining.jinja2:96
+msgid "Water Pumpjacks Research"
+msgstr ""
+
+#: templates/bobmining.jinja2:101
+msgid "New mining drills"
+msgstr ""
+
+#: templates/bobmining.jinja2:103
+msgid "Large area mining drills"
+msgstr ""
+
+#: templates/bobmining.jinja2:105
+msgid "New pumpjacks"
+msgstr ""
+
+#: templates/bobmining.jinja2:107
+msgid "New player mining speed research"
+msgstr ""
+
+#: templates/bobmining.jinja2:109
+msgid "Water mining pumpjacks"
+msgstr ""
+
+#: templates/bobmining.jinja2:111
+msgid "Steam mining drills"
+msgstr ""
+
+#: templates/bobmining.jinja2:116
+msgid "If set to true, new upgradable mining drills are available."
+msgstr ""
+
+#: templates/bobmining.jinja2:118
+msgid "If set to true, new upgradable large area mining drills are available."
+msgstr ""
+
+#: templates/bobmining.jinja2:120
+msgid "If set to true, new upgradable pumpjacks are available."
+msgstr ""
+
+#: templates/bobmining.jinja2:122
+msgid "If set to true, new better mining axes are available."
+msgstr ""
+
+#: templates/bobmining.jinja2:124
+msgid "If set to true, water mining pumpjacks are available."
+msgstr ""
+
+#: templates/bobmining.jinja2:126
+msgid "If set to true, a new steam mining drill will be available."
+msgstr ""
+
+#: templates/bobmodules.jinja2:2
+msgid "Speed Module 1"
+msgstr ""
+
+#: templates/bobmodules.jinja2:4
+msgid "Speed Module 2"
+msgstr ""
+
+#: templates/bobmodules.jinja2:6
+msgid "Speed Module 3"
+msgstr ""
+
+#: templates/bobmodules.jinja2:8
+msgid "Speed Module 4"
+msgstr ""
+
+#: templates/bobmodules.jinja2:10
+msgid "Speed Module 5"
+msgstr ""
+
+#: templates/bobmodules.jinja2:12
+msgid "Speed Module 6"
+msgstr ""
+
+#: templates/bobmodules.jinja2:14
+msgid "Speed Module 7"
+msgstr ""
+
+#: templates/bobmodules.jinja2:16
+msgid "Speed Module 8"
+msgstr ""
+
+#: templates/bobmodules.jinja2:19
+msgid "Effectivity Module 1"
+msgstr ""
+
+#: templates/bobmodules.jinja2:21
+msgid "Effectivity Module 2"
+msgstr ""
+
+#: templates/bobmodules.jinja2:23
+msgid "Effectivity Module 3"
+msgstr ""
+
+#: templates/bobmodules.jinja2:25
+msgid "Effectivity Module 4"
+msgstr ""
+
+#: templates/bobmodules.jinja2:27
+msgid "Effectivity Module 5"
+msgstr ""
+
+#: templates/bobmodules.jinja2:29
+msgid "Effectivity Module 6"
+msgstr ""
+
+#: templates/bobmodules.jinja2:31
+msgid "Effectivity Module 7"
+msgstr ""
+
+#: templates/bobmodules.jinja2:33
+msgid "Effectivity Module 8"
+msgstr ""
+
+#: templates/bobmodules.jinja2:36
+msgid "Productivity Module 1"
+msgstr ""
+
+#: templates/bobmodules.jinja2:38
+msgid "Productivity Module 2"
+msgstr ""
+
+#: templates/bobmodules.jinja2:40
+msgid "Productivity Module 3"
+msgstr ""
+
+#: templates/bobmodules.jinja2:42
+msgid "Productivity Module 4"
+msgstr ""
+
+#: templates/bobmodules.jinja2:44
+msgid "Productivity Module 5"
+msgstr ""
+
+#: templates/bobmodules.jinja2:46
+msgid "Productivity Module 6"
+msgstr ""
+
+#: templates/bobmodules.jinja2:48
+msgid "Productivity Module 7"
+msgstr ""
+
+#: templates/bobmodules.jinja2:50
+msgid "Productivity Module 8"
+msgstr ""
+
+#: templates/bobmodules.jinja2:53
+msgid "Pollution Cleaning Module 1"
+msgstr ""
+
+#: templates/bobmodules.jinja2:55
+msgid "Pollution Cleaning Module 2"
+msgstr ""
+
+#: templates/bobmodules.jinja2:57
+msgid "Pollution Cleaning Module 3"
+msgstr ""
+
+#: templates/bobmodules.jinja2:59
+msgid "Pollution Cleaning Module 4"
+msgstr ""
+
+#: templates/bobmodules.jinja2:61
+msgid "Pollution Cleaning Module 5"
+msgstr ""
+
+#: templates/bobmodules.jinja2:63
+msgid "Pollution Cleaning Module 6"
+msgstr ""
+
+#: templates/bobmodules.jinja2:65
+msgid "Pollution Cleaning Module 7"
+msgstr ""
+
+#: templates/bobmodules.jinja2:67
+msgid "Pollution Cleaning Module 8"
+msgstr ""
+
+#: templates/bobmodules.jinja2:70
+msgid "Pollution Producing Module 1"
+msgstr ""
+
+#: templates/bobmodules.jinja2:72
+msgid "Pollution Producing Module 2"
+msgstr ""
+
+#: templates/bobmodules.jinja2:74
+msgid "Pollution Producing Module 3"
+msgstr ""
+
+#: templates/bobmodules.jinja2:76
+msgid "Pollution Producing Module 4"
+msgstr ""
+
+#: templates/bobmodules.jinja2:78
+msgid "Pollution Producing Module 5"
+msgstr ""
+
+#: templates/bobmodules.jinja2:80
+msgid "Pollution Producing Module 6"
+msgstr ""
+
+#: templates/bobmodules.jinja2:82
+msgid "Pollution Producing Module 7"
+msgstr ""
+
+#: templates/bobmodules.jinja2:84
+msgid "Pollution Producing Module 8"
+msgstr ""
+
+#: templates/bobmodules.jinja2:87
+msgid "Raw speed module 1"
+msgstr ""
+
+#: templates/bobmodules.jinja2:89
+msgid "Raw speed module 2"
+msgstr ""
+
+#: templates/bobmodules.jinja2:91
+msgid "Raw speed module 3"
+msgstr ""
+
+#: templates/bobmodules.jinja2:93
+msgid "Raw speed module 4"
+msgstr ""
+
+#: templates/bobmodules.jinja2:95
+msgid "Raw speed module 5"
+msgstr ""
+
+#: templates/bobmodules.jinja2:97
+msgid "Raw speed module 6"
+msgstr ""
+
+#: templates/bobmodules.jinja2:99
+msgid "Raw speed module 7"
+msgstr ""
+
+#: templates/bobmodules.jinja2:101
+msgid "Raw speed module 8"
+msgstr ""
+
+#: templates/bobmodules.jinja2:104
+msgid "Raw productivity module 1"
+msgstr ""
+
+#: templates/bobmodules.jinja2:106
+msgid "Raw productivity module 2"
+msgstr ""
+
+#: templates/bobmodules.jinja2:108
+msgid "Raw productivity module 3"
+msgstr ""
+
+#: templates/bobmodules.jinja2:110
+msgid "Raw productivity module 4"
+msgstr ""
+
+#: templates/bobmodules.jinja2:112
+msgid "Raw productivity module 5"
+msgstr ""
+
+#: templates/bobmodules.jinja2:114
+msgid "Raw productivity module 6"
+msgstr ""
+
+#: templates/bobmodules.jinja2:116
+msgid "Raw productivity module 7"
+msgstr ""
+
+#: templates/bobmodules.jinja2:118
+msgid "Raw productivity module 8"
+msgstr ""
+
+#: templates/bobmodules.jinja2:121
+msgid "Green module 1"
+msgstr ""
+
+#: templates/bobmodules.jinja2:123
+msgid "Green module 2"
+msgstr ""
+
+#: templates/bobmodules.jinja2:125
+msgid "Green module 3"
+msgstr ""
+
+#: templates/bobmodules.jinja2:127
+msgid "Green module 4"
+msgstr ""
+
+#: templates/bobmodules.jinja2:129
+msgid "Green module 5"
+msgstr ""
+
+#: templates/bobmodules.jinja2:131
+msgid "Green module 6"
+msgstr ""
+
+#: templates/bobmodules.jinja2:133
+msgid "Green module 7"
+msgstr ""
+
+#: templates/bobmodules.jinja2:135
+msgid "Green module 8"
+msgstr ""
+
+#: templates/bobmodules.jinja2:138
+msgid "God module 1"
+msgstr ""
+
+#: templates/bobmodules.jinja2:140
+msgid "God module 2"
+msgstr ""
+
+#: templates/bobmodules.jinja2:142
+msgid "God module 3"
+msgstr ""
+
+#: templates/bobmodules.jinja2:144
+msgid "God module 4"
+msgstr ""
+
+#: templates/bobmodules.jinja2:146
+msgid "God module 5"
+msgstr ""
+
+#: templates/bobmodules.jinja2:149 templates/bobmodules.jinja2:223
+msgid "Beacon MK2"
+msgstr ""
+
+#: templates/bobmodules.jinja2:151 templates/bobmodules.jinja2:225
+msgid "Beacon MK3"
+msgstr ""
+
+#: templates/bobmodules.jinja2:154 templates/bobmodules.jinja2:228
+msgid "Modules lab"
+msgstr ""
+
+#: templates/bobmodules.jinja2:157
+msgid "Module case"
+msgstr ""
+
+#: templates/bobmodules.jinja2:159
+msgid "Module contact"
+msgstr ""
+
+#: templates/bobmodules.jinja2:161
+msgid "Module main board"
+msgstr ""
+
+#: templates/bobmodules.jinja2:163
+msgid "Basic module board"
+msgstr ""
+
+#: templates/bobmodules.jinja2:165
+msgid "Module logic board"
+msgstr ""
+
+#: templates/bobmodules.jinja2:167
+msgid "Module processor board"
+msgstr ""
+
+#: templates/bobmodules.jinja2:170
+msgid "Speed circuit board"
+msgstr ""
+
+#: templates/bobmodules.jinja2:172
+msgid "Effectivity circuit board"
+msgstr ""
+
+#: templates/bobmodules.jinja2:174
+msgid "Productivity circuit board"
+msgstr ""
+
+#: templates/bobmodules.jinja2:176
+msgid "Pollution cleaning circuit board"
+msgstr ""
+
+#: templates/bobmodules.jinja2:178
+msgid "Pollution producing circuit board"
+msgstr ""
+
+#: templates/bobmodules.jinja2:181
+msgid "Speed logic board"
+msgstr ""
+
+#: templates/bobmodules.jinja2:183
+msgid "Effectivity logic board"
+msgstr ""
+
+#: templates/bobmodules.jinja2:185
+msgid "Productivity logic board"
+msgstr ""
+
+#: templates/bobmodules.jinja2:187
+msgid "Pollution cleaning logic board"
+msgstr ""
+
+#: templates/bobmodules.jinja2:189
+msgid "Pollution producing logic board"
+msgstr ""
+
+#: templates/bobmodules.jinja2:192
+msgid "Speed processor board"
+msgstr ""
+
+#: templates/bobmodules.jinja2:194
+msgid "Effectivity processor board"
+msgstr ""
+
+#: templates/bobmodules.jinja2:196
+msgid "Productivity processor board"
+msgstr ""
+
+#: templates/bobmodules.jinja2:198
+msgid "Pollution cleaning processor board"
+msgstr ""
+
+#: templates/bobmodules.jinja2:200
+msgid "Pollution producing processor board"
+msgstr ""
+
+#: templates/bobmodules.jinja2:205
+msgid "Pollution Cleaning Modules"
+msgstr ""
+
+#: templates/bobmodules.jinja2:207
+msgid "Pollution Producing Modules"
+msgstr ""
+
+#: templates/bobmodules.jinja2:209 templates/bobmodules.jinja2:240
+msgid "Raw speed modules"
+msgstr ""
+
+#: templates/bobmodules.jinja2:211 templates/bobmodules.jinja2:242
+msgid "Raw productivity modules"
+msgstr ""
+
+#: templates/bobmodules.jinja2:213 templates/bobmodules.jinja2:238
+msgid "Green modules"
+msgstr ""
+
+#: templates/bobmodules.jinja2:215 templates/bobmodules.jinja2:244
+msgid "God modules"
+msgstr ""
+
+#: templates/bobmodules.jinja2:218
+msgid "Module effect combining"
+msgstr ""
+
+#: templates/bobmodules.jinja2:233
+msgid "Modules"
+msgstr ""
+
+#: templates/bobmodules.jinja2:246
+msgid "Productivity limitations"
+msgstr ""
+
+#: templates/bobmodules.jinja2:248
+msgid "speed on Productivity modules"
+msgstr ""
+
+#: templates/bobmodules.jinja2:250
+msgid "Transmit productivity"
+msgstr ""
+
+#: templates/bobmodules.jinja2:253
+msgid "Module speed bonus per tier"
+msgstr ""
+
+#: templates/bobmodules.jinja2:255
+msgid "Module pollution bonus per tier"
+msgstr ""
+
+#: templates/bobmodules.jinja2:257
+msgid "Module consumption bonus per tier"
+msgstr ""
+
+#: templates/bobmodules.jinja2:259
+msgid "Module productivity bonus per tier"
+msgstr ""
+
+#: templates/bobmodules.jinja2:261
+msgid "Module speed penalty per tier"
+msgstr ""
+
+#: templates/bobmodules.jinja2:263
+msgid "Module pollution penalty per tier"
+msgstr ""
+
+#: templates/bobmodules.jinja2:265
+msgid "Module consumption penalty per tier"
+msgstr ""
+
+#: templates/bobmodules.jinja2:267
+msgid "Module pollution create bonus per tier"
+msgstr ""
+
+#: templates/bobmodules.jinja2:270
+msgid "Module speed bonus start"
+msgstr ""
+
+#: templates/bobmodules.jinja2:272
+msgid "Module pollution bonus start"
+msgstr ""
+
+#: templates/bobmodules.jinja2:274
+msgid "Module consumption bonus start"
+msgstr ""
+
+#: templates/bobmodules.jinja2:276
+msgid "Module productivity bonus start"
+msgstr ""
+
+#: templates/bobmodules.jinja2:278
+msgid "Module speed penalty start"
+msgstr ""
+
+#: templates/bobmodules.jinja2:280
+msgid "Module pollution penalty start"
+msgstr ""
+
+#: templates/bobmodules.jinja2:282
+msgid "Module consumption penalty start"
+msgstr ""
+
+#: templates/bobmodules.jinja2:284
+msgid "Module pollution create bonus start"
+msgstr ""
+
+#: templates/bobmodules.jinja2:289
+msgid "If enabled, then Green merged module with be enabled."
+msgstr ""
+
+#: templates/bobmodules.jinja2:291
+msgid "If enabled, then Speed merged module with be enabled."
+msgstr ""
+
+#: templates/bobmodules.jinja2:293
+msgid "If enabled, then Productivity merged module with be enabled."
+msgstr ""
+
+#: templates/bobmodules.jinja2:295
+msgid "If enabled, then God modules and research are enabled."
+msgstr ""
+
+#: templates/bobmodules.jinja2:297
+msgid ""
+"If enabled, modules that effect productivity can only be used on "
+"Registered intermediates. Warning: The game will delete any modules that "
+"do not match the limits"
+msgstr ""
+
+#: templates/bobmodules.jinja2:299
+msgid ""
+"If enabled, Productivity modules suffer speed penalty. Raw productivity "
+"modules also cost Speed circuits."
+msgstr ""
+
+#: templates/bobmodules.jinja2:301
+msgid "If enabled, the Beacons can transmit the productivity effect."
+msgstr ""
+
+#: templates/bobores.jinja2:2 templates/bobplates.jinja2:2
+msgid "Gold ore"
+msgstr ""
+
+#: templates/bobores.jinja2:4 templates/bobplates.jinja2:4
+msgid "Galena (Lead ore)"
+msgstr ""
+
+#: templates/bobores.jinja2:6 templates/bobplates.jinja2:6
+msgid "Silver ore"
+msgstr ""
+
+#: templates/bobores.jinja2:8 templates/bobplates.jinja2:8
+msgid "Tin ore"
+msgstr ""
+
+#: templates/bobores.jinja2:10 templates/bobplates.jinja2:10
+msgid "Tungsten ore"
+msgstr ""
+
+#: templates/bobores.jinja2:12 templates/bobplates.jinja2:12
+msgid "Zinc ore"
+msgstr ""
+
+#: templates/bobores.jinja2:14 templates/bobplates.jinja2:14
+msgid "Bauxite (Aluminium ore)"
+msgstr ""
+
+#: templates/bobores.jinja2:16 templates/bobplates.jinja2:16
+msgid "Rutile (Titanium ore)"
+msgstr ""
+
+#: templates/bobores.jinja2:18 templates/bobplates.jinja2:18
+msgid "Nickel ore"
+msgstr ""
+
+#: templates/bobores.jinja2:20 templates/bobplates.jinja2:20
+msgid "Cobaltite"
+msgstr ""
+
+#: templates/bobores.jinja2:22 templates/bobplates.jinja2:22
+msgid "Quartz (Silicon ore)"
+msgstr ""
+
+#: templates/bobores.jinja2:24
+msgid "Sulfur"
+msgstr ""
+
+#: templates/bobores.jinja2:26
+msgid "Gemstones"
+msgstr ""
+
+#: templates/bobores.jinja2:28
+msgid "Lithia Water"
+msgstr ""
+
+#: templates/bobores.jinja2:30
+msgid "Ground Water"
+msgstr ""
+
+#: templates/bobores.jinja2:32
+msgid "Thorium ore"
+msgstr ""
+
+#: templates/bobores.jinja2:36 templates/bobores.jinja2:84
+msgid "__ENTITY__gold-ore__"
+msgstr ""
+
+#: templates/bobores.jinja2:38 templates/bobores.jinja2:86
+msgid "__ENTITY__lead-ore__"
+msgstr ""
+
+#: templates/bobores.jinja2:40 templates/bobores.jinja2:88
+msgid "__ENTITY__silver-ore__"
+msgstr ""
+
+#: templates/bobores.jinja2:42 templates/bobores.jinja2:90
+msgid "__ENTITY__tin-ore__"
+msgstr ""
+
+#: templates/bobores.jinja2:44 templates/bobores.jinja2:92
+msgid "__ENTITY__tungsten-ore__"
+msgstr ""
+
+#: templates/bobores.jinja2:46 templates/bobores.jinja2:94
+msgid "__ENTITY__zinc-ore__"
+msgstr ""
+
+#: templates/bobores.jinja2:48 templates/bobores.jinja2:96
+msgid "__ENTITY__bauxite-ore__"
+msgstr ""
+
+#: templates/bobores.jinja2:50 templates/bobores.jinja2:98
+msgid "__ENTITY__rutile-ore__"
+msgstr ""
+
+#: templates/bobores.jinja2:52 templates/bobores.jinja2:100
+msgid "__ENTITY__nickel-ore__"
+msgstr ""
+
+#: templates/bobores.jinja2:54 templates/bobores.jinja2:102
+msgid "__ENTITY__cobalt-ore__"
+msgstr ""
+
+#: templates/bobores.jinja2:56 templates/bobores.jinja2:104
+msgid "__ENTITY__quartz__"
+msgstr ""
+
+#: templates/bobores.jinja2:58 templates/bobores.jinja2:112
+msgid "__ENTITY__thorium-ore__"
+msgstr ""
+
+#: templates/bobores.jinja2:61 templates/bobplates.jinja2:24
+msgid "Unsorted gemstone ore"
+msgstr ""
+
+#: templates/bobores.jinja2:64 templates/bobplates.jinja2:218
+msgid "Ruby Ore"
+msgstr ""
+
+#: templates/bobores.jinja2:66 templates/bobplates.jinja2:227
+msgid "Sapphire Ore"
+msgstr ""
+
+#: templates/bobores.jinja2:68 templates/bobplates.jinja2:236
+msgid "Emerald Ore"
+msgstr ""
+
+#: templates/bobores.jinja2:70 templates/bobplates.jinja2:245
+msgid "Amethyst Ore"
+msgstr ""
+
+#: templates/bobores.jinja2:72 templates/bobplates.jinja2:254
+msgid "Topaz Ore"
+msgstr ""
+
+#: templates/bobores.jinja2:74 templates/bobplates.jinja2:263
+msgid "Diamond Ore"
+msgstr ""
+
+#: templates/bobores.jinja2:79
+msgid "__ENTITY__lithia-water__"
+msgstr ""
+
+#: templates/bobores.jinja2:106
+msgid "__ENTITY__sulfur__"
+msgstr ""
+
+#: templates/bobores.jinja2:108
+msgid "__ENTITY__gem-ore__"
+msgstr ""
+
+#: templates/bobores.jinja2:110
+msgid "__ENTITY__ground-water__"
+msgstr ""
+
+#: templates/bobores.jinja2:117
+msgid "Sort raw gems"
+msgstr ""
+
+#: templates/bobores.jinja2:123
+msgid "Infinite ores"
+msgstr ""
+
+#: templates/bobores.jinja2:125
+msgid "Enhanced Stone"
+msgstr ""
+
+#: templates/bobores.jinja2:127
+msgid "Unsorted gem ore"
+msgstr ""
+
+#: templates/bobores.jinja2:129
+msgid "Lead gives Nickel"
+msgstr ""
+
+#: templates/bobores.jinja2:131
+msgid "Lead Nickel ratio"
+msgstr ""
+
+#: templates/bobores.jinja2:133
+msgid "Nickel gives Cobalt"
+msgstr ""
+
+#: templates/bobores.jinja2:135
+msgid "Nickel Cobalt ratio"
+msgstr ""
+
+#: templates/bobores.jinja2:137
+msgid "Gems from other ores"
+msgstr ""
+
+#: templates/bobores.jinja2:139
+msgid "Gem Probabillity (From other ores)"
+msgstr ""
+
+#: templates/bobores.jinja2:141
+msgid "Ruby ratio"
+msgstr ""
+
+#: templates/bobores.jinja2:143
+msgid "Sapphire ratio"
+msgstr ""
+
+#: templates/bobores.jinja2:145
+msgid "Emerald ratio"
+msgstr ""
+
+#: templates/bobores.jinja2:147
+msgid "Amethyst ratio"
+msgstr ""
+
+#: templates/bobores.jinja2:149
+msgid "Topaz ratio"
+msgstr ""
+
+#: templates/bobores.jinja2:151
+msgid "Diamond ratio"
+msgstr ""
+
+#: templates/bobores.jinja2:153
+msgid "Enable bauxite"
+msgstr ""
+
+#: templates/bobores.jinja2:155
+msgid "Enable cobalt ore"
+msgstr ""
+
+#: templates/bobores.jinja2:157
+msgid "Enable gems ore"
+msgstr ""
+
+#: templates/bobores.jinja2:159
+msgid "Enable gold ore"
+msgstr ""
+
+#: templates/bobores.jinja2:161
+msgid "Enable lead ore"
+msgstr ""
+
+#: templates/bobores.jinja2:163
+msgid "Enable nickel ore"
+msgstr ""
+
+#: templates/bobores.jinja2:165
+msgid "Enable quartz"
+msgstr ""
+
+#: templates/bobores.jinja2:167
+msgid "Enable rutile"
+msgstr ""
+
+#: templates/bobores.jinja2:169
+msgid "Enable silver ore"
+msgstr ""
+
+#: templates/bobores.jinja2:171
+msgid "Enable sulfur"
+msgstr ""
+
+#: templates/bobores.jinja2:173
+msgid "Enable tin ore"
+msgstr ""
+
+#: templates/bobores.jinja2:175
+msgid "Enable tungsten ore"
+msgstr ""
+
+#: templates/bobores.jinja2:177
+msgid "Enable zinc ore"
+msgstr ""
+
+#: templates/bobores.jinja2:179
+msgid "Enable water ores"
+msgstr ""
+
+#: templates/bobores.jinja2:181
+msgid "Enable thorium ore"
+msgstr ""
+
+#: templates/bobores.jinja2:186
+msgid "Makes all ores infinite"
+msgstr ""
+
+#: templates/bobores.jinja2:188
+msgid "If set to true, Stone will apear in larger, richer vains."
+msgstr ""
+
+#: templates/bobores.jinja2:190
+msgid ""
+"If set to true, Gem ore fields will give the Unsorted Gems resource. If "
+"false will give each ore type."
+msgstr ""
+
+#: templates/bobores.jinja2:192
+msgid "If set to true, mining Lead can also give Nickel"
+msgstr ""
+
+#: templates/bobores.jinja2:194
+msgid "How often you get Nickel per Lead"
+msgstr ""
+
+#: templates/bobores.jinja2:196
+msgid "If set to true, mining Nickel can also give Cobalt"
+msgstr ""
+
+#: templates/bobores.jinja2:198
+msgid "How often you get Cobalt per Nickel"
+msgstr ""
+
+#: templates/bobores.jinja2:200
+msgid ""
+"If set to true, Diamonds can be obtained from mining Coal, Ruby, Saphire "
+"and Topaz from Bauxite, and Amethyst and Emerald from Quartz"
+msgstr ""
+
+#: templates/bobores.jinja2:202
+msgid "How often you get a gem from mining Coal, Bauxite or Quartz"
+msgstr ""
+
+#: templates/bobores.jinja2:204
+msgid "How often you get a Ruby"
+msgstr ""
+
+#: templates/bobores.jinja2:206
+msgid "How often you get a Sapphire"
+msgstr ""
+
+#: templates/bobores.jinja2:208
+msgid "How often you get an Emerald"
+msgstr ""
+
+#: templates/bobores.jinja2:210
+msgid "How often you get an Amethyst"
+msgstr ""
+
+#: templates/bobores.jinja2:212
+msgid "How often you get a Topaz"
+msgstr ""
+
+#: templates/bobores.jinja2:214
+msgid "How often you get a Diamond"
+msgstr ""
+
+#: templates/bobplates.jinja2:27
+msgid "Gold plate"
+msgstr ""
+
+#: templates/bobplates.jinja2:29
+msgid "Lead plate"
+msgstr ""
+
+#: templates/bobplates.jinja2:31
+msgid "Silver plate"
+msgstr ""
+
+#: templates/bobplates.jinja2:33
+msgid "Tin plate"
+msgstr ""
+
+#: templates/bobplates.jinja2:35
+msgid "Tungsten plate"
+msgstr ""
+
+#: templates/bobplates.jinja2:37
+msgid "Zinc plate"
+msgstr ""
+
+#: templates/bobplates.jinja2:39
+msgid "Nickel plate"
+msgstr ""
+
+#: templates/bobplates.jinja2:41
+msgid "Aluminium plate"
+msgstr ""
+
+#: templates/bobplates.jinja2:43
+msgid "Titanium plate"
+msgstr ""
+
+#: templates/bobplates.jinja2:45
+msgid "Silicon plate"
+msgstr ""
+
+#: templates/bobplates.jinja2:47
+msgid "Cobalt plate"
+msgstr ""
+
+#: templates/bobplates.jinja2:49
+msgid "Lithium"
+msgstr ""
+
+#: templates/bobplates.jinja2:52
+msgid "Bronze plate"
+msgstr ""
+
+#: templates/bobplates.jinja2:54
+msgid "Brass plate"
+msgstr ""
+
+#: templates/bobplates.jinja2:56
+msgid "Copper-tungsten plate"
+msgstr ""
+
+#: templates/bobplates.jinja2:58
+msgid "Tungsten carbide plate"
+msgstr ""
+
+#: templates/bobplates.jinja2:60
+msgid "Gunmetal plate"
+msgstr ""
+
+#: templates/bobplates.jinja2:62
+msgid "Invar plate"
+msgstr ""
+
+#: templates/bobplates.jinja2:64
+msgid "Nitinol plate"
+msgstr ""
+
+#: templates/bobplates.jinja2:68
+msgid "Cobalt steel plate"
+msgstr ""
+
+#: templates/bobplates.jinja2:71
+msgid "Alumina"
+msgstr ""
+
+#: templates/bobplates.jinja2:73
+msgid "Calcium chloride"
+msgstr ""
+
+#: templates/bobplates.jinja2:75 templates/bobplates.jinja2:370
+#: templates/bobplates.jinja2:372
+msgid "Lead oxide"
+msgstr ""
+
+#: templates/bobplates.jinja2:77
+msgid "Tungsten oxide"
+msgstr ""
+
+#: templates/bobplates.jinja2:79
+msgid "Powdered tungsten"
+msgstr ""
+
+#: templates/bobplates.jinja2:81
+msgid "Powdered silicon"
+msgstr ""
+
+#: templates/bobplates.jinja2:83
+msgid "Cobalt Oxide"
+msgstr ""
+
+#: templates/bobplates.jinja2:86
+msgid "Salt"
+msgstr ""
+
+#: templates/bobplates.jinja2:88
+msgid "Sodium hydroxide"
+msgstr ""
+
+#: templates/bobplates.jinja2:96
+msgid "Silicon wafer"
+msgstr ""
+
+#: templates/bobplates.jinja2:98
+msgid "Silicon nitride"
+msgstr ""
+
+#: templates/bobplates.jinja2:100
+msgid "Silicon carbide"
+msgstr ""
+
+#: templates/bobplates.jinja2:102
+msgid "Glass"
+msgstr ""
+
+#: templates/bobplates.jinja2:104
+msgid "Lithium chloride"
+msgstr ""
+
+#: templates/bobplates.jinja2:106
+msgid "Lithium perchlorate"
+msgstr ""
+
+#: templates/bobplates.jinja2:108
+msgid "Lithium cobalt oxide"
+msgstr ""
+
+#: templates/bobplates.jinja2:111
+msgid "Silver nitrate"
+msgstr ""
+
+#: templates/bobplates.jinja2:113
+msgid "Silver oxide"
+msgstr ""
+
+#: templates/bobplates.jinja2:115
+msgid "Silver zinc battery"
+msgstr ""
+
+#: templates/bobplates.jinja2:118
+msgid "Lithium-ion battery"
+msgstr ""
+
+#: templates/bobplates.jinja2:120
+msgid "Grinding wheel"
+msgstr ""
+
+#: templates/bobplates.jinja2:122
+msgid "Polishing compound"
+msgstr ""
+
+#: templates/bobplates.jinja2:124
+msgid "Polishing wheel"
+msgstr ""
+
+#: templates/bobplates.jinja2:128
+msgid "Advanced processing unit"
+msgstr ""
+
+#: templates/bobplates.jinja2:132
+msgid "Steel gear wheel"
+msgstr ""
+
+#: templates/bobplates.jinja2:134
+msgid "Brass gear wheel"
+msgstr ""
+
+#: templates/bobplates.jinja2:136
+msgid "Cobalt steel gear wheel"
+msgstr ""
+
+#: templates/bobplates.jinja2:138
+msgid "Titanium gear wheel"
+msgstr ""
+
+#: templates/bobplates.jinja2:140
+msgid "Tungsten gear wheel"
+msgstr ""
+
+#: templates/bobplates.jinja2:142
+msgid "Nitinol gear wheel"
+msgstr ""
+
+#: templates/bobplates.jinja2:145
+msgid "Steel bearing ball"
+msgstr ""
+
+#: templates/bobplates.jinja2:147
+msgid "Brass bearing ball"
+msgstr ""
+
+#: templates/bobplates.jinja2:149
+msgid "Cobalt steel bearing ball"
+msgstr ""
+
+#: templates/bobplates.jinja2:151
+msgid "Titanium bearing ball"
+msgstr ""
+
+#: templates/bobplates.jinja2:153
+msgid "Nitinol bearing ball"
+msgstr ""
+
+#: templates/bobplates.jinja2:155
+msgid "Ceramic bearing ball"
+msgstr ""
+
+#: templates/bobplates.jinja2:158
+msgid "Steel bearing"
+msgstr ""
+
+#: templates/bobplates.jinja2:160
+msgid "Brass bearing"
+msgstr ""
+
+#: templates/bobplates.jinja2:162
+msgid "Cobalt steel bearing"
+msgstr ""
+
+#: templates/bobplates.jinja2:164
+msgid "Titanium bearing"
+msgstr ""
+
+#: templates/bobplates.jinja2:166
+msgid "Nitinol bearing"
+msgstr ""
+
+#: templates/bobplates.jinja2:168
+msgid "Ceramic bearing"
+msgstr ""
+
+#: templates/bobplates.jinja2:173 templates/bobplates.jinja2:414
+msgid "Distillery"
+msgstr ""
+
+#: templates/bobplates.jinja2:176 templates/bobplates.jinja2:417
+msgid "Metal mixing furnace"
+msgstr ""
+
+#: templates/bobplates.jinja2:178 templates/bobplates.jinja2:419
+msgid "Electric Metal mixing furnace"
+msgstr ""
+
+#: templates/bobplates.jinja2:180 templates/bobplates.jinja2:421
+#: templates/bobplates.jinja2:555
+msgid "Steel Metal mixing furnace"
+msgstr ""
+
+#: templates/bobplates.jinja2:183 templates/bobplates.jinja2:424
+msgid "Chemical furnace"
+msgstr ""
+
+#: templates/bobplates.jinja2:185 templates/bobplates.jinja2:426
+msgid "Electric Chemical furnace"
+msgstr ""
+
+#: templates/bobplates.jinja2:187 templates/bobplates.jinja2:428
+msgid "Steel Chemical furnace"
+msgstr ""
+
+#: templates/bobplates.jinja2:190 templates/bobplates.jinja2:431
+msgid "Compressor"
+msgstr ""
+
+#: templates/bobplates.jinja2:192 templates/bobplates.jinja2:433
+msgid "Compressor MK2"
+msgstr ""
+
+#: templates/bobplates.jinja2:194 templates/bobplates.jinja2:435
+msgid "Compressor MK3"
+msgstr ""
+
+#: templates/bobplates.jinja2:196 templates/bobplates.jinja2:437
+msgid "Compressor MK4"
+msgstr ""
+
+#: templates/bobplates.jinja2:199 templates/bobplates.jinja2:440
+msgid "Pump"
+msgstr ""
+
+#: templates/bobplates.jinja2:208
+msgid "Gas Bottle"
+msgstr ""
+
+#: templates/bobplates.jinja2:210
+msgid "Empty canister"
+msgstr ""
+
+#: templates/bobplates.jinja2:212
+msgid "Bottled __1__"
+msgstr ""
+
+#: templates/bobplates.jinja2:214
+msgid "__1__ canister"
+msgstr ""
+
+#: templates/bobplates.jinja2:220
+msgid "Raw Ruby"
+msgstr ""
+
+#: templates/bobplates.jinja2:222
+msgid "Cut Ruby"
+msgstr ""
+
+#: templates/bobplates.jinja2:224
+msgid "Polished Ruby"
+msgstr ""
+
+#: templates/bobplates.jinja2:229
+msgid "Raw Sapphire"
+msgstr ""
+
+#: templates/bobplates.jinja2:231
+msgid "Cut Sapphire"
+msgstr ""
+
+#: templates/bobplates.jinja2:233
+msgid "Polished Sapphire"
+msgstr ""
+
+#: templates/bobplates.jinja2:238
+msgid "Raw Emerald"
+msgstr ""
+
+#: templates/bobplates.jinja2:240
+msgid "Cut Emerald"
+msgstr ""
+
+#: templates/bobplates.jinja2:242
+msgid "Polished Emerald"
+msgstr ""
+
+#: templates/bobplates.jinja2:247
+msgid "Raw Amethyst"
+msgstr ""
+
+#: templates/bobplates.jinja2:249
+msgid "Cut Amethyst"
+msgstr ""
+
+#: templates/bobplates.jinja2:251
+msgid "Polished Amethyst"
+msgstr ""
+
+#: templates/bobplates.jinja2:256
+msgid "Raw Topaz"
+msgstr ""
+
+#: templates/bobplates.jinja2:258
+msgid "Cut Topaz"
+msgstr ""
+
+#: templates/bobplates.jinja2:260
+msgid "Polished Topaz"
+msgstr ""
+
+#: templates/bobplates.jinja2:265
+msgid "Raw Diamond"
+msgstr ""
+
+#: templates/bobplates.jinja2:267
+msgid "Cut Diamond"
+msgstr ""
+
+#: templates/bobplates.jinja2:269
+msgid "Polished Diamond"
+msgstr ""
+
+#: templates/bobplates.jinja2:273 templates/bobplates.jinja2:470
+msgid "Void"
+msgstr ""
+
+#: templates/bobplates.jinja2:275 templates/bobplates.jinja2:454
+msgid "Gas venting pump"
+msgstr ""
+
+#: templates/bobplates.jinja2:278
+msgid "Blue alien alloy"
+msgstr ""
+
+#: templates/bobplates.jinja2:280
+msgid "Orange alien alloy"
+msgstr ""
+
+#: templates/bobplates.jinja2:283
+msgid "Alien acid barrel"
+msgstr ""
+
+#: templates/bobplates.jinja2:285
+msgid "Alien poison barrel"
+msgstr ""
+
+#: templates/bobplates.jinja2:287
+msgid "Alien explosive barrel"
+msgstr ""
+
+#: templates/bobplates.jinja2:289
+msgid "Alien fire barrel"
+msgstr ""
+
+#: templates/bobplates.jinja2:292
+msgid "Enriched fuel block"
+msgstr ""
+
+#: templates/bobplates.jinja2:295
+msgid "Thorium-232"
+msgstr ""
+
+#: templates/bobplates.jinja2:297
+msgid "Plutonium-239"
+msgstr ""
+
+#: templates/bobplates.jinja2:299
+msgid "Thorium fuel cell"
+msgstr ""
+
+#: templates/bobplates.jinja2:301 templates/bobplates.jinja2:399
+msgid "Thorium-plutonium fuel cell"
+msgstr ""
+
+#: templates/bobplates.jinja2:303
+msgid "Used up thorium fuel cell"
+msgstr ""
+
+#: templates/bobplates.jinja2:305
+msgid "Deuterium fuel cell"
+msgstr ""
+
+#: templates/bobplates.jinja2:307
+msgid "Used up deuterium fuel cell"
+msgstr ""
+
+#: templates/bobplates.jinja2:312
+msgid "Hydrogen"
+msgstr ""
+
+#: templates/bobplates.jinja2:314 templates/bobrevamp.jinja2:67
+msgid "Deuterium"
+msgstr ""
+
+#: templates/bobplates.jinja2:316
+msgid "Oxygen"
+msgstr ""
+
+#: templates/bobplates.jinja2:318
+msgid "Nitrogen"
+msgstr ""
+
+#: templates/bobplates.jinja2:320
+msgid "Chlorine"
+msgstr ""
+
+#: templates/bobplates.jinja2:323
+msgid "Compressed air"
+msgstr ""
+
+#: templates/bobplates.jinja2:325
+msgid "Hydrogen chloride"
+msgstr ""
+
+#: templates/bobplates.jinja2:327
+msgid "Sulfur dioxide"
+msgstr ""
+
+#: templates/bobplates.jinja2:329
+msgid "Hydrogen sulfide"
+msgstr ""
+
+#: templates/bobplates.jinja2:331 templates/bobrevamp.jinja2:47
+msgid "Nitrogen dioxide"
+msgstr ""
+
+#: templates/bobplates.jinja2:333
+msgid "Nitric acid"
+msgstr ""
+
+#: templates/bobplates.jinja2:335
+msgid "Tungstic acid"
+msgstr ""
+
+#: templates/bobplates.jinja2:339
+msgid "Liquid fuel"
+msgstr ""
+
+#: templates/bobplates.jinja2:341
+msgid "Lithia water"
+msgstr ""
+
+#: templates/bobplates.jinja2:343
+msgid "Pure water"
+msgstr ""
+
+#: templates/bobplates.jinja2:345
+msgid "Heavy water"
+msgstr ""
+
+#: templates/bobplates.jinja2:349
+msgid "Alien acid fluid"
+msgstr ""
+
+#: templates/bobplates.jinja2:351
+msgid "Alien poison fluid"
+msgstr ""
+
+#: templates/bobplates.jinja2:353
+msgid "Alien explosive fluid"
+msgstr ""
+
+#: templates/bobplates.jinja2:355
+msgid "Alien flame fluid"
+msgstr ""
+
+#: templates/bobplates.jinja2:360
+msgid "Water electrolysis"
+msgstr ""
+
+#: templates/bobplates.jinja2:362
+msgid "Salt water electrolysis"
+msgstr ""
+
+#: templates/bobplates.jinja2:364
+msgid "Heavy water electrolysis"
+msgstr ""
+
+#: templates/bobplates.jinja2:366
+msgid "Lithium chloride Electrolysis"
+msgstr ""
+
+#: templates/bobplates.jinja2:368
+msgid "Tungstic Acid"
+msgstr ""
+
+#: templates/bobplates.jinja2:376
+msgid "Petroleum gas cracking to Hydrogen"
+msgstr ""
+
+#: templates/bobplates.jinja2:378
+msgid "Solid fuel from Hydrogen"
+msgstr ""
+
+#: templates/bobplates.jinja2:380
+msgid "Advanced copper processing with Cobalt oxide"
+msgstr ""
+
+#: templates/bobplates.jinja2:382
+msgid "Advanced lead processing with Silver ore"
+msgstr ""
+
+#: templates/bobplates.jinja2:384
+msgid "Heavy water seperation"
+msgstr ""
+
+#: templates/bobplates.jinja2:387
+msgid "Empty __1__ bottle"
+msgstr ""
+
+#: templates/bobplates.jinja2:389
+msgid "Empty __1__ canister"
+msgstr ""
+
+#: templates/bobplates.jinja2:391
+msgid "Fill __1__ bottle"
+msgstr ""
+
+#: templates/bobplates.jinja2:393
+msgid "Fill __1__ canister"
+msgstr ""
+
+#: templates/bobplates.jinja2:401 templates/bobplates.jinja2:558
+msgid "Thorium processing"
+msgstr ""
+
+#: templates/bobplates.jinja2:403 templates/bobplates.jinja2:560
+msgid "Thorium fuel reprocessing"
+msgstr ""
+
+#: templates/bobplates.jinja2:405 templates/bobplates.jinja2:564
+msgid "Deuterium fuel reprocessing"
+msgstr ""
+
+#: templates/bobplates.jinja2:407 templates/bobplates.jinja2:562
+msgid "Bobingabout enrichment process"
+msgstr ""
+
+#: templates/bobplates.jinja2:449
+msgid "Small storage tank"
+msgstr ""
+
+#: templates/bobplates.jinja2:451
+msgid "Small inline storage tank"
+msgstr ""
+
+#: templates/bobplates.jinja2:467
+msgid "Bob's Gemstones"
+msgstr ""
+
+#: templates/bobplates.jinja2:475
+msgid "Alloy processing"
+msgstr ""
+
+#: templates/bobplates.jinja2:477
+msgid "Chemical processing"
+msgstr ""
+
+#: templates/bobplates.jinja2:479
+msgid "Electrolysis"
+msgstr ""
+
+#: templates/bobplates.jinja2:482
+msgid "Aluminium processing"
+msgstr ""
+
+#: templates/bobplates.jinja2:484
+msgid "Gold processing"
+msgstr ""
+
+#: templates/bobplates.jinja2:486
+msgid "Nickel processing"
+msgstr ""
+
+#: templates/bobplates.jinja2:488
+msgid "Lead processing"
+msgstr ""
+
+#: templates/bobplates.jinja2:490
+msgid "Silicon processing"
+msgstr ""
+
+#: templates/bobplates.jinja2:492
+msgid "Titanium processing"
+msgstr ""
+
+#: templates/bobplates.jinja2:494
+msgid "Tungsten processing"
+msgstr ""
+
+#: templates/bobplates.jinja2:496
+msgid "Zinc processing"
+msgstr ""
+
+#: templates/bobplates.jinja2:498
+msgid "Lithium processing"
+msgstr ""
+
+#: templates/bobplates.jinja2:500
+msgid "Cobalt processing"
+msgstr ""
+
+#: templates/bobplates.jinja2:503
+msgid "Brass processing"
+msgstr ""
+
+#: templates/bobplates.jinja2:505
+msgid "Nitinol processing"
+msgstr ""
+
+#: templates/bobplates.jinja2:507
+msgid "Invar processing"
+msgstr ""
+
+#: templates/bobplates.jinja2:509
+msgid "Tungsten alloy processing"
+msgstr ""
+
+#: templates/bobplates.jinja2:512
+msgid "Nitrogen processing"
+msgstr ""
+
+#: templates/bobplates.jinja2:514
+msgid "Heavy water processing"
+msgstr ""
+
+#: templates/bobplates.jinja2:516
+msgid "Deuterium processing"
+msgstr ""
+
+#: templates/bobplates.jinja2:518
+msgid "Ceramics"
+msgstr ""
+
+#: templates/bobplates.jinja2:521
+msgid "Water bore"
+msgstr ""
+
+#: templates/bobplates.jinja2:523
+msgid "Air Compressors"
+msgstr ""
+
+#: templates/bobplates.jinja2:525
+msgid "Bottled gas processing"
+msgstr ""
+
+#: templates/bobplates.jinja2:527
+msgid "Barrelling"
+msgstr ""
+
+#: templates/bobplates.jinja2:530
+msgid "Grinding"
+msgstr ""
+
+#: templates/bobplates.jinja2:532
+msgid "Polishing"
+msgstr ""
+
+#: templates/bobplates.jinja2:534
+msgid "Gem processing"
+msgstr ""
+
+#: templates/bobplates.jinja2:538
+msgid "Gas venting"
+msgstr ""
+
+#: templates/bobplates.jinja2:542
+msgid "Blue alien artifact research"
+msgstr ""
+
+#: templates/bobplates.jinja2:544
+msgid "Orange alien artifact research"
+msgstr ""
+
+#: templates/bobplates.jinja2:546
+msgid "Purple alien artifact research"
+msgstr ""
+
+#: templates/bobplates.jinja2:548
+msgid "Yellow alien artifact research"
+msgstr ""
+
+#: templates/bobplates.jinja2:550
+msgid "Green alien artifact research"
+msgstr ""
+
+#: templates/bobplates.jinja2:552
+msgid "Red alien artifact research"
+msgstr ""
+
+#: templates/bobplates.jinja2:569
+msgid "Learn how to combine more than one ingredient to make an alloy."
+msgstr ""
+
+#: templates/bobplates.jinja2:571
+msgid "Research into to use and production of chemicals."
+msgstr ""
+
+#: templates/bobplates.jinja2:573
+msgid "Electrolysis is uses to separate elements from a liquid."
+msgstr ""
+
+#: templates/bobplates.jinja2:576
+msgid "Research how to purify aluminium, a fairly strong light weight metal."
+msgstr ""
+
+#: templates/bobplates.jinja2:578
+msgid "Research how to refine gold."
+msgstr ""
+
+#: templates/bobplates.jinja2:580
+msgid "Research how to refine nickel."
+msgstr ""
+
+#: templates/bobplates.jinja2:582
+msgid "Research how to refine lead."
+msgstr ""
+
+#: templates/bobplates.jinja2:584
+msgid "Research how to purify silicon for use in electronics."
+msgstr ""
+
+#: templates/bobplates.jinja2:586
+msgid ""
+"Titanium is a very strong light weight metal, but hard to separate from "
+"its ore."
+msgstr ""
+
+#: templates/bobplates.jinja2:588
+msgid ""
+"Tungsten has a very high melting point, let's research how to refine it "
+"another way."
+msgstr ""
+
+#: templates/bobplates.jinja2:591
+msgid "Nitinol is a Nickel Titanium alloy, let's see what we can use it for."
+msgstr ""
+
+#: templates/bobplates.jinja2:593
+msgid "Invar is an Iron Nickel alloy, maybe we can use this for something."
+msgstr ""
+
+#: templates/bobplates.jinja2:595
+msgid ""
+"Research how to make Tungsten based alloys, this might make it even more "
+"useful."
+msgstr ""
+
+#: templates/bobplates.jinja2:600
+msgid "Cheaper Steel"
+msgstr ""
+
+#: templates/bobplates.jinja2:602
+msgid "New Steel"
+msgstr ""
+
+#: templates/bobplates.jinja2:604
+msgid "Battery update"
+msgstr ""
+
+#: templates/bobplates.jinja2:606
+msgid "Inventory size"
+msgstr ""
+
+#: templates/bobplates.jinja2:608
+msgid "Ore enable override"
+msgstr ""
+
+#: templates/bobplates.jinja2:610
+msgid "Enable pure water"
+msgstr ""
+
+#: templates/bobplates.jinja2:612
+msgid "Enable ground water boring recipes"
+msgstr ""
+
+#: templates/bobplates.jinja2:614
+msgid "Enable Vanilla barrelling"
+msgstr ""
+
+#: templates/bobplates.jinja2:618
+msgid "Deuterium is blue!"
+msgstr ""
+
+#: templates/bobplates.jinja2:623
+msgid ""
+"If enabled, Steel will cost 2 iron plates in stead of 5 (or 4 in "
+"expensive mode)"
+msgstr ""
+
+#: templates/bobplates.jinja2:625
+msgid "If enabled, Steel will have a more complex recipe, and more prerequisites."
+msgstr ""
+
+#: templates/bobplates.jinja2:627
+msgid ""
+"If enabled, the recipe for battery will be replaced with one more in line"
+" with the mod"
+msgstr ""
+
+#: templates/bobplates.jinja2:629
+msgid ""
+"An override for the character inventory size. Changing this will change "
+"the inventory for the player character."
+msgstr ""
+
+#: templates/bobplates.jinja2:631
+msgid ""
+"When enabled, all ores added in my ores mod required for normal operation"
+" of this mod will be force enabled, ignoring that ore's setting in the "
+"bobores section."
+msgstr ""
+
+#: templates/bobplates.jinja2:633
+msgid ""
+"If enabled, pure water will exist. This water will be required for "
+"Electrolysis and will override the result of mining ground water. it can "
+"also be made by condensing steam."
+msgstr ""
+
+#: templates/bobplates.jinja2:635
+msgid ""
+"If enabled, the water pump can bore for water anywhere on the map. Water "
+"mining patches will not be force enabled."
+msgstr ""
+
+#: templates/bobplates.jinja2:637
+msgid "If enabled Assembling machines can be used for barrelling"
+msgstr ""
+
+#: templates/bobplates.jinja2:639
+msgid ""
+"I heard Deuterium was supposed to be blue, so I want the game to show it "
+"as such"
+msgstr ""
+
+#: templates/bobpower.jinja2:2
+msgid "Solar energy"
+msgstr ""
+
+#: templates/bobpower.jinja2:4
+msgid "Electric energy accumulators"
+msgstr ""
+
+#: templates/bobpower.jinja2:7
+msgid "Electric Poles"
+msgstr ""
+
+#: templates/bobpower.jinja2:9
+msgid "Substations"
+msgstr ""
+
+#: templates/bobpower.jinja2:12
+msgid "Advanced steam power"
+msgstr ""
+
+#: templates/bobpower.jinja2:14 templates/bobtech.jinja2:14
+msgid "Steam power"
+msgstr ""
+
+#: templates/bobpower.jinja2:17 templates/bobpower.jinja2:177
+#: templates/bobpower.jinja2:279
+msgid "Oil burning generator"
+msgstr ""
+
+#: templates/bobpower.jinja2:19 templates/bobpower.jinja2:183
+#: templates/bobpower.jinja2:285
+msgid "Hydrazine generator"
+msgstr ""
+
+#: templates/bobpower.jinja2:22
+msgid "__ENTITY__steam-engine__"
+msgstr ""
+
+#: templates/bobpower.jinja2:24
+msgid "__ENTITY__boiler__"
+msgstr ""
+
+#: templates/bobpower.jinja2:26
+msgid "__ENTITY__heat-exchanger__"
+msgstr ""
+
+#: templates/bobpower.jinja2:28
+msgid "__ENTITY__steam-turbine__"
+msgstr ""
+
+#: templates/bobpower.jinja2:30 templates/bobpower.jinja2:136
+msgid "Oil burning boiler"
+msgstr ""
+
+#: templates/bobpower.jinja2:32
+msgid "Nuclear power"
+msgstr ""
+
+#: templates/bobpower.jinja2:34
+msgid "Heat pipe"
+msgstr ""
+
+#: templates/bobpower.jinja2:36 templates/bobpower.jinja2:194
+msgid "Burner heat source"
+msgstr ""
+
+#: templates/bobpower.jinja2:38 templates/bobpower.jinja2:201
+msgid "Oil burning heat source"
+msgstr ""
+
+#: templates/bobpower.jinja2:43
+msgid "A source of infinite energy, but useless at night."
+msgstr ""
+
+#: templates/bobpower.jinja2:45
+msgid "Accumulators are used to store electric energy."
+msgstr ""
+
+#: templates/bobpower.jinja2:47
+msgid "Research for better Electric Poles"
+msgstr ""
+
+#: templates/bobpower.jinja2:49
+msgid "Research for better Substations"
+msgstr ""
+
+#: templates/bobpower.jinja2:51
+msgid "Research into making and improving boilers."
+msgstr ""
+
+#: templates/bobpower.jinja2:53
+msgid "Research into making and improving steam engine electric generators."
+msgstr ""
+
+#: templates/bobpower.jinja2:55
+msgid "Research into making and improving oil burning boilers."
+msgstr ""
+
+#: templates/bobpower.jinja2:57
+msgid "Research into making and improving heat exchangers."
+msgstr ""
+
+#: templates/bobpower.jinja2:59
+msgid "Research into improving steam engine electric generators using turbines."
+msgstr ""
+
+#: templates/bobpower.jinja2:61
+msgid ""
+"Research into heat pipes, a method to conduct heat around for use as a "
+"power source."
+msgstr ""
+
+#: templates/bobpower.jinja2:63
+msgid ""
+"Research into heat power. The burner heat source burns fuel items to "
+"generate heat. Connect it to heat powered entities such as heat "
+"exchangers using heat pipes."
+msgstr ""
+
+#: templates/bobpower.jinja2:65
+msgid ""
+"Research into heat power. The oil burning heat source burns fluid fuels "
+"to generate heat. Connect it to heat powered entities such as heat "
+"exchangers using heat pipes."
+msgstr ""
+
+#: templates/bobpower.jinja2:70 templates/bobpower.jinja2:217
+msgid "Small Solar Panel"
+msgstr ""
+
+#: templates/bobpower.jinja2:72 templates/bobpower.jinja2:219
+msgid "Large Solar Panel"
+msgstr ""
+
+#: templates/bobpower.jinja2:75 templates/bobpower.jinja2:222
+msgid "Small Solar Panel 2"
+msgstr ""
+
+#: templates/bobpower.jinja2:77 templates/bobpower.jinja2:224
+msgid "Solar Panel 2"
+msgstr ""
+
+#: templates/bobpower.jinja2:79 templates/bobpower.jinja2:226
+msgid "Large Solar Panel 2"
+msgstr ""
+
+#: templates/bobpower.jinja2:82 templates/bobpower.jinja2:229
+msgid "Small Solar Panel 3"
+msgstr ""
+
+#: templates/bobpower.jinja2:84 templates/bobpower.jinja2:231
+msgid "Solar Panel 3"
+msgstr ""
+
+#: templates/bobpower.jinja2:86 templates/bobpower.jinja2:233
+msgid "Large Solar Panel 3"
+msgstr ""
+
+#: templates/bobpower.jinja2:90 templates/bobpower.jinja2:237
+msgid "High capacity accumulator"
+msgstr ""
+
+#: templates/bobpower.jinja2:92 templates/bobpower.jinja2:239
+msgid "Fast accumulator"
+msgstr ""
+
+#: templates/bobpower.jinja2:94
+msgid "Slow accumulator"
+msgstr ""
+
+#: templates/bobpower.jinja2:97 templates/bobpower.jinja2:244
+msgid "High capacity accumulator 2"
+msgstr ""
+
+#: templates/bobpower.jinja2:99 templates/bobpower.jinja2:246
+msgid "Fast accumulator 2"
+msgstr ""
+
+#: templates/bobpower.jinja2:101
+msgid "Slow accumulator 2"
+msgstr ""
+
+#: templates/bobpower.jinja2:104 templates/bobpower.jinja2:251
+msgid "High capacity accumulator 3"
+msgstr ""
+
+#: templates/bobpower.jinja2:106 templates/bobpower.jinja2:253
+msgid "Fast accumulator 3"
+msgstr ""
+
+#: templates/bobpower.jinja2:108
+msgid "Slow accumulator 3"
+msgstr ""
+
+#: templates/bobpower.jinja2:112
+msgid "__ENTITY__steam-engine__ 2"
+msgstr ""
+
+#: templates/bobpower.jinja2:114
+msgid "__ENTITY__steam-engine__ 3"
+msgstr ""
+
+#: templates/bobpower.jinja2:116
+msgid "__ENTITY__steam-engine__ 4"
+msgstr ""
+
+#: templates/bobpower.jinja2:118
+msgid "__ENTITY__steam-engine__ 5"
+msgstr ""
+
+#: templates/bobpower.jinja2:121
+msgid "__ENTITY__steam-turbine__ 2"
+msgstr ""
+
+#: templates/bobpower.jinja2:123
+msgid "__ENTITY__steam-turbine__ 3"
+msgstr ""
+
+#: templates/bobpower.jinja2:127
+msgid "__ENTITY__boiler__ 2"
+msgstr ""
+
+#: templates/bobpower.jinja2:129
+msgid "__ENTITY__boiler__ 3"
+msgstr ""
+
+#: templates/bobpower.jinja2:131
+msgid "__ENTITY__boiler__ 4"
+msgstr ""
+
+#: templates/bobpower.jinja2:133
+msgid "__ENTITY__boiler__ 5"
+msgstr ""
+
+#: templates/bobpower.jinja2:138
+msgid "__ENTITY__oil-boiler__ 2"
+msgstr ""
+
+#: templates/bobpower.jinja2:140
+msgid "__ENTITY__oil-boiler__ 3"
+msgstr ""
+
+#: templates/bobpower.jinja2:142
+msgid "__ENTITY__oil-boiler__ 4"
+msgstr ""
+
+#: templates/bobpower.jinja2:145
+msgid "__ENTITY__heat-exchanger__ 2"
+msgstr ""
+
+#: templates/bobpower.jinja2:147
+msgid "__ENTITY__heat-exchanger__ 3"
+msgstr ""
+
+#: templates/bobpower.jinja2:150
+msgid "__ENTITY__heat-pipe__ 2"
+msgstr ""
+
+#: templates/bobpower.jinja2:152
+msgid "__ENTITY__heat-pipe__ 3"
+msgstr ""
+
+#: templates/bobpower.jinja2:156 templates/bobpower.jinja2:257
+msgid "Medium electric pole 2"
+msgstr ""
+
+#: templates/bobpower.jinja2:158 templates/bobpower.jinja2:259
+msgid "Medium electric pole 3"
+msgstr ""
+
+#: templates/bobpower.jinja2:160 templates/bobpower.jinja2:261
+msgid "Medium electric pole 4"
+msgstr ""
+
+#: templates/bobpower.jinja2:163 templates/bobpower.jinja2:264
+msgid "Big electric pole 2"
+msgstr ""
+
+#: templates/bobpower.jinja2:165 templates/bobpower.jinja2:266
+msgid "Big electric pole 3"
+msgstr ""
+
+#: templates/bobpower.jinja2:167 templates/bobpower.jinja2:268
+msgid "Big electric pole 4"
+msgstr ""
+
+#: templates/bobpower.jinja2:170 templates/bobpower.jinja2:271
+msgid "Substation 2"
+msgstr ""
+
+#: templates/bobpower.jinja2:172 templates/bobpower.jinja2:273
+msgid "Substation 3"
+msgstr ""
+
+#: templates/bobpower.jinja2:174 templates/bobpower.jinja2:275
+msgid "Substation 4"
+msgstr ""
+
+#: templates/bobpower.jinja2:179 templates/bobpower.jinja2:281
+msgid "Oil burning generator 2"
+msgstr ""
+
+#: templates/bobpower.jinja2:181 templates/bobpower.jinja2:283
+msgid "Oil burning generator 3"
+msgstr ""
+
+#: templates/bobpower.jinja2:186
+msgid "__ENTITY__nuclear-reactor__ 2"
+msgstr ""
+
+#: templates/bobpower.jinja2:188
+msgid "__ENTITY__nuclear-reactor__ 3"
+msgstr ""
+
+#: templates/bobpower.jinja2:191 templates/bobpower.jinja2:300
+msgid "Burner electric generator"
+msgstr ""
+
+#: templates/bobpower.jinja2:196
+msgid "Burner heat source 2"
+msgstr ""
+
+#: templates/bobpower.jinja2:198
+msgid "Burner heat source 3"
+msgstr ""
+
+#: templates/bobpower.jinja2:203
+msgid "Oil burning heat source 2"
+msgstr ""
+
+#: templates/bobpower.jinja2:205
+msgid "Oil burning heat source 3"
+msgstr ""
+
+#: templates/bobpower.jinja2:210
+msgid ""
+"A retrofit steel furnace, the burner heat source burns fuel items to "
+"generate heat. Connect it to heat powered entities such as heat "
+"exchangers using heat pipes."
+msgstr ""
+
+#: templates/bobpower.jinja2:212
+msgid ""
+"A retrofit steel furnace, the oil burning heat source burns fluid fuels "
+"to generate heat. Connect it to heat powered entities such as heat "
+"exchangers using heat pipes."
+msgstr ""
+
+#: templates/bobpower.jinja2:242
+msgid "Basic accumulator 2"
+msgstr ""
+
+#: templates/bobpower.jinja2:249
+msgid "Basic accumulator 3"
+msgstr ""
+
+#: templates/bobpower.jinja2:290
+msgid "New steam power related entities"
+msgstr ""
+
+#: templates/bobpower.jinja2:292
+msgid "New solar panels"
+msgstr ""
+
+#: templates/bobpower.jinja2:294
+msgid "New power poles and substations"
+msgstr ""
+
+#: templates/bobpower.jinja2:296
+msgid "New accumulators"
+msgstr ""
+
+#: templates/bobpower.jinja2:298
+msgid "Oil burning generators"
+msgstr ""
+
+#: templates/bobpower.jinja2:302
+msgid "New nuclear generators"
+msgstr ""
+
+#: templates/bobpower.jinja2:304
+msgid "Burner and oil powered heat sources"
+msgstr ""
+
+#: templates/bobrevamp.jinja2:4
+msgid "Pumpjack research"
+msgstr ""
+
+#: templates/bobrevamp.jinja2:6
+msgid "Solid fuel research"
+msgstr ""
+
+#: templates/bobrevamp.jinja2:8
+msgid "__ITEM__rocket-fuel__ research"
+msgstr ""
+
+#: templates/bobrevamp.jinja2:10
+msgid "Hydrazine research"
+msgstr ""
+
+#: templates/bobrevamp.jinja2:12
+msgid "Heat shielding research"
+msgstr ""
+
+#: templates/bobrevamp.jinja2:14
+msgid "__ITEM__low-density-structure__ research"
+msgstr ""
+
+#: templates/bobrevamp.jinja2:16
+msgid "Thorium nuclear power"
+msgstr ""
+
+#: templates/bobrevamp.jinja2:18
+msgid "Deuterium nuclear power"
+msgstr ""
+
+#: templates/bobrevamp.jinja2:23
+msgid "Uranium reactor"
+msgstr ""
+
+#: templates/bobrevamp.jinja2:25
+msgid "Thorium reactor"
+msgstr ""
+
+#: templates/bobrevamp.jinja2:27
+msgid "Deuterium reactor"
+msgstr ""
+
+#: templates/bobrevamp.jinja2:32
+msgid "Heat shielding tile"
+msgstr ""
+
+#: templates/bobrevamp.jinja2:37
+msgid "Ammonia"
+msgstr ""
+
+#: templates/bobrevamp.jinja2:39
+msgid "Dinitrogen tetroxide"
+msgstr ""
+
+#: templates/bobrevamp.jinja2:41
+msgid "Hydrazine"
+msgstr ""
+
+#: templates/bobrevamp.jinja2:43
+msgid "Hydrogen peroxide"
+msgstr ""
+
+#: templates/bobrevamp.jinja2:45
+msgid "Nitric oxide"
+msgstr ""
+
+#: templates/bobrevamp.jinja2:52
+msgid "Oil processing with Sulfur"
+msgstr ""
+
+#: templates/bobrevamp.jinja2:54 templates/bobrevamp.jinja2:56
+#: templates/bobrevamp.jinja2:58
+msgid "Oil processing with Sulfur dioxide"
+msgstr ""
+
+#: templates/bobrevamp.jinja2:63
+msgid "Uranium"
+msgstr ""
+
+#: templates/bobrevamp.jinja2:65
+msgid "Thorium"
+msgstr ""
+
+#: templates/bobrevamp.jinja2:72
+msgid "Nuclear power overhaul"
+msgstr ""
+
+#: templates/bobrevamp.jinja2:77
+msgid ""
+"If enabled, this setting will change nuclear reactor 2 into a thorium "
+"reactor, and nuclear reactor 3 into a deuterium reactor, and restructure "
+"research accordingly."
+msgstr ""
+
+#: templates/bobtech.jinja2:2
+msgid "Advanced research"
+msgstr ""
+
+#: templates/bobtech.jinja2:4
+msgid "Alien research"
+msgstr ""
+
+#: templates/bobtech.jinja2:6 templates/bobtech.jinja2:44
+msgid "Transport science pack"
+msgstr ""
+
+#: templates/bobtech.jinja2:8
+msgid "__ITEM__automation-science-pack__"
+msgstr ""
+
+#: templates/bobtech.jinja2:10
+msgid "Electricity"
+msgstr ""
+
+#: templates/bobtech.jinja2:12
+msgid "__ENTITY__lab__"
+msgstr ""
+
+#: templates/bobtech.jinja2:17
+msgid "Burner powered automation"
+msgstr ""
+
+#: templates/bobtech.jinja2:19
+msgid "Steam powered automation"
+msgstr ""
+
+#: templates/bobtech.jinja2:24
+msgid "Burner lab"
+msgstr ""
+
+#: templates/bobtech.jinja2:26 templates/bobtech.jinja2:33
+msgid "Lab 2"
+msgstr ""
+
+#: templates/bobtech.jinja2:28 templates/bobtech.jinja2:35
+msgid "Alien lab"
+msgstr ""
+
+#: templates/bobtech.jinja2:38
+msgid "Steam science pack"
+msgstr ""
+
+#: templates/bobtech.jinja2:40
+msgid "Science pack 4"
+msgstr ""
+
+#: templates/bobtech.jinja2:42
+msgid "Gold science pack"
+msgstr ""
+
+#: templates/bobtech.jinja2:47
+msgid "Alien science pack"
+msgstr ""
+
+#: templates/bobtech.jinja2:49
+msgid "Blue alien science pack"
+msgstr ""
+
+#: templates/bobtech.jinja2:51
+msgid "Orange alien science pack"
+msgstr ""
+
+#: templates/bobtech.jinja2:53
+msgid "Purple alien science pack"
+msgstr ""
+
+#: templates/bobtech.jinja2:55
+msgid "Yellow alien science pack"
+msgstr ""
+
+#: templates/bobtech.jinja2:57
+msgid "Green alien science pack"
+msgstr ""
+
+#: templates/bobtech.jinja2:59
+msgid "Red alien science pack"
+msgstr ""
+
+#: templates/bobtech.jinja2:64
+msgid "Science pack colors update"
+msgstr ""
+
+#: templates/bobtech.jinja2:66
+msgid "Burner power phase"
+msgstr ""
+
+#: templates/bobtech.jinja2:71
+msgid "Change the colours of the science packs to match belt tier progression"
+msgstr ""
+
+#: templates/bobtech.jinja2:73
+msgid "Locks non-burner powered technology behind research."
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:2
+#: templates/bobvehicleequipment.jinja2:106
+msgid "Vehicle energy shield MK1"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:4
+#: templates/bobvehicleequipment.jinja2:108
+msgid "Vehicle energy shield MK2"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:6
+#: templates/bobvehicleequipment.jinja2:110
+msgid "Vehicle energy shield MK3"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:8
+#: templates/bobvehicleequipment.jinja2:112
+msgid "Vehicle energy shield MK4"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:10
+#: templates/bobvehicleequipment.jinja2:114
+msgid "Vehicle energy shield MK5"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:12
+#: templates/bobvehicleequipment.jinja2:116
+msgid "Vehicle energy shield MK6"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:15
+#: templates/bobvehicleequipment.jinja2:119
+msgid "Vehicle battery MK1"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:17
+#: templates/bobvehicleequipment.jinja2:121
+msgid "Vehicle battery MK2"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:19
+#: templates/bobvehicleequipment.jinja2:123
+msgid "Vehicle battery MK3"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:21
+#: templates/bobvehicleequipment.jinja2:125
+msgid "Vehicle battery MK4"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:23
+#: templates/bobvehicleequipment.jinja2:127
+msgid "Vehicle battery MK5"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:25
+#: templates/bobvehicleequipment.jinja2:129
+msgid "Vehicle battery MK6"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:28
+#: templates/bobvehicleequipment.jinja2:132
+msgid "Vehicle solar panel MK1"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:30
+#: templates/bobvehicleequipment.jinja2:134
+msgid "Vehicle solar panel MK2"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:32
+#: templates/bobvehicleequipment.jinja2:136
+msgid "Vehicle solar panel MK3"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:34
+#: templates/bobvehicleequipment.jinja2:138
+msgid "Vehicle solar panel MK4"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:36
+#: templates/bobvehicleequipment.jinja2:140
+msgid "Vehicle solar panel MK5"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:38
+#: templates/bobvehicleequipment.jinja2:142
+msgid "Vehicle solar panel MK6"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:41
+#: templates/bobvehicleequipment.jinja2:145
+msgid "Vehicle fusion reactor MK1"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:43
+#: templates/bobvehicleequipment.jinja2:147
+msgid "Vehicle fusion reactor MK2"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:45
+#: templates/bobvehicleequipment.jinja2:149
+msgid "Vehicle fusion reactor MK3"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:47
+#: templates/bobvehicleequipment.jinja2:151
+msgid "Vehicle fusion reactor MK4"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:49
+#: templates/bobvehicleequipment.jinja2:153
+msgid "Vehicle fusion reactor MK5"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:51
+#: templates/bobvehicleequipment.jinja2:155
+msgid "Vehicle fusion reactor MK6"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:54
+#: templates/bobvehicleequipment.jinja2:158
+msgid "Vehicle fusion cell MK1"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:56
+#: templates/bobvehicleequipment.jinja2:160
+msgid "Vehicle fusion cell MK2"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:58
+#: templates/bobvehicleequipment.jinja2:162
+msgid "Vehicle fusion cell MK3"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:60
+#: templates/bobvehicleequipment.jinja2:164
+msgid "Vehicle fusion cell MK4"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:62
+#: templates/bobvehicleequipment.jinja2:166
+msgid "Vehicle fusion cell MK5"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:64
+#: templates/bobvehicleequipment.jinja2:168
+msgid "Vehicle fusion cell MK6"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:67
+#: templates/bobvehicleequipment.jinja2:171
+msgid "Vehicle laser defense MK1"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:69
+#: templates/bobvehicleequipment.jinja2:173
+msgid "Vehicle laser defense MK2"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:71
+#: templates/bobvehicleequipment.jinja2:175
+msgid "Vehicle laser defense MK3"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:73
+#: templates/bobvehicleequipment.jinja2:177
+msgid "Vehicle laser defense MK4"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:75
+#: templates/bobvehicleequipment.jinja2:179
+msgid "Vehicle laser defense MK5"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:77
+#: templates/bobvehicleequipment.jinja2:181
+msgid "Vehicle laser defense MK6"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:80
+#: templates/bobvehicleequipment.jinja2:184
+msgid "Vehicle plasma cannon MK1"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:82
+#: templates/bobvehicleequipment.jinja2:186
+msgid "Vehicle plasma cannon MK2"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:84
+#: templates/bobvehicleequipment.jinja2:188
+msgid "Vehicle plasma cannon MK3"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:86
+#: templates/bobvehicleequipment.jinja2:190
+msgid "Vehicle plasma cannon MK4"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:88
+#: templates/bobvehicleequipment.jinja2:192
+msgid "Vehicle plasma cannon MK5"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:90
+#: templates/bobvehicleequipment.jinja2:194
+msgid "Vehicle plasma cannon MK6"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:93
+#: templates/bobvehicleequipment.jinja2:197
+#: templates/bobvehicleequipment.jinja2:261
+msgid "Vehicle overdrive motor"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:96
+#: templates/bobvehicleequipment.jinja2:200
+#: templates/bobvehicleequipment.jinja2:263
+msgid "Vehicle overdrive engine"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:99
+#: templates/bobvehicleequipment.jinja2:203
+msgid "Vehicle roboport"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:101
+#: templates/bobvehicleequipment.jinja2:205
+msgid "Vehicle roboport MK2"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:207
+msgid "Vehicle roboport MK3"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:209
+msgid "Vehicle roboport MK4"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:213
+msgid "Vehicle roboport area expander"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:215
+msgid "Vehicle roboport area expander 2"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:217
+msgid "Vehicle roboport area expander 3"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:219
+msgid "Vehicle roboport area expander 4"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:222
+msgid "Vehicle roboport chargepad"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:224
+msgid "Vehicle roboport chargepad 2"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:226
+msgid "Vehicle roboport chargepad 3"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:228
+msgid "Vehicle roboport chargepad 4"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:231
+msgid "Vehicle roboport robot control"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:233
+msgid "Vehicle roboport robot control 2"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:235
+msgid "Vehicle roboport robot control 3"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:237
+msgid "Vehicle roboport robot control 4"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:247
+msgid "Vehicle energy shield equipment"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:249
+msgid "Vehicle battery equipment"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:251
+msgid "Vehicle solar panel equipment"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:253
+msgid "Vehicle fusion reactor equipment"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:255
+msgid "Vehicle fusion cell equipment"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:257
+msgid "Vehicle laser defense equipment"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:259
+msgid "Vehicle plasma cannon equipment"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:265
+msgid "Vehicle roboport equipment"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:267
+msgid "Vehicle roboport modules"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:271
+msgid "Enable vehicle grids"
+msgstr ""
+
+#: templates/bobvehicleequipment.jinja2:276
+msgid "If set to true, adds equipment grids on base game vehicles."
+msgstr ""
+
+#: templates/bobwarfare.jinja2:2
+msgid "Sulfuric and Nitric acid mixture"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:4
+msgid "Glycerol"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:6
+msgid "Nitroglycerin"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:11
+msgid "Petroleum jelly"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:13
+msgid "Guncotton"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:15
+msgid "Cordite"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:17
+msgid "Magazine"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:20
+msgid "Bullet casing"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:22
+msgid "Bullet projectile"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:24
+msgid "Bullet"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:26
+msgid "Ammo magazine"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:29
+msgid "AP bullet projectile"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:31
+msgid "AP bullet"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:33
+msgid "AP ammo magazine"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:36
+msgid "HE bullet projectile"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:38
+msgid "HE bullet"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:40
+msgid "HE ammo magazine"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:43
+msgid "Acid bullet projectile"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:45
+msgid "Acid bullet"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:47
+msgid "Acid ammo magazine"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:50
+msgid "Flame bullet projectile"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:52
+msgid "Flame bullet"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:54
+msgid "Flame ammo magazine"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:57
+msgid "Poison bullet projectile"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:59
+msgid "Poison bullet"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:61
+msgid "Poison ammo magazine"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:64
+msgid "Impact bullet projectile"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:66
+msgid "Impact bullet"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:68
+msgid "Impact ammo magazine"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:71
+msgid "Electric bullet projectile"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:73
+msgid "Electric bullet"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:75
+msgid "Electric ammo magazine"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:78
+msgid "Plasma bullet projectile"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:80
+msgid "Plasma bullet"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:82
+msgid "Plasma ammo magazine"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:85
+msgid "Uranium bullet projectile"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:87
+msgid "Uranium bullet"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:91
+msgid "Shotgun shell casing"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:93
+msgid "Shotgun pellets"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:96 templates/bobwarfare.jinja2:470
+msgid "Better shotgun shells"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:98 templates/bobwarfare.jinja2:472
+msgid "Shotgun AP shells"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:100 templates/bobwarfare.jinja2:474
+msgid "Shotgun impact shells"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:102 templates/bobwarfare.jinja2:476
+msgid "Shotgun explosive shells"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:104 templates/bobwarfare.jinja2:478
+msgid "Shotgun flame shells"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:106 templates/bobwarfare.jinja2:480
+msgid "Shotgun acid shells"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:108 templates/bobwarfare.jinja2:482
+msgid "Shotgun poison shells"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:110 templates/bobwarfare.jinja2:484
+msgid "Shotgun electric shells"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:112 templates/bobwarfare.jinja2:486
+msgid "Shotgun plasma shells"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:114
+msgid "Shotgun uranium shells"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:117
+msgid "Scatter cannon shells"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:120
+msgid "Napalm capsule"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:123
+msgid "Poison artillery shells"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:125
+msgid "Explosive artillery shells"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:127
+msgid "Distractor artillery shells"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:129
+msgid "Napalm artillery shells"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:133
+msgid "Rifle"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:136
+msgid "Sniper rifle"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:139 templates/bobwarfare.jinja2:489
+msgid "Laser rifle"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:141
+msgid "Laser rifle battery case"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:144
+msgid "Laser rifle battery"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:146
+msgid "Ruby laser rifle battery"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:148
+msgid "Sapphire laser rifle battery"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:150
+msgid "Emerald laser rifle battery"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:152
+msgid "Amethyst laser rifle battery"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:154
+msgid "Topaz laser rifle battery"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:156
+msgid "Diamond laser rifle battery"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:159
+msgid "Gatling gun"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:162
+msgid "Tank cannon 2"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:164
+msgid "Tank cannon 3"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:167
+msgid "Tank artillery"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:169
+msgid "Tank artillery 2"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:172
+msgid "__ITEM__artillery-wagon-cannon__ 2"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:174
+msgid "__ITEM__artillery-wagon-cannon__ 3"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:178
+msgid "Tank laser"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:182 templates/bobwarfare.jinja2:367
+#: templates/bobwarfare.jinja2:536
+msgid "Poison mine"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:184 templates/bobwarfare.jinja2:369
+#: templates/bobwarfare.jinja2:538
+msgid "Slowdown mine"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:186 templates/bobwarfare.jinja2:371
+#: templates/bobwarfare.jinja2:540
+msgid "Distractor robot mine"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:189
+msgid "Rocket engine"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:191
+msgid "Rocket body"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:194
+msgid "Rocket warhead"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:196
+msgid "Piercing rocket warhead"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:198
+msgid "Impact rocket warhead"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:200
+msgid "Explosive rocket warhead"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:202
+msgid "Flame rocket warhead"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:204
+msgid "Poison rocket warhead"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:206
+msgid "Acid rocket warhead"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:208
+msgid "Electric rocket warhead"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:210
+msgid "Plasma rocket warhead"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:213 templates/bobwarfare.jinja2:509
+msgid "Rocket"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:215 templates/bobwarfare.jinja2:511
+msgid "Piercing rocket"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:217 templates/bobwarfare.jinja2:513
+msgid "Impact rocket"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:219
+msgid "Explosive rocket"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:221 templates/bobwarfare.jinja2:517
+msgid "Flame rocket"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:223 templates/bobwarfare.jinja2:519
+msgid "Poison rocket"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:225 templates/bobwarfare.jinja2:521
+msgid "Acid rocket"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:227 templates/bobwarfare.jinja2:523
+msgid "Electric rocket"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:229 templates/bobwarfare.jinja2:525
+msgid "Plasma rocket"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:233
+msgid "Power armor MK3"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:235
+msgid "Power armor MK4"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:237
+msgid "Power armor MK5"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:240
+msgid "Invar Cobalt-steel armor"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:242
+msgid "Titanium-Ceramic armor"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:246 templates/bobwarfare.jinja2:362
+#: templates/bobwarfare.jinja2:533
+msgid "Re-inforced concrete wall"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:248 templates/bobwarfare.jinja2:364
+msgid "Re-inforced concrete gate"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:252 templates/bobwarfare.jinja2:375
+msgid "Gun turret MK2"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:254 templates/bobwarfare.jinja2:377
+msgid "Gun turret MK3"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:256 templates/bobwarfare.jinja2:379
+msgid "Gun turret MK4"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:258 templates/bobwarfare.jinja2:381
+msgid "Gun turret MK5"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:261 templates/bobwarfare.jinja2:384
+msgid "Sniper turret MK1"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:263 templates/bobwarfare.jinja2:386
+msgid "Sniper turret MK2"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:265 templates/bobwarfare.jinja2:388
+msgid "Sniper turret MK3"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:268 templates/bobwarfare.jinja2:391
+msgid "Laser turret MK2"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:270 templates/bobwarfare.jinja2:393
+msgid "Laser turret MK3"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:272 templates/bobwarfare.jinja2:395
+msgid "Laser turret MK4"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:274 templates/bobwarfare.jinja2:397
+msgid "Laser turret MK5"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:278 templates/bobwarfare.jinja2:350
+msgid "Robotic laser attack drone"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:280 templates/bobwarfare.jinja2:352
+msgid "Robotic attack drone"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:282 templates/bobwarfare.jinja2:354
+msgid "Robotic flamethrower attack drone"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:284 templates/bobwarfare.jinja2:356
+msgid "Robotic plasma attack drone"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:287 templates/bobwarfare.jinja2:411
+msgid "Tank MK2"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:289 templates/bobwarfare.jinja2:413
+msgid "Tank MK3"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:292
+msgid "__ITEM__artillery-wagon__ MK2"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:294
+msgid "__ITEM__artillery-wagon__ MK3"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:297
+msgid "__ITEM__artillery-turret__ MK2"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:299
+msgid "__ITEM__artillery-turret__ MK3"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:303 templates/bobwarfare.jinja2:426
+msgid "Radar 2"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:305 templates/bobwarfare.jinja2:428
+msgid "Radar 3"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:307 templates/bobwarfare.jinja2:430
+msgid "Radar 4"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:309 templates/bobwarfare.jinja2:432
+msgid "Radar 5"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:313
+msgid "Robotic attack drone frame"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:315
+msgid "Large robotic attack drone frame"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:318
+msgid "Combat robot brain"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:320
+msgid "Combat robot brain 2"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:322 templates/bobwarfare.jinja2:324
+msgid "Combat robot brain 3"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:327
+msgid "Defender robot weapon"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:329
+msgid "Distractor robot weapon"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:331
+msgid "Destroyer robot weapon"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:333
+msgid "Laser robot weapon"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:336
+msgid "Defender robot"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:338
+msgid "Distractor robot"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:340
+msgid "Destroyer robot"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:342 templates/bobwarfare.jinja2:359
+msgid "Laser robot"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:345
+msgid "Laser robot capsule"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:400
+msgid "Plasma turret MK1"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:402
+msgid "Plasma turret MK2"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:404
+msgid "Plasma turret MK3"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:406
+msgid "Plasma turret MK4"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:408
+msgid "Plasma turret MK5"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:416
+msgid "__ENTITY__artillery-wagon__ MK2"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:418
+msgid "__ENTITY__artillery-wagon__ MK3"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:421
+msgid "__ENTITY__artillery-turret__ MK2"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:423
+msgid "__ENTITY__artillery-turret__ MK3"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:446
+msgid "Nitroglycerin processing"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:448
+msgid "Cordite processing"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:451
+msgid "Bullets"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:453
+msgid "AP bullets"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:455
+msgid "HE bullets"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:457
+msgid "Acid bullets"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:459
+msgid "Flame bullets"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:461
+msgid "Poison bullets"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:463
+msgid "Impact bullets"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:465
+msgid "Electric bullets"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:467
+msgid "Plasma bullets"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:491
+msgid "Laser rifle ammo"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:493
+msgid "Laser rifle damage upgrade"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:495
+msgid "Laser rifle shooting speed upgrade"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:498
+msgid "Tank cannon damage upgrade"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:500
+msgid "Tank cannon shooting speed upgrade"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:503
+msgid "Artillery shell damage upgrade"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:505
+msgid "Artillery shell shooting speed upgrade"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:515
+msgid "explosive rocket"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:528
+msgid "Power armor"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:530
+msgid "Armor crafting"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:543
+msgid "Turrets"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:545
+msgid "Laser turrets"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:547
+msgid "Sniper turrets"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:549
+msgid "Plasma turrets"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:551
+msgid "Sniper turret damage upgrade"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:554
+msgid "Tanks"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:556
+msgid "__ENTITY__artillery-wagon__"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:558
+msgid "__ENTITY__artillery-turret__"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:562
+msgid "Robotic laser attack drones"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:564
+msgid "Robotic attack drones"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:566
+msgid "Robotic flamethrower attack drones"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:568
+msgid "Robotic plasma attack drones"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:571
+msgid "Radars"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:576
+msgid "Gun turret MK2 damage bonus: +__1__"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:578
+msgid "Gun turret MK3 damage bonus: +__1__"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:580
+msgid "Gun turret MK4 damage bonus: +__1__"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:582
+msgid "Gun turret MK5 damage bonus: +__1__"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:585
+msgid "Sniper turret MK1 damage bonus: +__1__"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:587
+msgid "Sniper turret MK2 damage bonus: +__1__"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:589
+msgid "Sniper turret MK3 damage bonus: +__1__"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:592
+msgid "Laser rifle damage bonus: +__1__"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:594
+msgid "Laser rifle shooting speed bonus: +__1__"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:597
+msgid "Tank cannon damage bonus: +__1__"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:599
+msgid "Tank cannon shooting speed bonus: +__1__"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:602
+msgid "Artillery shell damage bonus: +__1__"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:609
+msgid "Robot update"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:611
+msgid "Drainless laser turrets"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:618
+msgid ""
+"If enabled combat robots will have updated recipes, and a new tier robot."
+" Some settings inherited from Logistics mod"
+msgstr ""
+
+#: templates/bobwarfare.jinja2:620
+msgid "If enabled, the drain value is removed from laser turrets."
+msgstr ""
+
+#: templates/clock.jinja2:2
+msgid "Time__1__"
+msgstr ""
+
+#: templates/clock.jinja2:4
+msgid "Time played__1__"
+msgstr ""
+
+#: templates/clock.jinja2:6
+msgid "Evolution factor__1__"
+msgstr ""
+
+#: templates/clock.jinja2:8
+msgid "Game speed__1__"
+msgstr ""
+
+#: templates/clock.jinja2:10
+msgid "Clock GUI"
+msgstr ""
+
+#: templates/clock.jinja2:12
+msgid "Options"
+msgstr ""
+
+#: templates/clock.jinja2:14 templates/clock.jinja2:24
+msgid "24 hour clock mode"
+msgstr ""
+
+#: templates/clock.jinja2:17
+msgid "Enemy evolution factor__1__"
+msgstr ""
+
+#: templates/clock.jinja2:19
+msgid "Robot evolution factor__1__"
+msgstr ""
+
+#: templates/clock.jinja2:26
+msgid "Update interval"
+msgstr ""
+
+#: templates/clock.jinja2:28
+msgid "Show on button"
+msgstr ""
+
+#: templates/clock.jinja2:30
+msgid "Font"
+msgstr ""
+
+#: templates/clock.jinja2:32
+msgid "Font color"
+msgstr ""
+
+#: templates/clock.jinja2:36
+msgid "Time"
+msgstr ""
+
+#: templates/clock.jinja2:38
+msgid "Time played"
+msgstr ""
+
+#: templates/clock.jinja2:40
+msgid "Evolution factor"
+msgstr ""
+
+#: templates/clock.jinja2:43
+msgid "Default"
+msgstr ""
+
+#: templates/clock.jinja2:45
+msgid "7 segment clock"
+msgstr ""
+
+#: templates/clock.jinja2:48
+msgid "Black"
+msgstr ""
+
+#: templates/clock.jinja2:50
+msgid "Red"
+msgstr ""
+
+#: templates/clock.jinja2:52
+msgid "Green"
+msgstr ""
+
+#: templates/clock.jinja2:54
+msgid "Yellow"
+msgstr ""
+
+#: templates/clock.jinja2:56
+msgid "Blue"
+msgstr ""
+
