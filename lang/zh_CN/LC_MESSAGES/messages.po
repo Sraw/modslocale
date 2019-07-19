@@ -1653,123 +1653,123 @@ msgstr "装甲货运车厢"
 
 #: templates/boblogistics.jinja2:122 templates/boblogistics.jinja2:278
 msgid "Fluid wagon MK2"
-msgstr ""
+msgstr "液罐车厢MK2"
 
 #: templates/boblogistics.jinja2:123 templates/boblogistics.jinja2:279
 msgid "Fluid wagon MK3"
-msgstr ""
+msgstr "液罐车厢MK3"
 
 #: templates/boblogistics.jinja2:124 templates/boblogistics.jinja2:280
 #: templates/boblogistics.jinja2:351
 msgid "Armoured Fluid wagon"
-msgstr ""
+msgstr "装甲液罐车厢"
 
 #: templates/boblogistics.jinja2:125 templates/boblogistics.jinja2:281
 msgid "Armoured Fluid wagon MK2"
-msgstr ""
+msgstr "装甲液罐车厢MK2"
 
 #: templates/boblogistics.jinja2:127
 msgid "Armoured rail"
-msgstr ""
+msgstr "装甲轨道"
 
 #: templates/boblogistics.jinja2:130 templates/boblogistics.jinja2:287
 msgid "Copper pipe"
-msgstr ""
+msgstr "铜制管道"
 
 #: templates/boblogistics.jinja2:131 templates/boblogistics.jinja2:288
 msgid "Iron pipe"
-msgstr ""
+msgstr "铁制管道"
 
 #: templates/boblogistics.jinja2:132 templates/boblogistics.jinja2:289
 msgid "Stone pipe"
-msgstr ""
+msgstr "石制管道"
 
 #: templates/boblogistics.jinja2:133 templates/boblogistics.jinja2:290
 msgid "Bronze pipe"
-msgstr ""
+msgstr "青铜管道"
 
 #: templates/boblogistics.jinja2:134 templates/boblogistics.jinja2:291
 msgid "Steel pipe"
-msgstr ""
+msgstr "钢制管道"
 
 #: templates/boblogistics.jinja2:135 templates/boblogistics.jinja2:292
 msgid "Plastic pipe"
-msgstr ""
+msgstr "塑料管道"
 
 #: templates/boblogistics.jinja2:136 templates/boblogistics.jinja2:293
 msgid "Brass pipe"
-msgstr ""
+msgstr "黄铜管道"
 
 #: templates/boblogistics.jinja2:137 templates/boblogistics.jinja2:294
 msgid "Titanium pipe"
-msgstr ""
+msgstr "钛合金管道"
 
 #: templates/boblogistics.jinja2:138 templates/boblogistics.jinja2:295
 msgid "Ceramic pipe"
-msgstr ""
+msgstr "陶瓷管道"
 
 #: templates/boblogistics.jinja2:139 templates/boblogistics.jinja2:296
 msgid "Tungsten pipe"
-msgstr ""
+msgstr "钨制管道"
 
 #: templates/boblogistics.jinja2:142 templates/boblogistics.jinja2:301
 msgid "Copper pipe-to-ground"
-msgstr ""
+msgstr "铜制地下管道"
 
 #: templates/boblogistics.jinja2:143 templates/boblogistics.jinja2:302
 msgid "Iron pipe-to-ground"
-msgstr ""
+msgstr "铁制地下管道"
 
 #: templates/boblogistics.jinja2:144 templates/boblogistics.jinja2:303
 msgid "Stone pipe-to-ground"
-msgstr ""
+msgstr "石制地下管道"
 
 #: templates/boblogistics.jinja2:145 templates/boblogistics.jinja2:304
 msgid "Bronze pipe-to-ground"
-msgstr ""
+msgstr "青铜地下管道"
 
 #: templates/boblogistics.jinja2:146 templates/boblogistics.jinja2:305
 msgid "Steel pipe-to-ground"
-msgstr ""
+msgstr "钢制地下管道"
 
 #: templates/boblogistics.jinja2:147 templates/boblogistics.jinja2:306
 msgid "Plastic pipe-to-ground"
-msgstr ""
+msgstr "塑料地下管道"
 
 #: templates/boblogistics.jinja2:148 templates/boblogistics.jinja2:307
 msgid "Brass pipe-to-ground"
-msgstr ""
+msgstr "黄铜地下管道"
 
 #: templates/boblogistics.jinja2:149 templates/boblogistics.jinja2:308
 msgid "Titanium pipe-to-ground"
-msgstr ""
+msgstr "钛合金地下管道"
 
 #: templates/boblogistics.jinja2:150 templates/boblogistics.jinja2:309
 msgid "Ceramic pipe-to-ground"
-msgstr ""
+msgstr "陶瓷地下管道"
 
 #: templates/boblogistics.jinja2:151 templates/boblogistics.jinja2:310
 msgid "Tungsten pipe-to-ground"
-msgstr ""
+msgstr "钨制地下管道"
 
 #: templates/boblogistics.jinja2:154 templates/boblogistics.jinja2:315
 #: templates/bobplates.jinja2:110 templates/bobplates.jinja2:247
 msgid "Pump MK2"
-msgstr ""
+msgstr "泵MK2"
 
 #: templates/boblogistics.jinja2:155 templates/boblogistics.jinja2:316
 #: templates/bobplates.jinja2:111 templates/bobplates.jinja2:248
 msgid "Pump MK3"
-msgstr ""
+msgstr "泵MK3"
 
 #: templates/boblogistics.jinja2:156 templates/boblogistics.jinja2:317
 #: templates/bobplates.jinja2:112 templates/bobplates.jinja2:249
 msgid "Pump MK4"
-msgstr ""
+msgstr "泵MK4"
 
 #: templates/boblogistics.jinja2:158 templates/boblogistics.jinja2:319
 msgid "Valve"
-msgstr ""
+msgstr "阀门"
 
 #: templates/boblogistics.jinja2:159 templates/boblogistics.jinja2:325
 msgid "__ITEM__valve__"
@@ -1897,27 +1897,27 @@ msgstr ""
 
 #: templates/boblogistics.jinja2:283
 msgid "Armoured straight rail"
-msgstr ""
+msgstr "装甲直轨道"
 
 #: templates/boblogistics.jinja2:284
 msgid "Armoured curved rail"
-msgstr ""
+msgstr "装甲弯轨道"
 
 #: templates/boblogistics.jinja2:297
 msgid "Nitinol pipe"
-msgstr ""
+msgstr "镍钛合金管道"
 
 #: templates/boblogistics.jinja2:298
 msgid "Copper tungsten pipe"
-msgstr ""
+msgstr "铜钨合金管道"
 
 #: templates/boblogistics.jinja2:311
 msgid "Nitinol pipe-to-ground"
-msgstr ""
+msgstr "镍钛合金地下管道"
 
 #: templates/boblogistics.jinja2:312
 msgid "Copper tungsten pipe-to-ground"
-msgstr ""
+msgstr "铜钨合金地下管道"
 
 #: templates/boblogistics.jinja2:320
 msgid "__ENTITY__valve__"
@@ -1925,83 +1925,83 @@ msgstr ""
 
 #: templates/boblogistics.jinja2:321
 msgid "Overflow valve"
-msgstr ""
+msgstr "溢流阀"
 
 #: templates/boblogistics.jinja2:322
 msgid "Top up valve"
-msgstr ""
+msgstr "充气阀"
 
 #: templates/boblogistics.jinja2:329
 msgid "Robotics"
-msgstr ""
+msgstr "机器人"
 
 #: templates/boblogistics.jinja2:330
 msgid "Advanced logistic and construction robotics"
-msgstr ""
+msgstr "高级物流及建设机器人"
 
 #: templates/boblogistics.jinja2:331
 msgid "Modular Roboports"
-msgstr ""
+msgstr "模块机器人指令平台"
 
 #: templates/boblogistics.jinja2:332
 msgid "Express Inserters"
-msgstr ""
+msgstr "极速机械臂"
 
 #: templates/boblogistics.jinja2:333
 msgid "Turbo Inserters"
-msgstr ""
+msgstr "涡轮机械臂"
 
 #: templates/boblogistics.jinja2:334
 msgid "Ultimate Inserters"
-msgstr ""
+msgstr "终极机械臂"
 
 #: templates/boblogistics.jinja2:336
 msgid "Long handed burner inserter"
-msgstr ""
+msgstr "长距离热能机械臂"
 
 #: templates/boblogistics.jinja2:342
 msgid "Logistics"
-msgstr ""
+msgstr "物流学"
 
 #: templates/boblogistics.jinja2:343
 msgid "__ITEM__prefix-black__ logistics"
-msgstr ""
+msgstr "__ITEM__prefix-black__ 物流学"
 
 #: templates/boblogistics.jinja2:345
 msgid "Fluid handling"
-msgstr ""
+msgstr "流体处理"
 
 #: templates/boblogistics.jinja2:347
 msgid "Railway"
-msgstr ""
+msgstr "铁路"
 
 #: templates/boblogistics.jinja2:348
 msgid "Armoured Railway"
-msgstr ""
+msgstr "装甲铁路"
 
 #: templates/boblogistics.jinja2:350
 msgid "Fluid wagon"
-msgstr ""
+msgstr "液罐车厢"
 
 #: templates/boblogistics.jinja2:354
 msgid "Character inventory slots"
-msgstr ""
+msgstr "角色背包槽位"
 
 #: templates/boblogistics.jinja2:355
 msgid "Stack inserter capacity bonus"
-msgstr ""
+msgstr "集装机械臂搬运量加成"
 
 #: templates/boblogistics.jinja2:356
 msgid "Inserter capacity bonus"
-msgstr ""
+msgstr "机械臂搬运量加成"
 
 #: templates/boblogistics.jinja2:358
 msgid "Infinite worker robot cargo size"
-msgstr ""
+msgstr "无限机器人存储"
 
 #: templates/boblogistics.jinja2:359
 msgid "Infinite character logistic trash slots"
-msgstr ""
+msgstr "无限角色物流回收槽位"
 
 #: templates/boblogistics.jinja2:361
 msgid "__ITEM__repair-pack__"
@@ -2009,73 +2009,73 @@ msgstr ""
 
 #: templates/boblogistics.jinja2:365
 msgid "Logistic robots are a flexible alternative to conveyor belts."
-msgstr ""
+msgstr "物流机器人是比传送带更灵活的替代品。"
 
 #: templates/boblogistics.jinja2:366
 msgid "Research into building Roboports in modules."
-msgstr ""
+msgstr "集成机器人指令平台至模块。"
 
 #: templates/boblogistics.jinja2:367
 msgid "Inserters that are faster than fast inserters!"
-msgstr ""
+msgstr "比高速机械臂更快的机械臂！"
 
 #: templates/boblogistics.jinja2:369
 msgid "Faster and more flexible ways of transportation."
-msgstr ""
+msgstr "更快且更灵活的运输方式。"
 
 #: templates/boblogistics.jinja2:371
 msgid "Non-stack inserters can move more items at the same time."
-msgstr ""
+msgstr "非集装机械臂能一次性移动更多物品。"
 
 #: templates/boblogistics.jinja2:372
 msgid ""
 "Stack inserters can move more items at the same time depending on their "
 "upgrade."
-msgstr ""
+msgstr "集装机械臂根据升级能一次性移动更多物品"
 
 #: templates/boblogistics.jinja2:376 templates/boblogistics.jinja2:377
 msgid "A pipe that allows fluid to flow in only one direction"
-msgstr ""
+msgstr "一个仅允许流体单向流通的管道"
 
 #: templates/boblogistics.jinja2:378
 msgid ""
 "A pipe that allows a fluid to flow in only one direction when the input "
 "is more than 80% full"
-msgstr ""
+msgstr "一个当输入负载超过80%时仅允许流体单向流通的管道"
 
 #: templates/boblogistics.jinja2:379
 msgid ""
 "A pipe that allows a fluid to flow in only one direction when the output "
 "is less than 20% full"
-msgstr ""
+msgstr "一个当输入负载低于20%时仅允许流体单向流通的管道"
 
 #: templates/boblogistics.jinja2:382
 msgid "Maximum length: __1__"
-msgstr ""
+msgstr "最大长度： __1__"
 
 #: templates/boblogistics.jinja2:386 templates/bobplates.jinja2:261
 msgid "Bob's Logistics"
-msgstr ""
+msgstr "Bob's物流学"
 
 #: templates/boblogistics.jinja2:390
 msgid "Adds an extra __1__ slots to the character inventory"
-msgstr ""
+msgstr "为角色背包增加额外的__1__个槽位"
 
 #: templates/boblogistics.jinja2:401
 msgid "Flying robot frames"
-msgstr ""
+msgstr "飞行机器人框架"
 
 #: templates/boblogistics.jinja2:402
 msgid "Robot parts"
-msgstr ""
+msgstr "机器人部件"
 
 #: templates/boblogistics.jinja2:403
 msgid "Robot require previous tier"
-msgstr ""
+msgstr "机器人需要上级合成"
 
 #: templates/boblogistics.jinja2:404
 msgid "Roboport recipe update"
-msgstr ""
+msgstr "机器人配方升级"
 
 #: templates/boblogistics.jinja2:405
 msgid "Drainless inserters"
@@ -2083,168 +2083,168 @@ msgstr ""
 
 #: templates/boblogistics.jinja2:406
 msgid "Disable Roboports"
-msgstr ""
+msgstr "关闭机器人指令平台"
 
 #: templates/boblogistics.jinja2:407
 msgid "Belt require previous tier"
-msgstr ""
+msgstr "传送带需要上级合成"
 
 #: templates/boblogistics.jinja2:408
 msgid "Inserter require previous tier"
-msgstr ""
+msgstr "机械臂需要上级合成"
 
 #: templates/boblogistics.jinja2:409
 msgid "Inserter overhaul"
-msgstr ""
+msgstr "机械臂全面复写"
 
 #: templates/boblogistics.jinja2:410
 msgid "Transport belt overhaul"
-msgstr ""
+msgstr "传送带全面复写"
 
 #: templates/boblogistics.jinja2:411
 msgid "Underground distance overhaul"
-msgstr ""
+msgstr "地下距离全面复写"
 
 #: templates/boblogistics.jinja2:412
 msgid "Belt first tier distance"
-msgstr ""
+msgstr "初级传送带距离"
 
 #: templates/boblogistics.jinja2:413
 msgid "Belt distance per tier"
-msgstr ""
+msgstr "每级传送带距离"
 
 #: templates/boblogistics.jinja2:414
 msgid "Pipe first tier distance"
-msgstr ""
+msgstr "初级管道距离"
 
 #: templates/boblogistics.jinja2:415
 msgid "Pipe distance per tier"
-msgstr ""
+msgstr "每级管道距离"
 
 #: templates/boblogistics.jinja2:416
 msgid "Transport belt speed overhaul"
-msgstr ""
+msgstr "传送带速度全面复写"
 
 #: templates/boblogistics.jinja2:417
 msgid "Transport belt speed per tier"
-msgstr ""
+msgstr "每级传送带速度"
 
 #: templates/boblogistics.jinja2:418
 msgid "Fluid wagon base size"
-msgstr ""
+msgstr "液罐车厢基础容量"
 
 #: templates/boblogistics.jinja2:419
 msgid "Storage tank base size"
-msgstr ""
+msgstr "货运车厢基础容量"
 
 #: templates/boblogistics.jinja2:420
 msgid "Trains"
-msgstr ""
+msgstr "铁路"
 
 #: templates/boblogistics.jinja2:423
 msgid ""
 "If set to true, the Flying robot frame intermediates will exist for use "
 "in recipes."
-msgstr ""
+msgstr "开启后，飞行机器人框架将保留在配方中。"
 
 #: templates/boblogistics.jinja2:424
 msgid ""
 "If set to true, the Logistic/Construction robot tool/brain intermediates "
 "will exist for use in recipes."
-msgstr ""
+msgstr "开启后，物流/建设机器人工具组/电子脑将保留在配方中。"
 
 #: templates/boblogistics.jinja2:425
 msgid ""
 "If set to true, Logistic/Construction robots require the previous tier to"
 " craft."
-msgstr ""
+msgstr "开启后，物流/建设机器人需要上级合成。"
 
 #: templates/boblogistics.jinja2:426
 msgid ""
 "If set to true, the recipe for the base game Roboport MK1 is updated to "
 "the modular recipe."
-msgstr ""
+msgstr "开启后，基础游戏中的机器人指令平台MK1会被模组复写。"
 
 #: templates/boblogistics.jinja2:427
 msgid "If set to true, the idle power drain will be removed from all Inserters."
-msgstr ""
+msgstr "开启后，所有机械臂在闲置时将不再消耗能量。"
 
 #: templates/boblogistics.jinja2:428
 msgid ""
 "If set to true, standard roboports are disabled, causing you to be "
 "reliant on the modular roboports"
-msgstr ""
+msgstr "开启后，标准机器人指令平台将被禁用，你将只能依赖模块机器人指令平台。"
 
 #: templates/boblogistics.jinja2:429
 msgid ""
 "If set to true, Transport belts and related entities require the previous"
 " tier to craft."
-msgstr ""
+msgstr "开启后，传送带和相关物品需要上级合成。"
 
 #: templates/boblogistics.jinja2:430
 msgid "If set to true, Inserters require the previous tier to craft."
-msgstr ""
+msgstr "开启后，机械臂需要上级合成。"
 
 #: templates/boblogistics.jinja2:431
 msgid ""
 "Turning this on will overhaul inserters, adding new tiers, removing long "
 "handed, but you can use make any inserter long, and a complete recipe "
 "rewrite."
-msgstr ""
+msgstr "开启后，将复写机械臂，添加新的级别，移除长距离机械臂，但你可以将任何机械臂延长。同时会复写所有配方。"
 
 #: templates/boblogistics.jinja2:432
 msgid ""
 "Turning this on will overhaul transport belts, adding a new tier, "
 "ballance the speeds and a complete recipe rewrite."
-msgstr ""
+msgstr "开启后，将复写所有传送带，添加新的级别，平衡速度并复写所有配方。"
 
 #: templates/boblogistics.jinja2:433
 msgid "Turning this on will change the range of all underground belts and pipes."
-msgstr ""
+msgstr "开启后，将改变所有地下传送带和管道的长度。"
 
 #: templates/boblogistics.jinja2:434
 msgid "Sets the range on the starting tier transport belt"
-msgstr ""
+msgstr "设定初级传送带的长度"
 
 #: templates/boblogistics.jinja2:435
 msgid "Sets by how much further each tier of underground belt will go"
-msgstr ""
+msgstr "设定每级传送带额外增加的长度"
 
 #: templates/boblogistics.jinja2:436
 msgid "Sets the range on all starting tier pipes"
-msgstr ""
+msgstr "设定初级管道的长度"
 
 #: templates/boblogistics.jinja2:437
 msgid "Sets by how much further each tier of underground pipe will go"
-msgstr ""
+msgstr "设定每级管道额外增加的长度"
 
 #: templates/boblogistics.jinja2:438
 msgid ""
 "If both this and Transport belt overhaul are set to true, the speeds of "
 "transport belts will be updated. Please use multiples of 1.875."
-msgstr ""
+msgstr "同时开启此项和传送带全面复写后，传送带的速度会更新。请使用1.875的倍数。"
 
 #: templates/boblogistics.jinja2:439
 msgid ""
 "Sets how items per tier Transport belt move if Transport belt speed "
 "overhaul and Transport belt speed overhaul settings are both enabled."
-msgstr ""
+msgstr "当传送带速度全面复写以及传送带速度复写设置同时开启后，设置每级传送带运送物品的速度。"
 
 #: templates/boblogistics.jinja2:440
 msgid ""
 "Sets the amount of fluid that a Fluid wagon can store in thousands "
 "(Default 25, for 25k)"
-msgstr ""
+msgstr "设置一个液罐车厢能储存的流体容量，以k(千)为单位 (默认 25, 即25k)"
 
 #: templates/boblogistics.jinja2:441
 msgid ""
 "Sets the amount of fluid that a Storage tank can store in thousands "
 "(Default 25, for 25k)"
-msgstr ""
+msgstr "设置一个储存罐能储存的流体容量，以k(千)为单位 (默认 25, 即25k)"
 
 #: templates/boblogistics.jinja2:442
 msgid "If set to true, new trains (Locomotices and wagons) will be available"
-msgstr ""
+msgstr "开启后，能使用新的铁路(内燃机车和车厢)"
 
 #: templates/bobmining.jinja2:2
 msgid "__ENTITY__electric-mining-drill__ 2"
@@ -2264,59 +2264,59 @@ msgstr ""
 
 #: templates/bobmining.jinja2:7
 msgid "Electric large area mining drill 2"
-msgstr ""
+msgstr "电力大面积采掘机 2"
 
 #: templates/bobmining.jinja2:8
 msgid "Electric large area mining drill 3"
-msgstr ""
+msgstr "电力大面积采掘机 3"
 
 #: templates/bobmining.jinja2:9
 msgid "Electric large area mining drill 4"
-msgstr ""
+msgstr "电力大面积采掘机 4"
 
 #: templates/bobmining.jinja2:10
 msgid "Electric large area mining drill 5"
-msgstr ""
+msgstr "电力大面积采掘机 5"
 
 #: templates/bobmining.jinja2:12
 msgid "Pumpjack 2"
-msgstr ""
+msgstr "抽油机 2"
 
 #: templates/bobmining.jinja2:13
 msgid "Pumpjack 3"
-msgstr ""
+msgstr "抽油机 3"
 
 #: templates/bobmining.jinja2:14
 msgid "Pumpjack 4"
-msgstr ""
+msgstr "抽油机 4"
 
 #: templates/bobmining.jinja2:15
 msgid "Pumpjack 5"
-msgstr ""
+msgstr "抽油机 5"
 
 #: templates/bobmining.jinja2:17
 msgid "Water Pumpjack 1"
-msgstr ""
+msgstr "抽水机 1"
 
 #: templates/bobmining.jinja2:18
 msgid "Water Pumpjack 2"
-msgstr ""
+msgstr "抽水机 2"
 
 #: templates/bobmining.jinja2:19
 msgid "Water Pumpjack 3"
-msgstr ""
+msgstr "抽水机 3"
 
 #: templates/bobmining.jinja2:20
 msgid "Water Pumpjack 4"
-msgstr ""
+msgstr "抽水机 4"
 
 #: templates/bobmining.jinja2:21
 msgid "Water Pumpjack 5"
-msgstr ""
+msgstr "抽水机 5"
 
 #: templates/bobmining.jinja2:23
 msgid "Steam powered mining drill"
-msgstr ""
+msgstr "蒸汽采掘机"
 
 #: templates/bobmining.jinja2:27
 msgid ""
@@ -2325,6 +2325,9 @@ msgid ""
 "Expect it to operate at 20% on steam from your first boiler.\n"
 "20% is 120kW for 0.4/s base mining speed."
 msgstr ""
+"蒸汽采掘机的采掘速度和能耗会随输入蒸汽的温度而变化。\n"
+"它会消耗最初级锅炉20%的蒸汽。\n"
+"20%意味着120KW的能耗以及0.4的采掘速度。"
 
 #: templates/bobmining.jinja2:31
 msgid "__ENTITY__bob-mining-drill-1__"
@@ -2396,644 +2399,644 @@ msgstr ""
 
 #: templates/bobmining.jinja2:54
 msgid "Mining Drills Research"
-msgstr ""
+msgstr "采掘机研究"
 
 #: templates/bobmining.jinja2:55
 msgid "Large Area Mining Drills Research"
-msgstr ""
+msgstr "大面积采掘机研究"
 
 #: templates/bobmining.jinja2:56
 msgid "Pumpjacks Research"
-msgstr ""
+msgstr "抽油机研究"
 
 #: templates/bobmining.jinja2:57
 msgid "Water Pumpjacks Research"
-msgstr ""
+msgstr "抽水机研究"
 
 #: templates/bobmining.jinja2:61
 msgid "New mining drills"
-msgstr ""
+msgstr "新的采掘机"
 
 #: templates/bobmining.jinja2:62
 msgid "Large area mining drills"
-msgstr ""
+msgstr "大面积采掘机"
 
 #: templates/bobmining.jinja2:63
 msgid "New pumpjacks"
-msgstr ""
+msgstr "新的抽油机"
 
 #: templates/bobmining.jinja2:64
 msgid "New player mining speed research"
-msgstr ""
+msgstr "新的角色采集速度研究"
 
 #: templates/bobmining.jinja2:65
 msgid "Water mining pumpjacks"
-msgstr ""
+msgstr "抽水机"
 
 #: templates/bobmining.jinja2:66
 msgid "Steam mining drills"
-msgstr ""
+msgstr "蒸汽采掘机"
 
 #: templates/bobmining.jinja2:70
 msgid "If set to true, new upgradable mining drills are available."
-msgstr ""
+msgstr "开启后，能使用新的采掘机升级。"
 
 #: templates/bobmining.jinja2:71
 msgid "If set to true, new upgradable large area mining drills are available."
-msgstr ""
+msgstr "开启后，能使用新的大面积采掘机升级。"
 
 #: templates/bobmining.jinja2:72
 msgid "If set to true, new upgradable pumpjacks are available."
-msgstr ""
+msgstr "开启后，能使用新的抽油机升级。"
 
 #: templates/bobmining.jinja2:73
 msgid "If set to true, new better mining axes are available."
-msgstr ""
+msgstr "开启后，能使用更好采掘斧。"
 
 #: templates/bobmining.jinja2:74
 msgid "If set to true, water mining pumpjacks are available."
-msgstr ""
+msgstr "开启后，能使用新的抽水机。"
 
 #: templates/bobmining.jinja2:75
 msgid "If set to true, a new steam mining drill will be available."
-msgstr ""
+msgstr "开启后，能使用新的蒸汽采掘机。"
 
 #: templates/bobmodules.jinja2:2
 msgid "Speed Module 1"
-msgstr ""
+msgstr "速度插件 1"
 
 #: templates/bobmodules.jinja2:3
 msgid "Speed Module 2"
-msgstr ""
+msgstr "速度插件 2"
 
 #: templates/bobmodules.jinja2:4
 msgid "Speed Module 3"
-msgstr ""
+msgstr "速度插件 3"
 
 #: templates/bobmodules.jinja2:5
 msgid "Speed Module 4"
-msgstr ""
+msgstr "速度插件 4"
 
 #: templates/bobmodules.jinja2:6
 msgid "Speed Module 5"
-msgstr ""
+msgstr "速度插件 5"
 
 #: templates/bobmodules.jinja2:7
 msgid "Speed Module 6"
-msgstr ""
+msgstr "速度插件 6"
 
 #: templates/bobmodules.jinja2:8
 msgid "Speed Module 7"
-msgstr ""
+msgstr "速度插件 7"
 
 #: templates/bobmodules.jinja2:9
 msgid "Speed Module 8"
-msgstr ""
+msgstr "速度插件 8"
 
 #: templates/bobmodules.jinja2:11
 msgid "Effectivity Module 1"
-msgstr ""
+msgstr "节能插件 1"
 
 #: templates/bobmodules.jinja2:12
 msgid "Effectivity Module 2"
-msgstr ""
+msgstr "节能插件 2"
 
 #: templates/bobmodules.jinja2:13
 msgid "Effectivity Module 3"
-msgstr ""
+msgstr "节能插件 3"
 
 #: templates/bobmodules.jinja2:14
 msgid "Effectivity Module 4"
-msgstr ""
+msgstr "节能插件 4"
 
 #: templates/bobmodules.jinja2:15
 msgid "Effectivity Module 5"
-msgstr ""
+msgstr "节能插件 5"
 
 #: templates/bobmodules.jinja2:16
 msgid "Effectivity Module 6"
-msgstr ""
+msgstr "节能插件 6"
 
 #: templates/bobmodules.jinja2:17
 msgid "Effectivity Module 7"
-msgstr ""
+msgstr "节能插件 7"
 
 #: templates/bobmodules.jinja2:18
 msgid "Effectivity Module 8"
-msgstr ""
+msgstr "节能插件 8"
 
 #: templates/bobmodules.jinja2:20
 msgid "Productivity Module 1"
-msgstr ""
+msgstr "产能插件 1"
 
 #: templates/bobmodules.jinja2:21
 msgid "Productivity Module 2"
-msgstr ""
+msgstr "产能插件 2"
 
 #: templates/bobmodules.jinja2:22
 msgid "Productivity Module 3"
-msgstr ""
+msgstr "产能插件 3"
 
 #: templates/bobmodules.jinja2:23
 msgid "Productivity Module 4"
-msgstr ""
+msgstr "产能插件 4"
 
 #: templates/bobmodules.jinja2:24
 msgid "Productivity Module 5"
-msgstr ""
+msgstr "产能插件 5"
 
 #: templates/bobmodules.jinja2:25
 msgid "Productivity Module 6"
-msgstr ""
+msgstr "产能插件 6"
 
 #: templates/bobmodules.jinja2:26
 msgid "Productivity Module 7"
-msgstr ""
+msgstr "产能插件 7"
 
 #: templates/bobmodules.jinja2:27
 msgid "Productivity Module 8"
-msgstr ""
+msgstr "产能插件 8"
 
 #: templates/bobmodules.jinja2:29
 msgid "Pollution Cleaning Module 1"
-msgstr ""
+msgstr "污染清洁插件 1"
 
 #: templates/bobmodules.jinja2:30
 msgid "Pollution Cleaning Module 2"
-msgstr ""
+msgstr "污染清洁插件 2"
 
 #: templates/bobmodules.jinja2:31
 msgid "Pollution Cleaning Module 3"
-msgstr ""
+msgstr "污染清洁插件 3"
 
 #: templates/bobmodules.jinja2:32
 msgid "Pollution Cleaning Module 4"
-msgstr ""
+msgstr "污染清洁插件 4"
 
 #: templates/bobmodules.jinja2:33
 msgid "Pollution Cleaning Module 5"
-msgstr ""
+msgstr "污染清洁插件 5"
 
 #: templates/bobmodules.jinja2:34
 msgid "Pollution Cleaning Module 6"
-msgstr ""
+msgstr "污染清洁插件 6"
 
 #: templates/bobmodules.jinja2:35
 msgid "Pollution Cleaning Module 7"
-msgstr ""
+msgstr "污染清洁插件 7"
 
 #: templates/bobmodules.jinja2:36
 msgid "Pollution Cleaning Module 8"
-msgstr ""
+msgstr "污染清洁插件 8"
 
 #: templates/bobmodules.jinja2:38
 msgid "Pollution Producing Module 1"
-msgstr ""
+msgstr "污染产生插件 1"
 
 #: templates/bobmodules.jinja2:39
 msgid "Pollution Producing Module 2"
-msgstr ""
+msgstr "污染产生插件 2"
 
 #: templates/bobmodules.jinja2:40
 msgid "Pollution Producing Module 3"
-msgstr ""
+msgstr "污染产生插件 3"
 
 #: templates/bobmodules.jinja2:41
 msgid "Pollution Producing Module 4"
-msgstr ""
+msgstr "污染产生插件 4"
 
 #: templates/bobmodules.jinja2:42
 msgid "Pollution Producing Module 5"
-msgstr ""
+msgstr "污染产生插件 5"
 
 #: templates/bobmodules.jinja2:43
 msgid "Pollution Producing Module 6"
-msgstr ""
+msgstr "污染产生插件 6"
 
 #: templates/bobmodules.jinja2:44
 msgid "Pollution Producing Module 7"
-msgstr ""
+msgstr "污染产生插件 7"
 
 #: templates/bobmodules.jinja2:45
 msgid "Pollution Producing Module 8"
-msgstr ""
+msgstr "污染产生插件 8"
 
 #: templates/bobmodules.jinja2:47
 msgid "Raw speed module 1"
-msgstr ""
+msgstr "基础速度插件 1"
 
 #: templates/bobmodules.jinja2:48
 msgid "Raw speed module 2"
-msgstr ""
+msgstr "基础速度插件 2"
 
 #: templates/bobmodules.jinja2:49
 msgid "Raw speed module 3"
-msgstr ""
+msgstr "基础速度插件 3"
 
 #: templates/bobmodules.jinja2:50
 msgid "Raw speed module 4"
-msgstr ""
+msgstr "基础速度插件 4"
 
 #: templates/bobmodules.jinja2:51
 msgid "Raw speed module 5"
-msgstr ""
+msgstr "基础速度插件 5"
 
 #: templates/bobmodules.jinja2:52
 msgid "Raw speed module 6"
-msgstr ""
+msgstr "基础速度插件 6"
 
 #: templates/bobmodules.jinja2:53
 msgid "Raw speed module 7"
-msgstr ""
+msgstr "基础速度插件 7"
 
 #: templates/bobmodules.jinja2:54
 msgid "Raw speed module 8"
-msgstr ""
+msgstr "基础速度插件 8"
 
 #: templates/bobmodules.jinja2:56
 msgid "Raw productivity module 1"
-msgstr ""
+msgstr "基础产能插件 1"
 
 #: templates/bobmodules.jinja2:57
 msgid "Raw productivity module 2"
-msgstr ""
+msgstr "基础产能插件 2"
 
 #: templates/bobmodules.jinja2:58
 msgid "Raw productivity module 3"
-msgstr ""
+msgstr "基础产能插件 3"
 
 #: templates/bobmodules.jinja2:59
 msgid "Raw productivity module 4"
-msgstr ""
+msgstr "基础产能插件 4"
 
 #: templates/bobmodules.jinja2:60
 msgid "Raw productivity module 5"
-msgstr ""
+msgstr "基础产能插件 5"
 
 #: templates/bobmodules.jinja2:61
 msgid "Raw productivity module 6"
-msgstr ""
+msgstr "基础产能插件 6"
 
 #: templates/bobmodules.jinja2:62
 msgid "Raw productivity module 7"
-msgstr ""
+msgstr "基础产能插件 7"
 
 #: templates/bobmodules.jinja2:63
 msgid "Raw productivity module 8"
-msgstr ""
+msgstr "基础产能插件 8"
 
 #: templates/bobmodules.jinja2:65
 msgid "Green module 1"
-msgstr ""
+msgstr "绿色插件 1"
 
 #: templates/bobmodules.jinja2:66
 msgid "Green module 2"
-msgstr ""
+msgstr "绿色插件 2"
 
 #: templates/bobmodules.jinja2:67
 msgid "Green module 3"
-msgstr ""
+msgstr "绿色插件 3"
 
 #: templates/bobmodules.jinja2:68
 msgid "Green module 4"
-msgstr ""
+msgstr "绿色插件 4"
 
 #: templates/bobmodules.jinja2:69
 msgid "Green module 5"
-msgstr ""
+msgstr "绿色插件 5"
 
 #: templates/bobmodules.jinja2:70
 msgid "Green module 6"
-msgstr ""
+msgstr "绿色插件 6"
 
 #: templates/bobmodules.jinja2:71
 msgid "Green module 7"
-msgstr ""
+msgstr "绿色插件 7"
 
 #: templates/bobmodules.jinja2:72
 msgid "Green module 8"
-msgstr ""
+msgstr "绿色插件 8"
 
 #: templates/bobmodules.jinja2:74
 msgid "God module 1"
-msgstr ""
+msgstr "上帝插件 1"
 
 #: templates/bobmodules.jinja2:75
 msgid "God module 2"
-msgstr ""
+msgstr "上帝插件 2"
 
 #: templates/bobmodules.jinja2:76
 msgid "God module 3"
-msgstr ""
+msgstr "上帝插件 3"
 
 #: templates/bobmodules.jinja2:77
 msgid "God module 4"
-msgstr ""
+msgstr "上帝插件 4"
 
 #: templates/bobmodules.jinja2:78
 msgid "God module 5"
-msgstr ""
+msgstr "上帝插件 5"
 
 #: templates/bobmodules.jinja2:80 templates/bobmodules.jinja2:123
 msgid "Beacon MK2"
-msgstr ""
+msgstr "插件效果分享塔 MK2"
 
 #: templates/bobmodules.jinja2:81 templates/bobmodules.jinja2:124
 msgid "Beacon MK3"
-msgstr ""
+msgstr "插件效果分享塔 MK3"
 
 #: templates/bobmodules.jinja2:83 templates/bobmodules.jinja2:126
 msgid "Modules lab"
-msgstr ""
+msgstr "插件研究中心"
 
 #: templates/bobmodules.jinja2:85
 msgid "Module case"
-msgstr ""
+msgstr "插件盒"
 
 #: templates/bobmodules.jinja2:86
 msgid "Module contact"
-msgstr ""
+msgstr "插件触电"
 
 #: templates/bobmodules.jinja2:87
 msgid "Module main board"
-msgstr ""
+msgstr "插件主板"
 
 #: templates/bobmodules.jinja2:88
 msgid "Basic module board"
-msgstr ""
+msgstr "基础插件板"
 
 #: templates/bobmodules.jinja2:89
 msgid "Module logic board"
-msgstr ""
+msgstr "插件逻辑板"
 
 #: templates/bobmodules.jinja2:90
 msgid "Module processor board"
-msgstr ""
+msgstr "插件处理器板"
 
 #: templates/bobmodules.jinja2:92
 msgid "Speed circuit board"
-msgstr ""
+msgstr "速度电路板"
 
 #: templates/bobmodules.jinja2:93
 msgid "Effectivity circuit board"
-msgstr ""
+msgstr "节能电路板"
 
 #: templates/bobmodules.jinja2:94
 msgid "Productivity circuit board"
-msgstr ""
+msgstr "产能电路板"
 
 #: templates/bobmodules.jinja2:95
 msgid "Pollution cleaning circuit board"
-msgstr ""
+msgstr "污染清洁电路板"
 
 #: templates/bobmodules.jinja2:96
 msgid "Pollution producing circuit board"
-msgstr ""
+msgstr "污染产生电路板"
 
 #: templates/bobmodules.jinja2:98
 msgid "Speed logic board"
-msgstr ""
+msgstr "速度逻辑板"
 
 #: templates/bobmodules.jinja2:99
 msgid "Effectivity logic board"
-msgstr ""
+msgstr "节能逻辑板"
 
 #: templates/bobmodules.jinja2:100
 msgid "Productivity logic board"
-msgstr ""
+msgstr "产能逻辑板"
 
 #: templates/bobmodules.jinja2:101
 msgid "Pollution cleaning logic board"
-msgstr ""
+msgstr "污染清洁逻辑板"
 
 #: templates/bobmodules.jinja2:102
 msgid "Pollution producing logic board"
-msgstr ""
+msgstr "污染产生逻辑板"
 
 #: templates/bobmodules.jinja2:104
 msgid "Speed processor board"
-msgstr ""
+msgstr "速度处理器板"
 
 #: templates/bobmodules.jinja2:105
 msgid "Effectivity processor board"
-msgstr ""
+msgstr "节能处理器板"
 
 #: templates/bobmodules.jinja2:106
 msgid "Productivity processor board"
-msgstr ""
+msgstr "产能处理器板"
 
 #: templates/bobmodules.jinja2:107
 msgid "Pollution cleaning processor board"
-msgstr ""
+msgstr "污染清洁处理器板"
 
 #: templates/bobmodules.jinja2:108
 msgid "Pollution producing processor board"
-msgstr ""
+msgstr "污染产生处理器板"
 
 #: templates/bobmodules.jinja2:112
 msgid "Pollution Cleaning Modules"
-msgstr ""
+msgstr "污染清洁插件"
 
 #: templates/bobmodules.jinja2:113
 msgid "Pollution Producing Modules"
-msgstr ""
+msgstr "污染产生插件"
 
 #: templates/bobmodules.jinja2:114 templates/bobmodules.jinja2:135
 msgid "Raw speed modules"
-msgstr ""
+msgstr "基础速度插件"
 
 #: templates/bobmodules.jinja2:115 templates/bobmodules.jinja2:136
 msgid "Raw productivity modules"
-msgstr ""
+msgstr "基础产能插件"
 
 #: templates/bobmodules.jinja2:116 templates/bobmodules.jinja2:134
 msgid "Green modules"
-msgstr ""
+msgstr "绿色插件"
 
 #: templates/bobmodules.jinja2:117 templates/bobmodules.jinja2:137
 msgid "God modules"
-msgstr ""
+msgstr "上帝插件"
 
 #: templates/bobmodules.jinja2:119
 msgid "Module effect combining"
-msgstr ""
+msgstr "插件效果结合"
 
 #: templates/bobmodules.jinja2:130
 msgid "Modules"
-msgstr ""
+msgstr "插件"
 
 #: templates/bobmodules.jinja2:138
 msgid "Productivity limitations"
-msgstr ""
+msgstr "产能限制"
 
 #: templates/bobmodules.jinja2:139
 msgid "speed on Productivity modules"
-msgstr ""
+msgstr "速度插件于产能插件"
 
 #: templates/bobmodules.jinja2:140
 msgid "Transmit productivity"
-msgstr ""
+msgstr "共享产能"
 
 #: templates/bobmodules.jinja2:142
 msgid "Module speed bonus per tier"
-msgstr ""
+msgstr "每级插件速度增幅"
 
 #: templates/bobmodules.jinja2:143
 msgid "Module pollution bonus per tier"
-msgstr ""
+msgstr "每级插件污染增幅"
 
 #: templates/bobmodules.jinja2:144
 msgid "Module consumption bonus per tier"
-msgstr ""
+msgstr "每级插件消耗增幅"
 
 #: templates/bobmodules.jinja2:145
 msgid "Module productivity bonus per tier"
-msgstr ""
+msgstr "每级插件产能增幅"
 
 #: templates/bobmodules.jinja2:146
 msgid "Module speed penalty per tier"
-msgstr ""
+msgstr "每级插件速度惩罚"
 
 #: templates/bobmodules.jinja2:147
 msgid "Module pollution penalty per tier"
-msgstr ""
+msgstr "每级插件污染惩罚"
 
 #: templates/bobmodules.jinja2:148
 msgid "Module consumption penalty per tier"
-msgstr ""
+msgstr "每级插件消耗惩罚"
 
 #: templates/bobmodules.jinja2:149
 msgid "Module pollution create bonus per tier"
-msgstr ""
+msgstr "每级插件污染产生增幅"
 
 #: templates/bobmodules.jinja2:151
 msgid "Module speed bonus start"
-msgstr ""
+msgstr "插件速度增幅初始值"
 
 #: templates/bobmodules.jinja2:152
 msgid "Module pollution bonus start"
-msgstr ""
+msgstr "插件污染增幅初始值"
 
 #: templates/bobmodules.jinja2:153
 msgid "Module consumption bonus start"
-msgstr ""
+msgstr "插件消耗增幅初始值"
 
 #: templates/bobmodules.jinja2:154
 msgid "Module productivity bonus start"
-msgstr ""
+msgstr "插件产能增幅初始值"
 
 #: templates/bobmodules.jinja2:155
 msgid "Module speed penalty start"
-msgstr ""
+msgstr "插件速度惩罚初始值"
 
 #: templates/bobmodules.jinja2:156
 msgid "Module pollution penalty start"
-msgstr ""
+msgstr "插件污染惩罚初始值"
 
 #: templates/bobmodules.jinja2:157
 msgid "Module consumption penalty start"
-msgstr ""
+msgstr "插件消耗惩罚初始值"
 
 #: templates/bobmodules.jinja2:158
 msgid "Module pollution create bonus start"
-msgstr ""
+msgstr "插件污染产生增幅初始值"
 
 #: templates/bobmodules.jinja2:162
 msgid "If enabled, then Green merged module with be enabled."
-msgstr ""
+msgstr "开启后，可使用绿色集成插件。"
 
 #: templates/bobmodules.jinja2:163
 msgid "If enabled, then Speed merged module with be enabled."
-msgstr ""
+msgstr "开启后，可使用速度集成插件。"
 
 #: templates/bobmodules.jinja2:164
 msgid "If enabled, then Productivity merged module with be enabled."
-msgstr ""
+msgstr "开启后，可使用产能集成插件。"
 
 #: templates/bobmodules.jinja2:165
 msgid "If enabled, then God modules and research are enabled."
-msgstr ""
+msgstr "开启后，可使用上帝插件及其研究。"
 
 #: templates/bobmodules.jinja2:166
 msgid ""
 "If enabled, modules that effect productivity can only be used on "
 "Registered intermediates. Warning: The game will delete any modules that "
 "do not match the limits"
-msgstr ""
+msgstr "开启后，影响产能的插件将只能用于制造中间产品的机器中。警告：所有不满足限制的插件会从游戏中被移除。"
 
 #: templates/bobmodules.jinja2:167
 msgid ""
 "If enabled, Productivity modules suffer speed penalty. Raw productivity "
 "modules also cost Speed circuits."
-msgstr ""
+msgstr "开启后，产能插件影响速度惩罚。基本产能插件也将需求速度电路板。"
 
 #: templates/bobmodules.jinja2:168
 msgid "If enabled, the Beacons can transmit the productivity effect."
-msgstr ""
+msgstr "开启后，插件效果分享塔将能分享产能效果。"
 
 #: templates/bobores.jinja2:2 templates/bobplates.jinja2:2
 msgid "Gold ore"
-msgstr ""
+msgstr "金矿"
 
 #: templates/bobores.jinja2:3 templates/bobplates.jinja2:3
 msgid "Galena (Lead ore)"
-msgstr ""
+msgstr "方铅矿(铅矿)"
 
 #: templates/bobores.jinja2:4 templates/bobplates.jinja2:4
 msgid "Silver ore"
-msgstr ""
+msgstr "银矿"
 
 #: templates/bobores.jinja2:5 templates/bobplates.jinja2:5
 msgid "Tin ore"
-msgstr ""
+msgstr "锡矿"
 
 #: templates/bobores.jinja2:6 templates/bobplates.jinja2:6
 msgid "Tungsten ore"
-msgstr ""
+msgstr "钨矿"
 
 #: templates/bobores.jinja2:7 templates/bobplates.jinja2:7
 msgid "Zinc ore"
-msgstr ""
+msgstr "锌矿"
 
 #: templates/bobores.jinja2:8 templates/bobplates.jinja2:8
 msgid "Bauxite (Aluminium ore)"
-msgstr ""
+msgstr "铝土矿(铝矿)"
 
 #: templates/bobores.jinja2:9 templates/bobplates.jinja2:9
 msgid "Rutile (Titanium ore)"
-msgstr ""
+msgstr "锐钛矿(钛矿)"
 
 #: templates/bobores.jinja2:10 templates/bobplates.jinja2:10
 msgid "Nickel ore"
-msgstr ""
+msgstr "镍矿"
 
 #: templates/bobores.jinja2:11 templates/bobplates.jinja2:11
 msgid "Cobaltite"
-msgstr ""
+msgstr "辉钴矿"
 
 #: templates/bobores.jinja2:12 templates/bobplates.jinja2:12
 msgid "Quartz (Silicon ore)"
-msgstr ""
+msgstr "石英(硅矿)"
 
 #: templates/bobores.jinja2:13
 msgid "Sulfur"
-msgstr ""
+msgstr "硫磺"
 
 #: templates/bobores.jinja2:14
 msgid "Gemstones"
-msgstr ""
+msgstr "宝石"
 
 #: templates/bobores.jinja2:15
 msgid "Lithia Water"
-msgstr ""
+msgstr "锂盐水"
 
 #: templates/bobores.jinja2:16
 msgid "Ground Water"
-msgstr ""
+msgstr "地下水"
 
 #: templates/bobores.jinja2:17
 msgid "Thorium ore"
-msgstr ""
+msgstr "钍矿"
 
 #: templates/bobores.jinja2:20 templates/bobores.jinja2:48
 msgid "__ENTITY__gold-ore__"
@@ -3085,31 +3088,31 @@ msgstr ""
 
 #: templates/bobores.jinja2:33 templates/bobplates.jinja2:13
 msgid "Unsorted gemstone ore"
-msgstr ""
+msgstr "未分类的宝石矿"
 
 #: templates/bobores.jinja2:35 templates/bobplates.jinja2:120
 msgid "Ruby Ore"
-msgstr ""
+msgstr "红宝石矿"
 
 #: templates/bobores.jinja2:36 templates/bobplates.jinja2:125
 msgid "Sapphire Ore"
-msgstr ""
+msgstr "蓝宝石矿"
 
 #: templates/bobores.jinja2:37 templates/bobplates.jinja2:130
 msgid "Emerald Ore"
-msgstr ""
+msgstr "绿宝石矿"
 
 #: templates/bobores.jinja2:38 templates/bobplates.jinja2:135
 msgid "Amethyst Ore"
-msgstr ""
+msgstr "紫水晶矿"
 
 #: templates/bobores.jinja2:39 templates/bobplates.jinja2:140
 msgid "Topaz Ore"
-msgstr ""
+msgstr "黄宝石矿"
 
 #: templates/bobores.jinja2:40 templates/bobplates.jinja2:145
 msgid "Diamond Ore"
-msgstr ""
+msgstr "金刚石矿"
 
 #: templates/bobores.jinja2:44
 msgid "__ENTITY__lithia-water__"
@@ -3129,157 +3132,157 @@ msgstr ""
 
 #: templates/bobores.jinja2:66
 msgid "Sort raw gems"
-msgstr ""
+msgstr "分类基本宝石"
 
 #: templates/bobores.jinja2:71
 msgid "Infinite ores"
-msgstr ""
+msgstr "无限矿石"
 
 #: templates/bobores.jinja2:72
 msgid "Enhanced Stone"
-msgstr ""
+msgstr "高级石矿"
 
 #: templates/bobores.jinja2:73
 msgid "Unsorted gem ore"
-msgstr ""
+msgstr "未分类的宝石矿"
 
 #: templates/bobores.jinja2:74
 msgid "Lead gives Nickel"
-msgstr ""
+msgstr "含镍的铅矿"
 
 #: templates/bobores.jinja2:75
 msgid "Lead Nickel ratio"
-msgstr ""
+msgstr "铅矿含镍比例"
 
 #: templates/bobores.jinja2:76
 msgid "Nickel gives Cobalt"
-msgstr ""
+msgstr "含钴的镍矿"
 
 #: templates/bobores.jinja2:77
 msgid "Nickel Cobalt ratio"
-msgstr ""
+msgstr "镍矿含钴比例"
 
 #: templates/bobores.jinja2:78
 msgid "Gems from other ores"
-msgstr ""
+msgstr "其他矿石中含宝石"
 
 #: templates/bobores.jinja2:79
 msgid "Gem Probabillity (From other ores)"
-msgstr ""
+msgstr "宝石含量(其他矿中)"
 
 #: templates/bobores.jinja2:80
 msgid "Ruby ratio"
-msgstr ""
+msgstr "红宝石比例"
 
 #: templates/bobores.jinja2:81
 msgid "Sapphire ratio"
-msgstr ""
+msgstr "蓝宝石比例"
 
 #: templates/bobores.jinja2:82
 msgid "Emerald ratio"
-msgstr ""
+msgstr "绿宝石比例"
 
 #: templates/bobores.jinja2:83
 msgid "Amethyst ratio"
-msgstr ""
+msgstr "紫水晶比例"
 
 #: templates/bobores.jinja2:84
 msgid "Topaz ratio"
-msgstr ""
+msgstr "黄宝石比例"
 
 #: templates/bobores.jinja2:85
 msgid "Diamond ratio"
-msgstr ""
+msgstr "钻石比例"
 
 #: templates/bobores.jinja2:86
 msgid "Enable bauxite"
-msgstr ""
+msgstr "开启铝土矿"
 
 #: templates/bobores.jinja2:87
 msgid "Enable cobalt ore"
-msgstr ""
+msgstr "开启钴矿"
 
 #: templates/bobores.jinja2:88
 msgid "Enable gems ore"
-msgstr ""
+msgstr "开启宝石矿"
 
 #: templates/bobores.jinja2:89
 msgid "Enable gold ore"
-msgstr ""
+msgstr "开启金矿"
 
 #: templates/bobores.jinja2:90
 msgid "Enable lead ore"
-msgstr ""
+msgstr "开启方铅矿"
 
 #: templates/bobores.jinja2:91
 msgid "Enable nickel ore"
-msgstr ""
+msgstr "开启镍矿"
 
 #: templates/bobores.jinja2:92
 msgid "Enable quartz"
-msgstr ""
+msgstr "开启石英"
 
 #: templates/bobores.jinja2:93
 msgid "Enable rutile"
-msgstr ""
+msgstr "开启锐钛矿"
 
 #: templates/bobores.jinja2:94
 msgid "Enable silver ore"
-msgstr ""
+msgstr "开启银矿"
 
 #: templates/bobores.jinja2:95
 msgid "Enable sulfur"
-msgstr ""
+msgstr "开启硫磺矿"
 
 #: templates/bobores.jinja2:96
 msgid "Enable tin ore"
-msgstr ""
+msgstr "开启锡矿"
 
 #: templates/bobores.jinja2:97
 msgid "Enable tungsten ore"
-msgstr ""
+msgstr "开启钨矿"
 
 #: templates/bobores.jinja2:98
 msgid "Enable zinc ore"
-msgstr ""
+msgstr "开启锌矿"
 
 #: templates/bobores.jinja2:99
 msgid "Enable water ores"
-msgstr ""
+msgstr "开启地下水资源"
 
 #: templates/bobores.jinja2:100
 msgid "Enable thorium ore"
-msgstr ""
+msgstr "开启钍矿"
 
 #: templates/bobores.jinja2:104
 msgid "Makes all ores infinite"
-msgstr ""
+msgstr "所有矿石无限"
 
 #: templates/bobores.jinja2:105
 msgid "If set to true, Stone will apear in larger, richer vains."
-msgstr ""
+msgstr "开启后，石矿会分布地更大更丰富"
 
 #: templates/bobores.jinja2:106
 msgid ""
 "If set to true, Gem ore fields will give the Unsorted Gems resource. If "
 "false will give each ore type."
-msgstr ""
+msgstr "开启后，宝石矿会产出未分类的宝石矿，否则产出各类宝石。"
 
 #: templates/bobores.jinja2:107
 msgid "If set to true, mining Lead can also give Nickel"
-msgstr ""
+msgstr "开启后，采掘方铅矿同时会获得镍矿"
 
 #: templates/bobores.jinja2:108
 msgid "How often you get Nickel per Lead"
-msgstr ""
+msgstr "从方铅矿中获得镍矿的概率"
 
 #: templates/bobores.jinja2:109
 msgid "If set to true, mining Nickel can also give Cobalt"
-msgstr ""
+msgstr "开启后，采集镍矿同时会获得钴矿"
 
 #: templates/bobores.jinja2:110
 msgid "How often you get Cobalt per Nickel"
-msgstr ""
+msgstr "从镍矿中获得钴矿的概率"
 
 #: templates/bobores.jinja2:111
 msgid ""
