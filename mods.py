@@ -1,0 +1,21 @@
+mod_names = [
+    "boblibrary",
+    "boblogistics",
+    "bobpower",
+    "bobplates",
+    "bobwarfare",
+    "bobinserters",
+    "bobassembly",
+    "bobtech",
+    "bobmodules",
+    "bobelectronics",
+    "bobmining",
+    "bobores",
+    "bobrevamp",
+    "bobvehicleequipment",
+    "bobgreenhouse",
+    "bobenemies",
+    "clock",
+    "bobclasses",
+    "bobequipment"
+]
