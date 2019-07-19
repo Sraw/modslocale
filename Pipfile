@@ -6,12 +6,12 @@ verify_ssl = true
 [dev-packages]
 jupyter = "*"
 jinja2 = "*"
-
-[packages]
 lxml = "*"
 requests = "*"
 cssselect = "*"
 babel = "*"
+
+[packages]
 
 [requires]
 python_version = "3.7"

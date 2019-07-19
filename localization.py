@@ -12,7 +12,7 @@ class Localizer:
         self.output_dir = "templates"
 
         loader = FileSystemLoader("templates")
-        extensions = ['jinja2.ext.i18n', 'jinja2.ext.autoescape', 'jinja2.ext.with_']
+        extensions = ['jinja2.ext.i18n']
         self.env = Environment(extensions=extensions, loader=loader)
         self.locale_dir = "lang"
 
@@ -26,7 +26,7 @@ class Localizer:
                 content = f.read()
 
             content = content.replace('"', '\\"')
-            content = self.regex.sub(r'={{ _("\g<1>")|replace("\n","\\n") }}', content)
+            content = self.regex.sub(r'={{ _("\g<1>")|replace("\\n","\\\\n") }}', content)
             basename = os.path.basename(file)
             basename = ".".join([basename.split(".")[0], "jinja2"])
 

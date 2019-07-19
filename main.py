@@ -1,35 +1,15 @@
 import argparse
+import os
 import re
 import zipfile
 from io import BytesIO
-import os
-import shutil
+
+import babel
+from babel.messages.frontend import CommandLineInterface
 
 from factorio import FactorioModGetter
 from localization import Localizer
-from babel.messages.frontend import CommandLineInterface
-
-mod_names = [
-    "boblibrary",
-    "boblogistics",
-    "bobpower",
-    "bobplates",
-    "bobwarfare",
-    "bobinserters",
-    "bobassembly",
-    "bobtech",
-    "bobmodules",
-    "bobelectronics",
-    "bobmining",
-    "bobores",
-    "bobrevamp",
-    "bobvehicleequipment",
-    "bobgreenhouse",
-    "bobenemies",
-    "clock",
-    "bobclasses",
-    "bobequipment"
-]
+from mods import mod_names
 
 
 def sync_mod_locale(_mod_getter, _mod_names):
@@ -48,7 +28,10 @@ def sync_mod_locale(_mod_getter, _mod_names):
 
 
 if __name__ == '__main__':
+    babel.messages.catalog.Message.python_format = False
+
     parser = argparse.ArgumentParser()
+
     subparsers = parser.add_subparsers()
 
     parser_sync = subparsers.add_parser('sync', help='Sync modules.')
@@ -88,10 +71,11 @@ if __name__ == '__main__':
             CommandLineInterface().run(
                 ['pybabel', 'init', '-i', 'messages.pot', '-d', 'lang', '-l', locale])
         os.remove("messages.pot")
-    elif args.render:
+    elif "render" in args and args.render:
         CommandLineInterface().run(
             ['pybabel', 'compile', '-f', '-d', 'lang'])
         localizer = Localizer()
         locale = args.locale
         localizer.render_locale(locale)
-        # shutil.rmtree("templates")
+    else:
+        parser.print_help()
