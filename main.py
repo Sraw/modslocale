@@ -7,8 +7,8 @@ from io import BytesIO
 import babel
 from babel.messages.frontend import CommandLineInterface
 
-from factorio import FactorioModGetter
-from localization import Localizer
+from modules.factorio import FactorioModGetter
+from modules.localization import Localizer
 from mods import mod_names
 
 
