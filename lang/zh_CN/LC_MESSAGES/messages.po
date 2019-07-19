@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-18 14:14+0800\n"
+"POT-Creation-Date: 2019-07-19 11:36+0800\n"
 "PO-Revision-Date: 2019-07-18 14:19+0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_Hans_CN\n"
@@ -131,7 +131,6 @@ msgid "Oil powered steel metal mixing furnace"
 msgstr "燃油金属混合炉"
 
 #: templates/bobassembly.jinja2:42
-#, python-format
 msgid ""
 "The steam powered assembling machine will scale it's speed and energy "
 "consumption to the temperature of the steam you pipe into it.\n"
@@ -308,8 +307,7 @@ msgstr "火力以及蒸汽组装机"
 msgid ""
 "Enables the classic issue of needing better machines to craft items with "
 "more ingredients."
-msgstr ""
-"开启需要更好的组装机来组装需求更多原料的物品。"
+msgstr "开启需要更好的组装机来组装需求更多原料的物品。"
 
 #: templates/bobclasses.jinja2:2
 msgid "Miner class __ENTITY__character__"
@@ -1292,10 +1290,10 @@ msgid ""
 "automatically, or use this generator if it is not, however, this option "
 "is available to force enable my custom generator even if you're using the"
 " newer version of Factorio."
-msgstr "此模组包含了一个基于0.17资源生成系统的资源生成器。然而，0.17.51版本修复了许多此资源生成器"
-"试图修复的在旧版本中的问题，因此已经不再需要了。\n"
-"此模组会自动检测新的资源生成器是否可用，并自动使用它，如果不可用则会使用此资源生成器代替。"
-"不过此选项可以强制开启此资源生成器哪怕你在使用新版本的Factorio。"
+msgstr ""
+"此模组包含了一个基于0.17资源生成系统的资源生成器。然而，0.17.51版本修复了许多此资源生成器试图修复的在旧版本中的问题，因此已经不再需要了。"
+"\n"
+"此模组会自动检测新的资源生成器是否可用，并自动使用它，如果不可用则会使用此资源生成器代替。不过此选项可以强制开启此资源生成器哪怕你在使用新版本的Factorio。"
 
 #: templates/boblogistics.jinja2:2 templates/boblogistics.jinja2:171
 msgid "Roboport MK1"
@@ -2040,14 +2038,12 @@ msgid "A pipe that allows fluid to flow in only one direction"
 msgstr ""
 
 #: templates/boblogistics.jinja2:378
-#, python-format
 msgid ""
 "A pipe that allows a fluid to flow in only one direction when the input "
 "is more than 80% full"
 msgstr ""
 
 #: templates/boblogistics.jinja2:379
-#, python-format
 msgid ""
 "A pipe that allows a fluid to flow in only one direction when the output "
 "is less than 20% full"
@@ -2323,7 +2319,6 @@ msgid "Steam powered mining drill"
 msgstr ""
 
 #: templates/bobmining.jinja2:27
-#, python-format
 msgid ""
 "The steam powered mining drill will scale it's speed and energy "
 "consumption to the temperature of the steam you pipe into it.\n"

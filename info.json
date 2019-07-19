@@ -1,0 +1,10 @@
+{
+  "name": "modslocale",
+  "version": "0.0.1",
+  "factorio_version": "0.17",
+  "title": "Locale Translations For All Mods",
+  "author": "Sraw",
+  "contact": "lzyl888@gmail.com",
+  "description": "Adds translations for all mods, but currently only for bob's mods.",
+  "dependencies": ["base >= 0.17.0"]
+}
