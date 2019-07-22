@@ -1,4 +1,4 @@
-# Chinese (Simplified, China) translations for PROJECT.
+# Korean translations for PROJECT.
 # Copyright (C) 2019 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2019.
@@ -7,11 +7,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-19 11:36+0800\n"
-"PO-Revision-Date: 2019-07-18 14:19+0800\n"
+"POT-Creation-Date: 2019-07-22 15:11+0800\n"
+"PO-Revision-Date: 2019-07-22 15:11+0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: zh_Hans_CN\n"
-"Language-Team: zh_Hans_CN <LL@li.org>\n"
+"Language: ko\n"
+"Language-Team: ko <LL@li.org>\n"
 "Plural-Forms: nplurals=1; plural=0\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -20,115 +20,115 @@ msgstr ""
 
 #: templates/bobassembly.jinja2:2
 msgid "Assembling machine 4"
-msgstr "组装机4型"
+msgstr ""
 
 #: templates/bobassembly.jinja2:3
 msgid "Assembling machine 5"
-msgstr "组装机5型"
+msgstr ""
 
 #: templates/bobassembly.jinja2:4
 msgid "Assembling machine 6"
-msgstr "组装机6型"
+msgstr ""
 
 #: templates/bobassembly.jinja2:6
 msgid "Electronics assembling machine 1"
-msgstr "电子组装机1型"
+msgstr ""
 
 #: templates/bobassembly.jinja2:7
 msgid "Electronics assembling machine 2"
-msgstr "电子组装机2型"
+msgstr ""
 
 #: templates/bobassembly.jinja2:8
 msgid "Electronics assembling machine 3"
-msgstr "电子组装机3型"
+msgstr ""
 
 #: templates/bobassembly.jinja2:10
 msgid "Burner assembling machine"
-msgstr "火力组装机"
+msgstr ""
 
 #: templates/bobassembly.jinja2:11
 msgid "Steam powered assembling machine"
-msgstr "蒸汽组装机"
+msgstr ""
 
 #: templates/bobassembly.jinja2:13
 msgid "Oil refinery 2"
-msgstr "石油精炼厂2型"
+msgstr ""
 
 #: templates/bobassembly.jinja2:14
 msgid "Oil refinery 3"
-msgstr "石油精炼厂3型"
+msgstr ""
 
 #: templates/bobassembly.jinja2:15
 msgid "Oil refinery 4"
-msgstr "石油精炼厂4型"
+msgstr ""
 
 #: templates/bobassembly.jinja2:17
 msgid "Chemical plant 2"
-msgstr "化工厂2型"
+msgstr ""
 
 #: templates/bobassembly.jinja2:18
 msgid "Chemical plant 3"
-msgstr "化工厂3型"
+msgstr ""
 
 #: templates/bobassembly.jinja2:19
 msgid "Chemical plant 4"
-msgstr "化工厂4型"
+msgstr ""
 
 #: templates/bobassembly.jinja2:21
 msgid "Electrolyser 2"
-msgstr "电解厂2型"
+msgstr ""
 
 #: templates/bobassembly.jinja2:22
 msgid "Electrolyser 3"
-msgstr "电解厂3型"
+msgstr ""
 
 #: templates/bobassembly.jinja2:23
 msgid "Electrolyser 4"
-msgstr "电解厂4型"
+msgstr ""
 
 #: templates/bobassembly.jinja2:25
 msgid "Electric furnace 2"
-msgstr "电炉2型"
+msgstr ""
 
 #: templates/bobassembly.jinja2:26
 msgid "Electric furnace 3"
-msgstr "电炉3型"
+msgstr ""
 
 #: templates/bobassembly.jinja2:28
 msgid "Electric multi-purpose furnace"
-msgstr "电力多功能熔炉"
+msgstr ""
 
 #: templates/bobassembly.jinja2:29
 msgid "Electric multi-purpose furnace 2"
-msgstr "电力多功能熔炉2型"
+msgstr ""
 
 #: templates/bobassembly.jinja2:31
 msgid "__ENTITY__bob-distillery__ 2"
-msgstr "__ENTITY__bob-distillery__2型"
+msgstr ""
 
 #: templates/bobassembly.jinja2:32
 msgid "__ENTITY__bob-distillery__ 3"
-msgstr "__ENTITY__bob-distillery__3型"
+msgstr ""
 
 #: templates/bobassembly.jinja2:33
 msgid "__ENTITY__bob-distillery__ 4"
-msgstr "__ENTITY__bob-distillery__4型"
+msgstr ""
 
 #: templates/bobassembly.jinja2:34
 msgid "__ENTITY__bob-distillery__ 5"
-msgstr "__ENTITY__bob-distillery__5型"
+msgstr ""
 
 #: templates/bobassembly.jinja2:36 templates/bobassembly.jinja2:85
 msgid "Oil powered steel furnace"
-msgstr "燃油钢炉"
+msgstr ""
 
 #: templates/bobassembly.jinja2:37 templates/bobassembly.jinja2:86
 msgid "Oil powered steel chemical furnace"
-msgstr "燃油化工炉"
+msgstr ""
 
 #: templates/bobassembly.jinja2:38 templates/bobassembly.jinja2:87
 msgid "Oil powered steel metal mixing furnace"
-msgstr "燃油金属混合炉"
+msgstr ""
 
 #: templates/bobassembly.jinja2:42
 msgid ""
@@ -137,9 +137,6 @@ msgid ""
 "Expect it to operate at 20% on steam from your first boiler.\n"
 "20% is 80kW for 0.4 crafting speed."
 msgstr ""
-"蒸汽组装机的组装速度和能耗会随输入蒸汽的温度而变化。\n"
-"它会消耗最初级锅炉20%的蒸汽。\n"
-"20%意味着80KW的能耗以及0.4的组装速度。"
 
 #: templates/bobassembly.jinja2:46
 msgid "__ENTITY__assembling-machine-4__"
@@ -235,20 +232,20 @@ msgstr ""
 
 #: templates/bobassembly.jinja2:79
 msgid "Electronics assembling machine"
-msgstr "电子组装机"
+msgstr ""
 
 #: templates/bobassembly.jinja2:80 templates/bobrevamp.jinja2:2
 msgid "Chemical plant"
-msgstr "化工厂"
+msgstr ""
 
 #: templates/bobassembly.jinja2:81 templates/bobplates.jinja2:93
 #: templates/bobplates.jinja2:230
 msgid "Electrolyser"
-msgstr "电解厂"
+msgstr ""
 
 #: templates/bobassembly.jinja2:82
 msgid "Multi-purpose furnace"
-msgstr "多功能熔炉"
+msgstr ""
 
 #: templates/bobassembly.jinja2:83
 msgid "__ENTITY__bob-distillery__"
@@ -256,70 +253,70 @@ msgstr ""
 
 #: templates/bobassembly.jinja2:89
 msgid "Basic automation"
-msgstr "基础自动化"
+msgstr ""
 
 #: templates/bobassembly.jinja2:93
 msgid "Oil refineries"
-msgstr "石油精炼技术"
+msgstr ""
 
 #: templates/bobassembly.jinja2:94
 msgid "Chemical plants"
-msgstr "化工厂"
+msgstr ""
 
 #: templates/bobassembly.jinja2:95
 msgid "Electrolysers"
-msgstr "电解厂"
+msgstr ""
 
 #: templates/bobassembly.jinja2:96
 msgid "Furnaces"
-msgstr "熔炉"
+msgstr ""
 
 #: templates/bobassembly.jinja2:97
 msgid "Multi-purpose furnaces"
-msgstr "多功能熔炉"
+msgstr ""
 
 #: templates/bobassembly.jinja2:98
 msgid "Electronic assembling machines"
-msgstr "电子组装机"
+msgstr ""
 
 #: templates/bobassembly.jinja2:99
 msgid "Distilleries"
-msgstr "蒸馏室"
+msgstr ""
 
 #: templates/bobassembly.jinja2:100
 msgid "Factory ingredient limits"
-msgstr "组装机原料限制"
+msgstr ""
 
 #: templates/bobassembly.jinja2:101 templates/bobelectronics.jinja2:50
 #: templates/bobplates.jinja2:348 templates/bobwarfare.jinja2:361
 msgid "Color updates"
-msgstr "颜色更新"
+msgstr ""
 
 #: templates/bobassembly.jinja2:102
 msgid "Oil furnaces"
-msgstr "燃油熔炉"
+msgstr ""
 
 #: templates/bobassembly.jinja2:103
 msgid "Burner and steam assembling machines"
-msgstr "火力以及蒸汽组装机"
+msgstr ""
 
 #: templates/bobassembly.jinja2:107
 msgid ""
 "Enables the classic issue of needing better machines to craft items with "
 "more ingredients."
-msgstr "开启需要更好的组装机来组装需求更多原料的物品。"
+msgstr ""
 
 #: templates/bobclasses.jinja2:2
 msgid "Miner class __ENTITY__character__"
-msgstr "矿工 __ENTITY__character__"
+msgstr ""
 
 #: templates/bobclasses.jinja2:3
 msgid "Fighter class __ENTITY__character__"
-msgstr "战士 __ENTITY__character__"
+msgstr ""
 
 #: templates/bobclasses.jinja2:4
 msgid "Builder class __ENTITY__character__"
-msgstr "建造者 __ENTITY__character__"
+msgstr ""
 
 #: templates/bobclasses.jinja2:8
 msgid "__ENTITY__character__"
@@ -339,87 +336,87 @@ msgstr ""
 
 #: templates/bobclasses.jinja2:13
 msgid "Brain"
-msgstr "大脑"
+msgstr ""
 
 #: templates/bobclasses.jinja2:14
 msgid "Head"
-msgstr "头部"
+msgstr ""
 
 #: templates/bobclasses.jinja2:15
 msgid "Boots"
-msgstr "鞋子"
+msgstr ""
 
 #: templates/bobclasses.jinja2:16
 msgid "Gloves"
-msgstr "手套"
+msgstr ""
 
 #: templates/bobclasses.jinja2:17
 msgid "Power core"
-msgstr "能量核心"
+msgstr ""
 
 #: templates/bobclasses.jinja2:18
 msgid "Character frame"
-msgstr "角色框架"
+msgstr ""
 
 #: templates/bobclasses.jinja2:22 templates/bobclasses.jinja2:23
 #: templates/bobclasses.jinja2:24 templates/bobclasses.jinja2:25
 #: templates/bobclasses.jinja2:26
 msgid "A part used to create a new character body"
-msgstr "用于创造新角色躯体的一部分"
+msgstr ""
 
 #: templates/bobclasses.jinja2:30
 msgid "Character bodies"
-msgstr "角色躯体"
+msgstr ""
 
 #: templates/bobclasses.jinja2:34
 msgid "Research into constructing new character bodies, and class variations"
-msgstr "解锁构建新角色躯体以及相应职业"
+msgstr ""
 
 #: templates/bobclasses.jinja2:38
 msgid "Select a character class"
-msgstr "选择一个新角色职业"
+msgstr ""
 
 #: templates/bobclasses.jinja2:39
 msgid "The Balanced class is well rounded and is the standard character class."
-msgstr "默认职业，各项属性平衡"
+msgstr ""
 
 #: templates/bobclasses.jinja2:40
 msgid ""
 "The Miner class has an increased mining speed and can smelt ores by hand,"
 " but moves slower and has less health."
-msgstr "矿工有额外的挖矿速度加成并且可以徒手熔炼矿石，但走地更慢且生命值更少。"
+msgstr ""
 
 #: templates/bobclasses.jinja2:41
 msgid ""
 "The Fighter class has an increased run speed and has more health, but has"
 " a smaller inventory size."
-msgstr "战士有额外的移动速度和生命值加成，但背包更小。"
+msgstr ""
 
 #: templates/bobclasses.jinja2:42
 msgid ""
 "The Builder class has an increased inventory size and crafting speed, but"
 " moves slower and has less health."
-msgstr "建造者有额外的背包大小以及组装速度加成，但走地更慢且生命值更少。"
+msgstr ""
 
 #: templates/bobclasses.jinja2:44
 msgid "Avatar switcher GUI"
-msgstr "头像选择界面"
+msgstr ""
 
 #: templates/bobclasses.jinja2:45
 msgid "Toggle character selection frame"
-msgstr "开关角色选择框架"
+msgstr ""
 
 #: templates/bobclasses.jinja2:46
 msgid "Change to this character"
-msgstr "选择这个角色"
+msgstr ""
 
 #: templates/bobclasses.jinja2:47
 msgid "Opens a minimap of this character's location."
-msgstr "在小地图上显示这个角色"
+msgstr ""
 
 #: templates/bobclasses.jinja2:49
 msgid "God mode"
-msgstr "上帝模式"
+msgstr ""
 
 #: templates/bobclasses.jinja2:50
 msgid ""
@@ -429,13 +426,10 @@ msgid ""
 "Warning: if your body is killed while you are in god mode, it won't "
 "respawn."
 msgstr ""
-"开启上帝模式后你将不再控制角色但可以自由移动视角。\n"
-"警告：上帝模式的背包会在切换为其他模式时丢失。\n"
-"警告：如果你的肉体在上帝模式中被杀死，它将不会重生。"
 
 #: templates/bobclasses.jinja2:51
 msgid "Editor mode"
-msgstr "编辑模式"
+msgstr ""
 
 #: templates/bobclasses.jinja2:52
 msgid ""
@@ -444,100 +438,98 @@ msgid ""
 "Warning: if your body is killed while you are in editor mode, it won't "
 "respawn."
 msgstr ""
-"在编辑模式中，你将不再控制角色但可以完全地编辑场景。\n"
-"警告：如果你的肉体在编辑模式中被杀死，它将不会重生。"
 
 #: templates/bobclasses.jinja2:53
 msgid "Select class"
-msgstr "选择职业"
+msgstr ""
 
 #: templates/bobclasses.jinja2:54
 msgid "Opens the class select window."
-msgstr "打开职业选择界面"
+msgstr ""
 
 #: templates/bobclasses.jinja2:58
 msgid "Admin button \"God mode\""
-msgstr "管理员选项 \"上帝模式\""
+msgstr ""
 
 #: templates/bobclasses.jinja2:59
 msgid "Admin button \"Editor mode\""
-msgstr "管理员选项 \"编辑模式\""
+msgstr ""
 
 #: templates/bobclasses.jinja2:60
 msgid "Admin button \"Class select\""
-msgstr "管理员选项 \"职业选择\""
+msgstr ""
 
 #: templates/bobclasses.jinja2:61
 msgid "User button \"Class select\""
-msgstr "玩家选项 \"职业选择\""
+msgstr ""
 
 #: templates/bobclasses.jinja2:65
 msgid ""
 "If enabled (requires being an admin if you're in multiplayer) then the "
 "button \"God mode\" will show on the Avatar switcher GUI"
-msgstr "如果开启(多人模式中需要为管理员)，那么\"上帝模式\"的选项会显示在头像选择界面中。"
+msgstr ""
 
 #: templates/bobclasses.jinja2:66
 msgid ""
 "If enabled (requires being an admin if you're in multiplayer) then the "
 "button \"Editor mode\" will show on the Avatar switcher GUI"
-msgstr "如果开启(多人模式中需要为管理员)，那么\"编辑模式\"的选项会显示在头像选择界面中。"
+msgstr ""
 
 #: templates/bobclasses.jinja2:67
 msgid ""
 "If enabled (requires being an admin if you're in multiplayer) then the "
 "button \"Class select\" will show on the Avatar switcher GUI"
-msgstr "如果开启(多人模式中需要为管理员)，那么\"职业选择\"的选项会显示在头像选择界面中。"
+msgstr ""
 
 #: templates/bobclasses.jinja2:68
 msgid ""
 "If enabled (all users) then the button \"Class select\" will show on the "
 "Avatar switcher GUI"
-msgstr "如果开启(所有玩家)，那么\"职业选择\"的选项会显示在头像选择界面中。"
+msgstr ""
 
 #: templates/bobelectronics.jinja2:2 templates/bobplates.jinja2:35
 msgid "Solder plate"
-msgstr "焊接板"
+msgstr ""
 
 #: templates/bobelectronics.jinja2:4 templates/bobplates.jinja2:48
 msgid "Carbon"
-msgstr "碳"
+msgstr ""
 
 #: templates/bobelectronics.jinja2:5 templates/bobplates.jinja2:49
 msgid "Resin"
-msgstr "树脂"
+msgstr ""
 
 #: templates/bobelectronics.jinja2:6 templates/bobplates.jinja2:50
 msgid "Rubber"
-msgstr "橡胶"
+msgstr ""
 
 #: templates/bobelectronics.jinja2:8
 msgid "Tinned copper wire"
-msgstr "镀锡铜线"
+msgstr ""
 
 #: templates/bobelectronics.jinja2:9
 msgid "Insulated wire"
-msgstr "绝缘电线"
+msgstr ""
 
 #: templates/bobelectronics.jinja2:10
 msgid "Gilded copper wire"
-msgstr "镀金铜线"
+msgstr ""
 
 #: templates/bobelectronics.jinja2:11
 msgid "Solder"
-msgstr "焊锡丝"
+msgstr ""
 
 #: templates/bobelectronics.jinja2:13
 msgid "Basic electronic components"
-msgstr "基本电子原件"
+msgstr ""
 
 #: templates/bobelectronics.jinja2:14
 msgid "Transistors"
-msgstr "晶体管"
+msgstr ""
 
 #: templates/bobelectronics.jinja2:15
 msgid "Integrated electronics"
-msgstr "集成电路"
+msgstr ""
 
 #: templates/bobelectronics.jinja2:16
 msgid "CPUs"
@@ -545,740 +537,740 @@ msgstr ""
 
 #: templates/bobelectronics.jinja2:18
 msgid "Wooden board"
-msgstr "木板"
+msgstr ""
 
 #: templates/bobelectronics.jinja2:19
 msgid "Phenolic board"
-msgstr "酚醛板"
+msgstr ""
 
 #: templates/bobelectronics.jinja2:20
 msgid "Fibreglass board"
-msgstr "玻璃纤维板"
+msgstr ""
 
 #: templates/bobelectronics.jinja2:22
 msgid "Basic circuit board"
-msgstr "基础电路板"
+msgstr ""
 
 #: templates/bobelectronics.jinja2:23
 msgid "Circuit board"
-msgstr "电路板"
+msgstr ""
 
 #: templates/bobelectronics.jinja2:24
 msgid "Superior circuit board"
-msgstr "高级电路板"
+msgstr ""
 
 #: templates/bobelectronics.jinja2:25
 msgid "Multi-layer circuit board"
-msgstr "多层电路板"
+msgstr ""
 
 #: templates/bobelectronics.jinja2:27
 msgid "Basic electronic board"
-msgstr "基础电子线路板"
+msgstr ""
 
 #: templates/bobelectronics.jinja2:28
 msgid "Electronic circuit board"
-msgstr "电子线路板"
+msgstr ""
 
 #: templates/bobelectronics.jinja2:29
 msgid "Electronic logic board"
-msgstr "电子逻辑板"
+msgstr ""
 
 #: templates/bobelectronics.jinja2:30
 msgid "Electronic Processing board"
-msgstr "电力处理板"
+msgstr ""
 
 #: templates/bobelectronics.jinja2:34 templates/bobplates.jinja2:187
 msgid "Ferric chloride solution"
-msgstr "氯化铁溶液"
+msgstr ""
 
 #: templates/bobelectronics.jinja2:38 templates/bobplates.jinja2:208
 msgid "Coal cracking to Heavy oil"
-msgstr "煤裂解成重油"
+msgstr ""
 
 #: templates/bobelectronics.jinja2:39
 msgid "Crude oil processing"
-msgstr "原油处理"
+msgstr ""
 
 #: templates/bobelectronics.jinja2:40 templates/bobplates.jinja2:220
 msgid "Synthetic wood"
-msgstr "合成木材"
+msgstr ""
 
 #: templates/bobelectronics.jinja2:44 templates/bobplates.jinja2:258
 msgid "Bob's Intermediate products"
-msgstr "Bob's中间产品"
+msgstr ""
 
 #: templates/bobelectronics.jinja2:45 templates/bobplates.jinja2:259
 msgid "Bob's Materials"
-msgstr "Bob's原料"
+msgstr ""
 
 #: templates/bobelectronics.jinja2:46 templates/bobplates.jinja2:260
 msgid "Bob's Fluids"
-msgstr "Bob's流体"
+msgstr ""
 
 #: templates/bobenemies.jinja2:2
 msgid "Alien artifact"
-msgstr "异星造物"
+msgstr ""
 
 #: templates/bobenemies.jinja2:3
 msgid "Red alien artifact"
-msgstr "红色异星造物"
+msgstr ""
 
 #: templates/bobenemies.jinja2:4
 msgid "Orange alien artifact"
-msgstr "橙色异星造物"
+msgstr ""
 
 #: templates/bobenemies.jinja2:5
 msgid "Yellow alien artifact"
-msgstr "黄色异星造物"
+msgstr ""
 
 #: templates/bobenemies.jinja2:6
 msgid "Green alien artifact"
-msgstr "绿色异星造物"
+msgstr ""
 
 #: templates/bobenemies.jinja2:7
 msgid "Blue alien artifact"
-msgstr "蓝色异星造物"
+msgstr ""
 
 #: templates/bobenemies.jinja2:8
 msgid "Purple alien artifact"
-msgstr "紫色异星造物"
+msgstr ""
 
 #: templates/bobenemies.jinja2:10
 msgid "Small alien artifact"
-msgstr "小型异星造物"
+msgstr ""
 
 #: templates/bobenemies.jinja2:11
 msgid "Small red alien artifact"
-msgstr "小型红色异星造物"
+msgstr ""
 
 #: templates/bobenemies.jinja2:12
 msgid "Small orange alien artifact"
-msgstr "小型橙色异星造物"
+msgstr ""
 
 #: templates/bobenemies.jinja2:13
 msgid "Small yellow alien artifact"
-msgstr "小型黄色异星造物"
+msgstr ""
 
 #: templates/bobenemies.jinja2:14
 msgid "Small green alien artifact"
-msgstr "小型绿色异星造物"
+msgstr ""
 
 #: templates/bobenemies.jinja2:15
 msgid "Small blue alien artifact"
-msgstr "小型蓝色异星造物"
+msgstr ""
 
 #: templates/bobenemies.jinja2:16
 msgid "Small purple alien artifact"
-msgstr "小型紫色异星造物"
+msgstr ""
 
 #: templates/bobenemies.jinja2:20
 msgid "Elemental biter Spawner"
-msgstr "基本撕咬者虫巢"
+msgstr ""
 
 #: templates/bobenemies.jinja2:21
 msgid "Elemental biter spawner corpse"
-msgstr "基本撕咬者虫巢尸体"
+msgstr ""
 
 #: templates/bobenemies.jinja2:22
 msgid "Elemental spitter spawner"
-msgstr "基本喷吐者虫巢"
+msgstr ""
 
 #: templates/bobenemies.jinja2:23
 msgid "Elemental spitter spawner corpse"
-msgstr "基本喷吐者虫巢尸体"
+msgstr ""
 
 #: templates/bobenemies.jinja2:24
 msgid "Super spawner"
-msgstr "超级虫巢"
+msgstr ""
 
 #: templates/bobenemies.jinja2:25
 msgid "Super spawner corpse"
-msgstr "超级虫巢尸体"
+msgstr ""
 
 #: templates/bobenemies.jinja2:27
 msgid "Big piercing biter"
-msgstr "大型穿透撕咬者"
+msgstr ""
 
 #: templates/bobenemies.jinja2:28
 msgid "Big piercing biter corpse"
-msgstr "大型穿透撕咬者尸体"
+msgstr ""
 
 #: templates/bobenemies.jinja2:29
 msgid "Huge acidic biter"
-msgstr "超大型酸液喷吐者"
+msgstr ""
 
 #: templates/bobenemies.jinja2:30
 msgid "Huge acidic biter corpse"
-msgstr "超大型酸液喷吐者尸体"
+msgstr ""
 
 #: templates/bobenemies.jinja2:31
 msgid "Huge explosive biter"
-msgstr "超大型爆炸撕咬者"
+msgstr ""
 
 #: templates/bobenemies.jinja2:32
 msgid "Huge explosive biter corpse"
-msgstr "超大型爆炸撕咬者尸体"
+msgstr ""
 
 #: templates/bobenemies.jinja2:33
 msgid "Giant poisonous biter"
-msgstr "巨型毒液撕咬者"
+msgstr ""
 
 #: templates/bobenemies.jinja2:34
 msgid "Giant poisonous biter corpse"
-msgstr "巨型毒液撕咬者尸体"
+msgstr ""
 
 #: templates/bobenemies.jinja2:35
 msgid "Giant fiery biter"
-msgstr "巨型灼热撕咬者"
+msgstr ""
 
 #: templates/bobenemies.jinja2:36
 msgid "Giant fiery biter corpse"
-msgstr "巨型灼热撕咬者尸体"
+msgstr ""
 
 #: templates/bobenemies.jinja2:37
 msgid "Titan biter"
-msgstr "泰坦级撕咬者"
+msgstr ""
 
 #: templates/bobenemies.jinja2:38
 msgid "Titan biter corpse"
-msgstr "泰坦级撕咬者尸体"
+msgstr ""
 
 #: templates/bobenemies.jinja2:39
 msgid "Badass behemoth biter"
-msgstr "巨无霸级撕咬者"
+msgstr ""
 
 #: templates/bobenemies.jinja2:40
 msgid "Badass behemoth biter corpse"
-msgstr "巨无霸级撕咬者尸体"
+msgstr ""
 
 #: templates/bobenemies.jinja2:41
 msgid "Leviathan biter"
-msgstr "利维坦级撕咬者"
+msgstr ""
 
 #: templates/bobenemies.jinja2:42
 msgid "Leviathan biter corpse"
-msgstr "利维坦级撕咬者尸体"
+msgstr ""
 
 #: templates/bobenemies.jinja2:44
 msgid "Big electric spitter"
-msgstr "大型带电喷吐者"
+msgstr ""
 
 #: templates/bobenemies.jinja2:45
 msgid "Big electric spitter corpse"
-msgstr "大型带电喷吐者"
+msgstr ""
 
 #: templates/bobenemies.jinja2:46
 msgid "Huge explosive spitter"
-msgstr "超大型爆炸喷吐者"
+msgstr ""
 
 #: templates/bobenemies.jinja2:47
 msgid "Huge explosive spitter corpse"
-msgstr "超大型爆炸喷吐者尸体"
+msgstr ""
 
 #: templates/bobenemies.jinja2:48
 msgid "Huge acid spitter"
-msgstr "超大型酸液喷吐者"
+msgstr ""
 
 #: templates/bobenemies.jinja2:49
 msgid "Huge acid spitter corpse"
-msgstr "超大型酸液喷吐者尸体"
+msgstr ""
 
 #: templates/bobenemies.jinja2:50
 msgid "Giant fire spitter"
-msgstr "巨型火焰喷吐者"
+msgstr ""
 
 #: templates/bobenemies.jinja2:51
 msgid "Giant fire spitter corpse"
-msgstr "巨型火焰喷吐者尸体"
+msgstr ""
 
 #: templates/bobenemies.jinja2:52
 msgid "Giant poison spitter"
-msgstr "巨型毒液喷吐者"
+msgstr ""
 
 #: templates/bobenemies.jinja2:53
 msgid "Giant poison spitter corpse"
-msgstr "巨型毒液喷吐者尸体"
+msgstr ""
 
 #: templates/bobenemies.jinja2:54
 msgid "Titan spitter"
-msgstr "泰坦级喷吐者"
+msgstr ""
 
 #: templates/bobenemies.jinja2:55
 msgid "Titan spitter corpse"
-msgstr "泰坦级喷吐者尸体"
+msgstr ""
 
 #: templates/bobenemies.jinja2:56
 msgid "Badass behemoth spitter"
-msgstr "巨无霸级喷吐者"
+msgstr ""
 
 #: templates/bobenemies.jinja2:57
 msgid "Badass behemoth spitter corpse"
-msgstr "巨无霸级喷吐者尸体"
+msgstr ""
 
 #: templates/bobenemies.jinja2:58
 msgid "Leviathan spitter"
-msgstr "利维坦级喷吐者"
+msgstr ""
 
 #: templates/bobenemies.jinja2:59
 msgid "Leviathan spitter corpse"
-msgstr "利维坦级喷吐者尸体"
+msgstr ""
 
 #: templates/bobenemies.jinja2:61
 msgid "Big piercing worm"
-msgstr "大型穿透蠕虫"
+msgstr ""
 
 #: templates/bobenemies.jinja2:62
 msgid "Big piercing worm corpse"
-msgstr "大型穿透蠕虫尸体"
+msgstr ""
 
 #: templates/bobenemies.jinja2:63
 msgid "Big electric worm"
-msgstr "大型带电蠕虫"
+msgstr ""
 
 #: templates/bobenemies.jinja2:64
 msgid "Big electric worm corpse"
-msgstr "大型带电蠕虫尸体"
+msgstr ""
 
 #: templates/bobenemies.jinja2:65
 msgid "Big acid worm"
-msgstr "大型酸液蠕虫"
+msgstr ""
 
 #: templates/bobenemies.jinja2:66
 msgid "Big acid worm corpse"
-msgstr "大型酸液蠕虫尸体"
+msgstr ""
 
 #: templates/bobenemies.jinja2:67
 msgid "Big explosive worm"
-msgstr "大型爆炸蠕虫"
+msgstr ""
 
 #: templates/bobenemies.jinja2:68
 msgid "Big explosive worm corpse"
-msgstr "大型爆炸蠕虫尸体"
+msgstr ""
 
 #: templates/bobenemies.jinja2:69
 msgid "Big fire worm"
-msgstr "大型火焰蠕虫"
+msgstr ""
 
 #: templates/bobenemies.jinja2:70
 msgid "Big fire worm corpse"
-msgstr "大型火焰蠕虫尸体"
+msgstr ""
 
 #: templates/bobenemies.jinja2:71
 msgid "Big poison worm"
-msgstr "大型毒液蠕虫"
+msgstr ""
 
 #: templates/bobenemies.jinja2:72
 msgid "Big poison worm corpse"
-msgstr "大型毒液蠕虫尸体"
+msgstr ""
 
 #: templates/bobenemies.jinja2:74
 msgid "Giant worm"
-msgstr "巨型蠕虫"
+msgstr ""
 
 #: templates/bobenemies.jinja2:75
 msgid "Giant worm corpse"
-msgstr "巨型蠕虫尸体"
+msgstr ""
 
 #: templates/bobenemies.jinja2:76
 msgid "Behemoth worm"
-msgstr "巨无霸级蠕虫"
+msgstr ""
 
 #: templates/bobenemies.jinja2:77
 msgid "Behemoth worm corpse"
-msgstr "巨无霸级蠕虫尸体"
+msgstr ""
 
 #: templates/bobenemies.jinja2:81 templates/bobwarfare.jinja2:259
 msgid "Pierce"
-msgstr "穿透"
+msgstr ""
 
 #: templates/bobenemies.jinja2:82 templates/bobvehicleequipment.jinja2:136
 #: templates/bobwarfare.jinja2:260
 msgid "Plasma"
-msgstr "等离子"
+msgstr ""
 
 #: templates/bobenemies.jinja2:86
 msgid "Enable alien artifacts"
-msgstr "开启异星造物"
+msgstr ""
 
 #: templates/bobenemies.jinja2:87
 msgid "Enable small alien artifacts"
-msgstr "开启小型异星造物"
+msgstr ""
 
 #: templates/bobenemies.jinja2:88
 msgid "Enable coloured alien artifacts"
-msgstr "开启彩色异星造物"
+msgstr ""
 
 #: templates/bobenemies.jinja2:89
 msgid "Enable artifacts from aliens"
-msgstr "异星生物掉落异星造物"
+msgstr ""
 
 #: templates/bobenemies.jinja2:90
 msgid "Leviathan spawn frequency"
-msgstr "利维坦诞生频率"
+msgstr ""
 
 #: templates/bobenemies.jinja2:91
 msgid "Bigger enemies sooner"
-msgstr "更早地出现超大型敌人"
+msgstr ""
 
 #: templates/bobenemies.jinja2:92
 msgid "Enable Super spawner"
-msgstr "开启超级虫巢"
+msgstr ""
 
 #: templates/bobenemies.jinja2:93
 msgid "Health increase"
-msgstr "提升生命值"
+msgstr ""
 
 #: templates/bobenemies.jinja2:97
 msgid "If enabled, enemies can drop alien artifacts"
-msgstr "开启后，敌人将掉落异星造物"
+msgstr ""
 
 #: templates/bobenemies.jinja2:98
 msgid "If enabled, enemies can drop small alien artifacts"
-msgstr "开启后，敌人将掉落小型异星造物"
+msgstr ""
 
 #: templates/bobenemies.jinja2:99
 msgid "If enabled, enemies can drop coloured alien artifacts"
-msgstr "开启后，敌人将掉落彩色异星造物"
+msgstr ""
 
 #: templates/bobenemies.jinja2:100
 msgid "If enabled, biters and spitters will drop artifacts, not just bases."
-msgstr "开启后，撕咬者和喷吐者都会掉落异星造物，而不仅是虫巢。"
+msgstr ""
 
 #: templates/bobenemies.jinja2:101
 msgid "Specifies the change a Leviathan will spawn at max evolution factor"
-msgstr "指定利维坦诞生的最大进化因子"
+msgstr ""
 
 #: templates/bobenemies.jinja2:102
 msgid ""
 "If enabled, the revised spawn table will be used where bigger enemies "
 "spawn at lower Evolution factors."
-msgstr "开启后，异星生物诞生表会被修改，超大型敌人会在更低的进化因子时开始诞生。"
+msgstr ""
 
 #: templates/bobenemies.jinja2:103
 msgid ""
 "If enabled, The Super spawner can apear on the map, which is tougher and "
 "spawns the harder enemies more often."
-msgstr "开启后，超级虫巢会在地图上产生，它更厚实，且能更快地产生更强的敌人。"
+msgstr ""
 
 #: templates/bobenemies.jinja2:104
 msgid "Increases the health of some enemies"
-msgstr "提升部分敌人的生命值"
+msgstr ""
 
 #: templates/bobequipment.jinja2:2 templates/bobequipment.jinja2:34
 msgid "Energy shield MK3"
-msgstr "开启能量护盾MK3"
+msgstr ""
 
 #: templates/bobequipment.jinja2:3 templates/bobequipment.jinja2:35
 msgid "Energy shield MK4"
-msgstr "开启能量护盾MK4"
+msgstr ""
 
 #: templates/bobequipment.jinja2:4 templates/bobequipment.jinja2:36
 msgid "Energy shield MK5"
-msgstr "开启能量护盾MK5"
+msgstr ""
 
 #: templates/bobequipment.jinja2:5 templates/bobequipment.jinja2:37
 msgid "Energy shield MK6"
-msgstr "开启能量护盾MK6"
+msgstr ""
 
 #: templates/bobequipment.jinja2:7 templates/bobequipment.jinja2:39
 msgid "Battery MK3"
-msgstr "电池MK3"
+msgstr ""
 
 #: templates/bobequipment.jinja2:8 templates/bobequipment.jinja2:40
 msgid "Battery MK4"
-msgstr "电池MK4"
+msgstr ""
 
 #: templates/bobequipment.jinja2:9 templates/bobequipment.jinja2:41
 msgid "Battery MK5"
-msgstr "电池MK5"
+msgstr ""
 
 #: templates/bobequipment.jinja2:10 templates/bobequipment.jinja2:42
 msgid "Battery MK6"
-msgstr "电池MK6"
+msgstr ""
 
 #: templates/bobequipment.jinja2:12 templates/bobequipment.jinja2:44
 msgid "Portable fusion reactor MK2"
-msgstr "便携式核反应堆MK2"
+msgstr ""
 
 #: templates/bobequipment.jinja2:13 templates/bobequipment.jinja2:45
 msgid "Portable fusion reactor MK3"
-msgstr "便携式核反应堆MK3"
+msgstr ""
 
 #: templates/bobequipment.jinja2:14 templates/bobequipment.jinja2:46
 msgid "Portable fusion reactor MK4"
-msgstr "便携式核反应堆MK4"
+msgstr ""
 
 #: templates/bobequipment.jinja2:16 templates/bobequipment.jinja2:48
 msgid "Night vision MK2"
-msgstr "夜视仪MK2"
+msgstr ""
 
 #: templates/bobequipment.jinja2:17 templates/bobequipment.jinja2:49
 msgid "Night vision MK3"
-msgstr "夜视仪MK3"
+msgstr ""
 
 #: templates/bobequipment.jinja2:19 templates/bobequipment.jinja2:51
 msgid "Portable solar panel MK2"
-msgstr "便携式太阳能板MK2"
+msgstr ""
 
 #: templates/bobequipment.jinja2:20 templates/bobequipment.jinja2:52
 msgid "Portable solar panel MK3"
-msgstr "便携式太阳能板MK3"
+msgstr ""
 
 #: templates/bobequipment.jinja2:21 templates/bobequipment.jinja2:53
 msgid "Portable solar panel MK4"
-msgstr "便携式太阳能板MK4"
+msgstr ""
 
 #: templates/bobequipment.jinja2:23 templates/bobequipment.jinja2:55
 msgid "Personal laser defense MK2"
-msgstr "个人激光防御炮MK2"
+msgstr ""
 
 #: templates/bobequipment.jinja2:24 templates/bobequipment.jinja2:56
 msgid "Personal laser defense MK3"
-msgstr "个人激光防御炮MK3"
+msgstr ""
 
 #: templates/bobequipment.jinja2:25 templates/bobequipment.jinja2:57
 msgid "Personal laser defense MK4"
-msgstr "个人激光防御炮MK4"
+msgstr ""
 
 #: templates/bobequipment.jinja2:26 templates/bobequipment.jinja2:58
 msgid "Personal laser defense MK5"
-msgstr "个人激光防御炮MK5"
+msgstr ""
 
 #: templates/bobequipment.jinja2:27 templates/bobequipment.jinja2:59
 msgid "Personal laser defense MK6"
-msgstr "个人激光防御炮MK6"
+msgstr ""
 
 #: templates/bobequipment.jinja2:29
 msgid "Exoskeleton equipment MK2"
-msgstr "动力外骨骼MK2"
+msgstr ""
 
 #: templates/bobequipment.jinja2:30
 msgid "Exoskeleton equipment MK3"
-msgstr "动力外骨骼MK3"
+msgstr ""
 
 #: templates/bobequipment.jinja2:61
 msgid "exoskeleton equipment MK2"
-msgstr "动力外骨骼MK2"
+msgstr ""
 
 #: templates/bobequipment.jinja2:62
 msgid "exoskeleton equipment MK3"
-msgstr "动力外骨骼MK3"
+msgstr ""
 
 #: templates/bobequipment.jinja2:65 templates/bobequipment.jinja2:90
 msgid "Personal roboport MK3"
-msgstr "个人机器人指令平台MK3"
+msgstr ""
 
 #: templates/bobequipment.jinja2:66 templates/bobequipment.jinja2:91
 msgid "Personal roboport MK4"
-msgstr "个人机器人指令平台MK4"
+msgstr ""
 
 #: templates/bobequipment.jinja2:69
 msgid "Personal roboport area expander"
-msgstr "个人机器人区域扩展器"
+msgstr ""
 
 #: templates/bobequipment.jinja2:70
 msgid "Personal roboport area expander 2"
-msgstr "个人机器人区域扩展器MK2"
+msgstr ""
 
 #: templates/bobequipment.jinja2:71
 msgid "Personal roboport area expander 3"
-msgstr "个人机器人区域扩展器MK3"
+msgstr ""
 
 #: templates/bobequipment.jinja2:72
 msgid "Personal roboport area expander 4"
-msgstr "个人机器人区域扩展器MK4"
+msgstr ""
 
 #: templates/bobequipment.jinja2:74
 msgid "Personal roboport chargepad"
-msgstr "个人机器人充电板"
+msgstr ""
 
 #: templates/bobequipment.jinja2:75
 msgid "Personal roboport chargepad 2"
-msgstr "个人机器人充电板MK2"
+msgstr ""
 
 #: templates/bobequipment.jinja2:76
 msgid "Personal roboport chargepad 3"
-msgstr "个人机器人充电板MK3"
+msgstr ""
 
 #: templates/bobequipment.jinja2:77
 msgid "Personal roboport chargepad 4"
-msgstr "个人机器人充电板MK4"
+msgstr ""
 
 #: templates/bobequipment.jinja2:79
 msgid "Personal roboport robot control"
-msgstr "个人机器人控制器"
+msgstr ""
 
 #: templates/bobequipment.jinja2:80
 msgid "Personal roboport robot control 2"
-msgstr "个人机器人控制器MK2"
+msgstr ""
 
 #: templates/bobequipment.jinja2:81
 msgid "Personal roboport robot control 3"
-msgstr "个人机器人控制器MK3"
+msgstr ""
 
 #: templates/bobequipment.jinja2:82
 msgid "Personal roboport robot control 4"
-msgstr "个人机器人控制器MK4"
+msgstr ""
 
 #: templates/bobequipment.jinja2:86
 msgid "Personal battery"
-msgstr "个人电池"
+msgstr ""
 
 #: templates/bobequipment.jinja2:87
 msgid "Energy shield"
-msgstr "能量护盾"
+msgstr ""
 
 #: templates/bobequipment.jinja2:88
 msgid "Personal roboport modules"
-msgstr "个人机器人模组"
+msgstr ""
 
 #: templates/bobgreenhouse.jinja2:2 templates/bobgreenhouse.jinja2:13
 #: templates/bobgreenhouse.jinja2:17
 msgid "Greenhouse"
-msgstr "温室"
+msgstr ""
 
 #: templates/bobgreenhouse.jinja2:3 templates/bobgreenhouse.jinja2:18
 msgid "Fertiliser"
-msgstr "肥料"
+msgstr ""
 
 #: templates/bobgreenhouse.jinja2:4
 msgid "Seedling"
-msgstr "树苗"
+msgstr ""
 
 #: templates/bobgreenhouse.jinja2:8
 msgid "Grow trees"
-msgstr "种植树木"
+msgstr ""
 
 #: templates/bobgreenhouse.jinja2:9
 msgid "Grow trees with Fertiliser"
-msgstr "使用肥料种植树木"
+msgstr ""
 
 #: templates/bobinserters.jinja2:2
 msgid "Change inserter drop range"
-msgstr "调节机械臂放置位置"
+msgstr ""
 
 #: templates/bobinserters.jinja2:3
 msgid "Change inserter pickup range"
-msgstr "调节机械器抓取位置"
+msgstr ""
 
 #: templates/bobinserters.jinja2:4
 msgid "Change inserter drop offset"
-msgstr "调节机械臂放置偏移"
+msgstr ""
 
 #: templates/bobinserters.jinja2:5 templates/boblogistics.jinja2:397
 #: templates/boblogistics.jinja2:446
 msgid "Change inserter long range (pickup and drop)"
-msgstr "调节机械臂长距离位置(抓取以及放置)"
+msgstr ""
 
 #: templates/bobinserters.jinja2:6
 msgid "Rotate inserter pickup location"
-msgstr "旋转机械臂抓取位置"
+msgstr ""
 
 #: templates/bobinserters.jinja2:7
 msgid "Open inserter configuration GUI"
-msgstr "打开机械臂配置界面"
+msgstr ""
 
 #: templates/bobinserters.jinja2:10
 msgid "Pickup tile position"
-msgstr "抓取位置"
+msgstr ""
 
 #: templates/bobinserters.jinja2:11
 msgid "Drop tile position"
-msgstr "放置位置"
+msgstr ""
 
 #: templates/bobinserters.jinja2:12
 msgid "Offset"
-msgstr "偏移"
+msgstr ""
 
 #: templates/bobinserters.jinja2:13 templates/boblogistics.jinja2:394
 msgid "Enable reach overides"
-msgstr "开启范围复写"
+msgstr ""
 
 #: templates/bobinserters.jinja2:14 templates/boblogistics.jinja2:395
 msgid "Long handed inserter"
-msgstr "长距离机械臂"
+msgstr ""
 
 #: templates/bobinserters.jinja2:15
 msgid "Long handed pickup"
-msgstr "长距离抓取"
+msgstr ""
 
 #: templates/bobinserters.jinja2:16
 msgid "Long handed drop"
-msgstr "长距离放置"
+msgstr ""
 
 #: templates/bobinserters.jinja2:17
 msgid "Near side of belt"
-msgstr "传送带近端"
+msgstr ""
 
 #: templates/bobinserters.jinja2:18
 msgid "Enable Inserters GUI mode"
-msgstr "开启机械臂图形界面模式"
+msgstr ""
 
 #: templates/bobinserters.jinja2:19 templates/boblogistics.jinja2:396
 msgid "Toggle inserter configuration frame"
-msgstr "开关机械臂配置框架"
+msgstr ""
 
 #: templates/bobinserters.jinja2:20
 msgid "Inserter configuration GUI"
-msgstr "机械臂配置图形界面"
+msgstr ""
 
 #: templates/bobinserters.jinja2:23 templates/boblogistics.jinja2:337
 msgid "Long inserters"
-msgstr "长距离机械臂"
+msgstr ""
 
 #: templates/bobinserters.jinja2:24 templates/boblogistics.jinja2:338
 msgid "Near inserters"
-msgstr "近距离机械臂"
+msgstr ""
 
 #: templates/bobinserters.jinja2:25 templates/boblogistics.jinja2:339
 msgid "More inserters"
-msgstr "更多机械臂"
+msgstr ""
 
 #: templates/bobinserters.jinja2:28
 msgid "Allows inserters range to be configured."
-msgstr "允许配置机械臂的范围"
+msgstr ""
 
 #: templates/bobinserters.jinja2:29
 msgid "Allows inserters drop offset to be configured."
-msgstr "允许配置机械臂的放置偏移"
+msgstr ""
 
 #: templates/bobinserters.jinja2:30
 msgid "Allows more inserter rotation configuration options."
-msgstr "允许更多的机械臂旋转配置"
+msgstr ""
 
 #: templates/bobinserters.jinja2:34
 msgid "Long inserters 2 research"
-msgstr "长距离机械臂研究2级"
+msgstr ""
 
 #: templates/bobinserters.jinja2:35
 msgid "More inserters 2 research"
-msgstr "更多机械臂研究2级"
+msgstr ""
 
 #: templates/bobinserters.jinja2:36
 msgid "Dual GUI mode"
-msgstr "双图形界面模式"
+msgstr ""
 
 #: templates/bobinserters.jinja2:39
 msgid ""
 "If enabled, Long inserters 2 research will exist. This allows a very long"
 " inserter reach configuration."
-msgstr "开启后，能研究长距离机械臂研究2级。这让你能配置非常远的机械臂范围。"
+msgstr ""
 
 #: templates/bobinserters.jinja2:40
 msgid ""
 "If enabled, More inserters 2 research will exist. This allows all "
 "possible tile position configurations in the reach range."
-msgstr "开启后，能研究更多机械臂研究2级。这让你能配置机械臂停留在范围内的任意位置。"
+msgstr ""
 
 #: templates/bobinserters.jinja2:41
 msgid ""
 "If enabled, the configuration GUI will show when the standard GUI is "
 "opened vs opening with a shortcut key if it is disabled."
-msgstr "开启后，图形配置界面会在标准配置界面开启时开启，而不是通过快捷键激活。"
+msgstr ""
 
 #: templates/boblibrary.jinja2:2
 msgid "Enable Bob's resource generator"
-msgstr "开启Bob's资源生成器"
+msgstr ""
 
 #: templates/boblibrary.jinja2:6
 msgid ""
@@ -1291,485 +1283,482 @@ msgid ""
 "is available to force enable my custom generator even if you're using the"
 " newer version of Factorio."
 msgstr ""
-"此模组包含了一个基于0.17资源生成系统的资源生成器。然而，0.17.51版本修复了许多此资源生成器试图修复的在旧版本中的问题，因此已经不再需要了。"
-"\n"
-"此模组会自动检测新的资源生成器是否可用，并自动使用它，如果不可用则会使用此资源生成器代替。不过此选项可以强制开启此资源生成器哪怕你在使用新版本的Factorio。"
 
 #: templates/boblogistics.jinja2:2 templates/boblogistics.jinja2:171
 msgid "Roboport MK1"
-msgstr "机器人指令平台MK1"
+msgstr ""
 
 #: templates/boblogistics.jinja2:3 templates/boblogistics.jinja2:172
 msgid "Roboport MK2"
-msgstr "机器人指令平台MK2"
+msgstr ""
 
 #: templates/boblogistics.jinja2:4 templates/boblogistics.jinja2:173
 msgid "Roboport MK3"
-msgstr "机器人指令平台MK3"
+msgstr ""
 
 #: templates/boblogistics.jinja2:5 templates/boblogistics.jinja2:174
 msgid "Roboport MK4"
-msgstr "机器人指令平台MK4"
+msgstr ""
 
 #: templates/boblogistics.jinja2:7 templates/boblogistics.jinja2:176
 msgid "Robochest MK1"
-msgstr "机器人指令仓库MK1"
+msgstr ""
 
 #: templates/boblogistics.jinja2:8 templates/boblogistics.jinja2:177
 msgid "Robochest MK2"
-msgstr "机器人指令仓库MK2"
+msgstr ""
 
 #: templates/boblogistics.jinja2:9 templates/boblogistics.jinja2:178
 msgid "Robochest MK3"
-msgstr "机器人指令仓库MK3"
+msgstr ""
 
 #: templates/boblogistics.jinja2:10 templates/boblogistics.jinja2:179
 msgid "Robochest MK4"
-msgstr "机器人指令仓库MK4"
+msgstr ""
 
 #: templates/boblogistics.jinja2:12 templates/boblogistics.jinja2:181
 msgid "Logistic zone expander MK1"
-msgstr "物流网络拓展器MK1"
+msgstr ""
 
 #: templates/boblogistics.jinja2:13 templates/boblogistics.jinja2:182
 msgid "Logistic zone expander MK2"
-msgstr "物流网络拓展器MK2"
+msgstr ""
 
 #: templates/boblogistics.jinja2:14 templates/boblogistics.jinja2:183
 msgid "Logistic zone expander MK3"
-msgstr "物流网络拓展器MK3"
+msgstr ""
 
 #: templates/boblogistics.jinja2:15 templates/boblogistics.jinja2:184
 msgid "Logistic zone expander MK4"
-msgstr "物流网络拓展器MK4"
+msgstr ""
 
 #: templates/boblogistics.jinja2:17 templates/boblogistics.jinja2:186
 msgid "Logistic zone interface"
-msgstr "物流网络接口"
+msgstr ""
 
 #: templates/boblogistics.jinja2:19 templates/boblogistics.jinja2:188
 msgid "Robot charging point MK1"
-msgstr "机器人充电平台MK1"
+msgstr ""
 
 #: templates/boblogistics.jinja2:20 templates/boblogistics.jinja2:189
 msgid "Robot charging point MK2"
-msgstr "机器人充电平台MK2"
+msgstr ""
 
 #: templates/boblogistics.jinja2:21 templates/boblogistics.jinja2:190
 msgid "Robot charging point MK3"
-msgstr "机器人充电平台MK3"
+msgstr ""
 
 #: templates/boblogistics.jinja2:22 templates/boblogistics.jinja2:191
 msgid "Robot charging point MK4"
-msgstr "机器人充电平台MK4"
+msgstr ""
 
 #: templates/boblogistics.jinja2:24 templates/boblogistics.jinja2:193
 msgid "Large robot charging point MK1"
-msgstr "大型机器人充电平台MK1"
+msgstr ""
 
 #: templates/boblogistics.jinja2:25 templates/boblogistics.jinja2:194
 msgid "Large robot charging point MK2"
-msgstr "大型机器人充电平台MK2"
+msgstr ""
 
 #: templates/boblogistics.jinja2:26 templates/boblogistics.jinja2:195
 msgid "Large robot charging point MK3"
-msgstr "大型机器人充电平台MK3"
+msgstr ""
 
 #: templates/boblogistics.jinja2:27 templates/boblogistics.jinja2:196
 msgid "Large robot charging point MK4"
-msgstr "大型机器人充电平台MK4"
+msgstr ""
 
 #: templates/boblogistics.jinja2:30
 msgid "Flying robot frame MK2"
-msgstr "飞行机器人框架MK2"
+msgstr ""
 
 #: templates/boblogistics.jinja2:31
 msgid "Flying robot frame MK3"
-msgstr "飞行机器人框架MK3"
+msgstr ""
 
 #: templates/boblogistics.jinja2:32
 msgid "Flying robot frame MK4"
-msgstr "飞行机器人框架MK4"
+msgstr ""
 
 #: templates/boblogistics.jinja2:35
 msgid "Logistic robot brain MK1"
-msgstr "物流机器人电子脑MK1"
+msgstr ""
 
 #: templates/boblogistics.jinja2:36
 msgid "Logistic robot brain MK2"
-msgstr "物流机器人电子脑MK2"
+msgstr ""
 
 #: templates/boblogistics.jinja2:37
 msgid "Logistic robot brain MK3"
-msgstr "物流机器人电子脑MK3"
+msgstr ""
 
 #: templates/boblogistics.jinja2:38
 msgid "Logistic robot brain MK4"
-msgstr "物流机器人电子脑MK4"
+msgstr ""
 
 #: templates/boblogistics.jinja2:40
 msgid "Construction robot brain MK1"
-msgstr "建设机器人电子脑MK1"
+msgstr ""
 
 #: templates/boblogistics.jinja2:41
 msgid "Construction robot brain MK2"
-msgstr "建设机器人电子脑MK2"
+msgstr ""
 
 #: templates/boblogistics.jinja2:42
 msgid "Construction robot brain MK3"
-msgstr "建设机器人电子脑MK3"
+msgstr ""
 
 #: templates/boblogistics.jinja2:43
 msgid "Construction robot brain MK4"
-msgstr "建设机器人电子脑MK4"
+msgstr ""
 
 #: templates/boblogistics.jinja2:46
 msgid "Logistic robot tool MK1"
-msgstr "物流机器人工具组MK1"
+msgstr ""
 
 #: templates/boblogistics.jinja2:47
 msgid "Logistic robot tool MK2"
-msgstr "物流机器人工具组MK2"
+msgstr ""
 
 #: templates/boblogistics.jinja2:48
 msgid "Logistic robot tool MK3"
-msgstr "物流机器人工具组MK3"
+msgstr ""
 
 #: templates/boblogistics.jinja2:49
 msgid "Logistic robot tool MK4"
-msgstr "物流机器人工具组MK4"
+msgstr ""
 
 #: templates/boblogistics.jinja2:51
 msgid "Construction robot tool MK1"
-msgstr "建设机器人工具组MK1"
+msgstr ""
 
 #: templates/boblogistics.jinja2:52
 msgid "Construction robot tool MK2"
-msgstr "建设机器人工具组MK2"
+msgstr ""
 
 #: templates/boblogistics.jinja2:53
 msgid "Construction robot tool MK3"
-msgstr "建设机器人工具组MK3"
+msgstr ""
 
 #: templates/boblogistics.jinja2:54
 msgid "Construction robot tool MK4"
-msgstr "建设机器人工具组MK4"
+msgstr ""
 
 #: templates/boblogistics.jinja2:57 templates/boblogistics.jinja2:199
 msgid "Construction robot MK2"
-msgstr "建设机器人MK2"
+msgstr ""
 
 #: templates/boblogistics.jinja2:58 templates/boblogistics.jinja2:200
 msgid "Construction robot MK3"
-msgstr "建设机器人MK3"
+msgstr ""
 
 #: templates/boblogistics.jinja2:59 templates/boblogistics.jinja2:201
 msgid "Construction robot MK4"
-msgstr "建设机器人MK4"
+msgstr ""
 
 #: templates/boblogistics.jinja2:60 templates/boblogistics.jinja2:202
 msgid "Fusion powered Construction robot MK4"
-msgstr "核能建设机器人MK4"
+msgstr ""
 
 #: templates/boblogistics.jinja2:62 templates/boblogistics.jinja2:204
 msgid "Logistic robot MK2"
-msgstr "物流机器人MK2"
+msgstr ""
 
 #: templates/boblogistics.jinja2:63 templates/boblogistics.jinja2:205
 msgid "Logistic robot MK3"
-msgstr "物流机器人MK3"
+msgstr ""
 
 #: templates/boblogistics.jinja2:64 templates/boblogistics.jinja2:206
 msgid "Logistic robot MK4"
-msgstr "物流机器人MK4"
+msgstr ""
 
 #: templates/boblogistics.jinja2:65 templates/boblogistics.jinja2:207
 msgid "Fusion powered Logistic robot MK4"
-msgstr "核能物流机器人MK4"
+msgstr ""
 
 #: templates/boblogistics.jinja2:68
 msgid "Roboport hatch door MK1"
-msgstr "机器人指令平台舱门MK1"
+msgstr ""
 
 #: templates/boblogistics.jinja2:69
 msgid "Roboport hatch door MK2"
-msgstr "机器人指令平台舱门MK2"
+msgstr ""
 
 #: templates/boblogistics.jinja2:70
 msgid "Roboport hatch door MK3"
-msgstr "机器人指令平台舱门MK3"
+msgstr ""
 
 #: templates/boblogistics.jinja2:71
 msgid "Roboport hatch door MK4"
-msgstr "机器人指令平台舱门MK4"
+msgstr ""
 
 #: templates/boblogistics.jinja2:73
 msgid "Roboport antenna array MK1"
-msgstr "机器人指令平台天线阵列MK1"
+msgstr ""
 
 #: templates/boblogistics.jinja2:74
 msgid "Roboport antenna array MK2"
-msgstr "机器人指令平台天线阵列MK2"
+msgstr ""
 
 #: templates/boblogistics.jinja2:75
 msgid "Roboport antenna array MK3"
-msgstr "机器人指令平台天线阵列MK3"
+msgstr ""
 
 #: templates/boblogistics.jinja2:76
 msgid "Roboport antenna array MK4"
-msgstr "机器人指令平台天线阵列MK4"
+msgstr ""
 
 #: templates/boblogistics.jinja2:78
 msgid "Roboport charging pad MK1"
-msgstr "机器人指令平台充电板MK1"
+msgstr ""
 
 #: templates/boblogistics.jinja2:79
 msgid "Roboport charging pad MK2"
-msgstr "机器人指令平台充电板MK2"
+msgstr ""
 
 #: templates/boblogistics.jinja2:80
 msgid "Roboport charging pad MK3"
-msgstr "机器人指令平台充电板MK3"
+msgstr ""
 
 #: templates/boblogistics.jinja2:81
 msgid "Roboport charging pad MK4"
-msgstr "机器人指令平台充电板MK4"
+msgstr ""
 
 #: templates/boblogistics.jinja2:84 templates/boblogistics.jinja2:210
 msgid "Brass chest"
-msgstr "黄铜箱"
+msgstr ""
 
 #: templates/boblogistics.jinja2:85 templates/boblogistics.jinja2:211
 msgid "Titanium chest"
-msgstr "钛合金箱"
+msgstr ""
 
 #: templates/boblogistics.jinja2:87 templates/boblogistics.jinja2:213
 msgid "Active provider chest MK2"
-msgstr "主动供货箱MK2"
+msgstr ""
 
 #: templates/boblogistics.jinja2:88 templates/boblogistics.jinja2:214
 msgid "Passive provider chest MK2"
-msgstr "被动供货箱MK2"
+msgstr ""
 
 #: templates/boblogistics.jinja2:89 templates/boblogistics.jinja2:215
 msgid "Storage chest MK2"
-msgstr "被动存货箱MK2"
+msgstr ""
 
 #: templates/boblogistics.jinja2:90 templates/boblogistics.jinja2:216
 msgid "Requester chest MK2"
-msgstr "优先集货箱MK2"
+msgstr ""
 
 #: templates/boblogistics.jinja2:91 templates/boblogistics.jinja2:217
 msgid "Buffer chest MK2"
-msgstr "主动存货箱MK2"
+msgstr ""
 
 #: templates/boblogistics.jinja2:93 templates/boblogistics.jinja2:219
 msgid "Active provider chest MK3"
-msgstr "主动供货箱MK3"
+msgstr ""
 
 #: templates/boblogistics.jinja2:94 templates/boblogistics.jinja2:220
 msgid "Passive provider chest MK3"
-msgstr "被动供货箱MK3"
+msgstr ""
 
 #: templates/boblogistics.jinja2:95 templates/boblogistics.jinja2:221
 msgid "Storage chest MK3"
-msgstr "被动存货箱MK3"
+msgstr ""
 
 #: templates/boblogistics.jinja2:96 templates/boblogistics.jinja2:222
 msgid "Requester chest MK3"
-msgstr "优先集货箱MK3"
+msgstr ""
 
 #: templates/boblogistics.jinja2:97 templates/boblogistics.jinja2:223
 msgid "Buffer chest MK3"
-msgstr "主动存货箱MK3"
+msgstr ""
 
 #: templates/boblogistics.jinja2:100
 msgid "Basic"
-msgstr "基础"
+msgstr ""
 
 #: templates/boblogistics.jinja2:101
 msgid "Standard"
-msgstr "标准"
+msgstr ""
 
 #: templates/boblogistics.jinja2:102
 msgid "Fast"
-msgstr "高速"
+msgstr ""
 
 #: templates/boblogistics.jinja2:103
 msgid "Express"
-msgstr "极速"
+msgstr ""
 
 #: templates/boblogistics.jinja2:104
 msgid "Turbo"
-msgstr "涡轮"
+msgstr ""
 
 #: templates/boblogistics.jinja2:105
 msgid "Ultimate"
-msgstr "终极"
+msgstr ""
 
 #: templates/boblogistics.jinja2:108 templates/boblogistics.jinja2:263
 msgid "Storage Tank MK2"
-msgstr "储存罐MK2"
+msgstr ""
 
 #: templates/boblogistics.jinja2:109 templates/boblogistics.jinja2:264
 msgid "Storage Tank MK3"
-msgstr "储存罐MK3"
+msgstr ""
 
 #: templates/boblogistics.jinja2:110 templates/boblogistics.jinja2:265
 msgid "Storage Tank MK4"
-msgstr "储存罐MK4"
+msgstr ""
 
 #: templates/boblogistics.jinja2:112 templates/boblogistics.jinja2:268
 msgid "Locomotive MK2"
-msgstr "内燃机车MK2"
+msgstr ""
 
 #: templates/boblogistics.jinja2:113 templates/boblogistics.jinja2:269
 msgid "Locomotive MK3"
-msgstr "内燃机车MK3"
+msgstr ""
 
 #: templates/boblogistics.jinja2:114 templates/boblogistics.jinja2:270
 msgid "Armoured Locomotive"
-msgstr "装甲内燃机车"
+msgstr ""
 
 #: templates/boblogistics.jinja2:115 templates/boblogistics.jinja2:271
 msgid "Armoured Locomotive MK2"
-msgstr "装甲内燃机车MK2"
+msgstr ""
 
 #: templates/boblogistics.jinja2:117 templates/boblogistics.jinja2:273
 msgid "Cargo wagon MK2"
-msgstr "货运车厢"
+msgstr ""
 
 #: templates/boblogistics.jinja2:118 templates/boblogistics.jinja2:274
 msgid "Cargo wagon MK3"
-msgstr "货运车厢"
+msgstr ""
 
 #: templates/boblogistics.jinja2:119 templates/boblogistics.jinja2:275
 msgid "Armoured Cargo wagon"
-msgstr "装甲货运车厢"
+msgstr ""
 
 #: templates/boblogistics.jinja2:120 templates/boblogistics.jinja2:276
 msgid "Armoured Cargo wagon MK2"
-msgstr "装甲货运车厢"
+msgstr ""
 
 #: templates/boblogistics.jinja2:122 templates/boblogistics.jinja2:278
 msgid "Fluid wagon MK2"
-msgstr "液罐车厢MK2"
+msgstr ""
 
 #: templates/boblogistics.jinja2:123 templates/boblogistics.jinja2:279
 msgid "Fluid wagon MK3"
-msgstr "液罐车厢MK3"
+msgstr ""
 
 #: templates/boblogistics.jinja2:124 templates/boblogistics.jinja2:280
 #: templates/boblogistics.jinja2:351
 msgid "Armoured Fluid wagon"
-msgstr "装甲液罐车厢"
+msgstr ""
 
 #: templates/boblogistics.jinja2:125 templates/boblogistics.jinja2:281
 msgid "Armoured Fluid wagon MK2"
-msgstr "装甲液罐车厢MK2"
+msgstr ""
 
 #: templates/boblogistics.jinja2:127
 msgid "Armoured rail"
-msgstr "装甲轨道"
+msgstr ""
 
 #: templates/boblogistics.jinja2:130 templates/boblogistics.jinja2:287
 msgid "Copper pipe"
-msgstr "铜制管道"
+msgstr ""
 
 #: templates/boblogistics.jinja2:131 templates/boblogistics.jinja2:288
 msgid "Iron pipe"
-msgstr "铁制管道"
+msgstr ""
 
 #: templates/boblogistics.jinja2:132 templates/boblogistics.jinja2:289
 msgid "Stone pipe"
-msgstr "石制管道"
+msgstr ""
 
 #: templates/boblogistics.jinja2:133 templates/boblogistics.jinja2:290
 msgid "Bronze pipe"
-msgstr "青铜管道"
+msgstr ""
 
 #: templates/boblogistics.jinja2:134 templates/boblogistics.jinja2:291
 msgid "Steel pipe"
-msgstr "钢制管道"
+msgstr ""
 
 #: templates/boblogistics.jinja2:135 templates/boblogistics.jinja2:292
 msgid "Plastic pipe"
-msgstr "塑料管道"
+msgstr ""
 
 #: templates/boblogistics.jinja2:136 templates/boblogistics.jinja2:293
 msgid "Brass pipe"
-msgstr "黄铜管道"
+msgstr ""
 
 #: templates/boblogistics.jinja2:137 templates/boblogistics.jinja2:294
 msgid "Titanium pipe"
-msgstr "钛合金管道"
+msgstr ""
 
 #: templates/boblogistics.jinja2:138 templates/boblogistics.jinja2:295
 msgid "Ceramic pipe"
-msgstr "陶瓷管道"
+msgstr ""
 
 #: templates/boblogistics.jinja2:139 templates/boblogistics.jinja2:296
 msgid "Tungsten pipe"
-msgstr "钨制管道"
+msgstr ""
 
 #: templates/boblogistics.jinja2:142 templates/boblogistics.jinja2:301
 msgid "Copper pipe-to-ground"
-msgstr "铜制地下管道"
+msgstr ""
 
 #: templates/boblogistics.jinja2:143 templates/boblogistics.jinja2:302
 msgid "Iron pipe-to-ground"
-msgstr "铁制地下管道"
+msgstr ""
 
 #: templates/boblogistics.jinja2:144 templates/boblogistics.jinja2:303
 msgid "Stone pipe-to-ground"
-msgstr "石制地下管道"
+msgstr ""
 
 #: templates/boblogistics.jinja2:145 templates/boblogistics.jinja2:304
 msgid "Bronze pipe-to-ground"
-msgstr "青铜地下管道"
+msgstr ""
 
 #: templates/boblogistics.jinja2:146 templates/boblogistics.jinja2:305
 msgid "Steel pipe-to-ground"
-msgstr "钢制地下管道"
+msgstr ""
 
 #: templates/boblogistics.jinja2:147 templates/boblogistics.jinja2:306
 msgid "Plastic pipe-to-ground"
-msgstr "塑料地下管道"
+msgstr ""
 
 #: templates/boblogistics.jinja2:148 templates/boblogistics.jinja2:307
 msgid "Brass pipe-to-ground"
-msgstr "黄铜地下管道"
+msgstr ""
 
 #: templates/boblogistics.jinja2:149 templates/boblogistics.jinja2:308
 msgid "Titanium pipe-to-ground"
-msgstr "钛合金地下管道"
+msgstr ""
 
 #: templates/boblogistics.jinja2:150 templates/boblogistics.jinja2:309
 msgid "Ceramic pipe-to-ground"
-msgstr "陶瓷地下管道"
+msgstr ""
 
 #: templates/boblogistics.jinja2:151 templates/boblogistics.jinja2:310
 msgid "Tungsten pipe-to-ground"
-msgstr "钨制地下管道"
+msgstr ""
 
 #: templates/boblogistics.jinja2:154 templates/boblogistics.jinja2:315
 #: templates/bobplates.jinja2:110 templates/bobplates.jinja2:247
 msgid "Pump MK2"
-msgstr "泵MK2"
+msgstr ""
 
 #: templates/boblogistics.jinja2:155 templates/boblogistics.jinja2:316
 #: templates/bobplates.jinja2:111 templates/bobplates.jinja2:248
 msgid "Pump MK3"
-msgstr "泵MK3"
+msgstr ""
 
 #: templates/boblogistics.jinja2:156 templates/boblogistics.jinja2:317
 #: templates/bobplates.jinja2:112 templates/bobplates.jinja2:249
 msgid "Pump MK4"
-msgstr "泵MK4"
+msgstr ""
 
 #: templates/boblogistics.jinja2:158 templates/boblogistics.jinja2:319
 msgid "Valve"
-msgstr "阀门"
+msgstr ""
 
 #: templates/boblogistics.jinja2:159 templates/boblogistics.jinja2:325
 msgid "__ITEM__valve__"
@@ -1897,27 +1886,27 @@ msgstr ""
 
 #: templates/boblogistics.jinja2:283
 msgid "Armoured straight rail"
-msgstr "装甲直轨道"
+msgstr ""
 
 #: templates/boblogistics.jinja2:284
 msgid "Armoured curved rail"
-msgstr "装甲弯轨道"
+msgstr ""
 
 #: templates/boblogistics.jinja2:297
 msgid "Nitinol pipe"
-msgstr "镍钛合金管道"
+msgstr ""
 
 #: templates/boblogistics.jinja2:298
 msgid "Copper tungsten pipe"
-msgstr "铜钨合金管道"
+msgstr ""
 
 #: templates/boblogistics.jinja2:311
 msgid "Nitinol pipe-to-ground"
-msgstr "镍钛合金地下管道"
+msgstr ""
 
 #: templates/boblogistics.jinja2:312
 msgid "Copper tungsten pipe-to-ground"
-msgstr "铜钨合金地下管道"
+msgstr ""
 
 #: templates/boblogistics.jinja2:320
 msgid "__ENTITY__valve__"
@@ -1925,83 +1914,83 @@ msgstr ""
 
 #: templates/boblogistics.jinja2:321
 msgid "Overflow valve"
-msgstr "溢流阀"
+msgstr ""
 
 #: templates/boblogistics.jinja2:322
 msgid "Top up valve"
-msgstr "充气阀"
+msgstr ""
 
 #: templates/boblogistics.jinja2:329
 msgid "Robotics"
-msgstr "机器人"
+msgstr ""
 
 #: templates/boblogistics.jinja2:330
 msgid "Advanced logistic and construction robotics"
-msgstr "高级物流及建设机器人"
+msgstr ""
 
 #: templates/boblogistics.jinja2:331
 msgid "Modular Roboports"
-msgstr "模块机器人指令平台"
+msgstr ""
 
 #: templates/boblogistics.jinja2:332
 msgid "Express Inserters"
-msgstr "极速机械臂"
+msgstr ""
 
 #: templates/boblogistics.jinja2:333
 msgid "Turbo Inserters"
-msgstr "涡轮机械臂"
+msgstr ""
 
 #: templates/boblogistics.jinja2:334
 msgid "Ultimate Inserters"
-msgstr "终极机械臂"
+msgstr ""
 
 #: templates/boblogistics.jinja2:336
 msgid "Long handed burner inserter"
-msgstr "长距离热能机械臂"
+msgstr ""
 
 #: templates/boblogistics.jinja2:342
 msgid "Logistics"
-msgstr "物流学"
+msgstr ""
 
 #: templates/boblogistics.jinja2:343
 msgid "__ITEM__prefix-black__ logistics"
-msgstr "__ITEM__prefix-black__ 物流学"
+msgstr ""
 
 #: templates/boblogistics.jinja2:345
 msgid "Fluid handling"
-msgstr "流体处理"
+msgstr ""
 
 #: templates/boblogistics.jinja2:347
 msgid "Railway"
-msgstr "铁路"
+msgstr ""
 
 #: templates/boblogistics.jinja2:348
 msgid "Armoured Railway"
-msgstr "装甲铁路"
+msgstr ""
 
 #: templates/boblogistics.jinja2:350
 msgid "Fluid wagon"
-msgstr "液罐车厢"
+msgstr ""
 
 #: templates/boblogistics.jinja2:354
 msgid "Character inventory slots"
-msgstr "角色背包槽位"
+msgstr ""
 
 #: templates/boblogistics.jinja2:355
 msgid "Stack inserter capacity bonus"
-msgstr "集装机械臂搬运量加成"
+msgstr ""
 
 #: templates/boblogistics.jinja2:356
 msgid "Inserter capacity bonus"
-msgstr "机械臂搬运量加成"
+msgstr ""
 
 #: templates/boblogistics.jinja2:358
 msgid "Infinite worker robot cargo size"
-msgstr "无限机器人存储"
+msgstr ""
 
 #: templates/boblogistics.jinja2:359
 msgid "Infinite character logistic trash slots"
-msgstr "无限角色物流回收槽位"
+msgstr ""
 
 #: templates/boblogistics.jinja2:361
 msgid "__ITEM__repair-pack__"
@@ -2009,73 +1998,73 @@ msgstr ""
 
 #: templates/boblogistics.jinja2:365
 msgid "Logistic robots are a flexible alternative to conveyor belts."
-msgstr "物流机器人是比传送带更灵活的替代品。"
+msgstr ""
 
 #: templates/boblogistics.jinja2:366
 msgid "Research into building Roboports in modules."
-msgstr "集成机器人指令平台至模块。"
+msgstr ""
 
 #: templates/boblogistics.jinja2:367
 msgid "Inserters that are faster than fast inserters!"
-msgstr "比高速机械臂更快的机械臂！"
+msgstr ""
 
 #: templates/boblogistics.jinja2:369
 msgid "Faster and more flexible ways of transportation."
-msgstr "更快且更灵活的运输方式。"
+msgstr ""
 
 #: templates/boblogistics.jinja2:371
 msgid "Non-stack inserters can move more items at the same time."
-msgstr "非集装机械臂能一次性移动更多物品。"
+msgstr ""
 
 #: templates/boblogistics.jinja2:372
 msgid ""
 "Stack inserters can move more items at the same time depending on their "
 "upgrade."
-msgstr "集装机械臂根据升级能一次性移动更多物品"
+msgstr ""
 
 #: templates/boblogistics.jinja2:376 templates/boblogistics.jinja2:377
 msgid "A pipe that allows fluid to flow in only one direction"
-msgstr "一个仅允许流体单向流通的管道"
+msgstr ""
 
 #: templates/boblogistics.jinja2:378
 msgid ""
 "A pipe that allows a fluid to flow in only one direction when the input "
 "is more than 80% full"
-msgstr "一个当输入负载超过80%时仅允许流体单向流通的管道"
+msgstr ""
 
 #: templates/boblogistics.jinja2:379
 msgid ""
 "A pipe that allows a fluid to flow in only one direction when the output "
 "is less than 20% full"
-msgstr "一个当输入负载低于20%时仅允许流体单向流通的管道"
+msgstr ""
 
 #: templates/boblogistics.jinja2:382
 msgid "Maximum length: __1__"
-msgstr "最大长度： __1__"
+msgstr ""
 
 #: templates/boblogistics.jinja2:386 templates/bobplates.jinja2:261
 msgid "Bob's Logistics"
-msgstr "Bob's物流学"
+msgstr ""
 
 #: templates/boblogistics.jinja2:390
 msgid "Adds an extra __1__ slots to the character inventory"
-msgstr "为角色背包增加额外的__1__个槽位"
+msgstr ""
 
 #: templates/boblogistics.jinja2:401
 msgid "Flying robot frames"
-msgstr "飞行机器人框架"
+msgstr ""
 
 #: templates/boblogistics.jinja2:402
 msgid "Robot parts"
-msgstr "机器人部件"
+msgstr ""
 
 #: templates/boblogistics.jinja2:403
 msgid "Robot require previous tier"
-msgstr "机器人需要上级合成"
+msgstr ""
 
 #: templates/boblogistics.jinja2:404
 msgid "Roboport recipe update"
-msgstr "机器人配方升级"
+msgstr ""
 
 #: templates/boblogistics.jinja2:405
 msgid "Drainless inserters"
@@ -2083,168 +2072,168 @@ msgstr ""
 
 #: templates/boblogistics.jinja2:406
 msgid "Disable Roboports"
-msgstr "关闭机器人指令平台"
+msgstr ""
 
 #: templates/boblogistics.jinja2:407
 msgid "Belt require previous tier"
-msgstr "传送带需要上级合成"
+msgstr ""
 
 #: templates/boblogistics.jinja2:408
 msgid "Inserter require previous tier"
-msgstr "机械臂需要上级合成"
+msgstr ""
 
 #: templates/boblogistics.jinja2:409
 msgid "Inserter overhaul"
-msgstr "机械臂全面复写"
+msgstr ""
 
 #: templates/boblogistics.jinja2:410
 msgid "Transport belt overhaul"
-msgstr "传送带全面复写"
+msgstr ""
 
 #: templates/boblogistics.jinja2:411
 msgid "Underground distance overhaul"
-msgstr "地下距离全面复写"
+msgstr ""
 
 #: templates/boblogistics.jinja2:412
 msgid "Belt first tier distance"
-msgstr "初级传送带距离"
+msgstr ""
 
 #: templates/boblogistics.jinja2:413
 msgid "Belt distance per tier"
-msgstr "每级传送带距离"
+msgstr ""
 
 #: templates/boblogistics.jinja2:414
 msgid "Pipe first tier distance"
-msgstr "初级管道距离"
+msgstr ""
 
 #: templates/boblogistics.jinja2:415
 msgid "Pipe distance per tier"
-msgstr "每级管道距离"
+msgstr ""
 
 #: templates/boblogistics.jinja2:416
 msgid "Transport belt speed overhaul"
-msgstr "传送带速度全面复写"
+msgstr ""
 
 #: templates/boblogistics.jinja2:417
 msgid "Transport belt speed per tier"
-msgstr "每级传送带速度"
+msgstr ""
 
 #: templates/boblogistics.jinja2:418
 msgid "Fluid wagon base size"
-msgstr "液罐车厢基础容量"
+msgstr ""
 
 #: templates/boblogistics.jinja2:419
 msgid "Storage tank base size"
-msgstr "货运车厢基础容量"
+msgstr ""
 
 #: templates/boblogistics.jinja2:420
 msgid "Trains"
-msgstr "铁路"
+msgstr ""
 
 #: templates/boblogistics.jinja2:423
 msgid ""
 "If set to true, the Flying robot frame intermediates will exist for use "
 "in recipes."
-msgstr "开启后，飞行机器人框架将保留在配方中。"
+msgstr ""
 
 #: templates/boblogistics.jinja2:424
 msgid ""
 "If set to true, the Logistic/Construction robot tool/brain intermediates "
 "will exist for use in recipes."
-msgstr "开启后，物流/建设机器人工具组/电子脑将保留在配方中。"
+msgstr ""
 
 #: templates/boblogistics.jinja2:425
 msgid ""
 "If set to true, Logistic/Construction robots require the previous tier to"
 " craft."
-msgstr "开启后，物流/建设机器人需要上级合成。"
+msgstr ""
 
 #: templates/boblogistics.jinja2:426
 msgid ""
 "If set to true, the recipe for the base game Roboport MK1 is updated to "
 "the modular recipe."
-msgstr "开启后，基础游戏中的机器人指令平台MK1会被模组复写。"
+msgstr ""
 
 #: templates/boblogistics.jinja2:427
 msgid "If set to true, the idle power drain will be removed from all Inserters."
-msgstr "开启后，所有机械臂在闲置时将不再消耗能量。"
+msgstr ""
 
 #: templates/boblogistics.jinja2:428
 msgid ""
 "If set to true, standard roboports are disabled, causing you to be "
 "reliant on the modular roboports"
-msgstr "开启后，标准机器人指令平台将被禁用，你将只能依赖模块机器人指令平台。"
+msgstr ""
 
 #: templates/boblogistics.jinja2:429
 msgid ""
 "If set to true, Transport belts and related entities require the previous"
 " tier to craft."
-msgstr "开启后，传送带和相关物品需要上级合成。"
+msgstr ""
 
 #: templates/boblogistics.jinja2:430
 msgid "If set to true, Inserters require the previous tier to craft."
-msgstr "开启后，机械臂需要上级合成。"
+msgstr ""
 
 #: templates/boblogistics.jinja2:431
 msgid ""
 "Turning this on will overhaul inserters, adding new tiers, removing long "
 "handed, but you can use make any inserter long, and a complete recipe "
 "rewrite."
-msgstr "开启后，将复写机械臂，添加新的级别，移除长距离机械臂，但你可以将任何机械臂延长。同时会复写所有配方。"
+msgstr ""
 
 #: templates/boblogistics.jinja2:432
 msgid ""
 "Turning this on will overhaul transport belts, adding a new tier, "
 "ballance the speeds and a complete recipe rewrite."
-msgstr "开启后，将复写所有传送带，添加新的级别，平衡速度并复写所有配方。"
+msgstr ""
 
 #: templates/boblogistics.jinja2:433
 msgid "Turning this on will change the range of all underground belts and pipes."
-msgstr "开启后，将改变所有地下传送带和管道的长度。"
+msgstr ""
 
 #: templates/boblogistics.jinja2:434
 msgid "Sets the range on the starting tier transport belt"
-msgstr "设定初级传送带的长度"
+msgstr ""
 
 #: templates/boblogistics.jinja2:435
 msgid "Sets by how much further each tier of underground belt will go"
-msgstr "设定每级传送带额外增加的长度"
+msgstr ""
 
 #: templates/boblogistics.jinja2:436
 msgid "Sets the range on all starting tier pipes"
-msgstr "设定初级管道的长度"
+msgstr ""
 
 #: templates/boblogistics.jinja2:437
 msgid "Sets by how much further each tier of underground pipe will go"
-msgstr "设定每级管道额外增加的长度"
+msgstr ""
 
 #: templates/boblogistics.jinja2:438
 msgid ""
 "If both this and Transport belt overhaul are set to true, the speeds of "
 "transport belts will be updated. Please use multiples of 1.875."
-msgstr "同时开启此项和传送带全面复写后，传送带的速度会更新。请使用1.875的倍数。"
+msgstr ""
 
 #: templates/boblogistics.jinja2:439
 msgid ""
 "Sets how items per tier Transport belt move if Transport belt speed "
 "overhaul and Transport belt speed overhaul settings are both enabled."
-msgstr "当传送带速度全面复写以及传送带速度复写设置同时开启后，设置每级传送带运送物品的速度。"
+msgstr ""
 
 #: templates/boblogistics.jinja2:440
 msgid ""
 "Sets the amount of fluid that a Fluid wagon can store in thousands "
 "(Default 25, for 25k)"
-msgstr "设置一个液罐车厢能储存的流体容量，以k(千)为单位 (默认 25, 即25k)"
+msgstr ""
 
 #: templates/boblogistics.jinja2:441
 msgid ""
 "Sets the amount of fluid that a Storage tank can store in thousands "
 "(Default 25, for 25k)"
-msgstr "设置一个储存罐能储存的流体容量，以k(千)为单位 (默认 25, 即25k)"
+msgstr ""
 
 #: templates/boblogistics.jinja2:442
 msgid "If set to true, new trains (Locomotices and wagons) will be available"
-msgstr "开启后，能使用新的铁路(内燃机车和车厢)"
+msgstr ""
 
 #: templates/bobmining.jinja2:2
 msgid "__ENTITY__electric-mining-drill__ 2"
@@ -2264,59 +2253,59 @@ msgstr ""
 
 #: templates/bobmining.jinja2:7
 msgid "Electric large area mining drill 2"
-msgstr "电力大面积采掘机 2"
+msgstr ""
 
 #: templates/bobmining.jinja2:8
 msgid "Electric large area mining drill 3"
-msgstr "电力大面积采掘机 3"
+msgstr ""
 
 #: templates/bobmining.jinja2:9
 msgid "Electric large area mining drill 4"
-msgstr "电力大面积采掘机 4"
+msgstr ""
 
 #: templates/bobmining.jinja2:10
 msgid "Electric large area mining drill 5"
-msgstr "电力大面积采掘机 5"
+msgstr ""
 
 #: templates/bobmining.jinja2:12
 msgid "Pumpjack 2"
-msgstr "抽油机 2"
+msgstr ""
 
 #: templates/bobmining.jinja2:13
 msgid "Pumpjack 3"
-msgstr "抽油机 3"
+msgstr ""
 
 #: templates/bobmining.jinja2:14
 msgid "Pumpjack 4"
-msgstr "抽油机 4"
+msgstr ""
 
 #: templates/bobmining.jinja2:15
 msgid "Pumpjack 5"
-msgstr "抽油机 5"
+msgstr ""
 
 #: templates/bobmining.jinja2:17
 msgid "Water Pumpjack 1"
-msgstr "抽水机 1"
+msgstr ""
 
 #: templates/bobmining.jinja2:18
 msgid "Water Pumpjack 2"
-msgstr "抽水机 2"
+msgstr ""
 
 #: templates/bobmining.jinja2:19
 msgid "Water Pumpjack 3"
-msgstr "抽水机 3"
+msgstr ""
 
 #: templates/bobmining.jinja2:20
 msgid "Water Pumpjack 4"
-msgstr "抽水机 4"
+msgstr ""
 
 #: templates/bobmining.jinja2:21
 msgid "Water Pumpjack 5"
-msgstr "抽水机 5"
+msgstr ""
 
 #: templates/bobmining.jinja2:23
 msgid "Steam powered mining drill"
-msgstr "蒸汽采掘机"
+msgstr ""
 
 #: templates/bobmining.jinja2:27
 msgid ""
@@ -2325,9 +2314,6 @@ msgid ""
 "Expect it to operate at 20% on steam from your first boiler.\n"
 "20% is 120kW for 0.4/s base mining speed."
 msgstr ""
-"蒸汽采掘机的采掘速度和能耗会随输入蒸汽的温度而变化。\n"
-"它会消耗最初级锅炉20%的蒸汽。\n"
-"20%意味着120KW的能耗以及0.4的采掘速度。"
 
 #: templates/bobmining.jinja2:31
 msgid "__ENTITY__bob-mining-drill-1__"
@@ -2399,644 +2385,644 @@ msgstr ""
 
 #: templates/bobmining.jinja2:54
 msgid "Mining Drills Research"
-msgstr "采掘机研究"
+msgstr ""
 
 #: templates/bobmining.jinja2:55
 msgid "Large Area Mining Drills Research"
-msgstr "大面积采掘机研究"
+msgstr ""
 
 #: templates/bobmining.jinja2:56
 msgid "Pumpjacks Research"
-msgstr "抽油机研究"
+msgstr ""
 
 #: templates/bobmining.jinja2:57
 msgid "Water Pumpjacks Research"
-msgstr "抽水机研究"
+msgstr ""
 
 #: templates/bobmining.jinja2:61
 msgid "New mining drills"
-msgstr "新的采掘机"
+msgstr ""
 
 #: templates/bobmining.jinja2:62
 msgid "Large area mining drills"
-msgstr "大面积采掘机"
+msgstr ""
 
 #: templates/bobmining.jinja2:63
 msgid "New pumpjacks"
-msgstr "新的抽油机"
+msgstr ""
 
 #: templates/bobmining.jinja2:64
 msgid "New player mining speed research"
-msgstr "新的角色采集速度研究"
+msgstr ""
 
 #: templates/bobmining.jinja2:65
 msgid "Water mining pumpjacks"
-msgstr "抽水机"
+msgstr ""
 
 #: templates/bobmining.jinja2:66
 msgid "Steam mining drills"
-msgstr "蒸汽采掘机"
+msgstr ""
 
 #: templates/bobmining.jinja2:70
 msgid "If set to true, new upgradable mining drills are available."
-msgstr "开启后，能使用新的采掘机升级。"
+msgstr ""
 
 #: templates/bobmining.jinja2:71
 msgid "If set to true, new upgradable large area mining drills are available."
-msgstr "开启后，能使用新的大面积采掘机升级。"
+msgstr ""
 
 #: templates/bobmining.jinja2:72
 msgid "If set to true, new upgradable pumpjacks are available."
-msgstr "开启后，能使用新的抽油机升级。"
+msgstr ""
 
 #: templates/bobmining.jinja2:73
 msgid "If set to true, new better mining axes are available."
-msgstr "开启后，能使用更好采掘斧。"
+msgstr ""
 
 #: templates/bobmining.jinja2:74
 msgid "If set to true, water mining pumpjacks are available."
-msgstr "开启后，能使用新的抽水机。"
+msgstr ""
 
 #: templates/bobmining.jinja2:75
 msgid "If set to true, a new steam mining drill will be available."
-msgstr "开启后，能使用新的蒸汽采掘机。"
+msgstr ""
 
 #: templates/bobmodules.jinja2:2
 msgid "Speed Module 1"
-msgstr "速度插件 1"
+msgstr ""
 
 #: templates/bobmodules.jinja2:3
 msgid "Speed Module 2"
-msgstr "速度插件 2"
+msgstr ""
 
 #: templates/bobmodules.jinja2:4
 msgid "Speed Module 3"
-msgstr "速度插件 3"
+msgstr ""
 
 #: templates/bobmodules.jinja2:5
 msgid "Speed Module 4"
-msgstr "速度插件 4"
+msgstr ""
 
 #: templates/bobmodules.jinja2:6
 msgid "Speed Module 5"
-msgstr "速度插件 5"
+msgstr ""
 
 #: templates/bobmodules.jinja2:7
 msgid "Speed Module 6"
-msgstr "速度插件 6"
+msgstr ""
 
 #: templates/bobmodules.jinja2:8
 msgid "Speed Module 7"
-msgstr "速度插件 7"
+msgstr ""
 
 #: templates/bobmodules.jinja2:9
 msgid "Speed Module 8"
-msgstr "速度插件 8"
+msgstr ""
 
 #: templates/bobmodules.jinja2:11
 msgid "Effectivity Module 1"
-msgstr "节能插件 1"
+msgstr ""
 
 #: templates/bobmodules.jinja2:12
 msgid "Effectivity Module 2"
-msgstr "节能插件 2"
+msgstr ""
 
 #: templates/bobmodules.jinja2:13
 msgid "Effectivity Module 3"
-msgstr "节能插件 3"
+msgstr ""
 
 #: templates/bobmodules.jinja2:14
 msgid "Effectivity Module 4"
-msgstr "节能插件 4"
+msgstr ""
 
 #: templates/bobmodules.jinja2:15
 msgid "Effectivity Module 5"
-msgstr "节能插件 5"
+msgstr ""
 
 #: templates/bobmodules.jinja2:16
 msgid "Effectivity Module 6"
-msgstr "节能插件 6"
+msgstr ""
 
 #: templates/bobmodules.jinja2:17
 msgid "Effectivity Module 7"
-msgstr "节能插件 7"
+msgstr ""
 
 #: templates/bobmodules.jinja2:18
 msgid "Effectivity Module 8"
-msgstr "节能插件 8"
+msgstr ""
 
 #: templates/bobmodules.jinja2:20
 msgid "Productivity Module 1"
-msgstr "产能插件 1"
+msgstr ""
 
 #: templates/bobmodules.jinja2:21
 msgid "Productivity Module 2"
-msgstr "产能插件 2"
+msgstr ""
 
 #: templates/bobmodules.jinja2:22
 msgid "Productivity Module 3"
-msgstr "产能插件 3"
+msgstr ""
 
 #: templates/bobmodules.jinja2:23
 msgid "Productivity Module 4"
-msgstr "产能插件 4"
+msgstr ""
 
 #: templates/bobmodules.jinja2:24
 msgid "Productivity Module 5"
-msgstr "产能插件 5"
+msgstr ""
 
 #: templates/bobmodules.jinja2:25
 msgid "Productivity Module 6"
-msgstr "产能插件 6"
+msgstr ""
 
 #: templates/bobmodules.jinja2:26
 msgid "Productivity Module 7"
-msgstr "产能插件 7"
+msgstr ""
 
 #: templates/bobmodules.jinja2:27
 msgid "Productivity Module 8"
-msgstr "产能插件 8"
+msgstr ""
 
 #: templates/bobmodules.jinja2:29
 msgid "Pollution Cleaning Module 1"
-msgstr "污染清洁插件 1"
+msgstr ""
 
 #: templates/bobmodules.jinja2:30
 msgid "Pollution Cleaning Module 2"
-msgstr "污染清洁插件 2"
+msgstr ""
 
 #: templates/bobmodules.jinja2:31
 msgid "Pollution Cleaning Module 3"
-msgstr "污染清洁插件 3"
+msgstr ""
 
 #: templates/bobmodules.jinja2:32
 msgid "Pollution Cleaning Module 4"
-msgstr "污染清洁插件 4"
+msgstr ""
 
 #: templates/bobmodules.jinja2:33
 msgid "Pollution Cleaning Module 5"
-msgstr "污染清洁插件 5"
+msgstr ""
 
 #: templates/bobmodules.jinja2:34
 msgid "Pollution Cleaning Module 6"
-msgstr "污染清洁插件 6"
+msgstr ""
 
 #: templates/bobmodules.jinja2:35
 msgid "Pollution Cleaning Module 7"
-msgstr "污染清洁插件 7"
+msgstr ""
 
 #: templates/bobmodules.jinja2:36
 msgid "Pollution Cleaning Module 8"
-msgstr "污染清洁插件 8"
+msgstr ""
 
 #: templates/bobmodules.jinja2:38
 msgid "Pollution Producing Module 1"
-msgstr "污染产生插件 1"
+msgstr ""
 
 #: templates/bobmodules.jinja2:39
 msgid "Pollution Producing Module 2"
-msgstr "污染产生插件 2"
+msgstr ""
 
 #: templates/bobmodules.jinja2:40
 msgid "Pollution Producing Module 3"
-msgstr "污染产生插件 3"
+msgstr ""
 
 #: templates/bobmodules.jinja2:41
 msgid "Pollution Producing Module 4"
-msgstr "污染产生插件 4"
+msgstr ""
 
 #: templates/bobmodules.jinja2:42
 msgid "Pollution Producing Module 5"
-msgstr "污染产生插件 5"
+msgstr ""
 
 #: templates/bobmodules.jinja2:43
 msgid "Pollution Producing Module 6"
-msgstr "污染产生插件 6"
+msgstr ""
 
 #: templates/bobmodules.jinja2:44
 msgid "Pollution Producing Module 7"
-msgstr "污染产生插件 7"
+msgstr ""
 
 #: templates/bobmodules.jinja2:45
 msgid "Pollution Producing Module 8"
-msgstr "污染产生插件 8"
+msgstr ""
 
 #: templates/bobmodules.jinja2:47
 msgid "Raw speed module 1"
-msgstr "基础速度插件 1"
+msgstr ""
 
 #: templates/bobmodules.jinja2:48
 msgid "Raw speed module 2"
-msgstr "基础速度插件 2"
+msgstr ""
 
 #: templates/bobmodules.jinja2:49
 msgid "Raw speed module 3"
-msgstr "基础速度插件 3"
+msgstr ""
 
 #: templates/bobmodules.jinja2:50
 msgid "Raw speed module 4"
-msgstr "基础速度插件 4"
+msgstr ""
 
 #: templates/bobmodules.jinja2:51
 msgid "Raw speed module 5"
-msgstr "基础速度插件 5"
+msgstr ""
 
 #: templates/bobmodules.jinja2:52
 msgid "Raw speed module 6"
-msgstr "基础速度插件 6"
+msgstr ""
 
 #: templates/bobmodules.jinja2:53
 msgid "Raw speed module 7"
-msgstr "基础速度插件 7"
+msgstr ""
 
 #: templates/bobmodules.jinja2:54
 msgid "Raw speed module 8"
-msgstr "基础速度插件 8"
+msgstr ""
 
 #: templates/bobmodules.jinja2:56
 msgid "Raw productivity module 1"
-msgstr "基础产能插件 1"
+msgstr ""
 
 #: templates/bobmodules.jinja2:57
 msgid "Raw productivity module 2"
-msgstr "基础产能插件 2"
+msgstr ""
 
 #: templates/bobmodules.jinja2:58
 msgid "Raw productivity module 3"
-msgstr "基础产能插件 3"
+msgstr ""
 
 #: templates/bobmodules.jinja2:59
 msgid "Raw productivity module 4"
-msgstr "基础产能插件 4"
+msgstr ""
 
 #: templates/bobmodules.jinja2:60
 msgid "Raw productivity module 5"
-msgstr "基础产能插件 5"
+msgstr ""
 
 #: templates/bobmodules.jinja2:61
 msgid "Raw productivity module 6"
-msgstr "基础产能插件 6"
+msgstr ""
 
 #: templates/bobmodules.jinja2:62
 msgid "Raw productivity module 7"
-msgstr "基础产能插件 7"
+msgstr ""
 
 #: templates/bobmodules.jinja2:63
 msgid "Raw productivity module 8"
-msgstr "基础产能插件 8"
+msgstr ""
 
 #: templates/bobmodules.jinja2:65
 msgid "Green module 1"
-msgstr "绿色插件 1"
+msgstr ""
 
 #: templates/bobmodules.jinja2:66
 msgid "Green module 2"
-msgstr "绿色插件 2"
+msgstr ""
 
 #: templates/bobmodules.jinja2:67
 msgid "Green module 3"
-msgstr "绿色插件 3"
+msgstr ""
 
 #: templates/bobmodules.jinja2:68
 msgid "Green module 4"
-msgstr "绿色插件 4"
+msgstr ""
 
 #: templates/bobmodules.jinja2:69
 msgid "Green module 5"
-msgstr "绿色插件 5"
+msgstr ""
 
 #: templates/bobmodules.jinja2:70
 msgid "Green module 6"
-msgstr "绿色插件 6"
+msgstr ""
 
 #: templates/bobmodules.jinja2:71
 msgid "Green module 7"
-msgstr "绿色插件 7"
+msgstr ""
 
 #: templates/bobmodules.jinja2:72
 msgid "Green module 8"
-msgstr "绿色插件 8"
+msgstr ""
 
 #: templates/bobmodules.jinja2:74
 msgid "God module 1"
-msgstr "上帝插件 1"
+msgstr ""
 
 #: templates/bobmodules.jinja2:75
 msgid "God module 2"
-msgstr "上帝插件 2"
+msgstr ""
 
 #: templates/bobmodules.jinja2:76
 msgid "God module 3"
-msgstr "上帝插件 3"
+msgstr ""
 
 #: templates/bobmodules.jinja2:77
 msgid "God module 4"
-msgstr "上帝插件 4"
+msgstr ""
 
 #: templates/bobmodules.jinja2:78
 msgid "God module 5"
-msgstr "上帝插件 5"
+msgstr ""
 
 #: templates/bobmodules.jinja2:80 templates/bobmodules.jinja2:123
 msgid "Beacon MK2"
-msgstr "插件效果分享塔 MK2"
+msgstr ""
 
 #: templates/bobmodules.jinja2:81 templates/bobmodules.jinja2:124
 msgid "Beacon MK3"
-msgstr "插件效果分享塔 MK3"
+msgstr ""
 
 #: templates/bobmodules.jinja2:83 templates/bobmodules.jinja2:126
 msgid "Modules lab"
-msgstr "插件研究中心"
+msgstr ""
 
 #: templates/bobmodules.jinja2:85
 msgid "Module case"
-msgstr "插件盒"
+msgstr ""
 
 #: templates/bobmodules.jinja2:86
 msgid "Module contact"
-msgstr "插件触电"
+msgstr ""
 
 #: templates/bobmodules.jinja2:87
 msgid "Module main board"
-msgstr "插件主板"
+msgstr ""
 
 #: templates/bobmodules.jinja2:88
 msgid "Basic module board"
-msgstr "基础插件板"
+msgstr ""
 
 #: templates/bobmodules.jinja2:89
 msgid "Module logic board"
-msgstr "插件逻辑板"
+msgstr ""
 
 #: templates/bobmodules.jinja2:90
 msgid "Module processor board"
-msgstr "插件处理器板"
+msgstr ""
 
 #: templates/bobmodules.jinja2:92
 msgid "Speed circuit board"
-msgstr "速度电路板"
+msgstr ""
 
 #: templates/bobmodules.jinja2:93
 msgid "Effectivity circuit board"
-msgstr "节能电路板"
+msgstr ""
 
 #: templates/bobmodules.jinja2:94
 msgid "Productivity circuit board"
-msgstr "产能电路板"
+msgstr ""
 
 #: templates/bobmodules.jinja2:95
 msgid "Pollution cleaning circuit board"
-msgstr "污染清洁电路板"
+msgstr ""
 
 #: templates/bobmodules.jinja2:96
 msgid "Pollution producing circuit board"
-msgstr "污染产生电路板"
+msgstr ""
 
 #: templates/bobmodules.jinja2:98
 msgid "Speed logic board"
-msgstr "速度逻辑板"
+msgstr ""
 
 #: templates/bobmodules.jinja2:99
 msgid "Effectivity logic board"
-msgstr "节能逻辑板"
+msgstr ""
 
 #: templates/bobmodules.jinja2:100
 msgid "Productivity logic board"
-msgstr "产能逻辑板"
+msgstr ""
 
 #: templates/bobmodules.jinja2:101
 msgid "Pollution cleaning logic board"
-msgstr "污染清洁逻辑板"
+msgstr ""
 
 #: templates/bobmodules.jinja2:102
 msgid "Pollution producing logic board"
-msgstr "污染产生逻辑板"
+msgstr ""
 
 #: templates/bobmodules.jinja2:104
 msgid "Speed processor board"
-msgstr "速度处理器板"
+msgstr ""
 
 #: templates/bobmodules.jinja2:105
 msgid "Effectivity processor board"
-msgstr "节能处理器板"
+msgstr ""
 
 #: templates/bobmodules.jinja2:106
 msgid "Productivity processor board"
-msgstr "产能处理器板"
+msgstr ""
 
 #: templates/bobmodules.jinja2:107
 msgid "Pollution cleaning processor board"
-msgstr "污染清洁处理器板"
+msgstr ""
 
 #: templates/bobmodules.jinja2:108
 msgid "Pollution producing processor board"
-msgstr "污染产生处理器板"
+msgstr ""
 
 #: templates/bobmodules.jinja2:112
 msgid "Pollution Cleaning Modules"
-msgstr "污染清洁插件"
+msgstr ""
 
 #: templates/bobmodules.jinja2:113
 msgid "Pollution Producing Modules"
-msgstr "污染产生插件"
+msgstr ""
 
 #: templates/bobmodules.jinja2:114 templates/bobmodules.jinja2:135
 msgid "Raw speed modules"
-msgstr "基础速度插件"
+msgstr ""
 
 #: templates/bobmodules.jinja2:115 templates/bobmodules.jinja2:136
 msgid "Raw productivity modules"
-msgstr "基础产能插件"
+msgstr ""
 
 #: templates/bobmodules.jinja2:116 templates/bobmodules.jinja2:134
 msgid "Green modules"
-msgstr "绿色插件"
+msgstr ""
 
 #: templates/bobmodules.jinja2:117 templates/bobmodules.jinja2:137
 msgid "God modules"
-msgstr "上帝插件"
+msgstr ""
 
 #: templates/bobmodules.jinja2:119
 msgid "Module effect combining"
-msgstr "插件效果结合"
+msgstr ""
 
 #: templates/bobmodules.jinja2:130
 msgid "Modules"
-msgstr "插件"
+msgstr ""
 
 #: templates/bobmodules.jinja2:138
 msgid "Productivity limitations"
-msgstr "产能限制"
+msgstr ""
 
 #: templates/bobmodules.jinja2:139
 msgid "speed on Productivity modules"
-msgstr "速度插件于产能插件"
+msgstr ""
 
 #: templates/bobmodules.jinja2:140
 msgid "Transmit productivity"
-msgstr "共享产能"
+msgstr ""
 
 #: templates/bobmodules.jinja2:142
 msgid "Module speed bonus per tier"
-msgstr "每级插件速度增幅"
+msgstr ""
 
 #: templates/bobmodules.jinja2:143
 msgid "Module pollution bonus per tier"
-msgstr "每级插件污染增幅"
+msgstr ""
 
 #: templates/bobmodules.jinja2:144
 msgid "Module consumption bonus per tier"
-msgstr "每级插件消耗增幅"
+msgstr ""
 
 #: templates/bobmodules.jinja2:145
 msgid "Module productivity bonus per tier"
-msgstr "每级插件产能增幅"
+msgstr ""
 
 #: templates/bobmodules.jinja2:146
 msgid "Module speed penalty per tier"
-msgstr "每级插件速度惩罚"
+msgstr ""
 
 #: templates/bobmodules.jinja2:147
 msgid "Module pollution penalty per tier"
-msgstr "每级插件污染惩罚"
+msgstr ""
 
 #: templates/bobmodules.jinja2:148
 msgid "Module consumption penalty per tier"
-msgstr "每级插件消耗惩罚"
+msgstr ""
 
 #: templates/bobmodules.jinja2:149
 msgid "Module pollution create bonus per tier"
-msgstr "每级插件污染产生增幅"
+msgstr ""
 
 #: templates/bobmodules.jinja2:151
 msgid "Module speed bonus start"
-msgstr "插件速度增幅初始值"
+msgstr ""
 
 #: templates/bobmodules.jinja2:152
 msgid "Module pollution bonus start"
-msgstr "插件污染增幅初始值"
+msgstr ""
 
 #: templates/bobmodules.jinja2:153
 msgid "Module consumption bonus start"
-msgstr "插件消耗增幅初始值"
+msgstr ""
 
 #: templates/bobmodules.jinja2:154
 msgid "Module productivity bonus start"
-msgstr "插件产能增幅初始值"
+msgstr ""
 
 #: templates/bobmodules.jinja2:155
 msgid "Module speed penalty start"
-msgstr "插件速度惩罚初始值"
+msgstr ""
 
 #: templates/bobmodules.jinja2:156
 msgid "Module pollution penalty start"
-msgstr "插件污染惩罚初始值"
+msgstr ""
 
 #: templates/bobmodules.jinja2:157
 msgid "Module consumption penalty start"
-msgstr "插件消耗惩罚初始值"
+msgstr ""
 
 #: templates/bobmodules.jinja2:158
 msgid "Module pollution create bonus start"
-msgstr "插件污染产生增幅初始值"
+msgstr ""
 
 #: templates/bobmodules.jinja2:162
 msgid "If enabled, then Green merged module with be enabled."
-msgstr "开启后，可使用绿色集成插件。"
+msgstr ""
 
 #: templates/bobmodules.jinja2:163
 msgid "If enabled, then Speed merged module with be enabled."
-msgstr "开启后，可使用速度集成插件。"
+msgstr ""
 
 #: templates/bobmodules.jinja2:164
 msgid "If enabled, then Productivity merged module with be enabled."
-msgstr "开启后，可使用产能集成插件。"
+msgstr ""
 
 #: templates/bobmodules.jinja2:165
 msgid "If enabled, then God modules and research are enabled."
-msgstr "开启后，可使用上帝插件及其研究。"
+msgstr ""
 
 #: templates/bobmodules.jinja2:166
 msgid ""
 "If enabled, modules that effect productivity can only be used on "
 "Registered intermediates. Warning: The game will delete any modules that "
 "do not match the limits"
-msgstr "开启后，影响产能的插件将只能用于制造中间产品的机器中。警告：所有不满足限制的插件会从游戏中被移除。"
+msgstr ""
 
 #: templates/bobmodules.jinja2:167
 msgid ""
 "If enabled, Productivity modules suffer speed penalty. Raw productivity "
 "modules also cost Speed circuits."
-msgstr "开启后，产能插件影响速度惩罚。基本产能插件也将需求速度电路板。"
+msgstr ""
 
 #: templates/bobmodules.jinja2:168
 msgid "If enabled, the Beacons can transmit the productivity effect."
-msgstr "开启后，插件效果分享塔将能分享产能效果。"
+msgstr ""
 
 #: templates/bobores.jinja2:2 templates/bobplates.jinja2:2
 msgid "Gold ore"
-msgstr "金矿"
+msgstr ""
 
 #: templates/bobores.jinja2:3 templates/bobplates.jinja2:3
 msgid "Galena (Lead ore)"
-msgstr "方铅矿(铅矿)"
+msgstr ""
 
 #: templates/bobores.jinja2:4 templates/bobplates.jinja2:4
 msgid "Silver ore"
-msgstr "银矿"
+msgstr ""
 
 #: templates/bobores.jinja2:5 templates/bobplates.jinja2:5
 msgid "Tin ore"
-msgstr "锡矿"
+msgstr ""
 
 #: templates/bobores.jinja2:6 templates/bobplates.jinja2:6
 msgid "Tungsten ore"
-msgstr "钨矿"
+msgstr ""
 
 #: templates/bobores.jinja2:7 templates/bobplates.jinja2:7
 msgid "Zinc ore"
-msgstr "锌矿"
+msgstr ""
 
 #: templates/bobores.jinja2:8 templates/bobplates.jinja2:8
 msgid "Bauxite (Aluminium ore)"
-msgstr "铝土矿(铝矿)"
+msgstr ""
 
 #: templates/bobores.jinja2:9 templates/bobplates.jinja2:9
 msgid "Rutile (Titanium ore)"
-msgstr "锐钛矿(钛矿)"
+msgstr ""
 
 #: templates/bobores.jinja2:10 templates/bobplates.jinja2:10
 msgid "Nickel ore"
-msgstr "镍矿"
+msgstr ""
 
 #: templates/bobores.jinja2:11 templates/bobplates.jinja2:11
 msgid "Cobaltite"
-msgstr "辉钴矿"
+msgstr ""
 
 #: templates/bobores.jinja2:12 templates/bobplates.jinja2:12
 msgid "Quartz (Silicon ore)"
-msgstr "石英(硅矿)"
+msgstr ""
 
 #: templates/bobores.jinja2:13
 msgid "Sulfur"
-msgstr "硫磺"
+msgstr ""
 
 #: templates/bobores.jinja2:14
 msgid "Gemstones"
-msgstr "宝石"
+msgstr ""
 
 #: templates/bobores.jinja2:15
 msgid "Lithia Water"
-msgstr "锂盐水"
+msgstr ""
 
 #: templates/bobores.jinja2:16
 msgid "Ground Water"
-msgstr "地下水"
+msgstr ""
 
 #: templates/bobores.jinja2:17
 msgid "Thorium ore"
-msgstr "钍矿"
+msgstr ""
 
 #: templates/bobores.jinja2:20 templates/bobores.jinja2:48
 msgid "__ENTITY__gold-ore__"
@@ -3088,31 +3074,31 @@ msgstr ""
 
 #: templates/bobores.jinja2:33 templates/bobplates.jinja2:13
 msgid "Unsorted gemstone ore"
-msgstr "未分类的宝石矿"
+msgstr ""
 
 #: templates/bobores.jinja2:35 templates/bobplates.jinja2:120
 msgid "Ruby Ore"
-msgstr "红宝石矿"
+msgstr ""
 
 #: templates/bobores.jinja2:36 templates/bobplates.jinja2:125
 msgid "Sapphire Ore"
-msgstr "蓝宝石矿"
+msgstr ""
 
 #: templates/bobores.jinja2:37 templates/bobplates.jinja2:130
 msgid "Emerald Ore"
-msgstr "绿宝石矿"
+msgstr ""
 
 #: templates/bobores.jinja2:38 templates/bobplates.jinja2:135
 msgid "Amethyst Ore"
-msgstr "紫水晶矿"
+msgstr ""
 
 #: templates/bobores.jinja2:39 templates/bobplates.jinja2:140
 msgid "Topaz Ore"
-msgstr "黄宝石矿"
+msgstr ""
 
 #: templates/bobores.jinja2:40 templates/bobplates.jinja2:145
 msgid "Diamond Ore"
-msgstr "金刚石矿"
+msgstr ""
 
 #: templates/bobores.jinja2:44
 msgid "__ENTITY__lithia-water__"
@@ -3132,1125 +3118,1125 @@ msgstr ""
 
 #: templates/bobores.jinja2:66
 msgid "Sort raw gems"
-msgstr "分类基本宝石"
+msgstr ""
 
 #: templates/bobores.jinja2:71
 msgid "Infinite ores"
-msgstr "无限矿石"
+msgstr ""
 
 #: templates/bobores.jinja2:72
 msgid "Enhanced Stone"
-msgstr "高级石矿"
+msgstr ""
 
 #: templates/bobores.jinja2:73
 msgid "Unsorted gem ore"
-msgstr "未分类的宝石矿"
+msgstr ""
 
 #: templates/bobores.jinja2:74
 msgid "Lead gives Nickel"
-msgstr "含镍的铅矿"
+msgstr ""
 
 #: templates/bobores.jinja2:75
 msgid "Lead Nickel ratio"
-msgstr "铅矿含镍比例"
+msgstr ""
 
 #: templates/bobores.jinja2:76
 msgid "Nickel gives Cobalt"
-msgstr "含钴的镍矿"
+msgstr ""
 
 #: templates/bobores.jinja2:77
 msgid "Nickel Cobalt ratio"
-msgstr "镍矿含钴比例"
+msgstr ""
 
 #: templates/bobores.jinja2:78
 msgid "Gems from other ores"
-msgstr "其他矿石中含宝石"
+msgstr ""
 
 #: templates/bobores.jinja2:79
 msgid "Gem Probabillity (From other ores)"
-msgstr "宝石含量(其他矿中)"
+msgstr ""
 
 #: templates/bobores.jinja2:80
 msgid "Ruby ratio"
-msgstr "红宝石比例"
+msgstr ""
 
 #: templates/bobores.jinja2:81
 msgid "Sapphire ratio"
-msgstr "蓝宝石比例"
+msgstr ""
 
 #: templates/bobores.jinja2:82
 msgid "Emerald ratio"
-msgstr "绿宝石比例"
+msgstr ""
 
 #: templates/bobores.jinja2:83
 msgid "Amethyst ratio"
-msgstr "紫水晶比例"
+msgstr ""
 
 #: templates/bobores.jinja2:84
 msgid "Topaz ratio"
-msgstr "黄宝石比例"
+msgstr ""
 
 #: templates/bobores.jinja2:85
 msgid "Diamond ratio"
-msgstr "钻石比例"
+msgstr ""
 
 #: templates/bobores.jinja2:86
 msgid "Enable bauxite"
-msgstr "开启铝土矿"
+msgstr ""
 
 #: templates/bobores.jinja2:87
 msgid "Enable cobalt ore"
-msgstr "开启钴矿"
+msgstr ""
 
 #: templates/bobores.jinja2:88
 msgid "Enable gems ore"
-msgstr "开启宝石矿"
+msgstr ""
 
 #: templates/bobores.jinja2:89
 msgid "Enable gold ore"
-msgstr "开启金矿"
+msgstr ""
 
 #: templates/bobores.jinja2:90
 msgid "Enable lead ore"
-msgstr "开启方铅矿"
+msgstr ""
 
 #: templates/bobores.jinja2:91
 msgid "Enable nickel ore"
-msgstr "开启镍矿"
+msgstr ""
 
 #: templates/bobores.jinja2:92
 msgid "Enable quartz"
-msgstr "开启石英"
+msgstr ""
 
 #: templates/bobores.jinja2:93
 msgid "Enable rutile"
-msgstr "开启锐钛矿"
+msgstr ""
 
 #: templates/bobores.jinja2:94
 msgid "Enable silver ore"
-msgstr "开启银矿"
+msgstr ""
 
 #: templates/bobores.jinja2:95
 msgid "Enable sulfur"
-msgstr "开启硫磺矿"
+msgstr ""
 
 #: templates/bobores.jinja2:96
 msgid "Enable tin ore"
-msgstr "开启锡矿"
+msgstr ""
 
 #: templates/bobores.jinja2:97
 msgid "Enable tungsten ore"
-msgstr "开启钨矿"
+msgstr ""
 
 #: templates/bobores.jinja2:98
 msgid "Enable zinc ore"
-msgstr "开启锌矿"
+msgstr ""
 
 #: templates/bobores.jinja2:99
 msgid "Enable water ores"
-msgstr "开启地下水资源"
+msgstr ""
 
 #: templates/bobores.jinja2:100
 msgid "Enable thorium ore"
-msgstr "开启钍矿"
+msgstr ""
 
 #: templates/bobores.jinja2:104
 msgid "Makes all ores infinite"
-msgstr "所有矿石无限"
+msgstr ""
 
 #: templates/bobores.jinja2:105
 msgid "If set to true, Stone will apear in larger, richer vains."
-msgstr "开启后，石矿会分布地更大更丰富"
+msgstr ""
 
 #: templates/bobores.jinja2:106
 msgid ""
 "If set to true, Gem ore fields will give the Unsorted Gems resource. If "
 "false will give each ore type."
-msgstr "开启后，宝石矿会产出未分类的宝石矿，否则产出各类宝石。"
+msgstr ""
 
 #: templates/bobores.jinja2:107
 msgid "If set to true, mining Lead can also give Nickel"
-msgstr "开启后，采掘方铅矿同时会获得镍矿"
+msgstr ""
 
 #: templates/bobores.jinja2:108
 msgid "How often you get Nickel per Lead"
-msgstr "从方铅矿中获得镍矿的概率"
+msgstr ""
 
 #: templates/bobores.jinja2:109
 msgid "If set to true, mining Nickel can also give Cobalt"
-msgstr "开启后，采掘镍矿同时会获得钴矿"
+msgstr ""
 
 #: templates/bobores.jinja2:110
 msgid "How often you get Cobalt per Nickel"
-msgstr "从镍矿中获得钴矿的概率"
+msgstr ""
 
 #: templates/bobores.jinja2:111
 msgid ""
 "If set to true, Diamonds can be obtained from mining Coal, Ruby, Saphire "
 "and Topaz from Bauxite, and Amethyst and Emerald from Quartz"
-msgstr "开启后，采掘煤炭，红宝石和蓝宝石时能获得钻石；采掘铝土矿时能获得黄宝石；采掘石英时能获得紫水晶和绿宝石。"
+msgstr ""
 
 #: templates/bobores.jinja2:112
 msgid "How often you get a gem from mining Coal, Bauxite or Quartz"
-msgstr "从煤炭，红宝石和蓝宝石中获得钻石的概率"
+msgstr ""
 
 #: templates/bobores.jinja2:113
 msgid "How often you get a Ruby"
-msgstr "获得红宝石的概率"
+msgstr ""
 
 #: templates/bobores.jinja2:114
 msgid "How often you get a Sapphire"
-msgstr "获得蓝宝石的概率"
+msgstr ""
 
 #: templates/bobores.jinja2:115
 msgid "How often you get an Emerald"
-msgstr "获得绿宝石的概率"
+msgstr ""
 
 #: templates/bobores.jinja2:116
 msgid "How often you get an Amethyst"
-msgstr "获得紫水晶的概率"
+msgstr ""
 
 #: templates/bobores.jinja2:117
 msgid "How often you get a Topaz"
-msgstr "获得黄宝石的概率"
+msgstr ""
 
 #: templates/bobores.jinja2:118
 msgid "How often you get a Diamond"
-msgstr "获得钻石的概率"
+msgstr ""
 
 #: templates/bobplates.jinja2:15
 msgid "Gold plate"
-msgstr "金板"
+msgstr ""
 
 #: templates/bobplates.jinja2:16
 msgid "Lead plate"
-msgstr "铅板"
+msgstr ""
 
 #: templates/bobplates.jinja2:17
 msgid "Silver plate"
-msgstr "银板"
+msgstr ""
 
 #: templates/bobplates.jinja2:18
 msgid "Tin plate"
-msgstr "锡板"
+msgstr ""
 
 #: templates/bobplates.jinja2:19
 msgid "Tungsten plate"
-msgstr "钨板"
+msgstr ""
 
 #: templates/bobplates.jinja2:20
 msgid "Zinc plate"
-msgstr "锌板"
+msgstr ""
 
 #: templates/bobplates.jinja2:21
 msgid "Nickel plate"
-msgstr "镍板"
+msgstr ""
 
 #: templates/bobplates.jinja2:22
 msgid "Aluminium plate"
-msgstr "铝板"
+msgstr ""
 
 #: templates/bobplates.jinja2:23
 msgid "Titanium plate"
-msgstr "钛板"
+msgstr ""
 
 #: templates/bobplates.jinja2:24
 msgid "Silicon plate"
-msgstr "硅板"
+msgstr ""
 
 #: templates/bobplates.jinja2:25
 msgid "Cobalt plate"
-msgstr "钴板"
+msgstr ""
 
 #: templates/bobplates.jinja2:26
 msgid "Lithium"
-msgstr "锂"
+msgstr ""
 
 #: templates/bobplates.jinja2:28
 msgid "Bronze plate"
-msgstr "青铜板"
+msgstr ""
 
 #: templates/bobplates.jinja2:29
 msgid "Brass plate"
-msgstr "黄铜板"
+msgstr ""
 
 #: templates/bobplates.jinja2:30
 msgid "Copper-tungsten plate"
-msgstr "铜钨合金板"
+msgstr ""
 
 #: templates/bobplates.jinja2:31
 msgid "Tungsten carbide plate"
-msgstr "碳化钨合金板"
+msgstr ""
 
 #: templates/bobplates.jinja2:32
 msgid "Gunmetal plate"
-msgstr "炮铜板"
+msgstr ""
 
 #: templates/bobplates.jinja2:33
 msgid "Invar plate"
-msgstr "殷钢板"
+msgstr ""
 
 #: templates/bobplates.jinja2:34
 msgid "Nitinol plate"
-msgstr "镍钛合金板"
+msgstr ""
 
 #: templates/bobplates.jinja2:36
 msgid "Cobalt steel plate"
-msgstr "钴钢合金板"
+msgstr ""
 
 #: templates/bobplates.jinja2:38
 msgid "Alumina"
-msgstr "铝土"
+msgstr ""
 
 #: templates/bobplates.jinja2:39
 msgid "Calcium chloride"
-msgstr "氯化钙"
+msgstr ""
 
 #: templates/bobplates.jinja2:40 templates/bobplates.jinja2:206
 #: templates/bobplates.jinja2:207
 msgid "Lead oxide"
-msgstr "氧化铅"
+msgstr ""
 
 #: templates/bobplates.jinja2:41
 msgid "Tungsten oxide"
-msgstr "氧化钨"
+msgstr ""
 
 #: templates/bobplates.jinja2:42
 msgid "Powdered tungsten"
-msgstr "钨粉"
+msgstr ""
 
 #: templates/bobplates.jinja2:43
 msgid "Powdered silicon"
-msgstr "硅粉"
+msgstr ""
 
 #: templates/bobplates.jinja2:44
 msgid "Cobalt Oxide"
-msgstr "氧化钴"
+msgstr ""
 
 #: templates/bobplates.jinja2:46
 msgid "Salt"
-msgstr "氯化钠"
+msgstr ""
 
 #: templates/bobplates.jinja2:47
 msgid "Sodium hydroxide"
-msgstr "氢氧化钠"
+msgstr ""
 
 #: templates/bobplates.jinja2:51
 msgid "Silicon wafer"
-msgstr "硅片"
+msgstr ""
 
 #: templates/bobplates.jinja2:52
 msgid "Silicon nitride"
-msgstr "氮化硅"
+msgstr ""
 
 #: templates/bobplates.jinja2:53
 msgid "Silicon carbide"
-msgstr "碳化硅"
+msgstr ""
 
 #: templates/bobplates.jinja2:54
 msgid "Glass"
-msgstr "玻璃"
+msgstr ""
 
 #: templates/bobplates.jinja2:55
 msgid "Lithium chloride"
-msgstr "氯化锂"
+msgstr ""
 
 #: templates/bobplates.jinja2:56
 msgid "Lithium perchlorate"
-msgstr "高氯酸锂"
+msgstr ""
 
 #: templates/bobplates.jinja2:57
 msgid "Lithium cobalt oxide"
-msgstr "氧化钴锂"
+msgstr ""
 
 #: templates/bobplates.jinja2:59
 msgid "Silver nitrate"
-msgstr "硝酸银"
+msgstr ""
 
 #: templates/bobplates.jinja2:60
 msgid "Silver oxide"
-msgstr "氧化银"
+msgstr ""
 
 #: templates/bobplates.jinja2:61
 msgid "Silver zinc battery"
-msgstr "银锌电池"
+msgstr ""
 
 #: templates/bobplates.jinja2:63
 msgid "Lithium-ion battery"
-msgstr "锂电池"
+msgstr ""
 
 #: templates/bobplates.jinja2:64
 msgid "Grinding wheel"
-msgstr "砂轮"
+msgstr ""
 
 #: templates/bobplates.jinja2:65
 msgid "Polishing compound"
-msgstr "抛光剂"
+msgstr ""
 
 #: templates/bobplates.jinja2:66
 msgid "Polishing wheel"
-msgstr "抛光轮"
+msgstr ""
 
 #: templates/bobplates.jinja2:69
 msgid "Advanced processing unit"
-msgstr "高级处理单元"
+msgstr ""
 
 #: templates/bobplates.jinja2:72
 msgid "Steel gear wheel"
-msgstr "钢齿轮"
+msgstr ""
 
 #: templates/bobplates.jinja2:73
 msgid "Brass gear wheel"
-msgstr "黄铜齿轮"
+msgstr ""
 
 #: templates/bobplates.jinja2:74
 msgid "Cobalt steel gear wheel"
-msgstr "钴钢齿轮"
+msgstr ""
 
 #: templates/bobplates.jinja2:75
 msgid "Titanium gear wheel"
-msgstr "钛齿轮"
+msgstr ""
 
 #: templates/bobplates.jinja2:76
 msgid "Tungsten gear wheel"
-msgstr "钨齿轮"
+msgstr ""
 
 #: templates/bobplates.jinja2:77
 msgid "Nitinol gear wheel"
-msgstr "镍钛合金齿轮"
+msgstr ""
 
 #: templates/bobplates.jinja2:79
 msgid "Steel bearing ball"
-msgstr "钢轴承珠"
+msgstr ""
 
 #: templates/bobplates.jinja2:80
 msgid "Brass bearing ball"
-msgstr "黄铜轴承珠"
+msgstr ""
 
 #: templates/bobplates.jinja2:81
 msgid "Cobalt steel bearing ball"
-msgstr "钴钢轴承珠"
+msgstr ""
 
 #: templates/bobplates.jinja2:82
 msgid "Titanium bearing ball"
-msgstr "钛轴承珠"
+msgstr ""
 
 #: templates/bobplates.jinja2:83
 msgid "Nitinol bearing ball"
-msgstr "镍钛合金轴承珠"
+msgstr ""
 
 #: templates/bobplates.jinja2:84
 msgid "Ceramic bearing ball"
-msgstr "陶瓷轴承珠"
+msgstr ""
 
 #: templates/bobplates.jinja2:86
 msgid "Steel bearing"
-msgstr "钢轴承"
+msgstr ""
 
 #: templates/bobplates.jinja2:87
 msgid "Brass bearing"
-msgstr "黄铜轴承"
+msgstr ""
 
 #: templates/bobplates.jinja2:88
 msgid "Cobalt steel bearing"
-msgstr "钴钢轴承"
+msgstr ""
 
 #: templates/bobplates.jinja2:89
 msgid "Titanium bearing"
-msgstr "钛轴承"
+msgstr ""
 
 #: templates/bobplates.jinja2:90
 msgid "Nitinol bearing"
-msgstr "镍钛合金轴承"
+msgstr ""
 
 #: templates/bobplates.jinja2:91
 msgid "Ceramic bearing"
-msgstr "陶瓷轴承"
+msgstr ""
 
 #: templates/bobplates.jinja2:94 templates/bobplates.jinja2:231
 msgid "Distillery"
-msgstr "蒸馏室"
+msgstr ""
 
 #: templates/bobplates.jinja2:96 templates/bobplates.jinja2:233
 msgid "Metal mixing furnace"
-msgstr "金属混合熔炉"
+msgstr ""
 
 #: templates/bobplates.jinja2:97 templates/bobplates.jinja2:234
 msgid "Electric Metal mixing furnace"
-msgstr "电力金属混合熔炉"
+msgstr ""
 
 #: templates/bobplates.jinja2:98 templates/bobplates.jinja2:235
 #: templates/bobplates.jinja2:313
 msgid "Steel Metal mixing furnace"
-msgstr "钢金属混合熔炉"
+msgstr ""
 
 #: templates/bobplates.jinja2:100 templates/bobplates.jinja2:237
 msgid "Chemical furnace"
-msgstr "化工熔炉"
+msgstr ""
 
 #: templates/bobplates.jinja2:101 templates/bobplates.jinja2:238
 msgid "Electric Chemical furnace"
-msgstr "电力化工熔炉"
+msgstr ""
 
 #: templates/bobplates.jinja2:102 templates/bobplates.jinja2:239
 msgid "Steel Chemical furnace"
-msgstr "钢化工熔炉"
+msgstr ""
 
 #: templates/bobplates.jinja2:104 templates/bobplates.jinja2:241
 msgid "Compressor"
-msgstr "压缩机"
+msgstr ""
 
 #: templates/bobplates.jinja2:105 templates/bobplates.jinja2:242
 msgid "Compressor MK2"
-msgstr "压缩机 MK2"
+msgstr ""
 
 #: templates/bobplates.jinja2:106 templates/bobplates.jinja2:243
 msgid "Compressor MK3"
-msgstr "压缩机 MK3"
+msgstr ""
 
 #: templates/bobplates.jinja2:107 templates/bobplates.jinja2:244
 msgid "Compressor MK4"
-msgstr "压缩机 MK4"
+msgstr ""
 
 #: templates/bobplates.jinja2:109 templates/bobplates.jinja2:246
 msgid "Pump"
-msgstr "泵"
+msgstr ""
 
 #: templates/bobplates.jinja2:114
 msgid "Gas Bottle"
-msgstr "石油气罐"
+msgstr ""
 
 #: templates/bobplates.jinja2:115
 msgid "Empty canister"
-msgstr "空罐"
+msgstr ""
 
 #: templates/bobplates.jinja2:116
 msgid "Bottled __1__"
-msgstr "灌装__1__"
+msgstr ""
 
 #: templates/bobplates.jinja2:117
 msgid "__1__ canister"
-msgstr "__1__罐"
+msgstr ""
 
 #: templates/bobplates.jinja2:121
 msgid "Raw Ruby"
-msgstr "裸红宝石"
+msgstr ""
 
 #: templates/bobplates.jinja2:122
 msgid "Cut Ruby"
-msgstr "切割红宝石"
+msgstr ""
 
 #: templates/bobplates.jinja2:123
 msgid "Polished Ruby"
-msgstr "抛光红宝石"
+msgstr ""
 
 #: templates/bobplates.jinja2:126
 msgid "Raw Sapphire"
-msgstr "裸蓝宝石"
+msgstr ""
 
 #: templates/bobplates.jinja2:127
 msgid "Cut Sapphire"
-msgstr "切割蓝宝石"
+msgstr ""
 
 #: templates/bobplates.jinja2:128
 msgid "Polished Sapphire"
-msgstr "抛光蓝宝石"
+msgstr ""
 
 #: templates/bobplates.jinja2:131
 msgid "Raw Emerald"
-msgstr "裸绿宝石"
+msgstr ""
 
 #: templates/bobplates.jinja2:132
 msgid "Cut Emerald"
-msgstr "切割绿宝石"
+msgstr ""
 
 #: templates/bobplates.jinja2:133
 msgid "Polished Emerald"
-msgstr "抛光绿宝石"
+msgstr ""
 
 #: templates/bobplates.jinja2:136
 msgid "Raw Amethyst"
-msgstr "裸紫水晶"
+msgstr ""
 
 #: templates/bobplates.jinja2:137
 msgid "Cut Amethyst"
-msgstr "切割紫水晶"
+msgstr ""
 
 #: templates/bobplates.jinja2:138
 msgid "Polished Amethyst"
-msgstr "抛光紫水晶"
+msgstr ""
 
 #: templates/bobplates.jinja2:141
 msgid "Raw Topaz"
-msgstr "裸黄宝石"
+msgstr ""
 
 #: templates/bobplates.jinja2:142
 msgid "Cut Topaz"
-msgstr "切割黄宝石"
+msgstr ""
 
 #: templates/bobplates.jinja2:143
 msgid "Polished Topaz"
-msgstr "抛光黄宝石"
+msgstr ""
 
 #: templates/bobplates.jinja2:146
 msgid "Raw Diamond"
-msgstr "裸钻石"
+msgstr ""
 
 #: templates/bobplates.jinja2:147
 msgid "Cut Diamond"
-msgstr "切割钻石"
+msgstr ""
 
 #: templates/bobplates.jinja2:148
 msgid "Polished Diamond"
-msgstr "抛光钻石"
+msgstr ""
 
 #: templates/bobplates.jinja2:151 templates/bobplates.jinja2:264
 msgid "Void"
-msgstr "虚空"
+msgstr ""
 
 #: templates/bobplates.jinja2:152 templates/bobplates.jinja2:254
 msgid "Gas venting pump"
-msgstr "排气泵"
+msgstr ""
 
 #: templates/bobplates.jinja2:154
 msgid "Blue alien alloy"
-msgstr "蓝色异星合金"
+msgstr ""
 
 #: templates/bobplates.jinja2:155
 msgid "Orange alien alloy"
-msgstr "橙色异星合金"
+msgstr ""
 
 #: templates/bobplates.jinja2:157
 msgid "Alien acid barrel"
-msgstr "桶装异星酸液"
+msgstr ""
 
 #: templates/bobplates.jinja2:158
 msgid "Alien poison barrel"
-msgstr "桶装异星毒液"
+msgstr ""
 
 #: templates/bobplates.jinja2:159
 msgid "Alien explosive barrel"
-msgstr "桶装异星爆炸物"
+msgstr ""
 
 #: templates/bobplates.jinja2:160
 msgid "Alien fire barrel"
-msgstr "桶装异星火焰"
+msgstr ""
 
 #: templates/bobplates.jinja2:162
 msgid "Enriched fuel block"
-msgstr "浓缩燃料块"
+msgstr ""
 
 #: templates/bobplates.jinja2:164
 msgid "Thorium-232"
-msgstr "钍-232"
+msgstr ""
 
 #: templates/bobplates.jinja2:165
 msgid "Plutonium-239"
-msgstr "钚-239"
+msgstr ""
 
 #: templates/bobplates.jinja2:166
 msgid "Thorium fuel cell"
-msgstr "钍燃料棒"
+msgstr ""
 
 #: templates/bobplates.jinja2:167 templates/bobplates.jinja2:222
 msgid "Thorium-plutonium fuel cell"
-msgstr "钍钚燃料棒"
+msgstr ""
 
 #: templates/bobplates.jinja2:168
 msgid "Used up thorium fuel cell"
-msgstr "耗尽的钍燃料棒"
+msgstr ""
 
 #: templates/bobplates.jinja2:169
 msgid "Deuterium fuel cell"
-msgstr "氘燃料棒"
+msgstr ""
 
 #: templates/bobplates.jinja2:170
 msgid "Used up deuterium fuel cell"
-msgstr "耗尽的氘燃料棒"
+msgstr ""
 
 #: templates/bobplates.jinja2:174
 msgid "Hydrogen"
-msgstr "氢"
+msgstr ""
 
 #: templates/bobplates.jinja2:175 templates/bobrevamp.jinja2:42
 msgid "Deuterium"
-msgstr "氘"
+msgstr ""
 
 #: templates/bobplates.jinja2:176
 msgid "Oxygen"
-msgstr "氧"
+msgstr ""
 
 #: templates/bobplates.jinja2:177
 msgid "Nitrogen"
-msgstr "氮"
+msgstr ""
 
 #: templates/bobplates.jinja2:178
 msgid "Chlorine"
-msgstr "氯"
+msgstr ""
 
 #: templates/bobplates.jinja2:180
 msgid "Compressed air"
-msgstr "压缩空气"
+msgstr ""
 
 #: templates/bobplates.jinja2:181
 msgid "Hydrogen chloride"
-msgstr "氯化氢"
+msgstr ""
 
 #: templates/bobplates.jinja2:182
 msgid "Sulfur dioxide"
-msgstr "二氧化硫"
+msgstr ""
 
 #: templates/bobplates.jinja2:183
 msgid "Hydrogen sulfide"
-msgstr "硫化氢"
+msgstr ""
 
 #: templates/bobplates.jinja2:184 templates/bobrevamp.jinja2:29
 msgid "Nitrogen dioxide"
-msgstr "二氧化氮"
+msgstr ""
 
 #: templates/bobplates.jinja2:185
 msgid "Nitric acid"
-msgstr "硝酸"
+msgstr ""
 
 #: templates/bobplates.jinja2:186
 msgid "Tungstic acid"
-msgstr "钨酸"
+msgstr ""
 
 #: templates/bobplates.jinja2:188
 msgid "Liquid fuel"
-msgstr "液体燃料"
+msgstr ""
 
 #: templates/bobplates.jinja2:189
 msgid "Lithia water"
-msgstr "锂盐矿水"
+msgstr ""
 
 #: templates/bobplates.jinja2:190
 msgid "Pure water"
-msgstr "纯水"
+msgstr ""
 
 #: templates/bobplates.jinja2:191
 msgid "Heavy water"
-msgstr "重水"
+msgstr ""
 
 #: templates/bobplates.jinja2:194
 msgid "Alien acid fluid"
-msgstr "异星酸液"
+msgstr ""
 
 #: templates/bobplates.jinja2:195
 msgid "Alien poison fluid"
-msgstr "异星毒液"
+msgstr ""
 
 #: templates/bobplates.jinja2:196
 msgid "Alien explosive fluid"
-msgstr "异星爆炸物"
+msgstr ""
 
 #: templates/bobplates.jinja2:197
 msgid "Alien flame fluid"
-msgstr "异星火焰"
+msgstr ""
 
 #: templates/bobplates.jinja2:201
 msgid "Water electrolysis"
-msgstr "电解水"
+msgstr ""
 
 #: templates/bobplates.jinja2:202
 msgid "Salt water electrolysis"
-msgstr "电解盐水"
+msgstr ""
 
 #: templates/bobplates.jinja2:203
 msgid "Heavy water electrolysis"
-msgstr "电解重水"
+msgstr ""
 
 #: templates/bobplates.jinja2:204
 msgid "Lithium chloride Electrolysis"
-msgstr "电解锂盐矿水"
+msgstr ""
 
 #: templates/bobplates.jinja2:205
 msgid "Tungstic Acid"
-msgstr "钨酸"
+msgstr ""
 
 #: templates/bobplates.jinja2:209
 msgid "Petroleum gas cracking to Hydrogen"
-msgstr "石油气裂解为氢"
+msgstr ""
 
 #: templates/bobplates.jinja2:210
 msgid "Solid fuel from Hydrogen"
-msgstr "氢制固体燃料"
+msgstr ""
 
 #: templates/bobplates.jinja2:211
 msgid "Advanced copper processing with Cobalt oxide"
-msgstr "用氧化钴进行高级黄铜处理"
+msgstr ""
 
 #: templates/bobplates.jinja2:212
 msgid "Advanced lead processing with Silver ore"
-msgstr "用银矿进行高级铅处理"
+msgstr ""
 
 #: templates/bobplates.jinja2:213
 msgid "Heavy water seperation"
-msgstr "重水分离"
+msgstr ""
 
 #: templates/bobplates.jinja2:215
 msgid "Empty __1__ bottle"
-msgstr "清空__1__瓶"
+msgstr ""
 
 #: templates/bobplates.jinja2:216
 msgid "Empty __1__ canister"
-msgstr "清空__1__罐"
+msgstr ""
 
 #: templates/bobplates.jinja2:217
 msgid "Fill __1__ bottle"
-msgstr "灌注__1__瓶"
+msgstr ""
 
 #: templates/bobplates.jinja2:218
 msgid "Fill __1__ canister"
-msgstr "灌注__1__罐"
+msgstr ""
 
 #: templates/bobplates.jinja2:223 templates/bobplates.jinja2:315
 msgid "Thorium processing"
-msgstr "钍处理"
+msgstr ""
 
 #: templates/bobplates.jinja2:224 templates/bobplates.jinja2:316
 msgid "Thorium fuel reprocessing"
-msgstr "钍燃料再处理"
+msgstr ""
 
 #: templates/bobplates.jinja2:225 templates/bobplates.jinja2:318
 msgid "Deuterium fuel reprocessing"
-msgstr "氘燃料再处理"
+msgstr ""
 
 #: templates/bobplates.jinja2:226 templates/bobplates.jinja2:317
 msgid "Bobingabout enrichment process"
-msgstr "Bobingabout's浓缩处理"
+msgstr ""
 
 #: templates/bobplates.jinja2:251
 msgid "Small storage tank"
-msgstr "小型储存罐"
+msgstr ""
 
 #: templates/bobplates.jinja2:252
 msgid "Small inline storage tank"
-msgstr "小型内嵌储存罐"
+msgstr ""
 
 #: templates/bobplates.jinja2:262
 msgid "Bob's Gemstones"
-msgstr "Bob's宝石"
+msgstr ""
 
 #: templates/bobplates.jinja2:268
 msgid "Alloy processing"
-msgstr "合金处理"
+msgstr ""
 
 #: templates/bobplates.jinja2:269
 msgid "Chemical processing"
-msgstr "化学处理"
+msgstr ""
 
 #: templates/bobplates.jinja2:270
 msgid "Electrolysis"
-msgstr "电解"
+msgstr ""
 
 #: templates/bobplates.jinja2:272
 msgid "Aluminium processing"
-msgstr "铝加工"
+msgstr ""
 
 #: templates/bobplates.jinja2:273
 msgid "Gold processing"
-msgstr "金加工"
+msgstr ""
 
 #: templates/bobplates.jinja2:274
 msgid "Nickel processing"
-msgstr "镍加工"
+msgstr ""
 
 #: templates/bobplates.jinja2:275
 msgid "Lead processing"
-msgstr "铅处理"
+msgstr ""
 
 #: templates/bobplates.jinja2:276
 msgid "Silicon processing"
-msgstr "二氧化硅处理"
+msgstr ""
 
 #: templates/bobplates.jinja2:277
 msgid "Titanium processing"
-msgstr "钛处理"
+msgstr ""
 
 #: templates/bobplates.jinja2:278
 msgid "Tungsten processing"
-msgstr "钨处理"
+msgstr ""
 
 #: templates/bobplates.jinja2:279
 msgid "Zinc processing"
-msgstr "锌处理"
+msgstr ""
 
 #: templates/bobplates.jinja2:280
 msgid "Lithium processing"
-msgstr "锂处理"
+msgstr ""
 
 #: templates/bobplates.jinja2:281
 msgid "Cobalt processing"
-msgstr "钴处理"
+msgstr ""
 
 #: templates/bobplates.jinja2:283
 msgid "Brass processing"
-msgstr "黄铜处理"
+msgstr ""
 
 #: templates/bobplates.jinja2:284
 msgid "Nitinol processing"
-msgstr "镍钛合金处理"
+msgstr ""
 
 #: templates/bobplates.jinja2:285
 msgid "Invar processing"
-msgstr "殷钢处理"
+msgstr ""
 
 #: templates/bobplates.jinja2:286
 msgid "Tungsten alloy processing"
-msgstr "钨合金处理"
+msgstr ""
 
 #: templates/bobplates.jinja2:288
 msgid "Nitrogen processing"
-msgstr "氮处理"
+msgstr ""
 
 #: templates/bobplates.jinja2:289
 msgid "Heavy water processing"
-msgstr "重水处理"
+msgstr ""
 
 #: templates/bobplates.jinja2:290
 msgid "Deuterium processing"
-msgstr "氘处理"
+msgstr ""
 
 #: templates/bobplates.jinja2:291
 msgid "Ceramics"
-msgstr "陶瓷"
+msgstr ""
 
 #: templates/bobplates.jinja2:293
 msgid "Water bore"
-msgstr "水钻孔"
+msgstr ""
 
 #: templates/bobplates.jinja2:294
 msgid "Air Compressors"
-msgstr "空气压缩机"
+msgstr ""
 
 #: templates/bobplates.jinja2:295
 msgid "Bottled gas processing"
-msgstr "罐装气体处理"
+msgstr ""
 
 #: templates/bobplates.jinja2:296
 msgid "Barrelling"
-msgstr "桶装"
+msgstr ""
 
 #: templates/bobplates.jinja2:298
 msgid "Grinding"
-msgstr "研磨"
+msgstr ""
 
 #: templates/bobplates.jinja2:299
 msgid "Polishing"
-msgstr "抛光"
+msgstr ""
 
 #: templates/bobplates.jinja2:300
 msgid "Gem processing"
-msgstr "宝石加工"
+msgstr ""
 
 #: templates/bobplates.jinja2:303
 msgid "Gas venting"
-msgstr "排气"
+msgstr ""
 
 #: templates/bobplates.jinja2:306
 msgid "Blue alien artifact research"
-msgstr "蓝色异星造物研究"
+msgstr ""
 
 #: templates/bobplates.jinja2:307
 msgid "Orange alien artifact research"
-msgstr "橙色异星造物研究"
+msgstr ""
 
 #: templates/bobplates.jinja2:308
 msgid "Purple alien artifact research"
-msgstr "紫色异星造物研究"
+msgstr ""
 
 #: templates/bobplates.jinja2:309
 msgid "Yellow alien artifact research"
-msgstr "黄色异星造物研究"
+msgstr ""
 
 #: templates/bobplates.jinja2:310
 msgid "Green alien artifact research"
-msgstr "绿色异星造物研究"
+msgstr ""
 
 #: templates/bobplates.jinja2:311
 msgid "Red alien artifact research"
-msgstr "红色异星造物研究"
+msgstr ""
 
 #: templates/bobplates.jinja2:322
 msgid "Learn how to combine more than one ingredient to make an alloy."
-msgstr "学习如何通过多种原料冶炼合金。"
+msgstr ""
 
 #: templates/bobplates.jinja2:323
 msgid "Research into to use and production of chemicals."
-msgstr "研究如何制造并使用化工产品。"
+msgstr ""
 
 #: templates/bobplates.jinja2:324
 msgid "Electrolysis is uses to separate elements from a liquid."
-msgstr "从液体中电解分离元素"
+msgstr ""
 
 #: templates/bobplates.jinja2:326
 msgid "Research how to purify aluminium, a fairly strong light weight metal."
-msgstr "研究如何提纯铝，一种较为坚硬又轻量的金属。"
+msgstr ""
 
 #: templates/bobplates.jinja2:327
 msgid "Research how to refine gold."
-msgstr "研究如何精炼金。"
+msgstr ""
 
 #: templates/bobplates.jinja2:328
 msgid "Research how to refine nickel."
-msgstr "研究如何精炼镍。"
+msgstr ""
 
 #: templates/bobplates.jinja2:329
 msgid "Research how to refine lead."
-msgstr "研究如何精炼铅。"
+msgstr ""
 
 #: templates/bobplates.jinja2:330
 msgid "Research how to purify silicon for use in electronics."
-msgstr "研究如何提纯二氧化硅，用于电子产品。"
+msgstr ""
 
 #: templates/bobplates.jinja2:331
 msgid ""
 "Titanium is a very strong light weight metal, but hard to separate from "
 "its ore."
-msgstr "钛是一种非常坚硬又轻量的金属，但难以从原矿中分离。"
+msgstr ""
 
 #: templates/bobplates.jinja2:332
 msgid ""
 "Tungsten has a very high melting point, let's research how to refine it "
 "another way."
-msgstr "钨具有非常高的熔点，让我们研究一下其他精炼它的方法。"
+msgstr ""
 
 #: templates/bobplates.jinja2:334
 msgid "Nitinol is a Nickel Titanium alloy, let's see what we can use it for."
-msgstr "镍钛合金是镍和钛的合金，让我们看看它有什么用途。"
+msgstr ""
 
 #: templates/bobplates.jinja2:335
 msgid "Invar is an Iron Nickel alloy, maybe we can use this for something."
-msgstr "殷钢是铁和镍的合金，也许我们能用得上它。"
+msgstr ""
 
 #: templates/bobplates.jinja2:336
 msgid ""
 "Research how to make Tungsten based alloys, this might make it even more "
 "useful."
-msgstr "研究如何冶炼钨系合金，这能让它更有用些。"
+msgstr ""
 
 #: templates/bobplates.jinja2:340
 msgid "Cheaper Steel"
-msgstr "廉价钢"
+msgstr ""
 
 #: templates/bobplates.jinja2:341
 msgid "New Steel"
-msgstr "新钢材"
+msgstr ""
 
 #: templates/bobplates.jinja2:342
 msgid "Battery update"
-msgstr "电池升级"
+msgstr ""
 
 #: templates/bobplates.jinja2:343
 msgid "Inventory size"
-msgstr "背包大小"
+msgstr ""
 
 #: templates/bobplates.jinja2:344
 msgid "Ore enable override"
-msgstr "矿石复写"
+msgstr ""
 
 #: templates/bobplates.jinja2:345
 msgid "Enable pure water"
-msgstr "开启纯净水"
+msgstr ""
 
 #: templates/bobplates.jinja2:346
 msgid "Enable ground water boring recipes"
-msgstr "开启地下水钻孔配方"
+msgstr ""
 
 #: templates/bobplates.jinja2:347
 msgid "Enable Vanilla barrelling"
-msgstr "开启原生桶装"
+msgstr ""
 
 #: templates/bobplates.jinja2:349
 msgid "Deuterium is blue!"
-msgstr "氘是蓝色的！"
+msgstr ""
 
 #: templates/bobplates.jinja2:353
 msgid ""
 "If enabled, Steel will cost 2 iron plates in stead of 5 (or 4 in "
 "expensive mode)"
-msgstr "开启后，钢材将消耗2个铁板而不是五个（昂贵模式中则是4个）"
+msgstr ""
 
 #: templates/bobplates.jinja2:354
 msgid "If enabled, Steel will have a more complex recipe, and more prerequisites."
-msgstr "开启后，钢材的配方会更复杂，并有更多前置条件。"
+msgstr ""
 
 #: templates/bobplates.jinja2:355
 msgid ""
 "If enabled, the recipe for battery will be replaced with one more in line"
 " with the mod"
-msgstr "开启后，电池的配方将被Mod中的替换。"
+msgstr ""
 
 #: templates/bobplates.jinja2:356
 msgid ""
 "An override for the character inventory size. Changing this will change "
 "the inventory for the player character."
-msgstr "复写角色的背包大小。修改这一项将会改变玩家背包的大小。"
+msgstr ""
 
 #: templates/bobplates.jinja2:357
 msgid ""
 "When enabled, all ores added in my ores mod required for normal operation"
 " of this mod will be force enabled, ignoring that ore's setting in the "
 "bobores section."
-msgstr "开启后，所有此Mod需要的矿石将会被强制开启，忽略bobeores中的设定。"
+msgstr ""
 
 #: templates/bobplates.jinja2:358
 msgid ""
 "If enabled, pure water will exist. This water will be required for "
 "Electrolysis and will override the result of mining ground water. it can "
 "also be made by condensing steam."
-msgstr "开启后，将会有纯净水。这种水能用于电解，并会复写为采掘地下水的产物，它也能从冷凝蒸汽中制取。"
+msgstr ""
 
 #: templates/bobplates.jinja2:359
 msgid ""
 "If enabled, the water pump can bore for water anywhere on the map. Water "
 "mining patches will not be force enabled."
-msgstr "开启后，水泵将能从地图上的任何一个地方泵出水来。采掘水的选项将不会被强制开启。"
+msgstr ""
 
 #: templates/bobplates.jinja2:360
 msgid "If enabled Assembling machines can be used for barrelling"
-msgstr "开启后，装配机能用于装卸桶。"
+msgstr ""
 
 #: templates/bobplates.jinja2:361
 msgid ""
 "I heard Deuterium was supposed to be blue, so I want the game to show it "
 "as such"
-msgstr "我听说氘应该是蓝色的，所以我希望它在游戏中也是这样的。"
+msgstr ""
 
 #: templates/bobpower.jinja2:2
 msgid "Solar energy"
-msgstr "太阳能"
+msgstr ""
 
 #: templates/bobpower.jinja2:3
 msgid "Electric energy accumulators"
-msgstr "蓄电池"
+msgstr ""
 
 #: templates/bobpower.jinja2:5
 msgid "Electric Poles"
-msgstr "电线杆"
+msgstr ""
 
 #: templates/bobpower.jinja2:6
 msgid "Substations"
-msgstr "配电站"
+msgstr ""
 
 #: templates/bobpower.jinja2:8
 msgid "Advanced steam power"
-msgstr "高级蒸汽机"
+msgstr ""
 
 #: templates/bobpower.jinja2:9 templates/bobtech.jinja2:8
 msgid "Steam power"
-msgstr "蒸汽机"
+msgstr ""
 
 #: templates/bobpower.jinja2:11 templates/bobpower.jinja2:104
 #: templates/bobpower.jinja2:166
 msgid "Oil burning generator"
-msgstr "燃油生成器"
+msgstr ""
 
 #: templates/bobpower.jinja2:12 templates/bobpower.jinja2:107
 #: templates/bobpower.jinja2:169
 msgid "Hydrazine generator"
-msgstr "联氨生成器"
+msgstr ""
 
 #: templates/bobpower.jinja2:14
 msgid "__ENTITY__steam-engine__"
@@ -4270,147 +4256,147 @@ msgstr ""
 
 #: templates/bobpower.jinja2:18 templates/bobpower.jinja2:80
 msgid "Oil burning boiler"
-msgstr "燃油锅炉"
+msgstr ""
 
 #: templates/bobpower.jinja2:19
 msgid "Nuclear power"
-msgstr "核电站"
+msgstr ""
 
 #: templates/bobpower.jinja2:20
 msgid "Heat pipe"
-msgstr "导热管"
+msgstr ""
 
 #: templates/bobpower.jinja2:21 templates/bobpower.jinja2:114
 msgid "Burner heat source"
-msgstr "火力热源"
+msgstr ""
 
 #: templates/bobpower.jinja2:22 templates/bobpower.jinja2:118
 msgid "Oil burning heat source"
-msgstr "燃油热源"
+msgstr ""
 
 #: templates/bobpower.jinja2:26
 msgid "A source of infinite energy, but useless at night."
-msgstr "可以提供无限的能源，但不能在晚上使用。"
+msgstr ""
 
 #: templates/bobpower.jinja2:27
 msgid "Accumulators are used to store electric energy."
-msgstr "蓄电池用于储存电力。"
+msgstr ""
 
 #: templates/bobpower.jinja2:28
 msgid "Research for better Electric Poles"
-msgstr "研究更好的电线杆。"
+msgstr ""
 
 #: templates/bobpower.jinja2:29
 msgid "Research for better Substations"
-msgstr "研究更好的配电站。"
+msgstr ""
 
 #: templates/bobpower.jinja2:30
 msgid "Research into making and improving boilers."
-msgstr "研究制作和改进锅炉。"
+msgstr ""
 
 #: templates/bobpower.jinja2:31
 msgid "Research into making and improving steam engine electric generators."
-msgstr "研究制作和改进蒸汽发电机。"
+msgstr ""
 
 #: templates/bobpower.jinja2:32
 msgid "Research into making and improving oil burning boilers."
-msgstr "研究制作和改进燃油锅炉。"
+msgstr ""
 
 #: templates/bobpower.jinja2:33
 msgid "Research into making and improving heat exchangers."
-msgstr "研究制作和改进换热机。"
+msgstr ""
 
 #: templates/bobpower.jinja2:34
 msgid "Research into improving steam engine electric generators using turbines."
-msgstr "研究制作和改进使用涡轮机的蒸汽发电机。"
+msgstr ""
 
 #: templates/bobpower.jinja2:35
 msgid ""
 "Research into heat pipes, a method to conduct heat around for use as a "
 "power source."
-msgstr "研究导热管，一种能向周围导热的能量源。"
+msgstr ""
 
 #: templates/bobpower.jinja2:36
 msgid ""
 "Research into heat power. The burner heat source burns fuel items to "
 "generate heat. Connect it to heat powered entities such as heat "
 "exchangers using heat pipes."
-msgstr "研究热能。火力热源燃烧燃料并产生热能。用导热管将其和换热机等热能建筑连接。"
+msgstr ""
 
 #: templates/bobpower.jinja2:37
 msgid ""
 "Research into heat power. The oil burning heat source burns fluid fuels "
 "to generate heat. Connect it to heat powered entities such as heat "
 "exchangers using heat pipes."
-msgstr "研究热能。火力热源燃烧燃油并产生热能。用导热管将其和换热机等热能建筑连接。"
+msgstr ""
 
 #: templates/bobpower.jinja2:41 templates/bobpower.jinja2:129
 msgid "Small Solar Panel"
-msgstr "小型太阳能板"
+msgstr ""
 
 #: templates/bobpower.jinja2:42 templates/bobpower.jinja2:130
 msgid "Large Solar Panel"
-msgstr "大型太阳能板"
+msgstr ""
 
 #: templates/bobpower.jinja2:44 templates/bobpower.jinja2:132
 msgid "Small Solar Panel 2"
-msgstr "小型太阳能板 2"
+msgstr ""
 
 #: templates/bobpower.jinja2:45 templates/bobpower.jinja2:133
 msgid "Solar Panel 2"
-msgstr "太阳能板 2"
+msgstr ""
 
 #: templates/bobpower.jinja2:46 templates/bobpower.jinja2:134
 msgid "Large Solar Panel 2"
-msgstr "大型太阳能板 2"
+msgstr ""
 
 #: templates/bobpower.jinja2:48 templates/bobpower.jinja2:136
 msgid "Small Solar Panel 3"
-msgstr "小型太阳能板 3"
+msgstr ""
 
 #: templates/bobpower.jinja2:49 templates/bobpower.jinja2:137
 msgid "Solar Panel 3"
-msgstr "太阳能板 3"
+msgstr ""
 
 #: templates/bobpower.jinja2:50 templates/bobpower.jinja2:138
 msgid "Large Solar Panel 3"
-msgstr "大型太阳能板 3"
+msgstr ""
 
 #: templates/bobpower.jinja2:53 templates/bobpower.jinja2:141
 msgid "High capacity accumulator"
-msgstr "大容量蓄电池"
+msgstr ""
 
 #: templates/bobpower.jinja2:54 templates/bobpower.jinja2:142
 msgid "Fast accumulator"
-msgstr "高速蓄电池"
+msgstr ""
 
 #: templates/bobpower.jinja2:55
 msgid "Slow accumulator"
-msgstr "低速蓄电池"
+msgstr ""
 
 #: templates/bobpower.jinja2:57 templates/bobpower.jinja2:145
 msgid "High capacity accumulator 2"
-msgstr "大容量蓄电池 2"
+msgstr ""
 
 #: templates/bobpower.jinja2:58 templates/bobpower.jinja2:146
 msgid "Fast accumulator 2"
-msgstr "高速蓄电池 2"
+msgstr ""
 
 #: templates/bobpower.jinja2:59
 msgid "Slow accumulator 2"
-msgstr "低速蓄电池 2"
+msgstr ""
 
 #: templates/bobpower.jinja2:61 templates/bobpower.jinja2:149
 msgid "High capacity accumulator 3"
-msgstr "大容量蓄电池 3"
+msgstr ""
 
 #: templates/bobpower.jinja2:62 templates/bobpower.jinja2:150
 msgid "Fast accumulator 3"
-msgstr "高速蓄电池 3"
+msgstr ""
 
 #: templates/bobpower.jinja2:63
 msgid "Slow accumulator 3"
-msgstr "低速蓄电池 3"
+msgstr ""
 
 #: templates/bobpower.jinja2:66
 msgid "__ENTITY__steam-engine__ 2"
@@ -4482,47 +4468,47 @@ msgstr ""
 
 #: templates/bobpower.jinja2:92 templates/bobpower.jinja2:153
 msgid "Medium electric pole 2"
-msgstr "中型电线杆 2"
+msgstr ""
 
 #: templates/bobpower.jinja2:93 templates/bobpower.jinja2:154
 msgid "Medium electric pole 3"
-msgstr "中型电线杆 3"
+msgstr ""
 
 #: templates/bobpower.jinja2:94 templates/bobpower.jinja2:155
 msgid "Medium electric pole 4"
-msgstr "中型电线杆 4"
+msgstr ""
 
 #: templates/bobpower.jinja2:96 templates/bobpower.jinja2:157
 msgid "Big electric pole 2"
-msgstr "大型电线杆 2"
+msgstr ""
 
 #: templates/bobpower.jinja2:97 templates/bobpower.jinja2:158
 msgid "Big electric pole 3"
-msgstr "大型电线杆 3"
+msgstr ""
 
 #: templates/bobpower.jinja2:98 templates/bobpower.jinja2:159
 msgid "Big electric pole 4"
-msgstr "大型电线杆 4"
+msgstr ""
 
 #: templates/bobpower.jinja2:100 templates/bobpower.jinja2:161
 msgid "Substation 2"
-msgstr "配电站 2"
+msgstr ""
 
 #: templates/bobpower.jinja2:101 templates/bobpower.jinja2:162
 msgid "Substation 3"
-msgstr "配电站 3"
+msgstr ""
 
 #: templates/bobpower.jinja2:102 templates/bobpower.jinja2:163
 msgid "Substation 4"
-msgstr "配电站 4"
+msgstr ""
 
 #: templates/bobpower.jinja2:105 templates/bobpower.jinja2:167
 msgid "Oil burning generator 2"
-msgstr "燃油生成器 2"
+msgstr ""
 
 #: templates/bobpower.jinja2:106 templates/bobpower.jinja2:168
 msgid "Oil burning generator 3"
-msgstr "燃油生成器 3"
+msgstr ""
 
 #: templates/bobpower.jinja2:109
 msgid "__ENTITY__nuclear-reactor__ 2"
@@ -4534,181 +4520,181 @@ msgstr ""
 
 #: templates/bobpower.jinja2:112 templates/bobpower.jinja2:178
 msgid "Burner electric generator"
-msgstr "火力发电机"
+msgstr ""
 
 #: templates/bobpower.jinja2:115
 msgid "Burner heat source 2"
-msgstr "火力热源 2"
+msgstr ""
 
 #: templates/bobpower.jinja2:116
 msgid "Burner heat source 3"
-msgstr "火力热源 3"
+msgstr ""
 
 #: templates/bobpower.jinja2:119
 msgid "Oil burning heat source 2"
-msgstr "燃油热源 2"
+msgstr ""
 
 #: templates/bobpower.jinja2:120
 msgid "Oil burning heat source 3"
-msgstr "燃油热源 3"
+msgstr ""
 
 #: templates/bobpower.jinja2:124
 msgid ""
 "A retrofit steel furnace, the burner heat source burns fuel items to "
 "generate heat. Connect it to heat powered entities such as heat "
 "exchangers using heat pipes."
-msgstr "一种改造过的钢铁熔炉，火力热源燃烧燃料并产生热能。用导热管将其和换热机等热能建筑连接。"
+msgstr ""
 
 #: templates/bobpower.jinja2:125
 msgid ""
 "A retrofit steel furnace, the oil burning heat source burns fluid fuels "
 "to generate heat. Connect it to heat powered entities such as heat "
 "exchangers using heat pipes."
-msgstr "一种改造过的钢铁熔炉，燃油热源燃烧燃油并产生热能。用导热管将其和换热机等热能建筑连接。"
+msgstr ""
 
 #: templates/bobpower.jinja2:144
 msgid "Basic accumulator 2"
-msgstr "基础蓄电池 2"
+msgstr ""
 
 #: templates/bobpower.jinja2:148
 msgid "Basic accumulator 3"
-msgstr "基础蓄电池 3"
+msgstr ""
 
 #: templates/bobpower.jinja2:173
 msgid "New steam power related entities"
-msgstr "新的蒸汽发电机相关物品"
+msgstr ""
 
 #: templates/bobpower.jinja2:174
 msgid "New solar panels"
-msgstr "新的太阳能板"
+msgstr ""
 
 #: templates/bobpower.jinja2:175
 msgid "New power poles and substations"
-msgstr "新的电线杆和配电站"
+msgstr ""
 
 #: templates/bobpower.jinja2:176
 msgid "New accumulators"
-msgstr "新的蓄电池"
+msgstr ""
 
 #: templates/bobpower.jinja2:177
 msgid "Oil burning generators"
-msgstr "燃油生成器"
+msgstr ""
 
 #: templates/bobpower.jinja2:179
 msgid "New nuclear generators"
-msgstr "新的核反应堆"
+msgstr ""
 
 #: templates/bobpower.jinja2:180
 msgid "Burner and oil powered heat sources"
-msgstr "火力及燃油热源"
+msgstr ""
 
 #: templates/bobrevamp.jinja2:3
 msgid "Pumpjack research"
-msgstr "抽油机研究"
+msgstr ""
 
 #: templates/bobrevamp.jinja2:4
 msgid "Solid fuel research"
-msgstr "固体燃料研究"
+msgstr ""
 
 #: templates/bobrevamp.jinja2:5
 msgid "__ITEM__rocket-fuel__ research"
-msgstr "__ITEM__rocket-fuel__研究"
+msgstr ""
 
 #: templates/bobrevamp.jinja2:6
 msgid "Hydrazine research"
-msgstr "联氨研究"
+msgstr ""
 
 #: templates/bobrevamp.jinja2:7
 msgid "Heat shielding research"
-msgstr "隔热研究"
+msgstr ""
 
 #: templates/bobrevamp.jinja2:8
 msgid "__ITEM__low-density-structure__ research"
-msgstr "__ITEM__low-density-structure__研究"
+msgstr ""
 
 #: templates/bobrevamp.jinja2:9
 msgid "Thorium nuclear power"
-msgstr "钍核能"
+msgstr ""
 
 #: templates/bobrevamp.jinja2:10
 msgid "Deuterium nuclear power"
-msgstr "氘核能"
+msgstr ""
 
 #: templates/bobrevamp.jinja2:14
 msgid "Uranium reactor"
-msgstr "铀反应堆"
+msgstr ""
 
 #: templates/bobrevamp.jinja2:15
 msgid "Thorium reactor"
-msgstr "钍反应堆"
+msgstr ""
 
 #: templates/bobrevamp.jinja2:16
 msgid "Deuterium reactor"
-msgstr "氘反应堆"
+msgstr ""
 
 #: templates/bobrevamp.jinja2:20
 msgid "Heat shielding tile"
-msgstr "隔热瓷砖"
+msgstr ""
 
 #: templates/bobrevamp.jinja2:24
 msgid "Ammonia"
-msgstr "氨"
+msgstr ""
 
 #: templates/bobrevamp.jinja2:25
 msgid "Dinitrogen tetroxide"
-msgstr "四氧化二氮"
+msgstr ""
 
 #: templates/bobrevamp.jinja2:26
 msgid "Hydrazine"
-msgstr "联氨"
+msgstr ""
 
 #: templates/bobrevamp.jinja2:27
 msgid "Hydrogen peroxide"
-msgstr "过氧化氢"
+msgstr ""
 
 #: templates/bobrevamp.jinja2:28
 msgid "Nitric oxide"
-msgstr "一氧化氮"
+msgstr ""
 
 #: templates/bobrevamp.jinja2:33
 msgid "Oil processing with Sulfur"
-msgstr "原油处理-硫磺"
+msgstr ""
 
 #: templates/bobrevamp.jinja2:34 templates/bobrevamp.jinja2:35
 #: templates/bobrevamp.jinja2:36
 msgid "Oil processing with Sulfur dioxide"
-msgstr "原油处理-二氧化硫"
+msgstr ""
 
 #: templates/bobrevamp.jinja2:40
 msgid "Uranium"
-msgstr "铀"
+msgstr ""
 
 #: templates/bobrevamp.jinja2:41
 msgid "Thorium"
-msgstr "钍"
+msgstr ""
 
 #: templates/bobrevamp.jinja2:46
 msgid "Nuclear power overhaul"
-msgstr "核能复写"
+msgstr ""
 
 #: templates/bobrevamp.jinja2:50
 msgid ""
 "If enabled, this setting will change nuclear reactor 2 into a thorium "
 "reactor, and nuclear reactor 3 into a deuterium reactor, and restructure "
 "research accordingly."
-msgstr "开启后，会将核反应堆2改写为钍反应堆，核反应堆3改写为氘反应堆，并相应地重构研究。"
+msgstr ""
 
 #: templates/bobtech.jinja2:2
 msgid "Advanced research"
-msgstr "高级研究"
+msgstr ""
 
 #: templates/bobtech.jinja2:3
 msgid "Alien research"
-msgstr "异星研究"
+msgstr ""
 
 #: templates/bobtech.jinja2:4 templates/bobtech.jinja2:27
 msgid "Transport science pack"
-msgstr "运输科技包"
+msgstr ""
 
 #: templates/bobtech.jinja2:5
 msgid "__ITEM__automation-science-pack__"
@@ -4716,7 +4702,7 @@ msgstr ""
 
 #: templates/bobtech.jinja2:6
 msgid "Electricity"
-msgstr "电学"
+msgstr ""
 
 #: templates/bobtech.jinja2:7
 msgid "__ENTITY__lab__"
@@ -4724,695 +4710,695 @@ msgstr ""
 
 #: templates/bobtech.jinja2:10
 msgid "Burner powered automation"
-msgstr "火力自动机"
+msgstr ""
 
 #: templates/bobtech.jinja2:11
 msgid "Steam powered automation"
-msgstr "蒸汽自动机"
+msgstr ""
 
 #: templates/bobtech.jinja2:15
 msgid "Burner lab"
-msgstr "火力研究中心"
+msgstr ""
 
 #: templates/bobtech.jinja2:16 templates/bobtech.jinja2:21
 msgid "Lab 2"
-msgstr "研究中心 2"
+msgstr ""
 
 #: templates/bobtech.jinja2:17 templates/bobtech.jinja2:22
 msgid "Alien lab"
-msgstr "异星研究中心"
+msgstr ""
 
 #: templates/bobtech.jinja2:24
 msgid "Steam science pack"
-msgstr "蒸汽科技包"
+msgstr ""
 
 #: templates/bobtech.jinja2:25
 msgid "Science pack 4"
-msgstr "科技包 4"
+msgstr ""
 
 #: templates/bobtech.jinja2:26
 msgid "Gold science pack"
-msgstr "金科技包"
+msgstr ""
 
 #: templates/bobtech.jinja2:29
 msgid "Alien science pack"
-msgstr "异星科技包"
+msgstr ""
 
 #: templates/bobtech.jinja2:30
 msgid "Blue alien science pack"
-msgstr "蓝色异星科技包"
+msgstr ""
 
 #: templates/bobtech.jinja2:31
 msgid "Orange alien science pack"
-msgstr "黄色异星科技包"
+msgstr ""
 
 #: templates/bobtech.jinja2:32
 msgid "Purple alien science pack"
-msgstr "紫色异星科技包"
+msgstr ""
 
 #: templates/bobtech.jinja2:33
 msgid "Yellow alien science pack"
-msgstr "黄色异星科技包"
+msgstr ""
 
 #: templates/bobtech.jinja2:34
 msgid "Green alien science pack"
-msgstr "绿色异星科技包"
+msgstr ""
 
 #: templates/bobtech.jinja2:35
 msgid "Red alien science pack"
-msgstr "红色异星科技包"
+msgstr ""
 
 #: templates/bobtech.jinja2:39
 msgid "Science pack colors update"
-msgstr "科技包颜色复写"
+msgstr ""
 
 #: templates/bobtech.jinja2:40
 msgid "Burner power phase"
-msgstr "火力能源阶段"
+msgstr ""
 
 #: templates/bobtech.jinja2:44
 msgid "Change the colours of the science packs to match belt tier progression"
-msgstr "将科技包的颜色改为和传送带相匹配"
+msgstr ""
 
 #: templates/bobtech.jinja2:45
 msgid "Locks non-burner powered technology behind research."
-msgstr "将非火力能源的科技推迟。"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:2
 #: templates/bobvehicleequipment.jinja2:60
 msgid "Vehicle energy shield MK1"
-msgstr "车载能量护盾 MK1"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:3
 #: templates/bobvehicleequipment.jinja2:61
 msgid "Vehicle energy shield MK2"
-msgstr "车载能量护盾 MK2"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:4
 #: templates/bobvehicleequipment.jinja2:62
 msgid "Vehicle energy shield MK3"
-msgstr "车载能量护盾 MK3"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:5
 #: templates/bobvehicleequipment.jinja2:63
 msgid "Vehicle energy shield MK4"
-msgstr "车载能量护盾 MK4"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:6
 #: templates/bobvehicleequipment.jinja2:64
 msgid "Vehicle energy shield MK5"
-msgstr "车载能量护盾 MK5"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:7
 #: templates/bobvehicleequipment.jinja2:65
 msgid "Vehicle energy shield MK6"
-msgstr "车载能量护盾 MK6"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:9
 #: templates/bobvehicleequipment.jinja2:67
 msgid "Vehicle battery MK1"
-msgstr "车载电池 MK1"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:10
 #: templates/bobvehicleequipment.jinja2:68
 msgid "Vehicle battery MK2"
-msgstr "车载电池 MK2"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:11
 #: templates/bobvehicleequipment.jinja2:69
 msgid "Vehicle battery MK3"
-msgstr "车载电池 MK3"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:12
 #: templates/bobvehicleequipment.jinja2:70
 msgid "Vehicle battery MK4"
-msgstr "车载电池 MK4"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:13
 #: templates/bobvehicleequipment.jinja2:71
 msgid "Vehicle battery MK5"
-msgstr "车载电池 MK5"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:14
 #: templates/bobvehicleequipment.jinja2:72
 msgid "Vehicle battery MK6"
-msgstr "车载电池 MK6"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:16
 #: templates/bobvehicleequipment.jinja2:74
 msgid "Vehicle solar panel MK1"
-msgstr "车载太阳能板 MK1"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:17
 #: templates/bobvehicleequipment.jinja2:75
 msgid "Vehicle solar panel MK2"
-msgstr "车载太阳能板 MK2"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:18
 #: templates/bobvehicleequipment.jinja2:76
 msgid "Vehicle solar panel MK3"
-msgstr "车载太阳能板 MK3"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:19
 #: templates/bobvehicleequipment.jinja2:77
 msgid "Vehicle solar panel MK4"
-msgstr "车载太阳能板 MK4"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:20
 #: templates/bobvehicleequipment.jinja2:78
 msgid "Vehicle solar panel MK5"
-msgstr "车载太阳能板 MK5"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:21
 #: templates/bobvehicleequipment.jinja2:79
 msgid "Vehicle solar panel MK6"
-msgstr "车载太阳能板 MK6"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:23
 #: templates/bobvehicleequipment.jinja2:81
 msgid "Vehicle fusion reactor MK1"
-msgstr "车载核反应堆 MK1"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:24
 #: templates/bobvehicleequipment.jinja2:82
 msgid "Vehicle fusion reactor MK2"
-msgstr "车载核反应堆 MK2"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:25
 #: templates/bobvehicleequipment.jinja2:83
 msgid "Vehicle fusion reactor MK3"
-msgstr "车载核反应堆 MK3"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:26
 #: templates/bobvehicleequipment.jinja2:84
 msgid "Vehicle fusion reactor MK4"
-msgstr "车载核反应堆 MK4"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:27
 #: templates/bobvehicleequipment.jinja2:85
 msgid "Vehicle fusion reactor MK5"
-msgstr "车载核反应堆 MK5"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:28
 #: templates/bobvehicleequipment.jinja2:86
 msgid "Vehicle fusion reactor MK6"
-msgstr "车载核反应堆 MK6"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:30
 #: templates/bobvehicleequipment.jinja2:88
 msgid "Vehicle fusion cell MK1"
-msgstr "车载核反应室 MK1"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:31
 #: templates/bobvehicleequipment.jinja2:89
 msgid "Vehicle fusion cell MK2"
-msgstr "车载核反应室 MK2"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:32
 #: templates/bobvehicleequipment.jinja2:90
 msgid "Vehicle fusion cell MK3"
-msgstr "车载核反应室 MK3"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:33
 #: templates/bobvehicleequipment.jinja2:91
 msgid "Vehicle fusion cell MK4"
-msgstr "车载核反应室 MK4"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:34
 #: templates/bobvehicleequipment.jinja2:92
 msgid "Vehicle fusion cell MK5"
-msgstr "车载核反应室 MK5"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:35
 #: templates/bobvehicleequipment.jinja2:93
 msgid "Vehicle fusion cell MK6"
-msgstr "车载核反应室 MK6"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:37
 #: templates/bobvehicleequipment.jinja2:95
 msgid "Vehicle laser defense MK1"
-msgstr "车载激光防御 MK1"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:38
 #: templates/bobvehicleequipment.jinja2:96
 msgid "Vehicle laser defense MK2"
-msgstr "车载激光防御 MK2"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:39
 #: templates/bobvehicleequipment.jinja2:97
 msgid "Vehicle laser defense MK3"
-msgstr "车载激光防御 MK3"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:40
 #: templates/bobvehicleequipment.jinja2:98
 msgid "Vehicle laser defense MK4"
-msgstr "车载激光防御 MK4"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:41
 #: templates/bobvehicleequipment.jinja2:99
 msgid "Vehicle laser defense MK5"
-msgstr "车载激光防御 MK5"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:42
 #: templates/bobvehicleequipment.jinja2:100
 msgid "Vehicle laser defense MK6"
-msgstr "车载激光防御 MK6"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:44
 #: templates/bobvehicleequipment.jinja2:102
 msgid "Vehicle plasma cannon MK1"
-msgstr "车载等离子炮 MK1"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:45
 #: templates/bobvehicleequipment.jinja2:103
 msgid "Vehicle plasma cannon MK2"
-msgstr "车载等离子炮 MK2"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:46
 #: templates/bobvehicleequipment.jinja2:104
 msgid "Vehicle plasma cannon MK3"
-msgstr "车载等离子炮 MK3"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:47
 #: templates/bobvehicleequipment.jinja2:105
 msgid "Vehicle plasma cannon MK4"
-msgstr "车载等离子炮 MK4"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:48
 #: templates/bobvehicleequipment.jinja2:106
 msgid "Vehicle plasma cannon MK5"
-msgstr "车载等离子炮 MK5"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:49
 #: templates/bobvehicleequipment.jinja2:107
 msgid "Vehicle plasma cannon MK6"
-msgstr "车载等离子炮 MK6"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:51
 #: templates/bobvehicleequipment.jinja2:109
 #: templates/bobvehicleequipment.jinja2:147
 msgid "Vehicle overdrive motor"
-msgstr "车载超负荷马达"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:53
 #: templates/bobvehicleequipment.jinja2:111
 #: templates/bobvehicleequipment.jinja2:148
 msgid "Vehicle overdrive engine"
-msgstr "车载超负荷引擎"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:55
 #: templates/bobvehicleequipment.jinja2:113
 msgid "Vehicle roboport"
-msgstr "车载机器人指令平台"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:56
 #: templates/bobvehicleequipment.jinja2:114
 msgid "Vehicle roboport MK2"
-msgstr "车载机器人指令平台 MK2"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:115
 msgid "Vehicle roboport MK3"
-msgstr "车载机器人指令平台 MK3"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:116
 msgid "Vehicle roboport MK4"
-msgstr "车载机器人指令平台 MK4"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:119
 msgid "Vehicle roboport area expander"
-msgstr "车载机器人区域拓展器"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:120
 msgid "Vehicle roboport area expander 2"
-msgstr "车载机器人区域拓展器 2"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:121
 msgid "Vehicle roboport area expander 3"
-msgstr "车载机器人区域拓展器 3"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:122
 msgid "Vehicle roboport area expander 4"
-msgstr "车载机器人区域拓展器 4"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:124
 msgid "Vehicle roboport chargepad"
-msgstr "车载机器人充电板"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:125
 msgid "Vehicle roboport chargepad 2"
-msgstr "车载机器人充电板 2"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:126
 msgid "Vehicle roboport chargepad 3"
-msgstr "车载机器人充电板 3"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:127
 msgid "Vehicle roboport chargepad 4"
-msgstr "车载机器人充电板 4"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:129
 msgid "Vehicle roboport robot control"
-msgstr "车载机器人控制器"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:130
 msgid "Vehicle roboport robot control 2"
-msgstr "车载机器人控制器 2"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:131
 msgid "Vehicle roboport robot control 3"
-msgstr "车载机器人控制器 3"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:132
 msgid "Vehicle roboport robot control 4"
-msgstr "车载机器人控制器 4"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:140
 msgid "Vehicle energy shield equipment"
-msgstr "车载能量护盾装备"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:141
 msgid "Vehicle battery equipment"
-msgstr "车载电池装备"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:142
 msgid "Vehicle solar panel equipment"
-msgstr "车载太阳能板装备"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:143
 msgid "Vehicle fusion reactor equipment"
-msgstr "车载核反应堆装备"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:144
 msgid "Vehicle fusion cell equipment"
-msgstr "车载核反应室装备"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:145
 msgid "Vehicle laser defense equipment"
-msgstr "车载激光防御装备"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:146
 msgid "Vehicle plasma cannon equipment"
-msgstr "车载等离子炮装备"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:149
 msgid "Vehicle roboport equipment"
-msgstr "车载机器人指令平台装备"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:150
 msgid "Vehicle roboport modules"
-msgstr "车载机器人模组"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:153
 msgid "Enable vehicle grids"
-msgstr "开启载具网格"
+msgstr ""
 
 #: templates/bobvehicleequipment.jinja2:157
 msgid "If set to true, adds equipment grids on base game vehicles."
-msgstr "开启后，基础游戏中的载具也会具有载具网格。"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:2
 msgid "Sulfuric and Nitric acid mixture"
-msgstr "硫酸和硝酸混合物"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:3
 msgid "Glycerol"
-msgstr "甘油"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:4
 msgid "Nitroglycerin"
-msgstr "硝酸甘油"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:8
 msgid "Petroleum jelly"
-msgstr "矿脂"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:9
 msgid "Guncotton"
-msgstr "硝化棉"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:10
 msgid "Cordite"
-msgstr "无烟火药"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:11
 msgid "Magazine"
-msgstr "弹匣"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:13
 msgid "Bullet casing"
-msgstr "弹壳"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:14
 msgid "Bullet projectile"
-msgstr "弹头"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:15
 msgid "Bullet"
-msgstr "子弹"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:16
 msgid "Ammo magazine"
-msgstr "弹药弹夹"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:18
 msgid "AP bullet projectile"
-msgstr "穿甲弹头"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:19
 msgid "AP bullet"
-msgstr "穿甲子弹"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:20
 msgid "AP ammo magazine"
-msgstr "穿甲弹夹"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:22
 msgid "HE bullet projectile"
-msgstr "高爆弹头"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:23
 msgid "HE bullet"
-msgstr "高爆子弹"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:24
 msgid "HE ammo magazine"
-msgstr "高爆弹夹"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:26
 msgid "Acid bullet projectile"
-msgstr "酸液弹头"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:27
 msgid "Acid bullet"
-msgstr "酸液子弹"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:28
 msgid "Acid ammo magazine"
-msgstr "酸液弹夹"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:30
 msgid "Flame bullet projectile"
-msgstr "火焰弹头"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:31
 msgid "Flame bullet"
-msgstr "火焰子弹"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:32
 msgid "Flame ammo magazine"
-msgstr "火焰弹夹"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:34
 msgid "Poison bullet projectile"
-msgstr "毒液弹头"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:35
 msgid "Poison bullet"
-msgstr "毒液子弹"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:36
 msgid "Poison ammo magazine"
-msgstr "毒液弹夹"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:38
 msgid "Impact bullet projectile"
-msgstr "冲击弹头"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:39
 msgid "Impact bullet"
-msgstr "冲击子弹"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:40
 msgid "Impact ammo magazine"
-msgstr "冲击弹夹"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:42
 msgid "Electric bullet projectile"
-msgstr "电击弹头"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:43
 msgid "Electric bullet"
-msgstr "电击子弹"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:44
 msgid "Electric ammo magazine"
-msgstr "电击弹夹"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:46
 msgid "Plasma bullet projectile"
-msgstr "等离子弹头"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:47
 msgid "Plasma bullet"
-msgstr "等离子子弹"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:48
 msgid "Plasma ammo magazine"
-msgstr "等离子弹夹"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:50
 msgid "Uranium bullet projectile"
-msgstr "铀弹头"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:51
 msgid "Uranium bullet"
-msgstr "铀子弹"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:54
 msgid "Shotgun shell casing"
-msgstr "散弹弹壳"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:55
 msgid "Shotgun pellets"
-msgstr "散弹子弹"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:57 templates/bobwarfare.jinja2:277
 msgid "Better shotgun shells"
-msgstr "更好的散弹弹壳"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:58 templates/bobwarfare.jinja2:278
 msgid "Shotgun AP shells"
-msgstr "散弹穿甲弹壳"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:59 templates/bobwarfare.jinja2:279
 msgid "Shotgun impact shells"
-msgstr "散弹冲击弹壳"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:60 templates/bobwarfare.jinja2:280
 msgid "Shotgun explosive shells"
-msgstr "散弹爆炸弹壳"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:61 templates/bobwarfare.jinja2:281
 msgid "Shotgun flame shells"
-msgstr "散弹火焰弹壳"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:62 templates/bobwarfare.jinja2:282
 msgid "Shotgun acid shells"
-msgstr "散弹酸液弹壳"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:63 templates/bobwarfare.jinja2:283
 msgid "Shotgun poison shells"
-msgstr "散弹毒液弹壳"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:64 templates/bobwarfare.jinja2:284
 msgid "Shotgun electric shells"
-msgstr "散弹电击弹壳"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:65 templates/bobwarfare.jinja2:285
 msgid "Shotgun plasma shells"
-msgstr "散弹等离子弹壳"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:66
 msgid "Shotgun uranium shells"
-msgstr "散弹铀弹壳"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:68
 msgid "Scatter cannon shells"
-msgstr "散射炮弹壳"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:70
 msgid "Napalm capsule"
-msgstr "凝固胶囊"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:72
 msgid "Poison artillery shells"
-msgstr "毒液炮弹"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:73
 msgid "Explosive artillery shells"
-msgstr "爆炸炮弹"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:74
 msgid "Distractor artillery shells"
-msgstr "干扰炮弹"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:75
 msgid "Napalm artillery shells"
-msgstr "凝固炮弹"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:78
 msgid "Rifle"
-msgstr "步枪"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:80
 msgid "Sniper rifle"
-msgstr "狙击步枪"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:82 templates/bobwarfare.jinja2:287
 msgid "Laser rifle"
-msgstr "激光步枪"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:83
 msgid "Laser rifle battery case"
-msgstr "激光步枪电池盒"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:85
 msgid "Laser rifle battery"
-msgstr "激光步枪电池"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:86
 msgid "Ruby laser rifle battery"
-msgstr "红宝石激光电池"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:87
 msgid "Sapphire laser rifle battery"
-msgstr "蓝宝石激光电池"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:88
 msgid "Emerald laser rifle battery"
-msgstr "绿宝石激光电池"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:89
 msgid "Amethyst laser rifle battery"
-msgstr "紫水晶激光电池"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:90
 msgid "Topaz laser rifle battery"
-msgstr "黄宝石激光电池"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:91
 msgid "Diamond laser rifle battery"
-msgstr "钻石激光电池"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:93
 msgid "Gatling gun"
-msgstr "加特林机关枪"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:95
 msgid "Tank cannon 2"
-msgstr "坦克主炮 2"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:96
 msgid "Tank cannon 3"
-msgstr "坦克主炮 3"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:98
 msgid "Tank artillery"
-msgstr "坦克火炮"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:99
 msgid "Tank artillery 2"
-msgstr "坦克火炮 2"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:101
 msgid "__ITEM__artillery-wagon-cannon__ 2"
@@ -5424,199 +5410,199 @@ msgstr ""
 
 #: templates/bobwarfare.jinja2:105
 msgid "Tank laser"
-msgstr "坦克激光炮"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:108 templates/bobwarfare.jinja2:216
 #: templates/bobwarfare.jinja2:314
 msgid "Poison mine"
-msgstr "毒液地雷"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:109 templates/bobwarfare.jinja2:217
 #: templates/bobwarfare.jinja2:315
 msgid "Slowdown mine"
-msgstr "缓速地雷"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:110 templates/bobwarfare.jinja2:218
 #: templates/bobwarfare.jinja2:316
 msgid "Distractor robot mine"
-msgstr "干扰机器人地雷"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:112
 msgid "Rocket engine"
-msgstr "火箭引擎"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:113
 msgid "Rocket body"
-msgstr "火箭箭体"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:115
 msgid "Rocket warhead"
-msgstr "火箭头"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:116
 msgid "Piercing rocket warhead"
-msgstr "穿甲火箭头"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:117
 msgid "Impact rocket warhead"
-msgstr "冲击火箭头"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:118
 msgid "Explosive rocket warhead"
-msgstr "爆炸火箭头"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:119
 msgid "Flame rocket warhead"
-msgstr "火焰火箭头"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:120
 msgid "Poison rocket warhead"
-msgstr "毒液火箭头"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:121
 msgid "Acid rocket warhead"
-msgstr "酸液火箭头"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:122
 msgid "Electric rocket warhead"
-msgstr "电击火箭头"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:123
 msgid "Plasma rocket warhead"
-msgstr "等离子火箭头"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:125 templates/bobwarfare.jinja2:299
 msgid "Rocket"
-msgstr "火箭"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:126 templates/bobwarfare.jinja2:300
 msgid "Piercing rocket"
-msgstr "穿甲火箭"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:127 templates/bobwarfare.jinja2:301
 msgid "Impact rocket"
-msgstr "冲击火箭"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:128
 msgid "Explosive rocket"
-msgstr "爆炸火箭"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:129 templates/bobwarfare.jinja2:303
 msgid "Flame rocket"
-msgstr "火焰火箭"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:130 templates/bobwarfare.jinja2:304
 msgid "Poison rocket"
-msgstr "毒液火箭"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:131 templates/bobwarfare.jinja2:305
 msgid "Acid rocket"
-msgstr "酸液火箭"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:132 templates/bobwarfare.jinja2:306
 msgid "Electric rocket"
-msgstr "电击火箭"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:133 templates/bobwarfare.jinja2:307
 msgid "Plasma rocket"
-msgstr "等离子火箭"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:136
 msgid "Power armor MK3"
-msgstr "能量装甲 MK3"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:137
 msgid "Power armor MK4"
-msgstr "能量装甲 MK4"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:138
 msgid "Power armor MK5"
-msgstr "能量装甲 MK5"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:140
 msgid "Invar Cobalt-steel armor"
-msgstr "殷钴钢合金装甲"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:141
 msgid "Titanium-Ceramic armor"
-msgstr "钛陶瓷合金装甲"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:144 templates/bobwarfare.jinja2:213
 #: templates/bobwarfare.jinja2:312
 msgid "Re-inforced concrete wall"
-msgstr "钢筋混凝土墙"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:145 templates/bobwarfare.jinja2:214
 msgid "Re-inforced concrete gate"
-msgstr "钢筋混凝土门"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:148 templates/bobwarfare.jinja2:221
 msgid "Gun turret MK2"
-msgstr "机枪炮塔 MK2"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:149 templates/bobwarfare.jinja2:222
 msgid "Gun turret MK3"
-msgstr "机枪炮塔 MK3"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:150 templates/bobwarfare.jinja2:223
 msgid "Gun turret MK4"
-msgstr "机枪炮塔 MK4"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:151 templates/bobwarfare.jinja2:224
 msgid "Gun turret MK5"
-msgstr "机枪炮塔 MK5"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:153 templates/bobwarfare.jinja2:226
 msgid "Sniper turret MK1"
-msgstr "狙击炮塔 MK1"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:154 templates/bobwarfare.jinja2:227
 msgid "Sniper turret MK2"
-msgstr "狙击炮塔 MK2"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:155 templates/bobwarfare.jinja2:228
 msgid "Sniper turret MK3"
-msgstr "狙击炮塔 MK3"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:157 templates/bobwarfare.jinja2:230
 msgid "Laser turret MK2"
-msgstr "激光炮塔 MK2"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:158 templates/bobwarfare.jinja2:231
 msgid "Laser turret MK3"
-msgstr "激光炮塔 MK3"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:159 templates/bobwarfare.jinja2:232
 msgid "Laser turret MK4"
-msgstr "激光炮塔 MK4"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:160 templates/bobwarfare.jinja2:233
 msgid "Laser turret MK5"
-msgstr "激光炮塔 MK5"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:163 templates/bobwarfare.jinja2:206
 msgid "Robotic laser attack drone"
-msgstr "激光攻击无人机"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:164 templates/bobwarfare.jinja2:207
 msgid "Robotic attack drone"
-msgstr "攻击无人机"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:165 templates/bobwarfare.jinja2:208
 msgid "Robotic flamethrower attack drone"
-msgstr "火焰喷射攻击无人机"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:166 templates/bobwarfare.jinja2:209
 msgid "Robotic plasma attack drone"
-msgstr "等离子攻击无人机"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:168 templates/bobwarfare.jinja2:241
 msgid "Tank MK2"
-msgstr "坦克 MK2"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:169 templates/bobwarfare.jinja2:242
 msgid "Tank MK3"
-msgstr "坦克 MK3"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:171
 msgid "__ITEM__artillery-wagon__ MK2"
@@ -5636,95 +5622,95 @@ msgstr ""
 
 #: templates/bobwarfare.jinja2:178 templates/bobwarfare.jinja2:250
 msgid "Radar 2"
-msgstr "雷达 2"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:179 templates/bobwarfare.jinja2:251
 msgid "Radar 3"
-msgstr "雷达 3"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:180 templates/bobwarfare.jinja2:252
 msgid "Radar 4"
-msgstr "雷达 4"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:181 templates/bobwarfare.jinja2:253
 msgid "Radar 5"
-msgstr "雷达 5"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:184
 msgid "Robotic attack drone frame"
-msgstr "攻击无人机框架"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:185
 msgid "Large robotic attack drone frame"
-msgstr "大型攻击无人机框架"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:187
 msgid "Combat robot brain"
-msgstr "战斗机器人电子脑"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:188
 msgid "Combat robot brain 2"
-msgstr "战斗机器人电子脑 2"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:189 templates/bobwarfare.jinja2:190
 msgid "Combat robot brain 3"
-msgstr "战斗机器人电子脑 3"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:192
 msgid "Defender robot weapon"
-msgstr "防御机器人武器"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:193
 msgid "Distractor robot weapon"
-msgstr "干扰机器人武器"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:194
 msgid "Destroyer robot weapon"
-msgstr "毁灭机器人武器"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:195
 msgid "Laser robot weapon"
-msgstr "激光机器人武器"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:197
 msgid "Defender robot"
-msgstr "防御机器人"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:198
 msgid "Distractor robot"
-msgstr "干扰机器人"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:199
 msgid "Destroyer robot"
-msgstr "毁灭机器人"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:200 templates/bobwarfare.jinja2:211
 msgid "Laser robot"
-msgstr "激光机器人"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:202
 msgid "Laser robot capsule"
-msgstr "激光机器人胶囊"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:235
 msgid "Plasma turret MK1"
-msgstr "等离子炮塔 MK1"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:236
 msgid "Plasma turret MK2"
-msgstr "等离子炮塔 MK2"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:237
 msgid "Plasma turret MK3"
-msgstr "等离子炮塔 MK3"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:238
 msgid "Plasma turret MK4"
-msgstr "等离子炮塔 MK4"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:239
 msgid "Plasma turret MK5"
-msgstr "等离子炮塔 MK5"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:244
 msgid "__ENTITY__artillery-wagon__ MK2"
@@ -5744,111 +5730,111 @@ msgstr ""
 
 #: templates/bobwarfare.jinja2:264
 msgid "Nitroglycerin processing"
-msgstr "硝酸甘油处理"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:265
 msgid "Cordite processing"
-msgstr "无烟火药处理"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:267
 msgid "Bullets"
-msgstr "子弹"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:268
 msgid "AP bullets"
-msgstr "穿甲子弹"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:269
 msgid "HE bullets"
-msgstr "高爆子弹"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:270
 msgid "Acid bullets"
-msgstr "酸液子弹"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:271
 msgid "Flame bullets"
-msgstr "火焰子弹"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:272
 msgid "Poison bullets"
-msgstr "毒液子弹"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:273
 msgid "Impact bullets"
-msgstr "冲击子弹"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:274
 msgid "Electric bullets"
-msgstr "电击子弹"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:275
 msgid "Plasma bullets"
-msgstr "等离子子弹"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:288
 msgid "Laser rifle ammo"
-msgstr "激光步枪子弹"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:289
 msgid "Laser rifle damage upgrade"
-msgstr "激光步枪伤害升级"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:290
 msgid "Laser rifle shooting speed upgrade"
-msgstr "激光步枪射速升级"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:292
 msgid "Tank cannon damage upgrade"
-msgstr "坦克主炮伤害升级"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:293
 msgid "Tank cannon shooting speed upgrade"
-msgstr "坦克主炮射速升级"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:295
 msgid "Artillery shell damage upgrade"
-msgstr "火炮伤害升级"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:296
 msgid "Artillery shell shooting speed upgrade"
-msgstr "火炮射速升级"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:302
 msgid "explosive rocket"
-msgstr "爆炸火箭"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:309
 msgid "Power armor"
-msgstr "能量装甲"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:310
 msgid "Armor crafting"
-msgstr "装甲制造"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:318
 msgid "Turrets"
-msgstr "炮塔"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:319
 msgid "Laser turrets"
-msgstr "激光炮塔"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:320
 msgid "Sniper turrets"
-msgstr "狙击炮塔"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:321
 msgid "Plasma turrets"
-msgstr "等离子炮塔"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:322
 msgid "Sniper turret damage upgrade"
-msgstr "狙击炮塔伤害升级"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:324
 msgid "Tanks"
-msgstr "坦克"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:325
 msgid "__ENTITY__artillery-wagon__"
@@ -5860,179 +5846,179 @@ msgstr ""
 
 #: templates/bobwarfare.jinja2:329
 msgid "Robotic laser attack drones"
-msgstr "激光攻击无人机"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:330
 msgid "Robotic attack drones"
-msgstr "攻击无人机"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:331
 msgid "Robotic flamethrower attack drones"
-msgstr "火焰喷射攻击无人机"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:332
 msgid "Robotic plasma attack drones"
-msgstr "等离子攻击无人机"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:334
 msgid "Radars"
-msgstr "雷达"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:338
 msgid "Gun turret MK2 damage bonus: +__1__"
-msgstr "机枪炮塔 MK2 伤害加成: +__1__"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:339
 msgid "Gun turret MK3 damage bonus: +__1__"
-msgstr "机枪炮塔 MK3 伤害加成: +__1__"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:340
 msgid "Gun turret MK4 damage bonus: +__1__"
-msgstr "机枪炮塔 MK4 伤害加成: +__1__"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:341
 msgid "Gun turret MK5 damage bonus: +__1__"
-msgstr "机枪炮塔 MK5 伤害加成: +__1__"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:343
 msgid "Sniper turret MK1 damage bonus: +__1__"
-msgstr "狙击炮塔 MK1 伤害加成: +__1__"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:344
 msgid "Sniper turret MK2 damage bonus: +__1__"
-msgstr "狙击炮塔 MK2 伤害加成: +__1__"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:345
 msgid "Sniper turret MK3 damage bonus: +__1__"
-msgstr "狙击炮塔 MK3 伤害加成: +__1__"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:347
 msgid "Laser rifle damage bonus: +__1__"
-msgstr "激光步枪伤害加成: +__1__"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:348
 msgid "Laser rifle shooting speed bonus: +__1__"
-msgstr "激光步枪射速加成: +__1__"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:350
 msgid "Tank cannon damage bonus: +__1__"
-msgstr "坦克主炮伤害加成: +__1__"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:351
 msgid "Tank cannon shooting speed bonus: +__1__"
-msgstr "坦克主炮射速加成: +__1__"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:353
 msgid "Artillery shell damage bonus: +__1__"
-msgstr "火炮伤害加成: +__1__"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:359
 msgid "Robot update"
-msgstr "机器人升级"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:360
 msgid "Drainless laser turrets"
-msgstr "激光炮塔无待机耗能"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:365
 msgid ""
 "If enabled combat robots will have updated recipes, and a new tier robot."
 " Some settings inherited from Logistics mod"
-msgstr "开启后，战斗机器人将会有升级配方，以及新增一种机器人配方线。某些设定继承自Logistics mod。"
+msgstr ""
 
 #: templates/bobwarfare.jinja2:366
 msgid "If enabled, the drain value is removed from laser turrets."
-msgstr "开启后，激光炮塔不再有待机耗能。"
+msgstr ""
 
 #: templates/clock.jinja2:2
 msgid "Time__1__"
-msgstr "时间__1__"
+msgstr ""
 
 #: templates/clock.jinja2:3
 msgid "Time played__1__"
-msgstr "已完时间__1__"
+msgstr ""
 
 #: templates/clock.jinja2:4
 msgid "Evolution factor__1__"
-msgstr "进化因子__1__"
+msgstr ""
 
 #: templates/clock.jinja2:5
 msgid "Game speed__1__"
-msgstr "游戏速度__1__"
+msgstr ""
 
 #: templates/clock.jinja2:6
 msgid "Clock GUI"
-msgstr "时钟界面"
+msgstr ""
 
 #: templates/clock.jinja2:7
 msgid "Options"
-msgstr "选项"
+msgstr ""
 
 #: templates/clock.jinja2:8 templates/clock.jinja2:15
 msgid "24 hour clock mode"
-msgstr "24小时制"
+msgstr ""
 
 #: templates/clock.jinja2:10
 msgid "Enemy evolution factor__1__"
-msgstr "敌人进化因子__1__"
+msgstr ""
 
 #: templates/clock.jinja2:11
 msgid "Robot evolution factor__1__"
-msgstr "机器人进化因子__1__"
+msgstr ""
 
 #: templates/clock.jinja2:16
 msgid "Update interval"
-msgstr "刷新间隔"
+msgstr ""
 
 #: templates/clock.jinja2:17
 msgid "Show on button"
-msgstr "显示按钮"
+msgstr ""
 
 #: templates/clock.jinja2:18
 msgid "Font"
-msgstr "字体"
+msgstr ""
 
 #: templates/clock.jinja2:19
 msgid "Font color"
-msgstr "字体颜色"
+msgstr ""
 
 #: templates/clock.jinja2:22
 msgid "Time"
-msgstr "时间"
+msgstr ""
 
 #: templates/clock.jinja2:23
 msgid "Time played"
-msgstr "已完时间"
+msgstr ""
 
 #: templates/clock.jinja2:24
 msgid "Evolution factor"
-msgstr "进化因子"
+msgstr ""
 
 #: templates/clock.jinja2:26
 msgid "Default"
-msgstr "默认"
+msgstr ""
 
 #: templates/clock.jinja2:27
 msgid "7 segment clock"
-msgstr "7段时钟"
+msgstr ""
 
 #: templates/clock.jinja2:29
 msgid "Black"
-msgstr "黑"
+msgstr ""
 
 #: templates/clock.jinja2:30
 msgid "Red"
-msgstr "红"
+msgstr ""
 
 #: templates/clock.jinja2:31
 msgid "Green"
-msgstr "绿"
+msgstr ""
 
 #: templates/clock.jinja2:32
 msgid "Yellow"
-msgstr "黄"
+msgstr ""
 
 #: templates/clock.jinja2:33
 msgid "Blue"
-msgstr "蓝"
+msgstr ""
 
