@@ -42,7 +42,7 @@ if __name__ == '__main__':
     parser_sync.set_defaults(sync=True)
 
     parser_extract = subparsers.add_parser('extract', help='extract translation content.')
-    parser_extract.add_argument('locale', choices=["zh_CN", "ja", "de", "fr", "ru", "uk", "ko"],
+    parser_extract.add_argument('locale', choices=["zh_CN", "ja", "de", "fr", "ru", "uk", "ko", "es_ES"],
                                 help='Choose the locale template you want to generate.')
     parser_extract.set_defaults(extract=True)
 
