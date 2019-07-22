@@ -55,6 +55,10 @@ The supported bob's mods are:
   * 0%
   * last translated date: None
   * translator: None
+* `es_ES`
+  * 0%
+  * last translated date: None
+  * translator: None
 
 ## To contribute translation
 
