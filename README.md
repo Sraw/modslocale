@@ -33,7 +33,7 @@ The supported bob's mods are:
 
 * `zh_CN`
   * progress: 100%
-  * last translated date: 07/22/2019
+  * last translated date: 07/23/2019
   * translator: Sraw
 * `fr`
   * 0%
