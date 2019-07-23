@@ -97,12 +97,13 @@ if __name__ == '__main__':
 
         dir_name = "bobsmodslocale" + "_" + version
 
-        os.makedirs(dir_name)
+        shutil.rmtree(dir_name, ignore_errors=True)
+        os.makedirs(dir_name, exist_ok=True)
         shutil.copytree("locale", os.path.join(dir_name, "locale"))
         shutil.copy2("info.json", dir_name)
 
-        with zipfile.ZipFile(dir_name + '.zip', 'w') as f:
+        with zipfile.ZipFile(dir_name + '.zip', 'w', zipfile.ZIP_DEFLATED) as f:
             zipdir(dir_name, f)
-
+        shutil.rmtree(dir_name, ignore_errors=True)
     else:
         parser.print_help()

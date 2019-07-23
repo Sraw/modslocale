@@ -2843,11 +2843,11 @@ msgstr "污染产生插件"
 
 #: templates/bobmodules.jinja2:114 templates/bobmodules.jinja2:135
 msgid "Raw speed modules"
-msgstr "基础速度插件"
+msgstr "原初速度插件"
 
 #: templates/bobmodules.jinja2:115 templates/bobmodules.jinja2:136
 msgid "Raw productivity modules"
-msgstr "基础产能插件"
+msgstr "原初产能插件"
 
 #: templates/bobmodules.jinja2:116 templates/bobmodules.jinja2:134
 msgid "Green modules"
@@ -2943,15 +2943,15 @@ msgstr "插件污染产生增幅初始值"
 
 #: templates/bobmodules.jinja2:162
 msgid "If enabled, then Green merged module with be enabled."
-msgstr "开启后，可使用绿色集成插件。"
+msgstr "开启后，可使用绿色插件。"
 
 #: templates/bobmodules.jinja2:163
 msgid "If enabled, then Speed merged module with be enabled."
-msgstr "开启后，可使用速度集成插件。"
+msgstr "开启后，可使用原初速度插件。"
 
 #: templates/bobmodules.jinja2:164
 msgid "If enabled, then Productivity merged module with be enabled."
-msgstr "开启后，可使用产能集成插件。"
+msgstr "开启后，可使用原初产能插件。"
 
 #: templates/bobmodules.jinja2:165
 msgid "If enabled, then God modules and research are enabled."
@@ -2968,7 +2968,7 @@ msgstr "开启后，影响产能的插件将只能用于制造中间产品的机
 msgid ""
 "If enabled, Productivity modules suffer speed penalty. Raw productivity "
 "modules also cost Speed circuits."
-msgstr "开启后，产能插件影响速度惩罚。基本产能插件也将需求速度电路板。"
+msgstr "开启后，产能插件影响速度惩罚。原初产能插件也将需求速度电路板。"
 
 #: templates/bobmodules.jinja2:168
 msgid "If enabled, the Beacons can transmit the productivity effect."
@@ -3132,7 +3132,7 @@ msgstr ""
 
 #: templates/bobores.jinja2:66
 msgid "Sort raw gems"
-msgstr "分类基本宝石"
+msgstr "分类裸宝石"
 
 #: templates/bobores.jinja2:71
 msgid "Infinite ores"
