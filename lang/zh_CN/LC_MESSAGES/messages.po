@@ -2079,7 +2079,7 @@ msgstr "机器人配方升级"
 
 #: templates/boblogistics.jinja2:405
 msgid "Drainless inserters"
-msgstr ""
+msgstr "机械臂无待机耗能"
 
 #: templates/boblogistics.jinja2:406
 msgid "Disable Roboports"
