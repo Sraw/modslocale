@@ -95,7 +95,7 @@ if __name__ == '__main__':
             info = json.load(f)
         version = info["version"]
 
-        dir_name = "bobmodslocale" + "_" + version
+        dir_name = "bobsmodslocale" + "_" + version
 
         os.makedirs(dir_name)
         shutil.copytree("locale", os.path.join(dir_name, "locale"))
