@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-19 11:36+0800\n"
+"POT-Creation-Date: 2019-07-23 11:11+0800\n"
 "PO-Revision-Date: 2019-07-18 14:19+0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_Hans_CN\n"
@@ -673,19 +673,19 @@ msgstr "小型紫色异星造物"
 
 #: templates/bobenemies.jinja2:20
 msgid "Elemental biter Spawner"
-msgstr "基本撕咬者虫巢"
+msgstr "狂暴撕咬者虫巢"
 
 #: templates/bobenemies.jinja2:21
 msgid "Elemental biter spawner corpse"
-msgstr "基本撕咬者虫巢尸体"
+msgstr "狂暴撕咬者虫巢尸体"
 
 #: templates/bobenemies.jinja2:22
 msgid "Elemental spitter spawner"
-msgstr "基本喷吐者虫巢"
+msgstr "狂暴喷吐者虫巢"
 
 #: templates/bobenemies.jinja2:23
 msgid "Elemental spitter spawner corpse"
-msgstr "基本喷吐者虫巢尸体"
+msgstr "狂暴喷吐者虫巢尸体"
 
 #: templates/bobenemies.jinja2:24
 msgid "Super spawner"
@@ -2623,67 +2623,67 @@ msgstr "污染产生插件 8"
 
 #: templates/bobmodules.jinja2:47
 msgid "Raw speed module 1"
-msgstr "基础速度插件 1"
+msgstr "原初速度插件 1"
 
 #: templates/bobmodules.jinja2:48
 msgid "Raw speed module 2"
-msgstr "基础速度插件 2"
+msgstr "原初速度插件 2"
 
 #: templates/bobmodules.jinja2:49
 msgid "Raw speed module 3"
-msgstr "基础速度插件 3"
+msgstr "原初速度插件 3"
 
 #: templates/bobmodules.jinja2:50
 msgid "Raw speed module 4"
-msgstr "基础速度插件 4"
+msgstr "原初速度插件 4"
 
 #: templates/bobmodules.jinja2:51
 msgid "Raw speed module 5"
-msgstr "基础速度插件 5"
+msgstr "原初速度插件 5"
 
 #: templates/bobmodules.jinja2:52
 msgid "Raw speed module 6"
-msgstr "基础速度插件 6"
+msgstr "原初速度插件 6"
 
 #: templates/bobmodules.jinja2:53
 msgid "Raw speed module 7"
-msgstr "基础速度插件 7"
+msgstr "原初速度插件 7"
 
 #: templates/bobmodules.jinja2:54
 msgid "Raw speed module 8"
-msgstr "基础速度插件 8"
+msgstr "原初速度插件 8"
 
 #: templates/bobmodules.jinja2:56
 msgid "Raw productivity module 1"
-msgstr "基础产能插件 1"
+msgstr "原初产能插件 1"
 
 #: templates/bobmodules.jinja2:57
 msgid "Raw productivity module 2"
-msgstr "基础产能插件 2"
+msgstr "原初产能插件 2"
 
 #: templates/bobmodules.jinja2:58
 msgid "Raw productivity module 3"
-msgstr "基础产能插件 3"
+msgstr "原初产能插件 3"
 
 #: templates/bobmodules.jinja2:59
 msgid "Raw productivity module 4"
-msgstr "基础产能插件 4"
+msgstr "原初产能插件 4"
 
 #: templates/bobmodules.jinja2:60
 msgid "Raw productivity module 5"
-msgstr "基础产能插件 5"
+msgstr "原初产能插件 5"
 
 #: templates/bobmodules.jinja2:61
 msgid "Raw productivity module 6"
-msgstr "基础产能插件 6"
+msgstr "原初产能插件 6"
 
 #: templates/bobmodules.jinja2:62
 msgid "Raw productivity module 7"
-msgstr "基础产能插件 7"
+msgstr "原初产能插件 7"
 
 #: templates/bobmodules.jinja2:63
 msgid "Raw productivity module 8"
-msgstr "基础产能插件 8"
+msgstr "原初产能插件 8"
 
 #: templates/bobmodules.jinja2:65
 msgid "Green module 1"
@@ -3772,7 +3772,7 @@ msgstr "耗尽的氘燃料棒"
 msgid "Hydrogen"
 msgstr "氢"
 
-#: templates/bobplates.jinja2:175 templates/bobrevamp.jinja2:42
+#: templates/bobplates.jinja2:175 templates/bobrevamp.jinja2:47
 msgid "Deuterium"
 msgstr "氘"
 
@@ -4670,33 +4670,76 @@ msgstr "过氧化氢"
 msgid "Nitric oxide"
 msgstr "一氧化氮"
 
-#: templates/bobrevamp.jinja2:33
+#: templates/bobrevamp.jinja2:31
+msgid "Sour gas"
+msgstr "硫气"
+
+#: templates/bobrevamp.jinja2:35
 msgid "Oil processing with Sulfur"
 msgstr "原油处理-硫磺"
 
-#: templates/bobrevamp.jinja2:34 templates/bobrevamp.jinja2:35
-#: templates/bobrevamp.jinja2:36
+#: templates/bobrevamp.jinja2:36 templates/bobrevamp.jinja2:37
+#: templates/bobrevamp.jinja2:38
 msgid "Oil processing with Sulfur dioxide"
 msgstr "原油处理-二氧化硫"
 
 #: templates/bobrevamp.jinja2:40
+msgid "__FLUID__petroleum-gas_ sweetening"
+msgstr "__FLUID__petroleum-gas_脱硫"
+
+#: templates/bobrevamp.jinja2:41
+msgid "Solid fuel from Sour gas"
+msgstr "硫气制固体燃料"
+
+#: templates/bobrevamp.jinja2:45
 msgid "Uranium"
 msgstr "铀"
 
-#: templates/bobrevamp.jinja2:41
+#: templates/bobrevamp.jinja2:46
 msgid "Thorium"
 msgstr "钍"
 
-#: templates/bobrevamp.jinja2:46
+#: templates/bobrevamp.jinja2:51
 msgid "Nuclear power overhaul"
 msgstr "核能复写"
 
-#: templates/bobrevamp.jinja2:50
+#: templates/bobrevamp.jinja2:52
+msgid "Oil and sulfur overhaul"
+msgstr "原油和硫磺复写"
+
+#: templates/bobrevamp.jinja2:53
+msgid "New oil and sulfur overhaul"
+msgstr "新的原油和硫磺复写"
+
+#: templates/bobrevamp.jinja2:57
 msgid ""
 "If enabled, this setting will change nuclear reactor 2 into a thorium "
 "reactor, and nuclear reactor 3 into a deuterium reactor, and restructure "
 "research accordingly."
 msgstr "开启后，会将核反应堆2改写为钍反应堆，核反应堆3改写为氘反应堆，并相应地重构研究。"
+
+#: templates/bobrevamp.jinja2:58
+msgid ""
+"If enabled, this setting will make changes to the oil processing "
+"production chain.\n"
+"It also removes base game sulfur and sulfuric acid recipes and adds a "
+"means to get sulfur and sulfur dioxide if MCI is installed."
+msgstr "开启后，会更改原油处理生产线。\n"
+"同时会删除基础游戏中的硫磺和硫化产物，如果安装了MCI则会添加新的方式获得硫磺和硫化物。"
+
+#: templates/bobrevamp.jinja2:59
+msgid ""
+"If enabled, this setting will make more realistic changes to the oil "
+"processing chain.\n"
+"It replaces the petroleum gas output of oil processing with sour gas, "
+"which can be processed into petroleum gas.\n"
+"It removes base game sulfur and sulfuric acid recipes and adds hydrogen "
+"sulfide to the sour gas processing recipe if MCI is installed.\n"
+"it will take priority over the older oil and sulfur overhaul."
+msgstr "开启后，会让原油处理生产线更贴近真实。\n"
+"它会将石油气产出替换为硫气产出，硫气能被处理为石油气。\n"
+"它会移除基础游戏中的硫磺和硫化产物，如果安装了MCI则会添加硫化氢到硫气处理中。"
+"此项设定的优先级高于原有的原油和硫磺复写。"
 
 #: templates/bobtech.jinja2:2
 msgid "Advanced research"
