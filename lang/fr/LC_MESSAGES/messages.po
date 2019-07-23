@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-22 15:11+0800\n"
+"POT-Creation-Date: 2019-07-23 11:21+0800\n"
 "PO-Revision-Date: 2019-07-22 15:11+0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: fr\n"
@@ -3758,7 +3758,7 @@ msgstr ""
 msgid "Hydrogen"
 msgstr ""
 
-#: templates/bobplates.jinja2:175 templates/bobrevamp.jinja2:42
+#: templates/bobplates.jinja2:175 templates/bobrevamp.jinja2:47
 msgid "Deuterium"
 msgstr ""
 
@@ -4656,32 +4656,71 @@ msgstr ""
 msgid "Nitric oxide"
 msgstr ""
 
-#: templates/bobrevamp.jinja2:33
+#: templates/bobrevamp.jinja2:31
+msgid "Sour gas"
+msgstr ""
+
+#: templates/bobrevamp.jinja2:35
 msgid "Oil processing with Sulfur"
 msgstr ""
 
-#: templates/bobrevamp.jinja2:34 templates/bobrevamp.jinja2:35
-#: templates/bobrevamp.jinja2:36
+#: templates/bobrevamp.jinja2:36 templates/bobrevamp.jinja2:37
+#: templates/bobrevamp.jinja2:38
 msgid "Oil processing with Sulfur dioxide"
 msgstr ""
 
 #: templates/bobrevamp.jinja2:40
-msgid "Uranium"
+msgid "__FLUID__petroleum-gas_ sweetening"
 msgstr ""
 
 #: templates/bobrevamp.jinja2:41
-msgid "Thorium"
+msgid "Solid fuel from Sour gas"
+msgstr ""
+
+#: templates/bobrevamp.jinja2:45
+msgid "Uranium"
 msgstr ""
 
 #: templates/bobrevamp.jinja2:46
+msgid "Thorium"
+msgstr ""
+
+#: templates/bobrevamp.jinja2:51
 msgid "Nuclear power overhaul"
 msgstr ""
 
-#: templates/bobrevamp.jinja2:50
+#: templates/bobrevamp.jinja2:52
+msgid "Oil and sulfur overhaul"
+msgstr ""
+
+#: templates/bobrevamp.jinja2:53
+msgid "New oil and sulfur overhaul"
+msgstr ""
+
+#: templates/bobrevamp.jinja2:57
 msgid ""
 "If enabled, this setting will change nuclear reactor 2 into a thorium "
 "reactor, and nuclear reactor 3 into a deuterium reactor, and restructure "
 "research accordingly."
+msgstr ""
+
+#: templates/bobrevamp.jinja2:58
+msgid ""
+"If enabled, this setting will make changes to the oil processing "
+"production chain.\n"
+"It also removes base game sulfur and sulfuric acid recipes and adds a "
+"means to get sulfur and sulfur dioxide if MCI is installed."
+msgstr ""
+
+#: templates/bobrevamp.jinja2:59
+msgid ""
+"If enabled, this setting will make more realistic changes to the oil "
+"processing chain.\n"
+"It replaces the petroleum gas output of oil processing with sour gas, "
+"which can be processed into petroleum gas.\n"
+"It removes base game sulfur and sulfuric acid recipes and adds hydrogen "
+"sulfide to the sour gas processing recipe if MCI is installed.\n"
+"it will take priority over the older oil and sulfur overhaul."
 msgstr ""
 
 #: templates/bobtech.jinja2:2

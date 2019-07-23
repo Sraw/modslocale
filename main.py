@@ -1,6 +1,8 @@
 import argparse
+import json
 import os
 import re
+import shutil
 import zipfile
 from io import BytesIO
 
@@ -14,6 +16,7 @@ from mods import mod_names
 
 def sync_mod_locale(_mod_getter, _mod_names):
     for mod_name in _mod_names:
+        print(f"Synchronizing {mod_name}")
         mod = _mod_getter.get_mod(mod_name)
 
         mod_zip = zipfile.ZipFile(BytesIO(mod))
@@ -25,6 +28,13 @@ def sync_mod_locale(_mod_getter, _mod_names):
                 filename = matched.group(1)
                 info.filename = filename
                 mod_zip.extract(info)
+
+
+def zipdir(path, ziph):
+    # ziph is zipfile handle
+    for root, dirs, files in os.walk(path):
+        for file in files:
+            ziph.write(os.path.join(root, file))
 
 
 if __name__ == '__main__':
@@ -50,6 +60,9 @@ if __name__ == '__main__':
     parser_render.add_argument('locale', choices=["zh_CN"],
                                help='Choose the locale you want to render.')
     parser_render.set_defaults(render=True)
+
+    parser_release = subparsers.add_parser('release', help="release a mod.")
+    parser_release.set_defaults(release=True)
 
     args = parser.parse_args()
 
@@ -77,5 +90,19 @@ if __name__ == '__main__':
         localizer = Localizer()
         locale = args.locale
         localizer.render_locale(locale)
+    elif "release" in args and args.release:
+        with open("info.json") as f:
+            info = json.load(f)
+        version = info["version"]
+
+        dir_name = "bobmodslocale" + "_" + version
+
+        os.makedirs(dir_name)
+        shutil.copytree("locale", os.path.join(dir_name, "locale"))
+        shutil.copy2("info.json", dir_name)
+
+        with zipfile.ZipFile(dir_name + '.zip', 'w') as f:
+            zipdir(dir_name, f)
+
     else:
         parser.print_help()
