@@ -16,19 +16,16 @@ from mods import mod_names
 
 
 def sync_mod_locale(_mod_getter, _mod_names):
-    for mod_name in _mod_names:
-        print(f"Synchronizing {mod_name}")
-        mod = _mod_getter.get_mod(mod_name)
-
+    for mod in _mod_getter.get_mods(_mod_names):
         mod_zip = zipfile.ZipFile(BytesIO(mod))
 
         regex = re.compile(r".*(locale/.*\.cfg)")
-        for info in mod_zip.infolist():
-            matched = regex.match(info.orig_filename)
+        for _info in mod_zip.infolist():
+            matched = regex.match(_info.orig_filename)
             if matched is not None:
                 filename = matched.group(1)
-                info.filename = filename
-                mod_zip.extract(info)
+                _info.filename = filename
+                mod_zip.extract(_info)
 
 
 def zipdir(path, ziph):
