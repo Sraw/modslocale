@@ -1,5 +1,5 @@
 from urllib.parse import urljoin
-import requests
+
 import lxml.html
 
 
@@ -9,10 +9,10 @@ class FactorioModGetter:
     login_url = "login"
     mod_url = "mod"
 
-    def __init__(self, username, password):
+    def __init__(self, username, password, session):
         self._username = username
         self._password = password
-        self._session = requests.session()
+        self._session = session
 
         self._logged_in = False
 

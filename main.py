@@ -7,6 +7,7 @@ import zipfile
 from io import BytesIO
 
 import babel
+import requests
 from babel.messages.frontend import CommandLineInterface
 
 from modules.factorio import FactorioModGetter
@@ -49,6 +50,8 @@ if __name__ == '__main__':
                              help='The username of your Factorio account.')
     parser_sync.add_argument('password',
                              help='The password of your Factorio account.')
+    parser_sync.add_argument('-p', '--proxy',
+                             help="Specify a proxy to use. Format: http://host:port")
     parser_sync.set_defaults(sync=True)
 
     parser_extract = subparsers.add_parser('extract', help='extract translation content.')
@@ -69,7 +72,16 @@ if __name__ == '__main__':
     if "sync" in args and args.sync:
         username = args.username
         password = args.password
-        mod_getter = FactorioModGetter(username, password)
+
+        session = requests.Session()
+        if args.proxy:
+            proxy = args.proxy
+            proxies = {
+                "http": proxy,
+                "https": proxy
+            }
+            session.proxies.update(proxies)
+        mod_getter = FactorioModGetter(username, password, session)
         sync_mod_locale(mod_getter, mod_names)
     elif "extract" in args and args.extract:
         locale = args.locale
