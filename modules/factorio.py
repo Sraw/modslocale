@@ -1,5 +1,6 @@
 import json
 import os
+import sys
 from urllib.parse import urljoin
 
 import lxml.html
@@ -32,14 +33,18 @@ class FactorioModGetter:
             "username": self._username,
             "password": self._password,
         }
-        with self._session.post(url, data=data):
+        with self._session.post(url, data=data) as res:
+            result = res.text
+            if "Invalid username or password" in result:
+                raise ValueError("Invalid username or password")
+            if "Please pass the CAPTCHA" in result:
+                raise ValueError("Trigger CAPTCHA! Wait or change IP.")
             self._logged_in = True
 
     def get_mod(self, mod_name, mod_tag):
         if not self._logged_in:
             self.login()
 
-        print(f"Synchronizing {mod_name}")
         url = urljoin(self.base_url, self.mod_url) + f"/{mod_name}"
         with self._session.get(url) as res:
             mod_page = res.text
@@ -66,10 +71,11 @@ class FactorioModGetter:
         for mod_name in mod_names:
             mod, tag = self.get_mod(mod_name, mods_tag.get(mod_name, ""))
             if mod:
+                print(f"Synchronized {mod_name}")
                 mods_tag[mod_name] = tag
                 yield mod
             else:
-                print("Tag matches, skip.")
+                print(f"Tag matches, skip {mod_name}.")
 
         with open(self.mods_tag_path, "w") as f:
             json.dump(mods_tag, f, indent=4)

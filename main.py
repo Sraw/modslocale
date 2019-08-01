@@ -8,6 +8,7 @@ from io import BytesIO
 
 import babel
 import requests
+from babel import UnknownLocaleError, localedata
 from babel.messages.frontend import CommandLineInterface
 
 from modules.factorio import FactorioModGetter
@@ -40,7 +41,7 @@ if __name__ == '__main__':
 
     parser = argparse.ArgumentParser()
 
-    subparsers = parser.add_subparsers()
+    subparsers = parser.add_subparsers(help="Specify a subcommand", dest="subcommand", required=True)
 
     parser_sync = subparsers.add_parser('sync', help='Sync modules.')
     parser_sync.add_argument('username',
@@ -49,24 +50,20 @@ if __name__ == '__main__':
                              help='The password of your Factorio account.')
     parser_sync.add_argument('-p', '--proxy',
                              help="Specify a proxy to use. Format: http://host:port")
-    parser_sync.set_defaults(sync=True)
 
     parser_extract = subparsers.add_parser('extract', help='extract translation content.')
-    parser_extract.add_argument('locale', choices=["zh_CN", "ja", "de", "fr", "ru", "uk", "ko", "es_ES"],
+    parser_extract.add_argument('locale',
                                 help='Choose the locale template you want to generate.')
-    parser_extract.set_defaults(extract=True)
 
     parser_render = subparsers.add_parser('render', help='render locale.')
-    parser_render.add_argument('locale', choices=["zh_CN"],
+    parser_render.add_argument('locale',
                                help='Choose the locale you want to render.')
-    parser_render.set_defaults(render=True)
 
     parser_release = subparsers.add_parser('release', help="release a mod.")
-    parser_release.set_defaults(release=True)
 
     args = parser.parse_args()
 
-    if "sync" in args and args.sync:
+    if args.subcommand == "sync":
         username = args.username
         password = args.password
 
@@ -79,27 +76,32 @@ if __name__ == '__main__':
             }
             session.proxies.update(proxies)
         mod_getter = FactorioModGetter(username, password, session)
-        sync_mod_locale(mod_getter, mod_names)
-    elif "extract" in args and args.extract:
+        try:
+            sync_mod_locale(mod_getter, mod_names)
+        except ValueError as e:
+            print(e)
+    elif args.subcommand in ["extract", "render"]:
         locale = args.locale
-        localizer = Localizer()
-        localizer.generate_template("locale/en")
-        CommandLineInterface().run(
-            ['pybabel', 'extract', '-F', 'babel.cfg', '-o', 'messages.pot', '.'])
-        if os.path.exists(f"lang/{locale}"):
+        if not localedata.exists(locale):
+            raise UnknownLocaleError(locale)
+        if args.subcommand == "extract":
+            localizer = Localizer()
+            localizer.generate_template("locale/en")
             CommandLineInterface().run(
-                ['pybabel', 'update', '-i', 'messages.pot', '-d', 'lang', '-l', locale])
+                ['pybabel', 'extract', '-F', 'babel.cfg', '-o', 'messages.pot', '.'])
+            if os.path.exists(f"lang/{locale}"):
+                CommandLineInterface().run(
+                    ['pybabel', 'update', '-i', 'messages.pot', '-d', 'lang', '-l', locale])
+            else:
+                CommandLineInterface().run(
+                    ['pybabel', 'init', '-i', 'messages.pot', '-d', 'lang', '-l', locale])
+            os.remove("messages.pot")
         else:
             CommandLineInterface().run(
-                ['pybabel', 'init', '-i', 'messages.pot', '-d', 'lang', '-l', locale])
-        os.remove("messages.pot")
-    elif "render" in args and args.render:
-        CommandLineInterface().run(
-            ['pybabel', 'compile', '-f', '-d', 'lang'])
-        localizer = Localizer()
-        locale = args.locale
-        localizer.render_locale(locale)
-    elif "release" in args and args.release:
+                ['pybabel', 'compile', '-f', '-d', 'lang'])
+            localizer = Localizer()
+            localizer.render_locale(locale)
+    elif args.subcommand == "release":
         with open("info.json") as f:
             info = json.load(f)
         version = info["version"]
@@ -114,5 +116,3 @@ if __name__ == '__main__':
         with zipfile.ZipFile(dir_name + '.zip', 'w', zipfile.ZIP_DEFLATED) as f:
             zipdir(dir_name, f)
         shutil.rmtree(dir_name, ignore_errors=True)
-    else:
-        parser.print_help()
