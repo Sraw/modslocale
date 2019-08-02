@@ -37,6 +37,8 @@ def zipdir(path, ziph):
 
 
 if __name__ == '__main__':
+    # Here we monkeypatch this to completely disable python_format.
+    # noinspection PyPropertyAccess
     babel.messages.catalog.Message.python_format = False
 
     parser = argparse.ArgumentParser()
