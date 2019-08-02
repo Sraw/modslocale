@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-07-23 11:11+0800\n"
+"POT-Creation-Date: 2019-07-28 12:38+0800\n"
 "PO-Revision-Date: 2019-07-18 14:19+0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_Hans_CN\n"
@@ -2755,7 +2755,7 @@ msgstr "插件盒"
 
 #: templates/bobmodules.jinja2:86
 msgid "Module contact"
-msgstr "插件触电"
+msgstr "插件触点"
 
 #: templates/bobmodules.jinja2:87
 msgid "Module main board"
@@ -3192,7 +3192,7 @@ msgstr "黄宝石比例"
 
 #: templates/bobores.jinja2:85
 msgid "Diamond ratio"
-msgstr "钻石比例"
+msgstr "金刚石比例"
 
 #: templates/bobores.jinja2:86
 msgid "Enable bauxite"
@@ -3288,11 +3288,11 @@ msgstr "从镍矿中获得钴矿的概率"
 msgid ""
 "If set to true, Diamonds can be obtained from mining Coal, Ruby, Saphire "
 "and Topaz from Bauxite, and Amethyst and Emerald from Quartz"
-msgstr "开启后，采掘煤炭，红宝石和蓝宝石时能获得钻石；采掘铝土矿时能获得黄宝石；采掘石英时能获得紫水晶和绿宝石。"
+msgstr "开启后，采掘煤炭，红宝石和蓝宝石时能获得金刚石；采掘铝土矿时能获得黄宝石；采掘石英时能获得紫水晶和绿宝石。"
 
 #: templates/bobores.jinja2:112
 msgid "How often you get a gem from mining Coal, Bauxite or Quartz"
-msgstr "从煤炭，红宝石和蓝宝石中获得钻石的概率"
+msgstr "从煤炭，红宝石和蓝宝石中获得金刚石的概率"
 
 #: templates/bobores.jinja2:113
 msgid "How often you get a Ruby"
@@ -3316,7 +3316,7 @@ msgstr "获得黄宝石的概率"
 
 #: templates/bobores.jinja2:118
 msgid "How often you get a Diamond"
-msgstr "获得钻石的概率"
+msgstr "获得金刚石的概率"
 
 #: templates/bobplates.jinja2:15
 msgid "Gold plate"
@@ -3694,15 +3694,15 @@ msgstr "抛光黄宝石"
 
 #: templates/bobplates.jinja2:146
 msgid "Raw Diamond"
-msgstr "裸钻石"
+msgstr "裸金刚石"
 
 #: templates/bobplates.jinja2:147
 msgid "Cut Diamond"
-msgstr "切割钻石"
+msgstr "切割金刚石"
 
 #: templates/bobplates.jinja2:148
 msgid "Polished Diamond"
-msgstr "抛光钻石"
+msgstr "抛光金刚石"
 
 #: templates/bobplates.jinja2:151 templates/bobplates.jinja2:264
 msgid "Void"
@@ -4724,7 +4724,8 @@ msgid ""
 "production chain.\n"
 "It also removes base game sulfur and sulfuric acid recipes and adds a "
 "means to get sulfur and sulfur dioxide if MCI is installed."
-msgstr "开启后，会更改原油处理生产线。\n"
+msgstr ""
+"开启后，会更改原油处理生产线。\n"
 "同时会删除基础游戏中的硫磺和硫化产物，如果安装了MCI则会添加新的方式获得硫磺和硫化物。"
 
 #: templates/bobrevamp.jinja2:59
@@ -4736,10 +4737,10 @@ msgid ""
 "It removes base game sulfur and sulfuric acid recipes and adds hydrogen "
 "sulfide to the sour gas processing recipe if MCI is installed.\n"
 "it will take priority over the older oil and sulfur overhaul."
-msgstr "开启后，会让原油处理生产线更贴近真实。\n"
+msgstr ""
+"开启后，会让原油处理生产线更贴近真实。\n"
 "它会将石油气产出替换为硫气产出，硫气能被处理为石油气。\n"
-"它会移除基础游戏中的硫磺和硫化产物，如果安装了MCI则会添加硫化氢到硫气处理中。"
-"此项设定的优先级高于原有的原油和硫磺复写。"
+"它会移除基础游戏中的硫磺和硫化产物，如果安装了MCI则会添加硫化氢到硫气处理中。此项设定的优先级高于原有的原油和硫磺复写。"
 
 #: templates/bobtech.jinja2:2
 msgid "Advanced research"
@@ -5435,7 +5436,7 @@ msgstr "黄宝石激光电池"
 
 #: templates/bobwarfare.jinja2:91
 msgid "Diamond laser rifle battery"
-msgstr "钻石激光电池"
+msgstr "金刚石激光电池"
 
 #: templates/bobwarfare.jinja2:93
 msgid "Gatling gun"

@@ -31,34 +31,15 @@ The supported bob's mods are:
 
 ### Supported language
 
-* `zh_CN`
-  * progress: 100%
-  * last translated date: 07/23/2019
-  * translator: Sraw
-* `fr`
-  * 0%
-  * last translated date: None
-  * translator: None
-* `ja`
-  * 0%
-  * last translated date: None
-  * translator: None
-* `ko`
-  * 0%
-  * last translated date: None
-  * translator: None
-* `ru`
-  * 0%
-  * last translated date: None
-  * translator: None
-* `uk`
-  * 0%
-  * last translated date: None
-  * translator: None
-* `es_ES`
-  * 0%
-  * last translated date: None
-  * translator: None
+|Locale|Progress|Last translated date|Translator|
+|------|--------|--------------------|----------|
+|zh_CN |100%    |08/02/2019          |Sraw      |
+|es_ES |0%      |Need contribution   |None      |
+|fr    |0%      |Need contribution   |None      |
+|ja    |0%      |Need contribution   |None      |
+|ko    |0%      |Need contribution   |None      |
+|ru    |0%      |Need contribution   |None      |
+|uk    |0%      |Need contribution   |None      |
 
 ## To contribute translation
 
@@ -83,6 +64,71 @@ If you find any translation related issue, please submit an issue and try to @ t
 * `python main.py render your_locale` to render the translations in
   `locale/your_locale`
 * Make a package by yourself and enjoy it :)
+
+Usage:
+
+```
+usage: main.py [-h] {sync,extract,render,release} ...
+
+positional arguments:
+  {sync,extract,render,release}
+                        Specify a subcommand
+    sync                Sync modules.
+    extract             extract translation content.
+    render              render locale.
+    release             release a mod.
+
+optional arguments:
+  -h, --help            show this help message and exit
+```
+
+sync:
+
+```
+usage: main.py sync [-h] [-p PROXY] username password
+
+positional arguments:
+  username              The username of your Factorio account.
+  password              The password of your Factorio account.
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -p PROXY, --proxy PROXY
+                        Specify a proxy to use. Format: http://host:port
+```
+
+extract:
+
+```
+usage: main.py extract [-h] locale
+
+positional arguments:
+  locale      Choose the locale template you want to generate.
+
+optional arguments:
+  -h, --help  show this help message and exit
+```
+
+render:
+
+```
+usage: main.py render [-h] locale
+
+positional arguments:
+  locale      Choose the locale you want to render.
+
+optional arguments:
+  -h, --help  show this help message and exit
+```
+
+release:
+
+```
+usage: main.py release [-h]
+
+optional arguments:
+  -h, --help  show this help message and exit
+```
 
 ## Gossip 
 
