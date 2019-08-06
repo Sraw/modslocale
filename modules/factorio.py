@@ -1,80 +1,73 @@
 import json
 import os
 from urllib.parse import urljoin
-
-import lxml.html
+from requests import Response, Session
 
 
 class FactorioModGetter:
 
-    base_url = "https://mods.factorio.com"
-    login_url = "login"
-    mod_url = "mod"
-    mods_tag_path = "tags.json"
+    download_base_url = "https://mods.factorio.com"
+    login_url = "https://auth.factorio.com/api-login"
+    info_url = "https://mods.factorio.com/api/mods"
+    mods_sha1_path = "sha1.json"
 
     def __init__(self, username, password, session):
         self._username = username
         self._password = password
-        self._session = session
+        self._session: Session = session
 
-        self._logged_in = False
+        self._token = None
 
     def login(self):
-        url = urljoin(self.base_url, self.login_url)
-        with self._session.get(url) as res:
-            login_page = res.text
+        login_url = self.login_url
 
-        doc = lxml.html.document_fromstring(login_page)
-        csrf_token = doc.cssselect("#csrf_token")[0].get("value")
-
-        data = {
-            "csrf_token": csrf_token,
+        payload = {
             "username": self._username,
-            "password": self._password,
+            "password": self._password
         }
-        with self._session.post(url, data=data) as res:
-            result = res.text
-            if "Invalid username or password" in result:
+        with self._session.post(login_url, data=payload) as res:
+            code = res.status_code
+            if code != 200:
                 raise ValueError("Invalid username or password")
-            if "Please pass the CAPTCHA" in result:
-                raise ValueError("Trigger CAPTCHA! Wait or change IP.")
-            self._logged_in = True
+            self._token = res.json()[0]
 
-    def get_mod(self, mod_name, mod_tag):
-        if not self._logged_in:
-            self.login()
-
-        url = urljoin(self.base_url, self.mod_url) + f"/{mod_name}"
+    def get_mod(self, mod_name, mod_sha1):
+        url = "/".join((self.info_url, mod_name))
         with self._session.get(url) as res:
-            mod_page = res.text
+            info = res.json()
+            sha1 = info["releases"][-1]["sha1"]
+            download_url = info["releases"][-1]["download_url"]
 
-        doc = lxml.html.document_fromstring(mod_page)
-        href = doc.cssselect("i.fa-cloud-download")[0].getparent().get("href")
-
-        tag = href.split("/")[-1]
-        if tag == mod_tag:
+        if mod_sha1 == sha1:
             return False, ""
 
-        url = urljoin(self.base_url, href)
-        with self._session.get(url) as res:
+        if self._token is None:
+            self.login()
+        url = urljoin(self.download_base_url, download_url)
+        payload = {
+            "username": self._username,
+            "token": self._token
+        }
+        res: Response
+        with self._session.get(url, params=payload) as res:
             mod = res.content
-        return mod, tag
+        return mod, sha1
 
     def get_mods(self, mod_names):
-        if os.path.exists(self.mods_tag_path):
-            with open(self.mods_tag_path) as f:
-                mods_tag = json.load(f)
+        if os.path.exists(self.mods_sha1_path):
+            with open(self.mods_sha1_path) as f:
+                mods_sha1 = json.load(f)
         else:
-            mods_tag = {}
+            mods_sha1 = {}
 
         for mod_name in mod_names:
-            mod, tag = self.get_mod(mod_name, mods_tag.get(mod_name, ""))
+            mod, sha1 = self.get_mod(mod_name, mods_sha1.get(mod_name, ""))
             if mod:
                 print(f"Synchronized {mod_name}")
-                mods_tag[mod_name] = tag
+                mods_sha1[mod_name] = sha1
                 yield mod
             else:
                 print(f"Tag matches, skip {mod_name}.")
 
-        with open(self.mods_tag_path, "w") as f:
-            json.dump(mods_tag, f, indent=4)
+        with open(self.mods_sha1_path, "w") as f:
+            json.dump(mods_sha1, f, indent=4)

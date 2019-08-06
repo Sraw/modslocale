@@ -47,7 +47,7 @@ if __name__ == '__main__':
 
     parser_sync = subparsers.add_parser('sync', help='Sync modules.')
     parser_sync.add_argument('username',
-                             help='The username of your Factorio account.')
+                             help='The username(not email address) of your Factorio account.')
     parser_sync.add_argument('password',
                              help='The password of your Factorio account.')
     parser_sync.add_argument('-p', '--proxy',
