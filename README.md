@@ -1,5 +1,7 @@
 # A project for localization of Factorio's mods
 
+# Locale Translations For Bob's Mods
+
 ## Current state
 
 ### Supported mods
@@ -33,7 +35,7 @@ The supported bob's mods are:
 
 |Locale|Progress|Last translated date|Translator|
 |------|--------|--------------------|----------|
-|zh_CN |100%    |08/02/2019          |Sraw      |
+|zh_CN |100%    |08/10/2019          |Sraw      |
 |es_ES |0%      |Need contribution   |None      |
 |fr    |0%      |Need contribution   |None      |
 |ja    |0%      |Need contribution   |None      |
@@ -88,7 +90,8 @@ sync:
 usage: main.py sync [-h] [-p PROXY] username password
 
 positional arguments:
-  username              The username of your Factorio account.
+  username              The username(not email address) of your Factorio
+                        account.
   password              The password of your Factorio account.
 
 optional arguments:
