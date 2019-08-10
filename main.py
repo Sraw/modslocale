@@ -8,12 +8,12 @@ from io import BytesIO
 
 import babel
 import requests
-from babel import UnknownLocaleError, localedata
 from babel.messages.frontend import CommandLineInterface
 
+from info import info
+from mods import mod_names
 from modules.factorio import FactorioModGetter
 from modules.localization import Localizer
-from mods import mod_names
 
 
 def sync_mod_locale(_mod_getter, _mod_names):
@@ -84,8 +84,6 @@ if __name__ == '__main__':
             print(e)
     elif args.subcommand in ["extract", "render"]:
         locale = args.locale
-        if not localedata.exists(locale):
-            raise UnknownLocaleError(locale)
         if args.subcommand == "extract":
             localizer = Localizer()
             localizer.generate_template("locale/en")
@@ -104,16 +102,14 @@ if __name__ == '__main__':
             localizer = Localizer()
             localizer.render_locale(locale)
     elif args.subcommand == "release":
-        with open("info.json") as f:
-            info = json.load(f)
         version = info["version"]
-
         dir_name = "bobsmodslocale" + "_" + version
 
         shutil.rmtree(dir_name, ignore_errors=True)
         os.makedirs(dir_name, exist_ok=True)
         shutil.copytree("locale", os.path.join(dir_name, "locale"))
-        shutil.copy2("info.json", dir_name)
+        with open(os.path.join(dir_name, "info.json"), "w") as f:
+            json.dump(info, f, indent=4)
 
         with zipfile.ZipFile(dir_name + '.zip', 'w', zipfile.ZIP_DEFLATED) as f:
             zipdir(dir_name, f)
