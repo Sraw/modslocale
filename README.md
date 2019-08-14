@@ -2,11 +2,19 @@
 
 # Locale Translations For Bob's Mods
 
+I mainly maintain this project for my personal usage. 
+So actually the project itself is not only for bob's mods but also for all mods I use.
+
+I release the bob's part to portal so everyone can enjoy it.
+But I also hope someone can help to merge the translation to [boblocale](https://github.com/Karosieben/boblocale).
+
+If you wanna to help to merge, please submit one issue to let me know.
+
 ## Current state
 
 ### Supported mods
 
-As I am using bob's mods, this project by default only supports bob's mod, 
+The release by default only supports bob's mod, 
 although you can still use it personally to translate other mods.
 
 The supported bob's mods are:
