@@ -1,6 +1,6 @@
 info = {
   "name": "bobsmodslocale",
-  "version": "0.17.4",
+  "version": "0.17.5",
   "factorio_version": "0.17",
   "title": "Locale Translations For Bob's Mods",
   "author": "Sraw",
