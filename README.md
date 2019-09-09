@@ -43,7 +43,7 @@ The supported bob's mods are:
 
 |Locale|Progress|Last translated date|Translator|
 |------|--------|--------------------|----------|
-|zh_CN |100%    |08/10/2019          |Sraw      |
+|zh_CN |100%    |09/09/2019          |Sraw      |
 |es_ES |0%      |Need contribution   |None      |
 |fr    |0%      |Need contribution   |None      |
 |ja    |0%      |Need contribution   |None      |
