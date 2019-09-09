@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2019-08-10 22:25+0800\n"
+"POT-Creation-Date: 2019-09-06 18:12-0400\n"
 "PO-Revision-Date: 2019-07-18 14:19+0800\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: zh_Hans_CN\n"
@@ -1165,8 +1165,8 @@ msgstr "调节机械器抓取位置"
 msgid "Change inserter drop offset"
 msgstr "调节机械臂放置偏移"
 
-#: templates/bobinserters.jinja2:5 templates/boblogistics.jinja2:397
-#: templates/boblogistics.jinja2:446
+#: templates/bobinserters.jinja2:5 templates/boblogistics.jinja2:403
+#: templates/boblogistics.jinja2:452
 msgid "Change inserter long range (pickup and drop)"
 msgstr "调节机械臂长距离位置(抓取以及放置)"
 
@@ -1190,11 +1190,11 @@ msgstr "放置位置"
 msgid "Offset"
 msgstr "偏移"
 
-#: templates/bobinserters.jinja2:13 templates/boblogistics.jinja2:394
+#: templates/bobinserters.jinja2:13 templates/boblogistics.jinja2:400
 msgid "Enable reach overides"
 msgstr "开启范围复写"
 
-#: templates/bobinserters.jinja2:14 templates/boblogistics.jinja2:395
+#: templates/bobinserters.jinja2:14 templates/boblogistics.jinja2:401
 msgid "Long handed inserter"
 msgstr "长距离机械臂"
 
@@ -1214,7 +1214,7 @@ msgstr "传送带近端"
 msgid "Enable Inserters GUI mode"
 msgstr "开启机械臂图形界面模式"
 
-#: templates/bobinserters.jinja2:19 templates/boblogistics.jinja2:396
+#: templates/bobinserters.jinja2:19 templates/boblogistics.jinja2:402
 msgid "Toggle inserter configuration frame"
 msgstr "开关机械臂配置框架"
 
@@ -1222,15 +1222,15 @@ msgstr "开关机械臂配置框架"
 msgid "Inserter configuration GUI"
 msgstr "机械臂配置图形界面"
 
-#: templates/bobinserters.jinja2:23 templates/boblogistics.jinja2:337
+#: templates/bobinserters.jinja2:23 templates/boblogistics.jinja2:343
 msgid "Long inserters"
 msgstr "长距离机械臂"
 
-#: templates/bobinserters.jinja2:24 templates/boblogistics.jinja2:338
+#: templates/bobinserters.jinja2:24 templates/boblogistics.jinja2:344
 msgid "Near inserters"
 msgstr "近距离机械臂"
 
-#: templates/bobinserters.jinja2:25 templates/boblogistics.jinja2:339
+#: templates/bobinserters.jinja2:25 templates/boblogistics.jinja2:345
 msgid "More inserters"
 msgstr "更多机械臂"
 
@@ -1295,293 +1295,293 @@ msgstr ""
 "\n"
 "此模组会自动检测新的资源生成器是否可用，并自动使用它，如果不可用则会使用此资源生成器代替。不过此选项可以强制开启此资源生成器哪怕你在使用新版本的Factorio。"
 
-#: templates/boblogistics.jinja2:2 templates/boblogistics.jinja2:171
-msgid "Roboport MK1"
-msgstr "机器人指令平台MK1"
+#: templates/boblogistics.jinja2:2 templates/boblogistics.jinja2:172
+msgid "Roboport 1"
+msgstr "机器人指令平台 1"
 
-#: templates/boblogistics.jinja2:3 templates/boblogistics.jinja2:172
-msgid "Roboport MK2"
-msgstr "机器人指令平台MK2"
+#: templates/boblogistics.jinja2:3 templates/boblogistics.jinja2:173
+msgid "Roboport 2"
+msgstr "机器人指令平台 2"
 
-#: templates/boblogistics.jinja2:4 templates/boblogistics.jinja2:173
-msgid "Roboport MK3"
-msgstr "机器人指令平台MK3"
+#: templates/boblogistics.jinja2:4 templates/boblogistics.jinja2:174
+msgid "Roboport 3"
+msgstr "机器人指令平台 3"
 
-#: templates/boblogistics.jinja2:5 templates/boblogistics.jinja2:174
-msgid "Roboport MK4"
-msgstr "机器人指令平台MK4"
+#: templates/boblogistics.jinja2:5 templates/boblogistics.jinja2:175
+msgid "Roboport 4"
+msgstr "机器人指令平台 4"
 
-#: templates/boblogistics.jinja2:7 templates/boblogistics.jinja2:176
-msgid "Robochest MK1"
-msgstr "机器人指令仓库MK1"
+#: templates/boblogistics.jinja2:7 templates/boblogistics.jinja2:177
+msgid "Robochest 1"
+msgstr "机器人暂存箱 1"
 
-#: templates/boblogistics.jinja2:8 templates/boblogistics.jinja2:177
-msgid "Robochest MK2"
-msgstr "机器人指令仓库MK2"
+#: templates/boblogistics.jinja2:8 templates/boblogistics.jinja2:178
+msgid "Robochest 2"
+msgstr "机器人暂存箱 2"
 
-#: templates/boblogistics.jinja2:9 templates/boblogistics.jinja2:178
-msgid "Robochest MK3"
-msgstr "机器人指令仓库MK3"
+#: templates/boblogistics.jinja2:9 templates/boblogistics.jinja2:179
+msgid "Robochest 3"
+msgstr "机器人暂存箱 3"
 
-#: templates/boblogistics.jinja2:10 templates/boblogistics.jinja2:179
-msgid "Robochest MK4"
-msgstr "机器人指令仓库MK4"
+#: templates/boblogistics.jinja2:10 templates/boblogistics.jinja2:180
+msgid "Robochest 4"
+msgstr "机器人暂存箱 4"
 
-#: templates/boblogistics.jinja2:12 templates/boblogistics.jinja2:181
-msgid "Logistic zone expander MK1"
-msgstr "物流网络拓展器MK1"
+#: templates/boblogistics.jinja2:12 templates/boblogistics.jinja2:182
+msgid "Logistic zone expander 1"
+msgstr "物流网络拓展塔 1"
 
-#: templates/boblogistics.jinja2:13 templates/boblogistics.jinja2:182
-msgid "Logistic zone expander MK2"
-msgstr "物流网络拓展器MK2"
+#: templates/boblogistics.jinja2:13 templates/boblogistics.jinja2:183
+msgid "Logistic zone expander 2"
+msgstr "物流网络拓展塔 2"
 
-#: templates/boblogistics.jinja2:14 templates/boblogistics.jinja2:183
-msgid "Logistic zone expander MK3"
-msgstr "物流网络拓展器MK3"
+#: templates/boblogistics.jinja2:14 templates/boblogistics.jinja2:184
+msgid "Logistic zone expander 3"
+msgstr "物流网络拓展塔 3"
 
-#: templates/boblogistics.jinja2:15 templates/boblogistics.jinja2:184
-msgid "Logistic zone expander MK4"
-msgstr "物流网络拓展器MK4"
+#: templates/boblogistics.jinja2:15 templates/boblogistics.jinja2:185
+msgid "Logistic zone expander 4"
+msgstr "物流网络拓展塔 4"
 
-#: templates/boblogistics.jinja2:17 templates/boblogistics.jinja2:186
+#: templates/boblogistics.jinja2:17 templates/boblogistics.jinja2:187
 msgid "Logistic zone interface"
 msgstr "物流网络接口"
 
-#: templates/boblogistics.jinja2:19 templates/boblogistics.jinja2:188
-msgid "Robot charging point MK1"
-msgstr "机器人充电平台MK1"
+#: templates/boblogistics.jinja2:19 templates/boblogistics.jinja2:189
+msgid "Robot charging point 1"
+msgstr "机器人充电站 1"
 
-#: templates/boblogistics.jinja2:20 templates/boblogistics.jinja2:189
-msgid "Robot charging point MK2"
-msgstr "机器人充电平台MK2"
+#: templates/boblogistics.jinja2:20 templates/boblogistics.jinja2:190
+msgid "Robot charging point 2"
+msgstr "机器人充电站 2"
 
-#: templates/boblogistics.jinja2:21 templates/boblogistics.jinja2:190
-msgid "Robot charging point MK3"
-msgstr "机器人充电平台MK3"
+#: templates/boblogistics.jinja2:21 templates/boblogistics.jinja2:191
+msgid "Robot charging point 3"
+msgstr "机器人充电站 3"
 
-#: templates/boblogistics.jinja2:22 templates/boblogistics.jinja2:191
-msgid "Robot charging point MK4"
-msgstr "机器人充电平台MK4"
+#: templates/boblogistics.jinja2:22 templates/boblogistics.jinja2:192
+msgid "Robot charging point 4"
+msgstr "机器人充电站 4"
 
-#: templates/boblogistics.jinja2:24 templates/boblogistics.jinja2:193
-msgid "Large robot charging point MK1"
-msgstr "大型机器人充电平台MK1"
+#: templates/boblogistics.jinja2:24 templates/boblogistics.jinja2:194
+msgid "Large robot charging point 1"
+msgstr "大型机器人充电站 1"
 
-#: templates/boblogistics.jinja2:25 templates/boblogistics.jinja2:194
-msgid "Large robot charging point MK2"
-msgstr "大型机器人充电平台MK2"
+#: templates/boblogistics.jinja2:25 templates/boblogistics.jinja2:195
+msgid "Large robot charging point 2"
+msgstr "大型机器人充电站 2"
 
-#: templates/boblogistics.jinja2:26 templates/boblogistics.jinja2:195
-msgid "Large robot charging point MK3"
-msgstr "大型机器人充电平台MK3"
+#: templates/boblogistics.jinja2:26 templates/boblogistics.jinja2:196
+msgid "Large robot charging point 3"
+msgstr "大型机器人充电站 3"
 
-#: templates/boblogistics.jinja2:27 templates/boblogistics.jinja2:196
-msgid "Large robot charging point MK4"
-msgstr "大型机器人充电平台MK4"
+#: templates/boblogistics.jinja2:27 templates/boblogistics.jinja2:197
+msgid "Large robot charging point 4"
+msgstr "大型机器人充电站 4"
 
 #: templates/boblogistics.jinja2:30
-msgid "Flying robot frame MK2"
-msgstr "飞行机器人框架MK2"
+msgid "Flying robot frame 2"
+msgstr "飞行机器人框架 2"
 
 #: templates/boblogistics.jinja2:31
-msgid "Flying robot frame MK3"
-msgstr "飞行机器人框架MK3"
+msgid "Flying robot frame 3"
+msgstr "飞行机器人框架 3"
 
 #: templates/boblogistics.jinja2:32
-msgid "Flying robot frame MK4"
-msgstr "飞行机器人框架MK4"
+msgid "Flying robot frame 4"
+msgstr "飞行机器人框架 4"
 
 #: templates/boblogistics.jinja2:35
-msgid "Logistic robot brain MK1"
-msgstr "物流机器人电子脑MK1"
+msgid "Logistic robot brain 1"
+msgstr "物流机器人电子脑 1"
 
 #: templates/boblogistics.jinja2:36
-msgid "Logistic robot brain MK2"
-msgstr "物流机器人电子脑MK2"
+msgid "Logistic robot brain 2"
+msgstr "物流机器人电子脑 2"
 
 #: templates/boblogistics.jinja2:37
-msgid "Logistic robot brain MK3"
-msgstr "物流机器人电子脑MK3"
+msgid "Logistic robot brain 3"
+msgstr "物流机器人电子脑 3"
 
 #: templates/boblogistics.jinja2:38
-msgid "Logistic robot brain MK4"
-msgstr "物流机器人电子脑MK4"
+msgid "Logistic robot brain 4"
+msgstr "物流机器人电子脑 4"
 
 #: templates/boblogistics.jinja2:40
-msgid "Construction robot brain MK1"
-msgstr "建设机器人电子脑MK1"
+msgid "Construction robot brain 1"
+msgstr "建设机器人电子脑 1"
 
 #: templates/boblogistics.jinja2:41
-msgid "Construction robot brain MK2"
-msgstr "建设机器人电子脑MK2"
+msgid "Construction robot brain 2"
+msgstr "建设机器人电子脑 2"
 
 #: templates/boblogistics.jinja2:42
-msgid "Construction robot brain MK3"
-msgstr "建设机器人电子脑MK3"
+msgid "Construction robot brain 3"
+msgstr "建设机器人电子脑 3"
 
 #: templates/boblogistics.jinja2:43
-msgid "Construction robot brain MK4"
-msgstr "建设机器人电子脑MK4"
+msgid "Construction robot brain 4"
+msgstr "建设机器人电子脑 4"
 
 #: templates/boblogistics.jinja2:46
-msgid "Logistic robot tool MK1"
-msgstr "物流机器人工具组MK1"
+msgid "Logistic robot tool 1"
+msgstr "物流机器人工具组 1"
 
 #: templates/boblogistics.jinja2:47
-msgid "Logistic robot tool MK2"
-msgstr "物流机器人工具组MK2"
+msgid "Logistic robot tool 2"
+msgstr "物流机器人工具组 2"
 
 #: templates/boblogistics.jinja2:48
-msgid "Logistic robot tool MK3"
-msgstr "物流机器人工具组MK3"
+msgid "Logistic robot tool 3"
+msgstr "物流机器人工具组 3"
 
 #: templates/boblogistics.jinja2:49
-msgid "Logistic robot tool MK4"
-msgstr "物流机器人工具组MK4"
+msgid "Logistic robot tool 4"
+msgstr "物流机器人工具组 4"
 
 #: templates/boblogistics.jinja2:51
-msgid "Construction robot tool MK1"
-msgstr "建设机器人工具组MK1"
+msgid "Construction robot tool 1"
+msgstr "建设机器人工具组 1"
 
 #: templates/boblogistics.jinja2:52
-msgid "Construction robot tool MK2"
-msgstr "建设机器人工具组MK2"
+msgid "Construction robot tool 2"
+msgstr "建设机器人工具组 2"
 
 #: templates/boblogistics.jinja2:53
-msgid "Construction robot tool MK3"
-msgstr "建设机器人工具组MK3"
+msgid "Construction robot tool 3"
+msgstr "建设机器人工具组 3"
 
 #: templates/boblogistics.jinja2:54
-msgid "Construction robot tool MK4"
-msgstr "建设机器人工具组MK4"
+msgid "Construction robot tool 4"
+msgstr "建设机器人工具组 4"
 
-#: templates/boblogistics.jinja2:57 templates/boblogistics.jinja2:199
-msgid "Construction robot MK2"
-msgstr "建设机器人MK2"
+#: templates/boblogistics.jinja2:57 templates/boblogistics.jinja2:200
+msgid "Construction robot 2"
+msgstr "建设机器人 2"
 
-#: templates/boblogistics.jinja2:58 templates/boblogistics.jinja2:200
-msgid "Construction robot MK3"
-msgstr "建设机器人MK3"
+#: templates/boblogistics.jinja2:58 templates/boblogistics.jinja2:201
+msgid "Construction robot 3"
+msgstr "建设机器人 3"
 
-#: templates/boblogistics.jinja2:59 templates/boblogistics.jinja2:201
-msgid "Construction robot MK4"
-msgstr "建设机器人MK4"
+#: templates/boblogistics.jinja2:59 templates/boblogistics.jinja2:202
+msgid "Construction robot 4"
+msgstr "建设机器人 4"
 
-#: templates/boblogistics.jinja2:60 templates/boblogistics.jinja2:202
-msgid "Fusion powered Construction robot MK4"
-msgstr "核能建设机器人MK4"
+#: templates/boblogistics.jinja2:60 templates/boblogistics.jinja2:203
+msgid "Fusion powered Construction robot 4"
+msgstr "核能建设机器人 4"
 
-#: templates/boblogistics.jinja2:62 templates/boblogistics.jinja2:204
-msgid "Logistic robot MK2"
-msgstr "物流机器人MK2"
+#: templates/boblogistics.jinja2:62 templates/boblogistics.jinja2:205
+msgid "Logistic robot 2"
+msgstr "物流机器人 2"
 
-#: templates/boblogistics.jinja2:63 templates/boblogistics.jinja2:205
-msgid "Logistic robot MK3"
-msgstr "物流机器人MK3"
+#: templates/boblogistics.jinja2:63 templates/boblogistics.jinja2:206
+msgid "Logistic robot 3"
+msgstr "物流机器人 3"
 
-#: templates/boblogistics.jinja2:64 templates/boblogistics.jinja2:206
-msgid "Logistic robot MK4"
-msgstr "物流机器人MK4"
+#: templates/boblogistics.jinja2:64 templates/boblogistics.jinja2:207
+msgid "Logistic robot 4"
+msgstr "物流机器人 4"
 
-#: templates/boblogistics.jinja2:65 templates/boblogistics.jinja2:207
-msgid "Fusion powered Logistic robot MK4"
-msgstr "核能物流机器人MK4"
+#: templates/boblogistics.jinja2:65 templates/boblogistics.jinja2:208
+msgid "Fusion powered Logistic robot 4"
+msgstr "核能物流机器人 4"
 
 #: templates/boblogistics.jinja2:68
-msgid "Roboport hatch door MK1"
-msgstr "机器人指令平台舱门MK1"
+msgid "Roboport hatch door 1"
+msgstr "机器人指令平台舱门 1"
 
 #: templates/boblogistics.jinja2:69
-msgid "Roboport hatch door MK2"
-msgstr "机器人指令平台舱门MK2"
+msgid "Roboport hatch door 2"
+msgstr "机器人指令平台舱门 2"
 
 #: templates/boblogistics.jinja2:70
-msgid "Roboport hatch door MK3"
-msgstr "机器人指令平台舱门MK3"
+msgid "Roboport hatch door 3"
+msgstr "机器人指令平台舱门 3"
 
 #: templates/boblogistics.jinja2:71
-msgid "Roboport hatch door MK4"
-msgstr "机器人指令平台舱门MK4"
+msgid "Roboport hatch door 4"
+msgstr "机器人指令平台舱门 4"
 
 #: templates/boblogistics.jinja2:73
-msgid "Roboport antenna array MK1"
-msgstr "机器人指令平台天线阵列MK1"
+msgid "Roboport antenna array 1"
+msgstr "机器人指令平台天线阵列 1"
 
 #: templates/boblogistics.jinja2:74
-msgid "Roboport antenna array MK2"
-msgstr "机器人指令平台天线阵列MK2"
+msgid "Roboport antenna array 2"
+msgstr "机器人指令平台天线阵列 2"
 
 #: templates/boblogistics.jinja2:75
-msgid "Roboport antenna array MK3"
-msgstr "机器人指令平台天线阵列MK3"
+msgid "Roboport antenna array 3"
+msgstr "机器人指令平台天线阵列 3"
 
 #: templates/boblogistics.jinja2:76
-msgid "Roboport antenna array MK4"
-msgstr "机器人指令平台天线阵列MK4"
+msgid "Roboport antenna array 4"
+msgstr "机器人指令平台天线阵列 4"
 
 #: templates/boblogistics.jinja2:78
-msgid "Roboport charging pad MK1"
-msgstr "机器人指令平台充电板MK1"
+msgid "Roboport charging pad 1"
+msgstr "机器人指令平台充电板 1"
 
 #: templates/boblogistics.jinja2:79
-msgid "Roboport charging pad MK2"
-msgstr "机器人指令平台充电板MK2"
+msgid "Roboport charging pad 2"
+msgstr "机器人指令平台充电板 2"
 
 #: templates/boblogistics.jinja2:80
-msgid "Roboport charging pad MK3"
-msgstr "机器人指令平台充电板MK3"
+msgid "Roboport charging pad 3"
+msgstr "机器人指令平台充电板 3"
 
 #: templates/boblogistics.jinja2:81
-msgid "Roboport charging pad MK4"
-msgstr "机器人指令平台充电板MK4"
+msgid "Roboport charging pad 4"
+msgstr "机器人指令平台充电板 4"
 
-#: templates/boblogistics.jinja2:84 templates/boblogistics.jinja2:210
+#: templates/boblogistics.jinja2:84 templates/boblogistics.jinja2:211
 msgid "Brass chest"
 msgstr "黄铜箱"
 
-#: templates/boblogistics.jinja2:85 templates/boblogistics.jinja2:211
+#: templates/boblogistics.jinja2:85 templates/boblogistics.jinja2:212
 msgid "Titanium chest"
 msgstr "钛合金箱"
 
-#: templates/boblogistics.jinja2:87 templates/boblogistics.jinja2:213
-msgid "Active provider chest MK2"
-msgstr "主动供货箱MK2"
+#: templates/boblogistics.jinja2:87 templates/boblogistics.jinja2:214
+msgid "Active provider chest 2"
+msgstr "主动供货箱 2"
 
-#: templates/boblogistics.jinja2:88 templates/boblogistics.jinja2:214
-msgid "Passive provider chest MK2"
-msgstr "被动供货箱MK2"
+#: templates/boblogistics.jinja2:88 templates/boblogistics.jinja2:215
+msgid "Passive provider chest 2"
+msgstr "被动供货箱 2"
 
-#: templates/boblogistics.jinja2:89 templates/boblogistics.jinja2:215
-msgid "Storage chest MK2"
-msgstr "被动存货箱MK2"
+#: templates/boblogistics.jinja2:89 templates/boblogistics.jinja2:216
+msgid "Storage chest 2"
+msgstr "被动存货箱 2"
 
-#: templates/boblogistics.jinja2:90 templates/boblogistics.jinja2:216
-msgid "Requester chest MK2"
-msgstr "优先集货箱MK2"
+#: templates/boblogistics.jinja2:90 templates/boblogistics.jinja2:217
+msgid "Requester chest 2"
+msgstr "优先集货箱 2"
 
-#: templates/boblogistics.jinja2:91 templates/boblogistics.jinja2:217
-msgid "Buffer chest MK2"
-msgstr "主动存货箱MK2"
+#: templates/boblogistics.jinja2:91 templates/boblogistics.jinja2:218
+msgid "Buffer chest 2"
+msgstr "主动供货箱 2"
 
-#: templates/boblogistics.jinja2:93 templates/boblogistics.jinja2:219
-msgid "Active provider chest MK3"
-msgstr "主动供货箱MK3"
+#: templates/boblogistics.jinja2:93 templates/boblogistics.jinja2:220
+msgid "Active provider chest 3"
+msgstr "主动供货箱 3"
 
-#: templates/boblogistics.jinja2:94 templates/boblogistics.jinja2:220
-msgid "Passive provider chest MK3"
-msgstr "被动供货箱MK3"
+#: templates/boblogistics.jinja2:94 templates/boblogistics.jinja2:221
+msgid "Passive provider chest 3"
+msgstr "被动供货箱 3"
 
-#: templates/boblogistics.jinja2:95 templates/boblogistics.jinja2:221
-msgid "Storage chest MK3"
-msgstr "被动存货箱MK3"
+#: templates/boblogistics.jinja2:95 templates/boblogistics.jinja2:222
+msgid "Storage chest 3"
+msgstr "被动存货箱 3"
 
-#: templates/boblogistics.jinja2:96 templates/boblogistics.jinja2:222
-msgid "Requester chest MK3"
-msgstr "优先集货箱MK3"
+#: templates/boblogistics.jinja2:96 templates/boblogistics.jinja2:223
+msgid "Requester chest 3"
+msgstr "优先集货箱 3"
 
-#: templates/boblogistics.jinja2:97 templates/boblogistics.jinja2:223
-msgid "Buffer chest MK3"
-msgstr "主动存货箱MK3"
+#: templates/boblogistics.jinja2:97 templates/boblogistics.jinja2:224
+msgid "Buffer chest 3"
+msgstr "主动供货箱 3"
 
 #: templates/boblogistics.jinja2:100
 msgid "Basic"
@@ -1607,642 +1607,655 @@ msgstr "涡轮"
 msgid "Ultimate"
 msgstr "终极"
 
-#: templates/boblogistics.jinja2:108 templates/boblogistics.jinja2:263
-msgid "Storage Tank MK2"
-msgstr "储存罐MK2"
+#: templates/boblogistics.jinja2:108 templates/boblogistics.jinja2:264
+msgid "__ENTITY__storage-tank__ 2"
+msgstr ""
 
-#: templates/boblogistics.jinja2:109 templates/boblogistics.jinja2:264
-msgid "Storage Tank MK3"
-msgstr "储存罐MK3"
+#: templates/boblogistics.jinja2:109 templates/boblogistics.jinja2:265
+msgid "__ENTITY__storage-tank__ 3"
+msgstr ""
 
-#: templates/boblogistics.jinja2:110 templates/boblogistics.jinja2:265
-msgid "Storage Tank MK4"
-msgstr "储存罐MK4"
+#: templates/boblogistics.jinja2:110 templates/boblogistics.jinja2:266
+msgid "__ENTITY__storage-tank__ 4"
+msgstr ""
 
-#: templates/boblogistics.jinja2:112 templates/boblogistics.jinja2:268
+#: templates/boblogistics.jinja2:113 templates/boblogistics.jinja2:274
 msgid "Locomotive MK2"
 msgstr "内燃机车MK2"
 
-#: templates/boblogistics.jinja2:113 templates/boblogistics.jinja2:269
+#: templates/boblogistics.jinja2:114 templates/boblogistics.jinja2:275
 msgid "Locomotive MK3"
 msgstr "内燃机车MK3"
 
-#: templates/boblogistics.jinja2:114 templates/boblogistics.jinja2:270
+#: templates/boblogistics.jinja2:115 templates/boblogistics.jinja2:276
 msgid "Armoured Locomotive"
 msgstr "装甲内燃机车"
 
-#: templates/boblogistics.jinja2:115 templates/boblogistics.jinja2:271
+#: templates/boblogistics.jinja2:116 templates/boblogistics.jinja2:277
 msgid "Armoured Locomotive MK2"
 msgstr "装甲内燃机车MK2"
 
-#: templates/boblogistics.jinja2:117 templates/boblogistics.jinja2:273
+#: templates/boblogistics.jinja2:118 templates/boblogistics.jinja2:279
 msgid "Cargo wagon MK2"
 msgstr "货运车厢"
 
-#: templates/boblogistics.jinja2:118 templates/boblogistics.jinja2:274
+#: templates/boblogistics.jinja2:119 templates/boblogistics.jinja2:280
 msgid "Cargo wagon MK3"
 msgstr "货运车厢"
 
-#: templates/boblogistics.jinja2:119 templates/boblogistics.jinja2:275
+#: templates/boblogistics.jinja2:120 templates/boblogistics.jinja2:281
 msgid "Armoured Cargo wagon"
 msgstr "装甲货运车厢"
 
-#: templates/boblogistics.jinja2:120 templates/boblogistics.jinja2:276
+#: templates/boblogistics.jinja2:121 templates/boblogistics.jinja2:282
 msgid "Armoured Cargo wagon MK2"
 msgstr "装甲货运车厢"
 
-#: templates/boblogistics.jinja2:122 templates/boblogistics.jinja2:278
+#: templates/boblogistics.jinja2:123 templates/boblogistics.jinja2:284
 msgid "Fluid wagon MK2"
 msgstr "液罐车厢MK2"
 
-#: templates/boblogistics.jinja2:123 templates/boblogistics.jinja2:279
+#: templates/boblogistics.jinja2:124 templates/boblogistics.jinja2:285
 msgid "Fluid wagon MK3"
 msgstr "液罐车厢MK3"
 
-#: templates/boblogistics.jinja2:124 templates/boblogistics.jinja2:280
-#: templates/boblogistics.jinja2:351
+#: templates/boblogistics.jinja2:125 templates/boblogistics.jinja2:286
+#: templates/boblogistics.jinja2:357
 msgid "Armoured Fluid wagon"
 msgstr "装甲液罐车厢"
 
-#: templates/boblogistics.jinja2:125 templates/boblogistics.jinja2:281
+#: templates/boblogistics.jinja2:126 templates/boblogistics.jinja2:287
 msgid "Armoured Fluid wagon MK2"
 msgstr "装甲液罐车厢MK2"
 
-#: templates/boblogistics.jinja2:127
+#: templates/boblogistics.jinja2:128
 msgid "Armoured rail"
 msgstr "装甲轨道"
 
-#: templates/boblogistics.jinja2:130 templates/boblogistics.jinja2:287
+#: templates/boblogistics.jinja2:131 templates/boblogistics.jinja2:293
 msgid "Copper pipe"
 msgstr "铜制管道"
 
-#: templates/boblogistics.jinja2:131 templates/boblogistics.jinja2:288
+#: templates/boblogistics.jinja2:132 templates/boblogistics.jinja2:294
 msgid "Iron pipe"
 msgstr "铁制管道"
 
-#: templates/boblogistics.jinja2:132 templates/boblogistics.jinja2:289
+#: templates/boblogistics.jinja2:133 templates/boblogistics.jinja2:295
 msgid "Stone pipe"
 msgstr "石制管道"
 
-#: templates/boblogistics.jinja2:133 templates/boblogistics.jinja2:290
+#: templates/boblogistics.jinja2:134 templates/boblogistics.jinja2:296
 msgid "Bronze pipe"
 msgstr "青铜管道"
 
-#: templates/boblogistics.jinja2:134 templates/boblogistics.jinja2:291
+#: templates/boblogistics.jinja2:135 templates/boblogistics.jinja2:297
 msgid "Steel pipe"
 msgstr "钢制管道"
 
-#: templates/boblogistics.jinja2:135 templates/boblogistics.jinja2:292
+#: templates/boblogistics.jinja2:136 templates/boblogistics.jinja2:298
 msgid "Plastic pipe"
 msgstr "塑料管道"
 
-#: templates/boblogistics.jinja2:136 templates/boblogistics.jinja2:293
+#: templates/boblogistics.jinja2:137 templates/boblogistics.jinja2:299
 msgid "Brass pipe"
 msgstr "黄铜管道"
 
-#: templates/boblogistics.jinja2:137 templates/boblogistics.jinja2:294
+#: templates/boblogistics.jinja2:138 templates/boblogistics.jinja2:300
 msgid "Titanium pipe"
 msgstr "钛合金管道"
 
-#: templates/boblogistics.jinja2:138 templates/boblogistics.jinja2:295
+#: templates/boblogistics.jinja2:139 templates/boblogistics.jinja2:301
 msgid "Ceramic pipe"
 msgstr "陶瓷管道"
 
-#: templates/boblogistics.jinja2:139 templates/boblogistics.jinja2:296
+#: templates/boblogistics.jinja2:140 templates/boblogistics.jinja2:302
 msgid "Tungsten pipe"
 msgstr "钨制管道"
 
-#: templates/boblogistics.jinja2:142 templates/boblogistics.jinja2:301
+#: templates/boblogistics.jinja2:143 templates/boblogistics.jinja2:307
 msgid "Copper pipe-to-ground"
 msgstr "铜制地下管道"
 
-#: templates/boblogistics.jinja2:143 templates/boblogistics.jinja2:302
+#: templates/boblogistics.jinja2:144 templates/boblogistics.jinja2:308
 msgid "Iron pipe-to-ground"
 msgstr "铁制地下管道"
 
-#: templates/boblogistics.jinja2:144 templates/boblogistics.jinja2:303
+#: templates/boblogistics.jinja2:145 templates/boblogistics.jinja2:309
 msgid "Stone pipe-to-ground"
 msgstr "石制地下管道"
 
-#: templates/boblogistics.jinja2:145 templates/boblogistics.jinja2:304
+#: templates/boblogistics.jinja2:146 templates/boblogistics.jinja2:310
 msgid "Bronze pipe-to-ground"
 msgstr "青铜地下管道"
 
-#: templates/boblogistics.jinja2:146 templates/boblogistics.jinja2:305
+#: templates/boblogistics.jinja2:147 templates/boblogistics.jinja2:311
 msgid "Steel pipe-to-ground"
 msgstr "钢制地下管道"
 
-#: templates/boblogistics.jinja2:147 templates/boblogistics.jinja2:306
+#: templates/boblogistics.jinja2:148 templates/boblogistics.jinja2:312
 msgid "Plastic pipe-to-ground"
 msgstr "塑料地下管道"
 
-#: templates/boblogistics.jinja2:148 templates/boblogistics.jinja2:307
+#: templates/boblogistics.jinja2:149 templates/boblogistics.jinja2:313
 msgid "Brass pipe-to-ground"
 msgstr "黄铜地下管道"
 
-#: templates/boblogistics.jinja2:149 templates/boblogistics.jinja2:308
+#: templates/boblogistics.jinja2:150 templates/boblogistics.jinja2:314
 msgid "Titanium pipe-to-ground"
 msgstr "钛合金地下管道"
 
-#: templates/boblogistics.jinja2:150 templates/boblogistics.jinja2:309
+#: templates/boblogistics.jinja2:151 templates/boblogistics.jinja2:315
 msgid "Ceramic pipe-to-ground"
 msgstr "陶瓷地下管道"
 
-#: templates/boblogistics.jinja2:151 templates/boblogistics.jinja2:310
+#: templates/boblogistics.jinja2:152 templates/boblogistics.jinja2:316
 msgid "Tungsten pipe-to-ground"
 msgstr "钨制地下管道"
 
-#: templates/boblogistics.jinja2:154 templates/boblogistics.jinja2:315
-#: templates/bobplates.jinja2:110 templates/bobplates.jinja2:247
-msgid "Pump MK2"
-msgstr "泵MK2"
+#: templates/boblogistics.jinja2:155 templates/boblogistics.jinja2:321
+msgid "Pump 2"
+msgstr "泵 2"
 
-#: templates/boblogistics.jinja2:155 templates/boblogistics.jinja2:316
-#: templates/bobplates.jinja2:111 templates/bobplates.jinja2:248
-msgid "Pump MK3"
-msgstr "泵MK3"
+#: templates/boblogistics.jinja2:156 templates/boblogistics.jinja2:322
+msgid "Pump 3"
+msgstr "泵 3"
 
-#: templates/boblogistics.jinja2:156 templates/boblogistics.jinja2:317
-#: templates/bobplates.jinja2:112 templates/bobplates.jinja2:249
-msgid "Pump MK4"
-msgstr "泵MK4"
+#: templates/boblogistics.jinja2:157 templates/boblogistics.jinja2:323
+msgid "Pump 4"
+msgstr "泵 4"
 
-#: templates/boblogistics.jinja2:158 templates/boblogistics.jinja2:319
+#: templates/boblogistics.jinja2:159 templates/boblogistics.jinja2:325
 msgid "Valve"
 msgstr "阀门"
 
-#: templates/boblogistics.jinja2:159 templates/boblogistics.jinja2:325
+#: templates/boblogistics.jinja2:160 templates/boblogistics.jinja2:331
 msgid "__ITEM__valve__"
 msgstr ""
 
-#: templates/boblogistics.jinja2:161
+#: templates/boblogistics.jinja2:162
 msgid "__ITEM__repair-pack__ 2"
 msgstr ""
 
-#: templates/boblogistics.jinja2:162
+#: templates/boblogistics.jinja2:163
 msgid "__ITEM__repair-pack__ 3"
 msgstr ""
 
-#: templates/boblogistics.jinja2:163
+#: templates/boblogistics.jinja2:164
 msgid "__ITEM__repair-pack__ 4"
 msgstr ""
 
-#: templates/boblogistics.jinja2:164
+#: templates/boblogistics.jinja2:165
 msgid "__ITEM__repair-pack__ 5"
 msgstr ""
 
-#: templates/boblogistics.jinja2:226
+#: templates/boblogistics.jinja2:227
 msgid "__ENTITY__filter-inserter__"
 msgstr ""
 
-#: templates/boblogistics.jinja2:228
+#: templates/boblogistics.jinja2:229
 msgid "__ITEM__prefix-red__ __ENTITY__inserter__"
 msgstr ""
 
-#: templates/boblogistics.jinja2:229
+#: templates/boblogistics.jinja2:230
 msgid "__ITEM__prefix-red__ __ENTITY__filter-inserter__"
 msgstr ""
 
-#: templates/boblogistics.jinja2:230
+#: templates/boblogistics.jinja2:231
 msgid "__ITEM__prefix-red__ __ENTITY__stack-inserter__"
 msgstr ""
 
-#: templates/boblogistics.jinja2:231
+#: templates/boblogistics.jinja2:232
 msgid "__ITEM__prefix-red__ __ENTITY__stack-filter-inserter__"
 msgstr ""
 
-#: templates/boblogistics.jinja2:233
+#: templates/boblogistics.jinja2:234
 msgid "__ITEM__prefix-blue__ __ENTITY__inserter__"
 msgstr ""
 
-#: templates/boblogistics.jinja2:234
+#: templates/boblogistics.jinja2:235
 msgid "__ITEM__prefix-blue__ __ENTITY__filter-inserter__"
 msgstr ""
 
-#: templates/boblogistics.jinja2:235
+#: templates/boblogistics.jinja2:236
 msgid "__ITEM__prefix-blue__ __ENTITY__stack-inserter__"
 msgstr ""
 
-#: templates/boblogistics.jinja2:236
+#: templates/boblogistics.jinja2:237
 msgid "__ITEM__prefix-blue__ __ENTITY__stack-filter-inserter__"
 msgstr ""
 
-#: templates/boblogistics.jinja2:238
+#: templates/boblogistics.jinja2:239
 msgid "__ITEM__prefix-purple__ __ENTITY__inserter__"
 msgstr ""
 
-#: templates/boblogistics.jinja2:239
+#: templates/boblogistics.jinja2:240
 msgid "__ITEM__prefix-purple__ __ENTITY__filter-inserter__"
 msgstr ""
 
-#: templates/boblogistics.jinja2:240
+#: templates/boblogistics.jinja2:241
 msgid "__ITEM__prefix-purple__ __ENTITY__stack-inserter__"
 msgstr ""
 
-#: templates/boblogistics.jinja2:241
+#: templates/boblogistics.jinja2:242
 msgid "__ITEM__prefix-purple__ __ENTITY__stack-filter-inserter__"
 msgstr ""
 
-#: templates/boblogistics.jinja2:243
+#: templates/boblogistics.jinja2:244
 msgid "__ITEM__prefix-green__ __ENTITY__inserter__"
 msgstr ""
 
-#: templates/boblogistics.jinja2:244
+#: templates/boblogistics.jinja2:245
 msgid "__ITEM__prefix-green__ __ENTITY__filter-inserter__"
 msgstr ""
 
-#: templates/boblogistics.jinja2:245
+#: templates/boblogistics.jinja2:246
 msgid "__ITEM__prefix-green__ __ENTITY__stack-inserter__"
 msgstr ""
 
-#: templates/boblogistics.jinja2:246
+#: templates/boblogistics.jinja2:247
 msgid "__ITEM__prefix-green__ __ENTITY__stack-filter-inserter__"
 msgstr ""
 
-#: templates/boblogistics.jinja2:249
+#: templates/boblogistics.jinja2:250
 msgid "__ITEM__prefix-black__ __ENTITY__transport-belt__"
 msgstr ""
 
-#: templates/boblogistics.jinja2:250
+#: templates/boblogistics.jinja2:251
 msgid "__ITEM__prefix-black__ __ENTITY__underground-belt__"
 msgstr ""
 
-#: templates/boblogistics.jinja2:251
+#: templates/boblogistics.jinja2:252
 msgid "__ITEM__prefix-black__ __ENTITY__splitter__"
 msgstr ""
 
-#: templates/boblogistics.jinja2:253
+#: templates/boblogistics.jinja2:254
 msgid "__ITEM__prefix-purple__ __ENTITY__transport-belt__"
 msgstr ""
 
-#: templates/boblogistics.jinja2:254
+#: templates/boblogistics.jinja2:255
 msgid "__ITEM__prefix-purple__ __ENTITY__underground-belt__"
 msgstr ""
 
-#: templates/boblogistics.jinja2:255
+#: templates/boblogistics.jinja2:256
 msgid "__ITEM__prefix-purple__ __ENTITY__splitter__"
 msgstr ""
 
-#: templates/boblogistics.jinja2:257
+#: templates/boblogistics.jinja2:258
 msgid "__ITEM__prefix-green__ __ENTITY__transport-belt__"
 msgstr ""
 
-#: templates/boblogistics.jinja2:258
+#: templates/boblogistics.jinja2:259
 msgid "__ITEM__prefix-green__ __ENTITY__underground-belt__"
 msgstr ""
 
-#: templates/boblogistics.jinja2:259
+#: templates/boblogistics.jinja2:260
 msgid "__ITEM__prefix-green__ __ENTITY__splitter__"
 msgstr ""
 
-#: templates/boblogistics.jinja2:283
+#: templates/boblogistics.jinja2:268
+msgid "__ENTITY__storage-tank__ all corners"
+msgstr "__ENTITY__storage-tank__ 四角连接"
+
+#: templates/boblogistics.jinja2:269
+msgid "__ENTITY__storage-tank__ 2 all corners"
+msgstr "__ENTITY__storage-tank__ 2 四角连接"
+
+#: templates/boblogistics.jinja2:270
+msgid "__ENTITY__storage-tank__ 3 all corners"
+msgstr "__ENTITY__storage-tank__ 3 四角连接"
+
+#: templates/boblogistics.jinja2:271
+msgid "__ENTITY__storage-tank__ 4 all corners"
+msgstr "__ENTITY__storage-tank__ 4 四角连接"
+
+#: templates/boblogistics.jinja2:289
 msgid "Armoured straight rail"
 msgstr "装甲直轨道"
 
-#: templates/boblogistics.jinja2:284
+#: templates/boblogistics.jinja2:290
 msgid "Armoured curved rail"
 msgstr "装甲弯轨道"
 
-#: templates/boblogistics.jinja2:297
+#: templates/boblogistics.jinja2:303
 msgid "Nitinol pipe"
 msgstr "镍钛合金管道"
 
-#: templates/boblogistics.jinja2:298
+#: templates/boblogistics.jinja2:304
 msgid "Copper tungsten pipe"
 msgstr "铜钨合金管道"
 
-#: templates/boblogistics.jinja2:311
+#: templates/boblogistics.jinja2:317
 msgid "Nitinol pipe-to-ground"
 msgstr "镍钛合金地下管道"
 
-#: templates/boblogistics.jinja2:312
+#: templates/boblogistics.jinja2:318
 msgid "Copper tungsten pipe-to-ground"
 msgstr "铜钨合金地下管道"
 
-#: templates/boblogistics.jinja2:320
+#: templates/boblogistics.jinja2:326
 msgid "__ENTITY__valve__"
 msgstr ""
 
-#: templates/boblogistics.jinja2:321
+#: templates/boblogistics.jinja2:327
 msgid "Overflow valve"
 msgstr "溢流阀"
 
-#: templates/boblogistics.jinja2:322
+#: templates/boblogistics.jinja2:328
 msgid "Top up valve"
 msgstr "充气阀"
 
-#: templates/boblogistics.jinja2:329
+#: templates/boblogistics.jinja2:335
 msgid "Robotics"
 msgstr "机器人"
 
-#: templates/boblogistics.jinja2:330
+#: templates/boblogistics.jinja2:336
 msgid "Advanced logistic and construction robotics"
 msgstr "高级物流及建设机器人"
 
-#: templates/boblogistics.jinja2:331
+#: templates/boblogistics.jinja2:337
 msgid "Modular Roboports"
 msgstr "模块机器人指令平台"
 
-#: templates/boblogistics.jinja2:332
+#: templates/boblogistics.jinja2:338
 msgid "Express Inserters"
 msgstr "极速机械臂"
 
-#: templates/boblogistics.jinja2:333
+#: templates/boblogistics.jinja2:339
 msgid "Turbo Inserters"
 msgstr "涡轮机械臂"
 
-#: templates/boblogistics.jinja2:334
+#: templates/boblogistics.jinja2:340
 msgid "Ultimate Inserters"
 msgstr "终极机械臂"
 
-#: templates/boblogistics.jinja2:336
+#: templates/boblogistics.jinja2:342
 msgid "Long handed burner inserter"
 msgstr "长距离热能机械臂"
 
-#: templates/boblogistics.jinja2:342
+#: templates/boblogistics.jinja2:348
 msgid "Logistics"
 msgstr "物流学"
 
-#: templates/boblogistics.jinja2:343
+#: templates/boblogistics.jinja2:349
 msgid "__ITEM__prefix-black__ logistics"
 msgstr "__ITEM__prefix-black__ 物流学"
 
-#: templates/boblogistics.jinja2:345
+#: templates/boblogistics.jinja2:351
 msgid "Fluid handling"
 msgstr "流体处理"
 
-#: templates/boblogistics.jinja2:347
+#: templates/boblogistics.jinja2:353
 msgid "Railway"
 msgstr "铁路"
 
-#: templates/boblogistics.jinja2:348
+#: templates/boblogistics.jinja2:354
 msgid "Armoured Railway"
 msgstr "装甲铁路"
 
-#: templates/boblogistics.jinja2:350
+#: templates/boblogistics.jinja2:356
 msgid "Fluid wagon"
 msgstr "液罐车厢"
 
-#: templates/boblogistics.jinja2:354
+#: templates/boblogistics.jinja2:360
 msgid "Character inventory slots"
 msgstr "角色背包槽位"
 
-#: templates/boblogistics.jinja2:355
+#: templates/boblogistics.jinja2:361
 msgid "Stack inserter capacity bonus"
 msgstr "集装机械臂搬运量加成"
 
-#: templates/boblogistics.jinja2:356
+#: templates/boblogistics.jinja2:362
 msgid "Inserter capacity bonus"
 msgstr "机械臂搬运量加成"
 
-#: templates/boblogistics.jinja2:358
+#: templates/boblogistics.jinja2:364
 msgid "Infinite worker robot cargo size"
 msgstr "无限机器人存储"
 
-#: templates/boblogistics.jinja2:359
+#: templates/boblogistics.jinja2:365
 msgid "Infinite character logistic trash slots"
 msgstr "无限角色物流回收槽位"
 
-#: templates/boblogistics.jinja2:361
+#: templates/boblogistics.jinja2:367
 msgid "__ITEM__repair-pack__"
 msgstr ""
 
-#: templates/boblogistics.jinja2:365
+#: templates/boblogistics.jinja2:371
 msgid "Logistic robots are a flexible alternative to conveyor belts."
 msgstr "物流机器人是比传送带更灵活的替代品。"
 
-#: templates/boblogistics.jinja2:366
+#: templates/boblogistics.jinja2:372
 msgid "Research into building Roboports in modules."
 msgstr "集成机器人指令平台至模块。"
 
-#: templates/boblogistics.jinja2:367
+#: templates/boblogistics.jinja2:373
 msgid "Inserters that are faster than fast inserters!"
 msgstr "比高速机械臂更快的机械臂！"
 
-#: templates/boblogistics.jinja2:369
+#: templates/boblogistics.jinja2:375
 msgid "Faster and more flexible ways of transportation."
 msgstr "更快且更灵活的运输方式。"
 
-#: templates/boblogistics.jinja2:371
+#: templates/boblogistics.jinja2:377
 msgid "Non-stack inserters can move more items at the same time."
 msgstr "非集装机械臂能一次性移动更多物品。"
 
-#: templates/boblogistics.jinja2:372
+#: templates/boblogistics.jinja2:378
 msgid ""
 "Stack inserters can move more items at the same time depending on their "
 "upgrade."
 msgstr "集装机械臂根据升级能一次性移动更多物品"
 
-#: templates/boblogistics.jinja2:376 templates/boblogistics.jinja2:377
+#: templates/boblogistics.jinja2:382 templates/boblogistics.jinja2:383
 msgid "A pipe that allows fluid to flow in only one direction"
 msgstr "一个仅允许流体单向流通的管道"
 
-#: templates/boblogistics.jinja2:378
+#: templates/boblogistics.jinja2:384
 msgid ""
 "A pipe that allows a fluid to flow in only one direction when the input "
 "is more than 80% full"
 msgstr "一个当输入负载超过80%时仅允许流体单向流通的管道"
 
-#: templates/boblogistics.jinja2:379
+#: templates/boblogistics.jinja2:385
 msgid ""
 "A pipe that allows a fluid to flow in only one direction when the output "
 "is less than 20% full"
 msgstr "一个当输入负载低于20%时仅允许流体单向流通的管道"
 
-#: templates/boblogistics.jinja2:382
+#: templates/boblogistics.jinja2:388
 msgid "Maximum length: __1__"
 msgstr "最大长度： __1__"
 
-#: templates/boblogistics.jinja2:386 templates/bobplates.jinja2:261
+#: templates/boblogistics.jinja2:392 templates/bobplates.jinja2:261
 msgid "Bob's Logistics"
 msgstr "Bob's物流学"
 
-#: templates/boblogistics.jinja2:390
+#: templates/boblogistics.jinja2:396
 msgid "Adds an extra __1__ slots to the character inventory"
 msgstr "为角色背包增加额外的__1__个槽位"
 
-#: templates/boblogistics.jinja2:401
+#: templates/boblogistics.jinja2:407
 msgid "Flying robot frames"
 msgstr "飞行机器人框架"
 
-#: templates/boblogistics.jinja2:402
+#: templates/boblogistics.jinja2:408
 msgid "Robot parts"
 msgstr "机器人部件"
 
-#: templates/boblogistics.jinja2:403
+#: templates/boblogistics.jinja2:409
 msgid "Robot require previous tier"
 msgstr "机器人需要上级合成"
 
-#: templates/boblogistics.jinja2:404
+#: templates/boblogistics.jinja2:410
 msgid "Roboport recipe update"
 msgstr "机器人配方升级"
 
-#: templates/boblogistics.jinja2:405
+#: templates/boblogistics.jinja2:411
 msgid "Drainless inserters"
 msgstr "机械臂无待机耗能"
 
-#: templates/boblogistics.jinja2:406
+#: templates/boblogistics.jinja2:412
 msgid "Disable Roboports"
 msgstr "关闭机器人指令平台"
 
-#: templates/boblogistics.jinja2:407
+#: templates/boblogistics.jinja2:413
 msgid "Belt require previous tier"
 msgstr "传送带需要上级合成"
 
-#: templates/boblogistics.jinja2:408
+#: templates/boblogistics.jinja2:414
 msgid "Inserter require previous tier"
 msgstr "机械臂需要上级合成"
 
-#: templates/boblogistics.jinja2:409
+#: templates/boblogistics.jinja2:415
 msgid "Inserter overhaul"
 msgstr "机械臂全面复写"
 
-#: templates/boblogistics.jinja2:410
+#: templates/boblogistics.jinja2:416
 msgid "Transport belt overhaul"
 msgstr "传送带全面复写"
 
-#: templates/boblogistics.jinja2:411
+#: templates/boblogistics.jinja2:417
 msgid "Underground distance overhaul"
 msgstr "地下距离全面复写"
 
-#: templates/boblogistics.jinja2:412
+#: templates/boblogistics.jinja2:418
 msgid "Belt first tier distance"
 msgstr "初级传送带距离"
 
-#: templates/boblogistics.jinja2:413
+#: templates/boblogistics.jinja2:419
 msgid "Belt distance per tier"
 msgstr "每级传送带距离"
 
-#: templates/boblogistics.jinja2:414
+#: templates/boblogistics.jinja2:420
 msgid "Pipe first tier distance"
 msgstr "初级管道距离"
 
-#: templates/boblogistics.jinja2:415
+#: templates/boblogistics.jinja2:421
 msgid "Pipe distance per tier"
 msgstr "每级管道距离"
 
-#: templates/boblogistics.jinja2:416
+#: templates/boblogistics.jinja2:422
 msgid "Transport belt speed overhaul"
 msgstr "传送带速度全面复写"
 
-#: templates/boblogistics.jinja2:417
+#: templates/boblogistics.jinja2:423
 msgid "Transport belt speed per tier"
 msgstr "每级传送带速度"
 
-#: templates/boblogistics.jinja2:418
+#: templates/boblogistics.jinja2:424
 msgid "Fluid wagon base size"
 msgstr "液罐车厢基础容量"
 
-#: templates/boblogistics.jinja2:419
+#: templates/boblogistics.jinja2:425
 msgid "Storage tank base size"
 msgstr "货运车厢基础容量"
 
-#: templates/boblogistics.jinja2:420
+#: templates/boblogistics.jinja2:426
 msgid "Trains"
 msgstr "铁路"
 
-#: templates/boblogistics.jinja2:423
+#: templates/boblogistics.jinja2:429
 msgid ""
 "If set to true, the Flying robot frame intermediates will exist for use "
 "in recipes."
 msgstr "开启后，飞行机器人框架将保留在配方中。"
 
-#: templates/boblogistics.jinja2:424
+#: templates/boblogistics.jinja2:430
 msgid ""
 "If set to true, the Logistic/Construction robot tool/brain intermediates "
 "will exist for use in recipes."
 msgstr "开启后，物流/建设机器人工具组/电子脑将保留在配方中。"
 
-#: templates/boblogistics.jinja2:425
+#: templates/boblogistics.jinja2:431
 msgid ""
 "If set to true, Logistic/Construction robots require the previous tier to"
 " craft."
 msgstr "开启后，物流/建设机器人需要上级合成。"
 
-#: templates/boblogistics.jinja2:426
+#: templates/boblogistics.jinja2:432
 msgid ""
-"If set to true, the recipe for the base game Roboport MK1 is updated to "
-"the modular recipe."
-msgstr "开启后，基础游戏中的机器人指令平台MK1会被模组复写。"
+"If set to true, the recipe for the base game Roboport 1 is updated to the"
+" modular recipe."
+msgstr "开启后，原版中的机器人指令平台配方将被此Mod覆盖。"
 
-#: templates/boblogistics.jinja2:427
+#: templates/boblogistics.jinja2:433
 msgid "If set to true, the idle power drain will be removed from all Inserters."
 msgstr "开启后，所有机械臂在闲置时将不再消耗能量。"
 
-#: templates/boblogistics.jinja2:428
+#: templates/boblogistics.jinja2:434
 msgid ""
 "If set to true, standard roboports are disabled, causing you to be "
 "reliant on the modular roboports"
 msgstr "开启后，标准机器人指令平台将被禁用，你将只能依赖模块机器人指令平台。"
 
-#: templates/boblogistics.jinja2:429
+#: templates/boblogistics.jinja2:435
 msgid ""
 "If set to true, Transport belts and related entities require the previous"
 " tier to craft."
 msgstr "开启后，传送带和相关物品需要上级合成。"
 
-#: templates/boblogistics.jinja2:430
+#: templates/boblogistics.jinja2:436
 msgid "If set to true, Inserters require the previous tier to craft."
 msgstr "开启后，机械臂需要上级合成。"
 
-#: templates/boblogistics.jinja2:431
+#: templates/boblogistics.jinja2:437
 msgid ""
 "Turning this on will overhaul inserters, adding new tiers, removing long "
 "handed, but you can use make any inserter long, and a complete recipe "
 "rewrite."
 msgstr "开启后，将复写机械臂，添加新的级别，移除长距离机械臂，但你可以将任何机械臂延长。同时会复写所有配方。"
 
-#: templates/boblogistics.jinja2:432
+#: templates/boblogistics.jinja2:438
 msgid ""
 "Turning this on will overhaul transport belts, adding a new tier, "
 "ballance the speeds and a complete recipe rewrite."
 msgstr "开启后，将复写所有传送带，添加新的级别，平衡速度并复写所有配方。"
 
-#: templates/boblogistics.jinja2:433
+#: templates/boblogistics.jinja2:439
 msgid "Turning this on will change the range of all underground belts and pipes."
 msgstr "开启后，将改变所有地下传送带和管道的长度。"
 
-#: templates/boblogistics.jinja2:434
+#: templates/boblogistics.jinja2:440
 msgid "Sets the range on the starting tier transport belt"
 msgstr "设定初级传送带的长度"
 
-#: templates/boblogistics.jinja2:435
+#: templates/boblogistics.jinja2:441
 msgid "Sets by how much further each tier of underground belt will go"
 msgstr "设定每级传送带额外增加的长度"
 
-#: templates/boblogistics.jinja2:436
+#: templates/boblogistics.jinja2:442
 msgid "Sets the range on all starting tier pipes"
 msgstr "设定初级管道的长度"
 
-#: templates/boblogistics.jinja2:437
+#: templates/boblogistics.jinja2:443
 msgid "Sets by how much further each tier of underground pipe will go"
 msgstr "设定每级管道额外增加的长度"
 
-#: templates/boblogistics.jinja2:438
+#: templates/boblogistics.jinja2:444
 msgid ""
 "If both this and Transport belt overhaul are set to true, the speeds of "
 "transport belts will be updated. Please use multiples of 1.875."
 msgstr "同时开启此项和传送带全面复写后，传送带的速度会更新。请使用1.875的倍数。"
 
-#: templates/boblogistics.jinja2:439
+#: templates/boblogistics.jinja2:445
 msgid ""
 "Sets how items per tier Transport belt move if Transport belt speed "
 "overhaul and Transport belt speed overhaul settings are both enabled."
 msgstr "当传送带速度全面复写以及传送带速度复写设置同时开启后，设置每级传送带运送物品的速度。"
 
-#: templates/boblogistics.jinja2:440
+#: templates/boblogistics.jinja2:446
 msgid ""
 "Sets the amount of fluid that a Fluid wagon can store in thousands "
 "(Default 25, for 25k)"
 msgstr "设置一个液罐车厢能储存的流体容量，以k(千)为单位 (默认 25, 即25k)"
 
-#: templates/boblogistics.jinja2:441
+#: templates/boblogistics.jinja2:447
 msgid ""
 "Sets the amount of fluid that a Storage tank can store in thousands "
 "(Default 25, for 25k)"
 msgstr "设置一个储存罐能储存的流体容量，以k(千)为单位 (默认 25, 即25k)"
 
-#: templates/boblogistics.jinja2:442
+#: templates/boblogistics.jinja2:448
 msgid "If set to true, new trains (Locomotices and wagons) will be available"
 msgstr "开启后，能使用新的铁路(内燃机车和车厢)"
 
@@ -3615,6 +3628,18 @@ msgstr "压缩机 MK4"
 #: templates/bobplates.jinja2:109 templates/bobplates.jinja2:246
 msgid "Pump"
 msgstr "泵"
+
+#: templates/bobplates.jinja2:110 templates/bobplates.jinja2:247
+msgid "Pump MK2"
+msgstr "泵MK2"
+
+#: templates/bobplates.jinja2:111 templates/bobplates.jinja2:248
+msgid "Pump MK3"
+msgstr "泵MK3"
+
+#: templates/bobplates.jinja2:112 templates/bobplates.jinja2:249
+msgid "Pump MK4"
+msgstr "泵MK4"
 
 #: templates/bobplates.jinja2:114
 msgid "Gas Bottle"
@@ -6079,4 +6104,3 @@ msgstr "黄"
 #: templates/clock.jinja2:33
 msgid "Blue"
 msgstr "蓝"
-
